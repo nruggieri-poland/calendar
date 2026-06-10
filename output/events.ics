@@ -1,0 +1,4661 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Poland Schools Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Poland Schools Events
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:schedule-request-2854230-occurrence-6943833
+DTSTART:20260904T230000Z
+DTEND:20260905T010000Z
+SUMMARY:2854230 - Boys Varsity Football @ Field High School
+LOCATION:2900 State Route 43 Mogadore\, Ohio 44260-9718
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/2854230/occurrences/6943833
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854231-occurrence-6943834
+DTSTART:20260911T230000Z
+DTEND:20260912T010000Z
+SUMMARY:2854231 - Boys Varsity Football @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/2854231/occurrences/6943834
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854233-occurrence-6943836
+DTSTART:20260925T230000Z
+DTEND:20260926T010000Z
+SUMMARY:2854233 - Boys Varsity Football @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/2854233/occurrences/6943836
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854236-occurrence-6943839
+DTSTART:20261016T230000Z
+DTEND:20261017T010000Z
+SUMMARY:2854236 - Boys Varsity Football @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/2854236/occurrences/6943839
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854237-occurrence-6943840
+DTSTART:20261023T230000Z
+DTEND:20261024T010000Z
+SUMMARY:2854237 - Boys Varsity Football @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/2854237/occurrences/6943840
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073613-occurrence-7477752
+DTSTART:20260825T213000Z
+DTEND:20260825T233000Z
+SUMMARY:3073613 - Girls Junior Varsity Volleyball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073613/occurrences/7477752
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073614-occurrence-7477753
+DTSTART:20260825T230000Z
+DTEND:20260826T010000Z
+SUMMARY:3073614 - Girls Varsity Volleyball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073614/occurrences/7477753
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073620-occurrence-7477758
+DTSTART:20260903T213000Z
+DTEND:20260903T233000Z
+SUMMARY:3073620 - Girls Junior Varsity Volleyball @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073620/occurrences/7477758
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073621-occurrence-7477760
+DTSTART:20260903T223000Z
+DTEND:20260904T003000Z
+SUMMARY:3073621 - Girls Varsity Volleyball @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073621/occurrences/7477760
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073624-occurrence-7477763
+DTSTART:20260915T213000Z
+DTEND:20260915T233000Z
+SUMMARY:3073624 - Girls Junior Varsity Volleyball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073624/occurrences/7477763
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073625-occurrence-7477764
+DTSTART:20260915T230000Z
+DTEND:20260916T010000Z
+SUMMARY:3073625 - Girls Varsity Volleyball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073625/occurrences/7477764
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073628-occurrence-7477767
+DTSTART:20260922T213000Z
+DTEND:20260922T233000Z
+SUMMARY:3073628 - Girls Junior Varsity Volleyball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073628/occurrences/7477767
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073629-occurrence-7477768
+DTSTART:20260922T230000Z
+DTEND:20260923T010000Z
+SUMMARY:3073629 - Girls Varsity Volleyball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073629/occurrences/7477768
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073630-occurrence-7477769
+DTSTART:20260924T213000Z
+DTEND:20260924T233000Z
+SUMMARY:3073630 - Girls Junior Varsity Volleyball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073630/occurrences/7477769
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073631-occurrence-7477770
+DTSTART:20260924T230000Z
+DTEND:20260925T010000Z
+SUMMARY:3073631 - Girls Varsity Volleyball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073631/occurrences/7477770
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073634-occurrence-7477773
+DTSTART:20261006T213000Z
+DTEND:20261006T233000Z
+SUMMARY:3073634 - Girls Junior Varsity Volleyball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073634/occurrences/7477773
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073635-occurrence-7477774
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+SUMMARY:3073635 - Girls Varsity Volleyball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3073635/occurrences/7477774
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144623-occurrence-7560436
+DTSTART:20260824T210000Z
+DTEND:20260824T230000Z
+SUMMARY:3144623 - Girls 7th Volleyball @ Lakeview Middle School-Cortland
+LOCATION:640 Wakefield Dr. Cortland\, Ohio 44410
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144623/occurrences/7560436
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144624-occurrence-7560437
+DTSTART:20260824T220000Z
+DTEND:20260825T000000Z
+SUMMARY:3144624 - Girls 8th Volleyball @ Lakeview Middle School-Cortland
+LOCATION:640 Wakefield Dr. Cortland\, Ohio 44410
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144624/occurrences/7560437
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144629-occurrence-7560442
+DTSTART:20260902T210000Z
+DTEND:20260902T230000Z
+SUMMARY:3144629 - Girls 7th Volleyball @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144629/occurrences/7560442
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144630-occurrence-7560443
+DTSTART:20260902T220000Z
+DTEND:20260903T000000Z
+SUMMARY:3144630 - Girls 8th Volleyball @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144630/occurrences/7560443
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144633-occurrence-7560446
+DTSTART:20260914T210000Z
+DTEND:20260914T230000Z
+SUMMARY:3144633 - Girls 7th Volleyball @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144633/occurrences/7560446
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144634-occurrence-7560447
+DTSTART:20260914T220000Z
+DTEND:20260915T000000Z
+SUMMARY:3144634 - Girls 8th Volleyball @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144634/occurrences/7560447
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144637-occurrence-7560450
+DTSTART:20260921T210000Z
+DTEND:20260921T230000Z
+SUMMARY:3144637 - Girls 7th Volleyball @ South Range Middle School
+LOCATION:11300 Columbiana-Canfield Rd. Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144637/occurrences/7560450
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144638-occurrence-7560451
+DTSTART:20260921T220000Z
+DTEND:20260922T000000Z
+SUMMARY:3144638 - Girls 8th Volleyball @ South Range Middle School
+LOCATION:11300 Columbiana-Canfield Rd. Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144638/occurrences/7560451
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144639-occurrence-7560452
+DTSTART:20260923T210000Z
+DTEND:20260923T230000Z
+SUMMARY:3144639 - Girls 7th Volleyball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144639/occurrences/7560452
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144640-occurrence-7560453
+DTSTART:20260923T220000Z
+DTEND:20260924T000000Z
+SUMMARY:3144640 - Girls 8th Volleyball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3144640/occurrences/7560453
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3151004-occurrence-7567833
+DTSTART:20261005T210000Z
+DTEND:20261005T230000Z
+SUMMARY:3151004 - Girls 7th Volleyball @ Struthers MS
+LOCATION:800 5th St Struthers\, Ohio 44471
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3151004/occurrences/7567833
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3151005-occurrence-7567834
+DTSTART:20261005T220000Z
+DTEND:20261006T000000Z
+SUMMARY:3151005 - Girls 8th Volleyball @ Struthers MS
+LOCATION:800 5th St Struthers\, Ohio 44471
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3151005/occurrences/7567834
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3181780-occurrence-7609926
+DTSTART:20260914T213000Z
+DTEND:20260914T233000Z
+SUMMARY:3181780 - Girls Junior Varsity Volleyball @ United Local High School
+LOCATION:8143 State Route 9 Hanoverton\, Ohio 44423
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3181780/occurrences/7609926
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3181781-occurrence-7609927
+DTSTART:20260914T230000Z
+DTEND:20260915T010000Z
+SUMMARY:3181781 - Girls Varsity Volleyball @ United Local High School
+LOCATION:8143 State Route 9 Hanoverton\, Ohio 44423
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3181781/occurrences/7609927
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184897-occurrence-7614262
+DTSTART:20260820T210000Z
+DTEND:20260820T230000Z
+SUMMARY:3184897 - Boys Varsity Soccer @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3184897/occurrences/7614262
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184898-occurrence-7614263
+DTSTART:20260824T210000Z
+DTEND:20260824T230000Z
+SUMMARY:3184898 - Boys Varsity Soccer @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3184898/occurrences/7614263
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184899-occurrence-7614264
+DTSTART:20260901T210000Z
+DTEND:20260901T230000Z
+SUMMARY:3184899 - Boys Varsity Soccer @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3184899/occurrences/7614264
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184901-occurrence-7614266
+DTSTART:20260914T210000Z
+DTEND:20260914T230000Z
+SUMMARY:3184901 - Boys Varsity Soccer @ Girard Jr/Sr HS
+LOCATION:Girard High School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3184901/occurrences/7614266
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184905-occurrence-7614270
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:3184905 - Boys Varsity Soccer @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3184905/occurrences/7614270
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185702-occurrence-7615249
+DTSTART:20260820T230000Z
+DTEND:20260821T010000Z
+SUMMARY:3185702 - Girls Varsity Soccer @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3185702/occurrences/7615249
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185703-occurrence-7615250
+DTSTART:20260824T230000Z
+DTEND:20260825T010000Z
+SUMMARY:3185703 - Girls Varsity Soccer @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3185703/occurrences/7615250
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185705-occurrence-7615252
+DTSTART:20260901T230000Z
+DTEND:20260902T010000Z
+SUMMARY:3185705 - Girls Varsity Soccer @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3185705/occurrences/7615252
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185707-occurrence-7615254
+DTSTART:20260914T230000Z
+DTEND:20260915T010000Z
+SUMMARY:3185707 - Girls Varsity Soccer @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3185707/occurrences/7615254
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185710-occurrence-7615257
+DTSTART:20260924T210000Z
+DTEND:20260924T230000Z
+SUMMARY:3185710 - Girls Varsity Soccer @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3185710/occurrences/7615257
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185712-occurrence-7615259
+DTSTART:20261005T210000Z
+DTEND:20261005T230000Z
+SUMMARY:3185712 - Girls Varsity Soccer @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3185712/occurrences/7615259
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3194987-occurrence-7630574
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:3194987 - Girls Varsity Soccer @ West Branch High School
+LOCATION:14277 Main St Beloit\, Ohio 44609
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3194987/occurrences/7630574
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198038-occurrence-7634698
+DTSTART:20260903T213000Z
+DTEND:20260903T233000Z
+SUMMARY:3198038 - Boys Junior Varsity Soccer @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198038/occurrences/7634698
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198039-occurrence-7634699
+DTSTART:20260903T231500Z
+DTEND:20260904T011500Z
+SUMMARY:3198039 - Boys Varsity Soccer @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198039/occurrences/7634699
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198071-occurrence-7634766
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:3198071 - Boys Junior Varsity Football @ Salem Jr/Sr High School
+LOCATION:1200 East Sixth St Salem\, Ohio 44460
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198071/occurrences/7634766
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198075-occurrence-7634770
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:3198075 - Boys Junior Varsity Football @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198075/occurrences/7634770
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198077-occurrence-7634772
+DTSTART:20261003T140000Z
+DTEND:20261003T160000Z
+SUMMARY:3198077 - Boys Junior Varsity Football @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198077/occurrences/7634772
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198078-occurrence-7634773
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:3198078 - Boys Junior Varsity Football @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198078/occurrences/7634773
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198169-occurrence-7634980
+DTSTART:20260817T230000Z
+DTEND:20260818T010000Z
+SUMMARY:3198169 - Girls Varsity Soccer @ Howland High School
+LOCATION:200 Shaffer Dr Ne Warren\, Ohio 44484
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198169/occurrences/7634980
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198210-occurrence-7635168
+DTSTART:20260916T220000Z
+DTEND:20260917T000000Z
+SUMMARY:3198210 - Boys 8th Football @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198210/occurrences/7635168
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198211-occurrence-7635169
+DTSTART:20260916T233000Z
+DTEND:20260917T013000Z
+SUMMARY:3198211 - Boys Freshman Football @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3198211/occurrences/7635169
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3204980-occurrence-7643688
+DTSTART:20260818T210000Z
+DTEND:20260818T230000Z
+SUMMARY:3204980 - Boys Junior Varsity Soccer @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3204980/occurrences/7643688
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3204981-occurrence-7643689
+DTSTART:20260818T230000Z
+DTEND:20260819T010000Z
+SUMMARY:3204981 - Boys Varsity Soccer @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3204981/occurrences/7643689
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3205240-occurrence-7644148
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:3205240 - Boys 7th Football @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3205240/occurrences/7644148
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3206080-occurrence-7645152
+DTSTART:20260831T213000Z
+DTEND:20260831T233000Z
+SUMMARY:3206080 - Girls Junior Varsity Volleyball @ Howland High School
+LOCATION:200 Shaffer Dr Ne Warren\, Ohio 44484
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3206080/occurrences/7645152
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3206081-occurrence-7645153
+DTSTART:20260831T230000Z
+DTEND:20260901T010000Z
+SUMMARY:3206081 - Girls Varsity Volleyball @ Howland High School
+LOCATION:200 Shaffer Dr Ne Warren\, Ohio 44484
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3206081/occurrences/7645153
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3206491-occurrence-7645760
+DTSTART:20260909T210000Z
+DTEND:20260909T230000Z
+SUMMARY:3206491 - Girls 7th Volleyball @ Glenwood Middle School-Youngstown
+LOCATION:7635 Glenwood Ave Youngstown\, Ohio 44512
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3206491/occurrences/7645760
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3206492-occurrence-7645761
+DTSTART:20260909T220000Z
+DTEND:20260910T000000Z
+SUMMARY:3206492 - Girls 8th Volleyball @ Glenwood Middle School-Youngstown
+LOCATION:7635 Glenwood Ave Youngstown\, Ohio 44512
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3206492/occurrences/7645761
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3208398-occurrence-7650422
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:3208398 - Girls Junior Varsity Volleyball @ Columbiana High School
+LOCATION:700 Columbiana Waterford Columbiana\, Ohio 44408
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3208398/occurrences/7650422
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3208399-occurrence-7650423
+DTSTART:20261010T153000Z
+DTEND:20261010T173000Z
+SUMMARY:3208399 - Girls Varsity Volleyball @ Columbiana High School
+LOCATION:700 Columbiana Waterford Columbiana\, Ohio 44408
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3208399/occurrences/7650423
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3210743-occurrence-7658025
+DTSTART:20260928T213000Z
+DTEND:20260928T233000Z
+SUMMARY:3210743 - Girls Junior Varsity Volleyball @ Champion High School
+LOCATION:5976 Mahoning Ave Nw Warren\, Ohio 44483-1196
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3210743/occurrences/7658025
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3210744-occurrence-7658026
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:3210744 - Girls Varsity Volleyball @ Champion High School
+LOCATION:5976 Mahoning Ave Nw Warren\, Ohio 44483-1196
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3210744/occurrences/7658026
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3218456-occurrence-7688723
+DTSTART:20261008T223000Z
+DTEND:20261009T003000Z
+SUMMARY:3218456 - Boys 8th Football @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3218456/occurrences/7688723
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3232376-occurrence-7724020
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+SUMMARY:3232376 - Boys Varsity Soccer @ Marlington High School
+LOCATION:10450 Moulin Ave Ne Alliance\, Ohio 44601
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3232376/occurrences/7724020
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3232377-occurrence-7724021
+DTSTART:20260815T210000Z
+DTEND:20260815T230000Z
+SUMMARY:3232377 - Boys Junior Varsity Soccer @ Marlington High School
+LOCATION:10450 Moulin Ave Ne Alliance\, Ohio 44601
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3232377/occurrences/7724021
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286470-occurrence-7850781
+DTSTART:20261215T223000Z
+DTEND:20261216T003000Z
+SUMMARY:3286470 - Boys Junior Varsity Basketball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286470/occurrences/7850781
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286471-occurrence-7850782
+DTSTART:20261216T000000Z
+DTEND:20261216T020000Z
+SUMMARY:3286471 - Boys Varsity Basketball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286471/occurrences/7850782
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286472-occurrence-7850783
+DTSTART:20261218T223000Z
+DTEND:20261219T003000Z
+SUMMARY:3286472 - Boys Junior Varsity Basketball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286472/occurrences/7850783
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286473-occurrence-7850784
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:3286473 - Boys Varsity Basketball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286473/occurrences/7850784
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286474-occurrence-7850785
+DTSTART:20270105T223000Z
+DTEND:20270106T003000Z
+SUMMARY:3286474 - Boys Junior Varsity Basketball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286474/occurrences/7850785
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286475-occurrence-7850786
+DTSTART:20270106T000000Z
+DTEND:20270106T020000Z
+SUMMARY:3286475 - Boys Varsity Basketball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286475/occurrences/7850786
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286480-occurrence-7850791
+DTSTART:20270115T223000Z
+DTEND:20270116T003000Z
+SUMMARY:3286480 - Boys Junior Varsity Basketball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286480/occurrences/7850791
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286481-occurrence-7850792
+DTSTART:20270116T000000Z
+DTEND:20270116T020000Z
+SUMMARY:3286481 - Boys Varsity Basketball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286481/occurrences/7850792
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286488-occurrence-7850799
+DTSTART:20270202T223000Z
+DTEND:20270203T003000Z
+SUMMARY:3286488 - Boys Junior Varsity Basketball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286488/occurrences/7850799
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286489-occurrence-7850800
+DTSTART:20270203T000000Z
+DTEND:20270203T020000Z
+SUMMARY:3286489 - Boys Varsity Basketball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286489/occurrences/7850800
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286490-occurrence-7850801
+DTSTART:20270205T223000Z
+DTEND:20270206T003000Z
+SUMMARY:3286490 - Boys Junior Varsity Basketball @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286490/occurrences/7850801
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286491-occurrence-7850802
+DTSTART:20270206T000000Z
+DTEND:20270206T020000Z
+SUMMARY:3286491 - Boys Varsity Basketball @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286491/occurrences/7850802
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286606-occurrence-7851001
+DTSTART:20261207T220000Z
+DTEND:20261208T000000Z
+SUMMARY:3286606 - Boys Freshman Basketball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286606/occurrences/7851001
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286610-occurrence-7851005
+DTSTART:20261209T220000Z
+DTEND:20261210T000000Z
+SUMMARY:3286610 - Boys 7th Basketball @ Struthers MS
+LOCATION:800 5th St Struthers\, Ohio 44471
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286610/occurrences/7851005
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286611-occurrence-7851006
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:3286611 - Boys 8th Basketball @ Struthers MS
+LOCATION:800 5th St Struthers\, Ohio 44471
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286611/occurrences/7851006
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286612-occurrence-7851007
+DTSTART:20261210T223000Z
+DTEND:20261211T003000Z
+SUMMARY:3286612 - Girls Junior Varsity Basketball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286612/occurrences/7851007
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286613-occurrence-7851008
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:3286613 - Girls Varsity Basketball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286613/occurrences/7851008
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286614-occurrence-7851009
+DTSTART:20261214T220000Z
+DTEND:20261215T000000Z
+SUMMARY:3286614 - Boys Freshman Basketball @ South Range High School
+LOCATION:11300 Columbiana Canfield Roadsuite H Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286614/occurrences/7851009
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286616-occurrence-7851011
+DTSTART:20261214T230000Z
+DTEND:20261215T010000Z
+SUMMARY:3286616 - Boys 8th Basketball @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286616/occurrences/7851011
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286619-occurrence-7851014
+DTSTART:20261216T220000Z
+DTEND:20261217T000000Z
+SUMMARY:3286619 - Boys 7th Basketball @ Lakeview Middle School-Cortland
+LOCATION:640 Wakefield Dr. Cortland\, Ohio 44410
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286619/occurrences/7851014
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286620-occurrence-7851015
+DTSTART:20261216T230000Z
+DTEND:20261217T010000Z
+SUMMARY:3286620 - Boys 8th Basketball @ Lakeview Middle School-Cortland
+LOCATION:640 Wakefield Dr. Cortland\, Ohio 44410
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286620/occurrences/7851015
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286624-occurrence-7851019
+DTSTART:20261221T220000Z
+DTEND:20261222T000000Z
+SUMMARY:3286624 - Boys 7th Basketball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286624/occurrences/7851019
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286625-occurrence-7851020
+DTSTART:20261221T230000Z
+DTEND:20261222T010000Z
+SUMMARY:3286625 - Boys 8th Basketball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286625/occurrences/7851020
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286632-occurrence-7851027
+DTSTART:20270107T223000Z
+DTEND:20270108T003000Z
+SUMMARY:3286632 - Girls Junior Varsity Basketball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286632/occurrences/7851027
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286633-occurrence-7851028
+DTSTART:20270108T000000Z
+DTEND:20270108T020000Z
+SUMMARY:3286633 - Girls Varsity Basketball @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286633/occurrences/7851028
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286636-occurrence-7851031
+DTSTART:20270111T223000Z
+DTEND:20270112T003000Z
+SUMMARY:3286636 - Girls Junior Varsity Basketball @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286636/occurrences/7851031
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286638-occurrence-7851033
+DTSTART:20270112T000000Z
+DTEND:20270112T020000Z
+SUMMARY:3286638 - Girls Varsity Basketball @ Hubbard High School
+LOCATION:350 Hall Ave HUBBARD\, Ohio 44425-2097
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286638/occurrences/7851033
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286640-occurrence-7851035
+DTSTART:20270113T220000Z
+DTEND:20270114T000000Z
+SUMMARY:3286640 - Boys 7th Basketball @ South Range Middle School
+LOCATION:11300 Columbiana-Canfield Rd. Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286640/occurrences/7851035
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286641-occurrence-7851036
+DTSTART:20270113T230000Z
+DTEND:20270114T010000Z
+SUMMARY:3286641 - Boys 8th Basketball @ South Range Middle School
+LOCATION:11300 Columbiana-Canfield Rd. Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286641/occurrences/7851036
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286647-occurrence-7851042
+DTSTART:20270121T223000Z
+DTEND:20270122T003000Z
+SUMMARY:3286647 - Girls Junior Varsity Basketball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286647/occurrences/7851042
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286648-occurrence-7851043
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+SUMMARY:3286648 - Girls Varsity Basketball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286648/occurrences/7851043
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286649-occurrence-7851044
+DTSTART:20270125T220000Z
+DTEND:20270126T000000Z
+SUMMARY:3286649 - Boys Freshman Basketball @ Hubbard High School
+LOCATION:Hubbard High School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286649/occurrences/7851044
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286651-occurrence-7851046
+DTSTART:20270125T223000Z
+DTEND:20270126T003000Z
+SUMMARY:3286651 - Girls Junior Varsity Basketball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286651/occurrences/7851046
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286653-occurrence-7851048
+DTSTART:20270126T000000Z
+DTEND:20270126T020000Z
+SUMMARY:3286653 - Girls Varsity Basketball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286653/occurrences/7851048
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286654-occurrence-7851049
+DTSTART:20270127T220000Z
+DTEND:20270128T000000Z
+SUMMARY:3286654 - Girls 7th Basketball @ Girard Jr/Sr HS
+LOCATION:PMS Gym
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286654/occurrences/7851049
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286655-occurrence-7851050
+DTSTART:20270127T230000Z
+DTEND:20270128T010000Z
+SUMMARY:3286655 - Girls 8th Basketball @ Girard Jr/Sr HS
+LOCATION:PMS Gym
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286655/occurrences/7851050
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286656-occurrence-7851051
+DTSTART:20270201T220000Z
+DTEND:20270202T000000Z
+SUMMARY:3286656 - Boys Freshman Basketball @ Girard Jr/Sr HS
+LOCATION:Girard High School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286656/occurrences/7851051
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286657-occurrence-7851052
+DTSTART:20270201T223000Z
+DTEND:20270202T003000Z
+SUMMARY:3286657 - Girls Junior Varsity Basketball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286657/occurrences/7851052
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286658-occurrence-7851053
+DTSTART:20270202T000000Z
+DTEND:20270202T020000Z
+SUMMARY:3286658 - Girls Varsity Basketball @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286658/occurrences/7851053
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286659-occurrence-7851054
+DTSTART:20270203T220000Z
+DTEND:20270204T000000Z
+SUMMARY:3286659 - Boys 7th Basketball @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286659/occurrences/7851054
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286660-occurrence-7851055
+DTSTART:20270203T230000Z
+DTEND:20270204T010000Z
+SUMMARY:3286660 - Boys 8th Basketball @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3286660/occurrences/7851055
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290070-occurrence-7860555
+DTSTART:20261207T220000Z
+DTEND:20261208T000000Z
+SUMMARY:3290070 - Girls 7th Basketball @ South Range Middle School
+LOCATION:11300 Columbiana-Canfield Rd. Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290070/occurrences/7860555
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290071-occurrence-7860556
+DTSTART:20261207T230000Z
+DTEND:20261208T010000Z
+SUMMARY:3290071 - Girls 8th Basketball @ South Range Middle School
+LOCATION:11300 Columbiana-Canfield Rd. Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290071/occurrences/7860556
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290080-occurrence-7860565
+DTSTART:20270106T220000Z
+DTEND:20270107T000000Z
+SUMMARY:3290080 - Girls 7th Basketball @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290080/occurrences/7860565
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290081-occurrence-7860566
+DTSTART:20270106T230000Z
+DTEND:20270107T010000Z
+SUMMARY:3290081 - Girls 8th Basketball @ Hubbard MS
+LOCATION:250 Hall Ave. Hubbard\, Ohio 44425
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290081/occurrences/7860566
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290082-occurrence-7860567
+DTSTART:20270111T220000Z
+DTEND:20270112T000000Z
+SUMMARY:3290082 - Girls 7th Basketball @ Struthers MS
+LOCATION:800 5th St Struthers\, Ohio 44471
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290082/occurrences/7860567
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290083-occurrence-7860568
+DTSTART:20270111T230000Z
+DTEND:20270112T010000Z
+SUMMARY:3290083 - Girls 8th Basketball @ Struthers MS
+LOCATION:800 5th St Struthers\, Ohio 44471
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290083/occurrences/7860568
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290086-occurrence-7860571
+DTSTART:20270120T220000Z
+DTEND:20270121T000000Z
+SUMMARY:3290086 - Girls 7th Basketball @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290086/occurrences/7860571
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290087-occurrence-7860572
+DTSTART:20270120T230000Z
+DTEND:20270121T010000Z
+SUMMARY:3290087 - Girls 8th Basketball @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290087/occurrences/7860572
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290088-occurrence-7860573
+DTSTART:20270125T220000Z
+DTEND:20270126T000000Z
+SUMMARY:3290088 - Girls 7th Basketball @ Lakeview Middle School-Cortland
+LOCATION:640 Wakefield Dr. Cortland\, Ohio 44410
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290088/occurrences/7860573
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290089-occurrence-7860574
+DTSTART:20270125T230000Z
+DTEND:20270126T010000Z
+SUMMARY:3290089 - Girls 8th Basketball @ Lakeview Middle School-Cortland
+LOCATION:640 Wakefield Dr. Cortland\, Ohio 44410
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3290089/occurrences/7860574
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3298722-occurrence-7889046
+DTSTART:20261221T220000Z
+DTEND:20261222T000000Z
+SUMMARY:3298722 - Boys Freshman Basketball @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3298722/occurrences/7889046
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3298724-occurrence-7889048
+DTSTART:20270203T220000Z
+DTEND:20270204T000000Z
+SUMMARY:3298724 - Boys Freshman Basketball @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3298724/occurrences/7889048
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3316109-occurrence-7942326
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:3316109 - Boys Junior Varsity Football @ Kirtland High School
+LOCATION:9150 Chillicothe Road Kirtland\, Ohio 44094
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3316109/occurrences/7942326
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3378133-occurrence-8012588
+DTSTART:20260812T210000Z
+DTEND:20260812T230000Z
+SUMMARY:3378133 - Boys Junior Varsity Soccer @ Chagrin Falls Schools
+LOCATION:400 E. Washington St. Chagrin Falls\, Ohio 44022
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3378133/occurrences/8012588
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3378134-occurrence-8012589
+DTSTART:20260812T230000Z
+DTEND:20260813T010000Z
+SUMMARY:3378134 - Boys Varsity Soccer @ Chagrin Falls Schools
+LOCATION:400 E. Washington St. Chagrin Falls\, Ohio 44022
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3378134/occurrences/8012589
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384370-occurrence-8023057
+DTSTART:20261130T223000Z
+DTEND:20261201T003000Z
+SUMMARY:3384370 - Girls Junior Varsity Basketball @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384370/occurrences/8023057
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384371-occurrence-8023058
+DTSTART:20261201T000000Z
+DTEND:20261201T020000Z
+SUMMARY:3384371 - Girls Varsity Basketball @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384371/occurrences/8023058
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384376-occurrence-8023063
+DTSTART:20270113T223000Z
+DTEND:20270114T003000Z
+SUMMARY:3384376 - Boys Freshman Basketball @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384376/occurrences/8023063
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384377-occurrence-8023064
+DTSTART:20270216T223000Z
+DTEND:20270217T003000Z
+SUMMARY:3384377 - Boys Junior Varsity Basketball @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384377/occurrences/8023064
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384378-occurrence-8023065
+DTSTART:20270217T000000Z
+DTEND:20270217T020000Z
+SUMMARY:3384378 - Boys Varsity Basketball @ Canfield High School
+LOCATION:100 Cardinal Drive Canfield\, Ohio 44406-1199
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384378/occurrences/8023065
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384495-occurrence-8023351
+DTSTART:20261208T223000Z
+DTEND:20261209T003000Z
+SUMMARY:3384495 - Boys Junior Varsity Basketball @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384495/occurrences/8023351
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384496-occurrence-8023352
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+SUMMARY:3384496 - Boys Varsity Basketball @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3384496/occurrences/8023352
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3386100-occurrence-8026291
+DTSTART:20261229T223000Z
+DTEND:20261230T003000Z
+SUMMARY:3386100 - Boys Junior Varsity Basketball @ Campbell Memorial High School
+LOCATION:280 6Th St Campbell\, Ohio 44405
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3386100/occurrences/8026291
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3386101-occurrence-8026292
+DTSTART:20261230T000000Z
+DTEND:20261230T020000Z
+SUMMARY:3386101 - Boys Varsity Basketball @ Campbell Memorial High School
+LOCATION:280 6Th St Campbell\, Ohio 44405
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3386101/occurrences/8026292
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391473-occurrence-8035977
+DTSTART:20261204T223000Z
+DTEND:20261205T003000Z
+SUMMARY:3391473 - Boys Junior Varsity Basketball @ Austintown Fitch HS
+LOCATION:4560 Falcon Dr Austintown\, Ohio 44515
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391473/occurrences/8035977
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391474-occurrence-8035978
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:3391474 - Boys Varsity Basketball @ Austintown Fitch HS
+LOCATION:4560 Falcon Dr Austintown\, Ohio 44515
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391474/occurrences/8035978
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391596-occurrence-8036382
+DTSTART:20261221T223000Z
+DTEND:20261222T003000Z
+SUMMARY:3391596 - Girls Junior Varsity Basketball @ Crestview HS - Columbiana
+LOCATION:44100 Crestview Rd Columbiana\, Ohio 44408
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391596/occurrences/8036382
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391597-occurrence-8036383
+DTSTART:20261222T000000Z
+DTEND:20261222T020000Z
+SUMMARY:3391597 - Girls Varsity Basketball @ Crestview HS - Columbiana
+LOCATION:44100 Crestview Rd Columbiana\, Ohio 44408
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391597/occurrences/8036383
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391972-occurrence-8037259
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+SUMMARY:3391972 - Girls Junior Varsity Basketball @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391972/occurrences/8037259
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391973-occurrence-8037260
+DTSTART:20261205T183000Z
+DTEND:20261205T203000Z
+SUMMARY:3391973 - Girls Varsity Basketball @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391973/occurrences/8037260
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391976-occurrence-8037263
+DTSTART:20270109T160000Z
+DTEND:20270109T180000Z
+SUMMARY:3391976 - Boys Junior Varsity Basketball @ Springfield Local High School
+LOCATION:11335 Youngstown Pittsburgh Rd New Middletown\, Ohio 44442
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391976/occurrences/8037263
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391977-occurrence-8037264
+DTSTART:20270109T183000Z
+DTEND:20270109T203000Z
+SUMMARY:3391977 - Boys Varsity Basketball @ Springfield Local High School
+LOCATION:11335 Youngstown Pittsburgh Rd New Middletown\, Ohio 44442
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3391977/occurrences/8037264
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3392042-occurrence-8037420
+DTSTART:20270123T223000Z
+DTEND:20270124T003000Z
+SUMMARY:3392042 - Boys Junior Varsity Basketball @ West Branch High School
+LOCATION:14277 Main St Beloit\, Ohio 44609
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3392042/occurrences/8037420
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3392043-occurrence-8037421
+DTSTART:20270124T000000Z
+DTEND:20270124T020000Z
+SUMMARY:3392043 - Boys Varsity Basketball @ West Branch High School
+LOCATION:14277 Main St Beloit\, Ohio 44609
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3392043/occurrences/8037421
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3394787-occurrence-8043261
+DTSTART:20270116T170000Z
+DTEND:20270116T190000Z
+SUMMARY:3394787 - Girls Junior Varsity Basketball @ James A Garfield High School
+LOCATION:PSHS FieldHouse
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3394787/occurrences/8043261
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3394788-occurrence-8043262
+DTSTART:20270116T183000Z
+DTEND:20270116T203000Z
+SUMMARY:3394788 - Girls Varsity Basketball @ James A Garfield High School
+LOCATION:PSHS FieldHouse
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3394788/occurrences/8043262
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3426145-occurrence-8090544
+DTSTART:20260804T130000Z
+DTEND:20260804T150000Z
+SUMMARY:3426145 - Girls Varsity Golf @ Howland High School (Tiger Invitational)
+LOCATION:Old Avalon
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3426145/occurrences/8090544
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3426146-occurrence-8090545
+DTSTART:20260908T120000Z
+DTEND:20260908T140000Z
+SUMMARY:3426146 - Girls Varsity Golf @ Girard Jr/Sr HS (Northeast 8 Golf Championship)
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3426146/occurrences/8090545
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3426147-occurrence-8090546
+DTSTART:20260909T120000Z
+DTEND:20260909T140000Z
+SUMMARY:3426147 - Boys Varsity Golf @ Girard Jr/Sr HS (NorthEast 8 Championship)
+LOCATION:Squaw Creek
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3426147/occurrences/8090546
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3426148-occurrence-8090547
+DTSTART:20261010T130000Z
+DTEND:20261010T150000Z
+SUMMARY:3426148 - Girls 8th Volleyball @ Girard Jr/Sr HS (Northeast 8 Tournament)
+LOCATION:Girard High School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3426148/occurrences/8090547
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3426149-occurrence-8090548
+DTSTART:20261010T130000Z
+DTEND:20261010T150000Z
+SUMMARY:3426149 - Girls 7th Volleyball @ Girard Jr/Sr HS (Northeast 8 Tournament)
+LOCATION:Girard High School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3426149/occurrences/8090548
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482243-occurrence-8207590
+DTSTART:20270204T223000Z
+DTEND:20270205T003000Z
+SUMMARY:3482243 - Girls 7th Basketball @ Canfield Village Middle School
+LOCATION:42 Wadsworth Street Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3482243/occurrences/8207590
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482245-occurrence-8207592
+DTSTART:20270204T233000Z
+DTEND:20270205T013000Z
+SUMMARY:3482245 - Girls 8th Basketball @ Canfield Village Middle School
+LOCATION:42 Wadsworth Street Canfield\, Ohio 44406
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3482245/occurrences/8207592
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482601-occurrence-8208398
+DTSTART:20260930T223000Z
+DTEND:20261001T003000Z
+SUMMARY:3482601 - Boys 8th Football @ Niles Middle School
+LOCATION:411 Brown St Niles\, Ohio 44446
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3482601/occurrences/8208398
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482602-occurrence-8208399
+DTSTART:20260930T233000Z
+DTEND:20261001T013000Z
+SUMMARY:3482602 - Boys Freshman Football @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3482602/occurrences/8208399
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3544367-occurrence-8349321
+DTSTART:20260917T200000Z
+DTEND:20260917T220000Z
+SUMMARY:3544367 - Girls Varsity Tennis @ Boardman High School
+LOCATION:7777 Glenwood Ave Youngstown\, Ohio 44512-5898
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3544367/occurrences/8349321
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551289-occurrence-8363572
+DTSTART:20260804T130000Z
+DTEND:20260804T150000Z
+SUMMARY:3551289 - Boys Varsity Golf @ Lakeview High School
+LOCATION:Links Golf Course
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551289/occurrences/8363572
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551291-occurrence-8363574
+DTSTART:20260806T120000Z
+DTEND:20260806T140000Z
+SUMMARY:3551291 - Boys Varsity Golf @ OPEN (Yank Heisler Invitational)
+LOCATION:Windmill Lakes
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551291/occurrences/8363574
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551292-occurrence-8363575
+DTSTART:20260807T120000Z
+DTEND:20260807T140000Z
+SUMMARY:3551292 - Boys Varsity Golf @ OPEN (Joe Eaton Golf Invitational)
+LOCATION:Tannenhauf Golf Course
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551292/occurrences/8363575
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551294-occurrence-8363577
+DTSTART:20260811T113000Z
+DTEND:20260811T133000Z
+SUMMARY:3551294 - Boys Varsity Golf @ OPEN (NE Ohio Invitational)
+LOCATION:JE Good Park
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551294/occurrences/8363577
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551296-occurrence-8363579
+DTSTART:20260814T170000Z
+DTEND:20260814T190000Z
+SUMMARY:3551296 - Boys Varsity Golf @ OPEN (Cardinal Classic)
+LOCATION:Mill Creek
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551296/occurrences/8363579
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551297-occurrence-8363580
+DTSTART:20260817T170000Z
+DTEND:20260817T190000Z
+SUMMARY:3551297 - Boys Varsity Golf @ Hubbard High School
+LOCATION:Pine Lakes
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551297/occurrences/8363580
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551364-occurrence-8363692
+DTSTART:20260826T203000Z
+DTEND:20260826T223000Z
+SUMMARY:3551364 - Boys Varsity Golf @ Girard Jr/Sr HS
+LOCATION:Mahoning CC
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551364/occurrences/8363692
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551365-occurrence-8363693
+DTSTART:20260827T200000Z
+DTEND:20260827T220000Z
+SUMMARY:3551365 - Boys Varsity Golf @ Niles McKinley High School
+LOCATION:Old Avalon
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551365/occurrences/8363693
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551366-occurrence-8363694
+DTSTART:20260901T040000Z
+DTEND:20260901T060000Z
+SUMMARY:3551366 - Time: TBA - Boys Varsity Golf @ Struthers High School
+LOCATION:Knoll Run
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551366/occurrences/8363694
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551367-occurrence-8363695
+DTSTART:20260903T190000Z
+DTEND:20260903T210000Z
+SUMMARY:3551367 - Boys Varsity Golf @ Columbiana High School
+LOCATION:Valley Golf Course
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551367/occurrences/8363695
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551368-occurrence-8363696
+DTSTART:20260908T193000Z
+DTEND:20260908T213000Z
+SUMMARY:3551368 - Boys Varsity Golf @ Canfield High School
+LOCATION:Mill Creek
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551368/occurrences/8363696
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551370-occurrence-8363698
+DTSTART:20260913T170000Z
+DTEND:20260913T190000Z
+SUMMARY:3551370 - Boys Varsity Golf @ OPEN (Kiely Cup)
+LOCATION:Canterbury Golf Club Inc
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551370/occurrences/8363698
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551371-occurrence-8363699
+DTSTART:20260914T130000Z
+DTEND:20260914T150000Z
+SUMMARY:3551371 - Boys Varsity Golf @ OPEN (Kiely Cup)
+LOCATION:Canterbury Golf Club Inc
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551371/occurrences/8363699
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551432-occurrence-8364170
+DTSTART:20261223T220000Z
+DTEND:20261224T000000Z
+SUMMARY:3551432 - Girls 7th Basketball @ Boardman Center Middle School - Youngstown
+LOCATION:Boardman Glenwood
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551432/occurrences/8364170
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551433-occurrence-8364171
+DTSTART:20261223T230000Z
+DTEND:20261224T010000Z
+SUMMARY:3551433 - Girls 8th Basketball @ Boardman Center Middle School - Youngstown
+LOCATION:Boardman Glenwood
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3551433/occurrences/8364171
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554081-occurrence-8380136
+DTSTART:20260812T200000Z
+DTEND:20260812T220000Z
+SUMMARY:3554081 - Girls Varsity Tennis @ Struthers High School
+LOCATION:111 Euclid Ave Struthers\, Ohio 44471-1792
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3554081/occurrences/8380136
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554084-occurrence-8380139
+DTSTART:20260824T200000Z
+DTEND:20260824T220000Z
+SUMMARY:3554084 - Girls Varsity Tennis @ Lakeview High School
+LOCATION:300 Hillman Dr Cortland\, Ohio 44410-1562
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3554084/occurrences/8380139
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554085-occurrence-8380140
+DTSTART:20260909T200000Z
+DTEND:20260909T220000Z
+SUMMARY:3554085 - Girls Varsity Tennis @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3554085/occurrences/8380140
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554087-occurrence-8380142
+DTSTART:20260921T200000Z
+DTEND:20260921T220000Z
+SUMMARY:3554087 - Girls Varsity Tennis @ Girard Jr/Sr HS
+LOCATION:31 N Ward Ave Girard\, Ohio 44420-2799
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3554087/occurrences/8380142
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3587909-occurrence-8422076
+DTSTART:20260803T120000Z
+DTEND:20260803T140000Z
+SUMMARY:3587909 - Girls Varsity Golf @ South Range High School
+LOCATION:Lake Milton Golf Course
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3587909/occurrences/8422076
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3587910-occurrence-8422077
+DTSTART:20260811T120000Z
+DTEND:20260811T140000Z
+SUMMARY:3587910 - Girls Varsity Golf @ Girard Jr/Sr HS
+LOCATION:Mahoning CC
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3587910/occurrences/8422077
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3587969-occurrence-8422263
+DTSTART:20260824T200000Z
+DTEND:20260824T220000Z
+SUMMARY:3587969 - Girls Varsity Golf @ Lakeview High School
+LOCATION:Tamer Win
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3587969/occurrences/8422263
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592804-occurrence-8428107
+DTSTART:20260730T170000Z
+DTEND:20260730T190000Z
+SUMMARY:3592804 - Girls Varsity Golf @ Hubbard High School
+LOCATION:Deer Creek
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3592804/occurrences/8428107
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592807-occurrence-8428110
+DTSTART:20260813T140000Z
+DTEND:20260813T160000Z
+SUMMARY:3592807 - Girls Varsity Golf @ Boardman High School
+LOCATION:Mill Creek
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3592807/occurrences/8428110
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592808-occurrence-8428111
+DTSTART:20260819T130000Z
+DTEND:20260819T150000Z
+SUMMARY:3592808 - Girls Varsity Golf @ South Range High School (South Range Tournament)
+LOCATION:Firestone Farms
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3592808/occurrences/8428111
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592809-occurrence-8428112
+DTSTART:20260820T193000Z
+DTEND:20260820T213000Z
+SUMMARY:3592809 - Girls Varsity Golf @ Niles McKinley High School
+LOCATION:616 Dragon Drive Niles\, Ohio 44446-5144
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3592809/occurrences/8428112
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592830-occurrence-8428137
+DTSTART:20260914T153000Z
+DTEND:20260914T173000Z
+SUMMARY:3592830 - Girls Varsity Golf @ OPEN (Terlesky Tournament)
+LOCATION:Lake Club
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3592830/occurrences/8428137
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619114-occurrence-8491302
+DTSTART:20261012T040000Z
+DTEND:20261012T060000Z
+SUMMARY:3619114 - Time: TBA - Girls 7th Volleyball @ OPEN (NE8 Tournament)
+LOCATION:TBD
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619114/occurrences/8491302
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619115-occurrence-8491303
+DTSTART:20261012T040000Z
+DTEND:20261012T060000Z
+SUMMARY:3619115 - Time: TBA - Girls 8th Volleyball @ OPEN (Ne 8 Tournament )
+LOCATION:TBD
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619115/occurrences/8491303
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619116-occurrence-8491304
+DTSTART:20261014T040000Z
+DTEND:20261014T060000Z
+SUMMARY:3619116 - Time: TBA - Girls 7th Volleyball @ OPEN (NE8 Championship)
+LOCATION:TBD
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619116/occurrences/8491304
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619117-occurrence-8491305
+DTSTART:20261014T040000Z
+DTEND:20261014T060000Z
+SUMMARY:3619117 - Time: TBA - Girls 8th Volleyball @ OPEN (NE8 Championship)
+LOCATION:TBD
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619117/occurrences/8491305
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619118-occurrence-8491306
+DTSTART:20270206T050000Z
+DTEND:20270206T070000Z
+SUMMARY:3619118 - Time: TBA - Boys 7th Basketball @ OPEN (North East 8 Basketball Tournament)
+LOCATION:Hubbard Middle School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619118/occurrences/8491306
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619119-occurrence-8491307
+DTSTART:20270206T050000Z
+DTEND:20270206T070000Z
+SUMMARY:3619119 - Time: TBA - Boys 8th Basketball @ OPEN (North East 8 Basketball Tournament)
+LOCATION:Hubbard Middle School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619119/occurrences/8491307
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619120-occurrence-8491308
+DTSTART:20270206T050000Z
+DTEND:20270206T070000Z
+SUMMARY:3619120 - Time: TBA - Girls 7th Basketball @ OPEN (North East 8 Basketball Tournament)
+LOCATION:South Range Middle School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619120/occurrences/8491308
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619121-occurrence-8491309
+DTSTART:20270206T050000Z
+DTEND:20270206T070000Z
+SUMMARY:3619121 - Time: TBA - Girls 8th Basketball @ OPEN (North East 8 Basketball Tournament)
+LOCATION:South Range Middle School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619121/occurrences/8491309
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619122-occurrence-8491310
+DTSTART:20270206T050000Z
+DTEND:20270206T070000Z
+SUMMARY:3619122 - Time: TBA - Boys Freshman Basketball @ OPEN (North East 8 Basketball Tournament)
+LOCATION:Struthers High School
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3619122/occurrences/8491310
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3638946-occurrence-8528996
+DTSTART:20260808T150000Z
+DTEND:20260808T170000Z
+SUMMARY:3638946 - Boys Varsity Soccer @ Howland High School
+LOCATION:200 Shaffer Dr Ne Warren\, Ohio 44484
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3638946/occurrences/8528996
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3638947-occurrence-8528997
+DTSTART:20260808T210000Z
+DTEND:20260808T230000Z
+SUMMARY:3638947 - Boys Junior Varsity Soccer @ Howland High School
+LOCATION:200 Shaffer Dr Ne Warren\, Ohio 44484
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3638947/occurrences/8528997
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3644062-occurrence-8543748
+DTSTART:20261015T210000Z
+DTEND:20261015T230000Z
+SUMMARY:3644062 - Boys Junior Varsity Soccer @ Howland High School
+LOCATION:200 Shaffer Dr Ne Warren\, Ohio 44484
+CATEGORIES:Athletics - Away
+URL:https://polandschools.gofmx.com/scheduling/requests/3644062/occurrences/8543748
+X-COLOR:#de0720
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854229-occurrence-6943832
+DTSTART:20260821T230000Z
+DTEND:20260822T010000Z
+SUMMARY:2854229 - Boys Varsity Football vs Salem Jr/Sr High School (Season Opener)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/2854229/occurrences/6943832
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854232-occurrence-6943835
+DTSTART:20260918T230000Z
+DTEND:20260919T010000Z
+SUMMARY:2854232 - Boys Varsity Football vs Hubbard High School (Homecoming)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/2854232/occurrences/6943835
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854234-occurrence-6943837
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:2854234 - Boys Varsity Football vs Niles McKinley High School (Band Senior Night)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/2854234/occurrences/6943837
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2854235-occurrence-6943838
+DTSTART:20261009T230000Z
+DTEND:20261010T010000Z
+SUMMARY:2854235 - Boys Varsity Football vs Girard Jr/Sr HS (Football/ Cheer  Senior Night)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/2854235/occurrences/6943838
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-2986798-occurrence-7290173
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:2986798 - Boys/Girls Varsity Cross Country vs Hubbard High School (Northeast 8 Cross Country Championship )
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/2986798/occurrences/7290173
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073615-occurrence-7477754
+DTSTART:20260827T213000Z
+DTEND:20260827T233000Z
+SUMMARY:3073615 - Girls Junior Varsity Volleyball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073615/occurrences/7477754
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073616-occurrence-7477755
+DTSTART:20260827T230000Z
+DTEND:20260828T010000Z
+SUMMARY:3073616 - Girls Varsity Volleyball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073616/occurrences/7477755
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073617-occurrence-7477756
+DTSTART:20260901T213000Z
+DTEND:20260901T233000Z
+SUMMARY:3073617 - Girls Junior Varsity Volleyball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073617/occurrences/7477756
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073618-occurrence-7477757
+DTSTART:20260901T230000Z
+DTEND:20260902T010000Z
+SUMMARY:3073618 - Girls Varsity Volleyball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073618/occurrences/7477757
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073622-occurrence-7477761
+DTSTART:20260910T213000Z
+DTEND:20260910T233000Z
+SUMMARY:3073622 - Girls Junior Varsity Volleyball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073622/occurrences/7477761
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073623-occurrence-7477762
+DTSTART:20260910T230000Z
+DTEND:20260911T010000Z
+SUMMARY:3073623 - Girls Varsity Volleyball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073623/occurrences/7477762
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073626-occurrence-7477765
+DTSTART:20260917T213000Z
+DTEND:20260917T233000Z
+SUMMARY:3073626 - Girls Junior Varsity Volleyball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073626/occurrences/7477765
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073627-occurrence-7477766
+DTSTART:20260917T230000Z
+DTEND:20260918T010000Z
+SUMMARY:3073627 - Girls Varsity Volleyball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073627/occurrences/7477766
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073632-occurrence-7477771
+DTSTART:20260929T213000Z
+DTEND:20260929T233000Z
+SUMMARY:3073632 - Girls Junior Varsity Volleyball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073632/occurrences/7477771
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073633-occurrence-7477772
+DTSTART:20260929T223000Z
+DTEND:20260930T003000Z
+SUMMARY:3073633 - Girls Varsity Volleyball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073633/occurrences/7477772
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073636-occurrence-7477775
+DTSTART:20261008T213000Z
+DTEND:20261008T233000Z
+SUMMARY:3073636 - Girls Junior Varsity Volleyball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073636/occurrences/7477775
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073638-occurrence-7477777
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:3073638 - Girls Varsity Volleyball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3073638/occurrences/7477777
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144625-occurrence-7560438
+DTSTART:20260826T210000Z
+DTEND:20260826T230000Z
+SUMMARY:3144625 - Girls 7th Volleyball vs South Range Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144625/occurrences/7560438
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144626-occurrence-7560439
+DTSTART:20260826T220000Z
+DTEND:20260827T000000Z
+SUMMARY:3144626 - Girls 8th Volleyball vs South Range Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144626/occurrences/7560439
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144627-occurrence-7560440
+DTSTART:20260831T210000Z
+DTEND:20260831T230000Z
+SUMMARY:3144627 - Girls 7th Volleyball vs Girard Jr/Sr HS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144627/occurrences/7560440
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144628-occurrence-7560441
+DTSTART:20260831T220000Z
+DTEND:20260901T000000Z
+SUMMARY:3144628 - Girls 8th Volleyball vs Girard Jr/Sr HS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144628/occurrences/7560441
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144631-occurrence-7560444
+DTSTART:20260907T210000Z
+DTEND:20260907T230000Z
+SUMMARY:3144631 - Girls 7th Volleyball vs Struthers MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144631/occurrences/7560444
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144632-occurrence-7560445
+DTSTART:20260907T220000Z
+DTEND:20260908T000000Z
+SUMMARY:3144632 - Girls 8th Volleyball vs Struthers MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144632/occurrences/7560445
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144635-occurrence-7560448
+DTSTART:20260916T210000Z
+DTEND:20260916T230000Z
+SUMMARY:3144635 - Girls 7th Volleyball vs Lakeview Middle School-Cortland
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144635/occurrences/7560448
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144636-occurrence-7560449
+DTSTART:20260916T220000Z
+DTEND:20260917T000000Z
+SUMMARY:3144636 - Girls 8th Volleyball vs Lakeview Middle School-Cortland
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144636/occurrences/7560449
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144641-occurrence-7560454
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:3144641 - Girls 7th Volleyball vs Hubbard MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144641/occurrences/7560454
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3144642-occurrence-7560455
+DTSTART:20260928T220000Z
+DTEND:20260929T000000Z
+SUMMARY:3144642 - Girls 8th Volleyball vs Hubbard MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3144642/occurrences/7560455
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3151006-occurrence-7567835
+DTSTART:20261007T210000Z
+DTEND:20261007T230000Z
+SUMMARY:3151006 - Girls 7th Volleyball vs Niles Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3151006/occurrences/7567835
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3151007-occurrence-7567836
+DTSTART:20261007T220000Z
+DTEND:20261008T000000Z
+SUMMARY:3151007 - Girls 8th Volleyball vs Niles Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3151007/occurrences/7567836
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3182085-occurrence-7610633
+DTSTART:20260908T213000Z
+DTEND:20260908T233000Z
+SUMMARY:3182085 - Girls Junior Varsity Volleyball vs Boardman High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3182085/occurrences/7610633
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3182086-occurrence-7610634
+DTSTART:20260908T230000Z
+DTEND:20260909T010000Z
+SUMMARY:3182086 - Girls Varsity Volleyball vs Boardman High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3182086/occurrences/7610634
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184843-occurrence-7614105
+DTSTART:20260921T213000Z
+DTEND:20260921T233000Z
+SUMMARY:3184843 - Girls Junior Varsity Volleyball vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184843/occurrences/7614105
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184844-occurrence-7614106
+DTSTART:20260921T230000Z
+DTEND:20260922T010000Z
+SUMMARY:3184844 - Girls Varsity Volleyball vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184844/occurrences/7614106
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184900-occurrence-7614265
+DTSTART:20260910T210000Z
+DTEND:20260910T230000Z
+SUMMARY:3184900 - Boys Varsity Soccer vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184900/occurrences/7614265
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184902-occurrence-7614267
+DTSTART:20260917T230000Z
+DTEND:20260918T010000Z
+SUMMARY:3184902 - Boys Varsity Soccer vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184902/occurrences/7614267
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184903-occurrence-7614268
+DTSTART:20260921T230000Z
+DTEND:20260922T010000Z
+SUMMARY:3184903 - Boys Varsity Soccer vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184903/occurrences/7614268
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184904-occurrence-7614269
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+SUMMARY:3184904 - Boys Varsity Soccer vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184904/occurrences/7614269
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3184906-occurrence-7614271
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:3184906 - Boys Varsity Soccer vs Girard Jr/Sr HS (Senior Night)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3184906/occurrences/7614271
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185704-occurrence-7615251
+DTSTART:20260827T230000Z
+DTEND:20260828T010000Z
+SUMMARY:3185704 - Girls Varsity Soccer vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3185704/occurrences/7615251
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185706-occurrence-7615253
+DTSTART:20260910T230000Z
+DTEND:20260911T010000Z
+SUMMARY:3185706 - Girls Varsity Soccer vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3185706/occurrences/7615253
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185708-occurrence-7615255
+DTSTART:20260917T210000Z
+DTEND:20260917T230000Z
+SUMMARY:3185708 - Girls Varsity Soccer vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3185708/occurrences/7615255
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185709-occurrence-7615256
+DTSTART:20260921T210000Z
+DTEND:20260921T230000Z
+SUMMARY:3185709 - Girls Varsity Soccer vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3185709/occurrences/7615256
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185711-occurrence-7615258
+DTSTART:20260928T210000Z
+DTEND:20260928T230000Z
+SUMMARY:3185711 - Girls Varsity Soccer vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3185711/occurrences/7615258
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3185713-occurrence-7615260
+DTSTART:20261007T210000Z
+DTEND:20261007T230000Z
+SUMMARY:3185713 - Girls Varsity Soccer vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3185713/occurrences/7615260
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3194421-occurrence-7627690
+DTSTART:20260824T213000Z
+DTEND:20260824T233000Z
+SUMMARY:3194421 - Girls Junior Varsity Volleyball vs Campbell Memorial High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3194421/occurrences/7627690
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3194422-occurrence-7627691
+DTSTART:20260824T230000Z
+DTEND:20260825T010000Z
+SUMMARY:3194422 - Girls Varsity Volleyball vs Campbell Memorial High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3194422/occurrences/7627691
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3194874-occurrence-7630180
+DTSTART:20261001T230000Z
+DTEND:20261002T010000Z
+SUMMARY:3194874 - Girls Varsity Soccer vs St. Vincent-St. Mary H.S.
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3194874/occurrences/7630180
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3194921-occurrence-7630258
+DTSTART:20261001T210000Z
+DTEND:20261001T230000Z
+SUMMARY:3194921 - Boys Varsity Soccer vs Champion High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3194921/occurrences/7630258
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198037-occurrence-7634697
+DTSTART:20260902T230000Z
+DTEND:20260903T010000Z
+SUMMARY:3198037 - Girls Varsity Soccer vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198037/occurrences/7634697
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198040-occurrence-7634700
+DTSTART:20260909T203000Z
+DTEND:20260909T223000Z
+SUMMARY:3198040 - Boys 7th Football vs Canfield Village Middle School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198040/occurrences/7634700
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198041-occurrence-7634701
+DTSTART:20260909T220000Z
+DTEND:20260910T000000Z
+SUMMARY:3198041 - Boys 8th Football vs Canfield Village Middle School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198041/occurrences/7634701
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198042-occurrence-7634702
+DTSTART:20260909T233000Z
+DTEND:20260910T013000Z
+SUMMARY:3198042 - Boys Freshman Football vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198042/occurrences/7634702
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198072-occurrence-7634767
+DTSTART:20260826T220000Z
+DTEND:20260827T000000Z
+SUMMARY:3198072 - Boys 8th Football vs Lakeview Middle School-Cortland
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198072/occurrences/7634767
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198073-occurrence-7634768
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:3198073 - Boys Junior Varsity Football vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198073/occurrences/7634768
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198074-occurrence-7634769
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:3198074 - Boys Junior Varsity Football vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198074/occurrences/7634769
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198076-occurrence-7634771
+DTSTART:20260926T140000Z
+DTEND:20260926T160000Z
+SUMMARY:3198076 - Boys Junior Varsity Football vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198076/occurrences/7634771
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198079-occurrence-7634774
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:3198079 - Boys Junior Varsity Football vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198079/occurrences/7634774
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198117-occurrence-7634844
+DTSTART:20260903T203000Z
+DTEND:20260903T223000Z
+SUMMARY:3198117 - Boys 7th Football vs Struthers MS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198117/occurrences/7634844
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198118-occurrence-7634845
+DTSTART:20260903T220000Z
+DTEND:20260904T000000Z
+SUMMARY:3198118 - Boys 8th Football vs Struthers MS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198118/occurrences/7634845
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3198119-occurrence-7634846
+DTSTART:20260903T233000Z
+DTEND:20260904T013000Z
+SUMMARY:3198119 - Boys Freshman Football vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3198119/occurrences/7634846
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3204982-occurrence-7643690
+DTSTART:20260924T210000Z
+DTEND:20260924T230000Z
+SUMMARY:3204982 - Boys Junior Varsity Soccer vs Salem Jr/Sr High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3204982/occurrences/7643690
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3204983-occurrence-7643691
+DTSTART:20260924T230000Z
+DTEND:20260925T010000Z
+SUMMARY:3204983 - Boys Varsity Soccer vs Salem Jr/Sr High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3204983/occurrences/7643691
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3204984-occurrence-7643692
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:3204984 - Girls Varsity Soccer vs Boardman High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3204984/occurrences/7643692
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3205097-occurrence-7643911
+DTSTART:20260923T203000Z
+DTEND:20260923T223000Z
+SUMMARY:3205097 - Boys 7th Football vs South Range Middle School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3205097/occurrences/7643911
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3205098-occurrence-7643912
+DTSTART:20260923T220000Z
+DTEND:20260924T000000Z
+SUMMARY:3205098 - Boys 8th Football vs South Range Middle School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3205098/occurrences/7643912
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3205099-occurrence-7643913
+DTSTART:20260923T233000Z
+DTEND:20260924T013000Z
+SUMMARY:3205099 - Boys Freshman Football vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3205099/occurrences/7643913
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3205239-occurrence-7644147
+DTSTART:20260930T210000Z
+DTEND:20260930T230000Z
+SUMMARY:3205239 - Girls 7th Volleyball vs Glenwood Middle School-Youngstown
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3205239/occurrences/7644147
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3205241-occurrence-7644149
+DTSTART:20260930T220000Z
+DTEND:20261001T000000Z
+SUMMARY:3205241 - Girls 8th Volleyball vs Glenwood Middle School-Youngstown
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3205241/occurrences/7644149
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3206083-occurrence-7645155
+DTSTART:20261005T213000Z
+DTEND:20261005T233000Z
+SUMMARY:3206083 - Girls Junior Varsity Volleyball vs Springfield Local High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3206083/occurrences/7645155
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3206084-occurrence-7645156
+DTSTART:20261005T230000Z
+DTEND:20261006T010000Z
+SUMMARY:3206084 - Girls Varsity Volleyball vs Springfield Local High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3206084/occurrences/7645156
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3227803-occurrence-7713610
+DTSTART:20260827T210000Z
+DTEND:20260827T230000Z
+SUMMARY:3227803 - Boys Varsity Soccer vs Crestview HS - Columbiana
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3227803/occurrences/7713610
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3232426-occurrence-7724608
+DTSTART:20260806T210000Z
+DTEND:20260806T230000Z
+SUMMARY:3232426 - Boys Junior Varsity Soccer vs Louisville High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3232426/occurrences/7724608
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3232427-occurrence-7724609
+DTSTART:20260806T230000Z
+DTEND:20260807T010000Z
+SUMMARY:3232427 - Boys Varsity Soccer vs Louisville High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3232427/occurrences/7724609
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3232458-occurrence-7725200
+DTSTART:20261013T210000Z
+DTEND:20261013T230000Z
+SUMMARY:3232458 - Boys Junior Varsity Soccer vs West Branch High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3232458/occurrences/7725200
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3232459-occurrence-7725201
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:3232459 - Boys Varsity Soccer vs West Branch High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3232459/occurrences/7725201
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286464-occurrence-7850775
+DTSTART:20261203T223000Z
+DTEND:20261204T003000Z
+SUMMARY:3286464 - Girls Junior Varsity Basketball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286464/occurrences/7850775
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286465-occurrence-7850776
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:3286465 - Girls Varsity Basketball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286465/occurrences/7850776
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286466-occurrence-7850777
+DTSTART:20261207T223000Z
+DTEND:20261208T003000Z
+SUMMARY:3286466 - Girls Junior Varsity Basketball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286466/occurrences/7850777
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286467-occurrence-7850778
+DTSTART:20261208T000000Z
+DTEND:20261208T020000Z
+SUMMARY:3286467 - Girls Varsity Basketball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286467/occurrences/7850778
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286468-occurrence-7850779
+DTSTART:20270212T223000Z
+DTEND:20270213T003000Z
+SUMMARY:3286468 - Boys Junior Varsity Basketball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286468/occurrences/7850779
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286469-occurrence-7850780
+DTSTART:20270213T000000Z
+DTEND:20270213T020000Z
+SUMMARY:3286469 - Boys Varsity Basketball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286469/occurrences/7850780
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286476-occurrence-7850787
+DTSTART:20270108T223000Z
+DTEND:20270109T003000Z
+SUMMARY:3286476 - Boys Junior Varsity Basketball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286476/occurrences/7850787
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286477-occurrence-7850788
+DTSTART:20270109T000000Z
+DTEND:20270109T020000Z
+SUMMARY:3286477 - Boys Varsity Basketball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286477/occurrences/7850788
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286478-occurrence-7850789
+DTSTART:20270112T223000Z
+DTEND:20270113T003000Z
+SUMMARY:3286478 - Boys Junior Varsity Basketball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286478/occurrences/7850789
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286479-occurrence-7850790
+DTSTART:20270113T000000Z
+DTEND:20270113T020000Z
+SUMMARY:3286479 - Boys Varsity Basketball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286479/occurrences/7850790
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286482-occurrence-7850793
+DTSTART:20270119T223000Z
+DTEND:20270120T003000Z
+SUMMARY:3286482 - Boys Junior Varsity Basketball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286482/occurrences/7850793
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286483-occurrence-7850794
+DTSTART:20270120T000000Z
+DTEND:20270120T020000Z
+SUMMARY:3286483 - Boys Varsity Basketball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286483/occurrences/7850794
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286484-occurrence-7850795
+DTSTART:20270122T223000Z
+DTEND:20270123T003000Z
+SUMMARY:3286484 - Boys Junior Varsity Basketball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286484/occurrences/7850795
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286485-occurrence-7850796
+DTSTART:20270123T000000Z
+DTEND:20270123T020000Z
+SUMMARY:3286485 - Boys Varsity Basketball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286485/occurrences/7850796
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286486-occurrence-7850797
+DTSTART:20270129T223000Z
+DTEND:20270130T003000Z
+SUMMARY:3286486 - Boys Junior Varsity Basketball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286486/occurrences/7850797
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286487-occurrence-7850798
+DTSTART:20270130T000000Z
+DTEND:20270130T020000Z
+SUMMARY:3286487 - Boys Varsity Basketball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286487/occurrences/7850798
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286607-occurrence-7851002
+DTSTART:20261207T220000Z
+DTEND:20261208T000000Z
+SUMMARY:3286607 - Boys 7th Basketball vs South Range Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286607/occurrences/7851002
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286608-occurrence-7851003
+DTSTART:20261207T230000Z
+DTEND:20261208T010000Z
+SUMMARY:3286608 - Boys 8th Basketball vs South Range Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286608/occurrences/7851003
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286615-occurrence-7851010
+DTSTART:20261214T223000Z
+DTEND:20261215T003000Z
+SUMMARY:3286615 - Girls Junior Varsity Basketball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286615/occurrences/7851010
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286617-occurrence-7851012
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:3286617 - Girls Varsity Basketball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286617/occurrences/7851012
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286618-occurrence-7851013
+DTSTART:20261216T220000Z
+DTEND:20261217T000000Z
+SUMMARY:3286618 - Boys Freshman Basketball vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286618/occurrences/7851013
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286622-occurrence-7851017
+DTSTART:20261217T223000Z
+DTEND:20261218T003000Z
+SUMMARY:3286622 - Girls Junior Varsity Basketball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286622/occurrences/7851017
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286623-occurrence-7851018
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:3286623 - Girls Varsity Basketball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286623/occurrences/7851018
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286626-occurrence-7851021
+DTSTART:20270104T220000Z
+DTEND:20270105T000000Z
+SUMMARY:3286626 - Boys Freshman Basketball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286626/occurrences/7851021
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286627-occurrence-7851022
+DTSTART:20270104T223000Z
+DTEND:20270105T003000Z
+SUMMARY:3286627 - Girls Junior Varsity Basketball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286627/occurrences/7851022
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286628-occurrence-7851023
+DTSTART:20270105T000000Z
+DTEND:20270105T020000Z
+SUMMARY:3286628 - Girls Varsity Basketball vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286628/occurrences/7851023
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286629-occurrence-7851024
+DTSTART:20270106T220000Z
+DTEND:20270107T000000Z
+SUMMARY:3286629 - Boys Freshman Basketball vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286629/occurrences/7851024
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286630-occurrence-7851025
+DTSTART:20270106T220000Z
+DTEND:20270107T000000Z
+SUMMARY:3286630 - Boys 7th Basketball vs Hubbard MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286630/occurrences/7851025
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286631-occurrence-7851026
+DTSTART:20270106T230000Z
+DTEND:20270107T010000Z
+SUMMARY:3286631 - Boys 8th Basketball vs Hubbard MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286631/occurrences/7851026
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286634-occurrence-7851029
+DTSTART:20270111T220000Z
+DTEND:20270112T000000Z
+SUMMARY:3286634 - Boys Freshman Basketball vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286634/occurrences/7851029
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286635-occurrence-7851030
+DTSTART:20270111T220000Z
+DTEND:20270112T000000Z
+SUMMARY:3286635 - Boys 7th Basketball vs Struthers MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286635/occurrences/7851030
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286637-occurrence-7851032
+DTSTART:20270111T230000Z
+DTEND:20270112T010000Z
+SUMMARY:3286637 - Boys 8th Basketball vs Struthers MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286637/occurrences/7851032
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286642-occurrence-7851037
+DTSTART:20270114T223000Z
+DTEND:20270115T003000Z
+SUMMARY:3286642 - Girls Junior Varsity Basketball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286642/occurrences/7851037
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286643-occurrence-7851038
+DTSTART:20270115T000000Z
+DTEND:20270115T020000Z
+SUMMARY:3286643 - Girls Varsity Basketball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286643/occurrences/7851038
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286644-occurrence-7851039
+DTSTART:20270120T220000Z
+DTEND:20270121T000000Z
+SUMMARY:3286644 - Boys Freshman Basketball vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286644/occurrences/7851039
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286645-occurrence-7851040
+DTSTART:20270120T220000Z
+DTEND:20270121T000000Z
+SUMMARY:3286645 - Boys 7th Basketball vs Niles Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286645/occurrences/7851040
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286646-occurrence-7851041
+DTSTART:20270120T230000Z
+DTEND:20270121T010000Z
+SUMMARY:3286646 - Boys 8th Basketball vs Niles Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286646/occurrences/7851041
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286650-occurrence-7851045
+DTSTART:20270125T220000Z
+DTEND:20270126T000000Z
+SUMMARY:3286650 - Boys 7th Basketball vs Lakeview Middle School-Cortland
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286650/occurrences/7851045
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286652-occurrence-7851047
+DTSTART:20270125T230000Z
+DTEND:20270126T010000Z
+SUMMARY:3286652 - Boys 8th Basketball vs Lakeview Middle School-Cortland
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3286652/occurrences/7851047
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290072-occurrence-7860557
+DTSTART:20261209T220000Z
+DTEND:20261210T000000Z
+SUMMARY:3290072 - Girls 7th Basketball vs Struthers MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290072/occurrences/7860557
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290073-occurrence-7860558
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:3290073 - Girls 8th Basketball vs Struthers MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290073/occurrences/7860558
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290074-occurrence-7860559
+DTSTART:20261214T220000Z
+DTEND:20261215T000000Z
+SUMMARY:3290074 - Girls 7th Basketball vs Niles Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290074/occurrences/7860559
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290075-occurrence-7860560
+DTSTART:20261214T230000Z
+DTEND:20261215T010000Z
+SUMMARY:3290075 - Girls 8th Basketball vs Niles Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290075/occurrences/7860560
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290076-occurrence-7860561
+DTSTART:20261216T220000Z
+DTEND:20261217T000000Z
+SUMMARY:3290076 - Girls 7th Basketball vs Lakeview Middle School-Cortland
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290076/occurrences/7860561
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290077-occurrence-7860562
+DTSTART:20261216T230000Z
+DTEND:20261217T010000Z
+SUMMARY:3290077 - Girls 8th Basketball vs Lakeview Middle School-Cortland
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290077/occurrences/7860562
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290078-occurrence-7860563
+DTSTART:20261221T220000Z
+DTEND:20261222T000000Z
+SUMMARY:3290078 - Girls 7th Basketball vs Girard Jr/Sr HS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290078/occurrences/7860563
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290079-occurrence-7860564
+DTSTART:20261221T230000Z
+DTEND:20261222T010000Z
+SUMMARY:3290079 - Girls 8th Basketball vs Girard Jr/Sr HS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290079/occurrences/7860564
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290084-occurrence-7860569
+DTSTART:20270113T220000Z
+DTEND:20270114T000000Z
+SUMMARY:3290084 - Girls 7th Basketball vs South Range Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290084/occurrences/7860569
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290085-occurrence-7860570
+DTSTART:20270113T230000Z
+DTEND:20270114T010000Z
+SUMMARY:3290085 - Girls 8th Basketball vs South Range Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290085/occurrences/7860570
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290090-occurrence-7860575
+DTSTART:20270203T220000Z
+DTEND:20270204T000000Z
+SUMMARY:3290090 - Girls 7th Basketball vs Hubbard MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290090/occurrences/7860575
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3290091-occurrence-7860576
+DTSTART:20270203T230000Z
+DTEND:20270204T010000Z
+SUMMARY:3290091 - Girls 8th Basketball vs Hubbard MS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3290091/occurrences/7860576
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3298723-occurrence-7889047
+DTSTART:20270127T220000Z
+DTEND:20270128T000000Z
+SUMMARY:3298723 - Boys Freshman Basketball vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3298723/occurrences/7889047
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3316095-occurrence-7942312
+DTSTART:20260828T230000Z
+DTEND:20260829T010000Z
+SUMMARY:3316095 - Boys Varsity Football vs Kirtland High School (Team Hall of Fame Induction)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3316095/occurrences/7942312
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384372-occurrence-8023059
+DTSTART:20261210T220000Z
+DTEND:20261211T000000Z
+SUMMARY:3384372 - Boys Freshman Basketball vs Canfield High School
+LOCATION:PSHS Gym
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3384372/occurrences/8023059
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384373-occurrence-8023060
+DTSTART:20261222T223000Z
+DTEND:20261223T003000Z
+SUMMARY:3384373 - Boys Junior Varsity Basketball vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3384373/occurrences/8023060
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384374-occurrence-8023061
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:3384374 - Boys Varsity Basketball vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3384374/occurrences/8023061
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384532-occurrence-8023566
+DTSTART:20270208T223000Z
+DTEND:20270209T003000Z
+SUMMARY:3384532 - Girls Junior Varsity Basketball vs Cardinal Mooney High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3384532/occurrences/8023566
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3384533-occurrence-8023567
+DTSTART:20270209T000000Z
+DTEND:20270209T020000Z
+SUMMARY:3384533 - Girls Varsity Basketball vs Cardinal Mooney High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3384533/occurrences/8023567
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3387047-occurrence-8028633
+DTSTART:20270204T223000Z
+DTEND:20270205T003000Z
+SUMMARY:3387047 - Girls Junior Varsity Basketball vs Salem Jr/Sr High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3387047/occurrences/8028633
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3387048-occurrence-8028634
+DTSTART:20270205T000000Z
+DTEND:20270205T020000Z
+SUMMARY:3387048 - Girls Varsity Basketball vs Salem Jr/Sr High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3387048/occurrences/8028634
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3387049-occurrence-8028635
+DTSTART:20270209T223000Z
+DTEND:20270210T003000Z
+SUMMARY:3387049 - Boys Junior Varsity Basketball vs Salem Jr/Sr High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3387049/occurrences/8028635
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3387050-occurrence-8028636
+DTSTART:20270210T000000Z
+DTEND:20270210T020000Z
+SUMMARY:3387050 - Boys Varsity Basketball vs Salem Jr/Sr High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3387050/occurrences/8028636
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3387775-occurrence-8031039
+DTSTART:20270210T223000Z
+DTEND:20270211T003000Z
+SUMMARY:3387775 - Girls Junior Varsity Basketball vs West Branch High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3387775/occurrences/8031039
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3387776-occurrence-8031040
+DTSTART:20270211T000000Z
+DTEND:20270211T020000Z
+SUMMARY:3387776 - Girls Varsity Basketball vs West Branch High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3387776/occurrences/8031040
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391475-occurrence-8035979
+DTSTART:20261212T170000Z
+DTEND:20261212T190000Z
+SUMMARY:3391475 - Girls Varsity Basketball vs Austintown Fitch HS (UNITED WAY CLASSIC)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3391475/occurrences/8035979
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391476-occurrence-8035980
+DTSTART:20270219T223000Z
+DTEND:20270220T003000Z
+SUMMARY:3391476 - Boys Junior Varsity Basketball vs Howland High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3391476/occurrences/8035980
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391477-occurrence-8035981
+DTSTART:20270220T000000Z
+DTEND:20270220T020000Z
+SUMMARY:3391477 - Boys Varsity Basketball vs Howland High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3391477/occurrences/8035981
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391974-occurrence-8037261
+DTSTART:20261228T223000Z
+DTEND:20261229T003000Z
+SUMMARY:3391974 - Girls Junior Varsity Basketball vs Springfield Local High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3391974/occurrences/8037261
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3391975-occurrence-8037262
+DTSTART:20261229T000000Z
+DTEND:20261229T020000Z
+SUMMARY:3391975 - Girls Varsity Basketball vs Springfield Local High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3391975/occurrences/8037262
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3392489-occurrence-8038454
+DTSTART:20261212T221500Z
+DTEND:20261213T001500Z
+SUMMARY:3392489 - Boys Varsity Basketball vs Neshannock Junior/Senior High School (United Way Classic )
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3392489/occurrences/8038454
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3394036-occurrence-8041158
+DTSTART:20261123T223000Z
+DTEND:20261124T003000Z
+SUMMARY:3394036 - Girls Junior Varsity Basketball vs LaBrae High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3394036/occurrences/8041158
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3394037-occurrence-8041159
+DTSTART:20261124T000000Z
+DTEND:20261124T020000Z
+SUMMARY:3394037 - Girls Varsity Basketball vs LaBrae High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3394037/occurrences/8041159
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3424304-occurrence-8086722
+DTSTART:20260813T220000Z
+DTEND:20260814T000000Z
+SUMMARY:3424304 - Boys Varsity Football vs Louisville High School
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3424304/occurrences/8086722
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3443753-occurrence-8135485
+DTSTART:20260807T140000Z
+DTEND:20260807T160000Z
+SUMMARY:3443753 - Boys Varsity Football vs Streetsboro High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3443753/occurrences/8135485
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482242-occurrence-8207589
+DTSTART:20270204T220000Z
+DTEND:20270205T000000Z
+SUMMARY:3482242 - Boys 7th Basketball vs Canfield Village Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3482242/occurrences/8207589
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482244-occurrence-8207591
+DTSTART:20270204T230000Z
+DTEND:20270205T010000Z
+SUMMARY:3482244 - Boys 8th Basketball vs Canfield Village Middle School
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3482244/occurrences/8207591
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482646-occurrence-8208525
+DTSTART:20261008T220000Z
+DTEND:20261009T000000Z
+SUMMARY:3482646 - Boys Freshman Football vs Beaver Local HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3482646/occurrences/8208525
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551288-occurrence-8363571
+DTSTART:20260803T120000Z
+DTEND:20260803T140000Z
+SUMMARY:3551288 - Boys Varsity Golf vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551288/occurrences/8363571
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551290-occurrence-8363573
+DTSTART:20260805T123000Z
+DTEND:20260805T143000Z
+SUMMARY:3551290 - Boys Varsity Golf vs OPEN (Brookfield Invitational)
+LOCATION:Yankee Run
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551290/occurrences/8363573
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551293-occurrence-8363576
+DTSTART:20260810T120000Z
+DTEND:20260810T140000Z
+SUMMARY:3551293 - Boys Varsity Golf vs Columbiana High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551293/occurrences/8363576
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551295-occurrence-8363578
+DTSTART:20260813T120000Z
+DTEND:20260813T140000Z
+SUMMARY:3551295 - Boys Varsity Golf vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551295/occurrences/8363578
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551361-occurrence-8363689
+DTSTART:20260818T120000Z
+DTEND:20260818T140000Z
+SUMMARY:3551361 - Boys Varsity Golf vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551361/occurrences/8363689
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551362-occurrence-8363690
+DTSTART:20260820T120000Z
+DTEND:20260820T140000Z
+SUMMARY:3551362 - Boys Varsity Golf vs South Range High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551362/occurrences/8363690
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551363-occurrence-8363691
+DTSTART:20260824T120000Z
+DTEND:20260824T140000Z
+SUMMARY:3551363 - Boys Varsity Golf vs Hubbard High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551363/occurrences/8363691
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551369-occurrence-8363697
+DTSTART:20260910T214500Z
+DTEND:20260910T234500Z
+SUMMARY:3551369 - Boys Varsity Golf vs OPEN ( Senior Night)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551369/occurrences/8363697
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551434-occurrence-8364172
+DTSTART:20270127T220000Z
+DTEND:20270128T000000Z
+SUMMARY:3551434 - Boys 7th Basketball vs Girard Jr/Sr HS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551434/occurrences/8364172
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3551435-occurrence-8364173
+DTSTART:20270127T230000Z
+DTEND:20270128T010000Z
+SUMMARY:3551435 - Boys 8th Basketball vs Girard Jr/Sr HS
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3551435/occurrences/8364173
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3553503-occurrence-8374332
+DTSTART:20261223T220000Z
+DTEND:20261224T000000Z
+SUMMARY:3553503 - Boys 7th Basketball vs Boardman Center Middle School - Youngstown
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3553503/occurrences/8374332
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3553504-occurrence-8374333
+DTSTART:20261223T230000Z
+DTEND:20261224T010000Z
+SUMMARY:3553504 - Boys 8th Basketball vs Boardman Center Middle School - Youngstown
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3553504/occurrences/8374333
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554049-occurrence-8380100
+DTSTART:20260902T200000Z
+DTEND:20260902T220000Z
+SUMMARY:3554049 - Girls Varsity Tennis vs Canfield High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3554049/occurrences/8380100
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554082-occurrence-8380137
+DTSTART:20260817T200000Z
+DTEND:20260817T220000Z
+SUMMARY:3554082 - Girls Varsity Tennis vs Niles McKinley High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3554082/occurrences/8380137
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554083-occurrence-8380138
+DTSTART:20260819T200000Z
+DTEND:20260819T220000Z
+SUMMARY:3554083 - Girls Varsity Tennis vs Girard Jr/Sr HS
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3554083/occurrences/8380138
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554086-occurrence-8380141
+DTSTART:20260916T200000Z
+DTEND:20260916T220000Z
+SUMMARY:3554086 - Girls Varsity Tennis vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3554086/occurrences/8380141
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554088-occurrence-8380143
+DTSTART:20260922T200000Z
+DTEND:20260922T220000Z
+SUMMARY:3554088 - Girls Varsity Tennis vs Boardman High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3554088/occurrences/8380143
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3554089-occurrence-8380144
+DTSTART:20260923T200000Z
+DTEND:20260923T220000Z
+SUMMARY:3554089 - Girls Varsity Tennis vs Struthers High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3554089/occurrences/8380144
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3587911-occurrence-8422078
+DTSTART:20260817T120000Z
+DTEND:20260817T140000Z
+SUMMARY:3587911 - Girls Varsity Golf vs Hubbard High School (and South Range)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3587911/occurrences/8422078
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592803-occurrence-8428106
+DTSTART:20260728T110000Z
+DTEND:20260728T130000Z
+SUMMARY:3592803 - Girls Varsity Golf vs Columbiana High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3592803/occurrences/8428106
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592805-occurrence-8428108
+DTSTART:20260806T120000Z
+DTEND:20260806T140000Z
+SUMMARY:3592805 - Girls Varsity Golf vs Lakeview High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3592805/occurrences/8428108
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3592806-occurrence-8428109
+DTSTART:20260812T120000Z
+DTEND:20260812T140000Z
+SUMMARY:3592806 - Girls Varsity Golf vs Girard Jr/Sr HS (and Niles)
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3592806/occurrences/8428109
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3638958-occurrence-8529052
+DTSTART:20260930T220000Z
+DTEND:20261001T000000Z
+SUMMARY:3638958 - Boys Junior Varsity Soccer vs Marlington High School
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:Athletics - Home
+URL:https://polandschools.gofmx.com/scheduling/requests/3638958/occurrences/8529052
+X-COLOR:#131cf0
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094719
+DTSTART:20260629T220000Z
+DTEND:20260630T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094719
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094720
+DTSTART:20260715T220000Z
+DTEND:20260716T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094720
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094721
+DTSTART:20260812T220000Z
+DTEND:20260813T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094721
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094722
+DTSTART:20260909T220000Z
+DTEND:20260910T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094722
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094723
+DTSTART:20260923T220000Z
+DTEND:20260924T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094723
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094724
+DTSTART:20261007T220000Z
+DTEND:20261008T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094724
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094725
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094725
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094726
+DTSTART:20261104T230000Z
+DTEND:20261105T010000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094726
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094727
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094727
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3428269-occurrence-8094728
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:3428269 - PLSD - Board of Education Meeting
+LOCATION:3030 Dobbins Road
+CATEGORIES:Board Meeting
+URL:https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094728
+X-COLOR:#00328f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3073594-occurrence-7477733
+DTSTART:20260907T040000Z
+DTEND:20260907T060000Z
+SUMMARY:3073594 - Time: TBA - Labor Day
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3073594/occurrences/7477733
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286463-occurrence-7850774
+DTSTART:20261212T170000Z
+DTEND:20261212T190000Z
+SUMMARY:3286463 - Unitled Way Classic
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3286463/occurrences/7850774
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286604-occurrence-7850999
+DTSTART:20261126T050000Z
+DTEND:20261126T070000Z
+SUMMARY:3286604 - Time: TBA - THANKSGIVING
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3286604/occurrences/7850999
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3286605-occurrence-7851000
+DTSTART:20270118T050000Z
+DTEND:20270118T070000Z
+SUMMARY:3286605 - Time: TBA - MLK Day No School
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3286605/occurrences/7851000
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3304334-occurrence-7905616
+DTSTART:20260919T230000Z
+DTEND:20260920T010000Z
+SUMMARY:3304334 - Homecoming Dance
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3304334/occurrences/7905616
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3458321-occurrence-8161336
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+SUMMARY:3458321 - Band Night
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3458321/occurrences/8161336
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466195-occurrence-8177077
+DTSTART:20260713T040000Z
+DTEND:20260713T060000Z
+SUMMARY:3466195 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466195/occurrences/8177077
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466196-occurrence-8177078
+DTSTART:20260714T040000Z
+DTEND:20260714T060000Z
+SUMMARY:3466196 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466196/occurrences/8177078
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466197-occurrence-8177079
+DTSTART:20260715T040000Z
+DTEND:20260715T060000Z
+SUMMARY:3466197 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466197/occurrences/8177079
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466198-occurrence-8177080
+DTSTART:20260716T040000Z
+DTEND:20260716T060000Z
+SUMMARY:3466198 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466198/occurrences/8177080
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466199-occurrence-8177081
+DTSTART:20260717T040000Z
+DTEND:20260717T060000Z
+SUMMARY:3466199 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466199/occurrences/8177081
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466200-occurrence-8177082
+DTSTART:20260718T040000Z
+DTEND:20260718T060000Z
+SUMMARY:3466200 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466200/occurrences/8177082
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466201-occurrence-8177083
+DTSTART:20260719T040000Z
+DTEND:20260719T060000Z
+SUMMARY:3466201 - Time: TBA - PE and Fieldhouse Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466201/occurrences/8177083
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466202-occurrence-8177084
+DTSTART:20260720T040000Z
+DTEND:20260720T060000Z
+SUMMARY:3466202 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466202/occurrences/8177084
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466203-occurrence-8177085
+DTSTART:20260721T040000Z
+DTEND:20260721T060000Z
+SUMMARY:3466203 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466203/occurrences/8177085
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466204-occurrence-8177086
+DTSTART:20260722T040000Z
+DTEND:20260722T060000Z
+SUMMARY:3466204 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466204/occurrences/8177086
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466205-occurrence-8177087
+DTSTART:20260723T040000Z
+DTEND:20260723T060000Z
+SUMMARY:3466205 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466205/occurrences/8177087
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466206-occurrence-8177088
+DTSTART:20260724T040000Z
+DTEND:20260724T060000Z
+SUMMARY:3466206 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466206/occurrences/8177088
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466207-occurrence-8177089
+DTSTART:20260725T040000Z
+DTEND:20260725T060000Z
+SUMMARY:3466207 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466207/occurrences/8177089
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3466208-occurrence-8177090
+DTSTART:20260726T040000Z
+DTEND:20260726T060000Z
+SUMMARY:3466208 - Time: TBA - PMS Gym Closed
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3466208/occurrences/8177090
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482128-occurrence-8207406
+DTSTART:20270130T140000Z
+DTEND:20270130T160000Z
+SUMMARY:3482128 - All Sports Booster Club Basketball Tournament
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482128/occurrences/8207406
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482129-occurrence-8207407
+DTSTART:20270130T140000Z
+DTEND:20270130T160000Z
+SUMMARY:3482129 - All Sports Booster Club Basketball Tournament
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482129/occurrences/8207407
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482130-occurrence-8207408
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:3482130 - All Sports Booster Club Basketball Tournament
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482130/occurrences/8207408
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482131-occurrence-8207409
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
+SUMMARY:3482131 - All Sports Booster Club Basketball Tournament
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482131/occurrences/8207409
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482132-occurrence-8207410
+DTSTART:20270206T140000Z
+DTEND:20270206T160000Z
+SUMMARY:3482132 - All Sports Booster Club Basketball Tournament
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482132/occurrences/8207410
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482133-occurrence-8207411
+DTSTART:20270206T140000Z
+DTEND:20270206T160000Z
+SUMMARY:3482133 - All Sports Booster Club Basketball Tournament
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482133/occurrences/8207411
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482134-occurrence-8207412
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:3482134 - All Sports Booster Club Basketball Tournament
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482134/occurrences/8207412
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3482135-occurrence-8207413
+DTSTART:20270207T140000Z
+DTEND:20270207T160000Z
+SUMMARY:3482135 - All Sports Booster Club Basketball Tournament
+LOCATION:47 College St. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3482135/occurrences/8207413
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3587890-occurrence-8422050
+DTSTART:20261007T113000Z
+DTEND:20261007T133000Z
+SUMMARY:3587890 - Underclassmen Pictures
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3587890/occurrences/8422050
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3613967-occurrence-8480017
+DTSTART:20260610T040000Z
+DTEND:20260610T060000Z
+SUMMARY:3613967 - Time: TBA - Girls Varsity Cheerleading (Varsity Cheer Camp)
+LOCATION:Cheer Time Athletics
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3613967/occurrences/8480017
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3613968-occurrence-8480018
+DTSTART:20260611T040000Z
+DTEND:20260611T060000Z
+SUMMARY:3613968 - Time: TBA - Girls Varsity Cheerleading (Varsity Cheer Camp)
+LOCATION:Cheer Time Athletics
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3613968/occurrences/8480018
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3613969-occurrence-8480019
+DTSTART:20260612T040000Z
+DTEND:20260612T060000Z
+SUMMARY:3613969 - Time: TBA - Girls Varsity Cheerleading (Varsity Cheer Camp)
+LOCATION:Cheer Time Athletics
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3613969/occurrences/8480019
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3615447-occurrence-8485075
+DTSTART:20261122T050000Z
+DTEND:20261122T070000Z
+SUMMARY:3615447 - Time: TBA - Girls Varsity Cheerleading (OASSA Cheerleading Regional Qualifier)
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3615447/occurrences/8485075
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3615448-occurrence-8485076
+DTSTART:20261212T050000Z
+DTEND:20261212T070000Z
+SUMMARY:3615448 - Time: TBA - Girls Varsity Cheerleading (OASSA Cheerleading Championship)
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3615448/occurrences/8485076
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3615449-occurrence-8485077
+DTSTART:20261213T050000Z
+DTEND:20261213T070000Z
+SUMMARY:3615449 - Time: TBA - Girls Varsity Cheerleading (OASSA Cheerleading Championship)
+LOCATION:3199 Dobbins Road Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3615449/occurrences/8485077
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619129-occurrence-8491340
+DTSTART:20270502T040000Z
+DTEND:20270502T060000Z
+SUMMARY:3619129 - Time: TBA - Baseball All League Selection Meeting
+LOCATION:Niles High School
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3619129/occurrences/8491340
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3619130-occurrence-8491341
+DTSTART:20270502T040000Z
+DTEND:20270502T060000Z
+SUMMARY:3619130 - Time: TBA - Softball All League Selection Meeting
+LOCATION:Niles High School
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3619130/occurrences/8491341
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636299-occurrence-8521721
+DTSTART:20261203T003000Z
+DTEND:20261203T023000Z
+SUMMARY:3636299 - High School Band/Choir Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636299/occurrences/8521721
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636300-occurrence-8521722
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:3636300 - Junior High Holiday Band and Choir Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636300/occurrences/8521722
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636301-occurrence-8521723
+DTSTART:20261217T230000Z
+DTEND:20261218T010000Z
+SUMMARY:3636301 - 5/6  Holiday Choir Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636301/occurrences/8521723
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636302-occurrence-8521724
+DTSTART:20261218T003000Z
+DTEND:20261218T023000Z
+SUMMARY:3636302 - 5/6 Holiday Band Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636302/occurrences/8521724
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636350-occurrence-8521791
+DTSTART:20270218T003000Z
+DTEND:20270218T023000Z
+SUMMARY:3636350 - PSHS Winter Band & Choir Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636350/occurrences/8521791
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636351-occurrence-8521792
+DTSTART:20270505T233000Z
+DTEND:20270506T013000Z
+SUMMARY:3636351 - HS Spring Band & Choir Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636351/occurrences/8521792
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636352-occurrence-8521793
+DTSTART:20270506T230000Z
+DTEND:20270507T010000Z
+SUMMARY:3636352 - POSTPONED: 7/8 Spring Band & Choir  Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636352/occurrences/8521793
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3636493-occurrence-8522058
+DTSTART:20270311T050000Z
+DTEND:20270311T070000Z
+SUMMARY:3636493 - Time: TBA - Poland School Foundation Dinner
+LOCATION:Holy Family Church
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3636493/occurrences/8522058
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule-request-3649193-occurrence-8552461
+DTSTART:20270504T230000Z
+DTEND:20270505T010000Z
+SUMMARY:3649193 - 7/8 Spring Band & Choir  Concert
+LOCATION:3199 Dobbins Rd. Poland\, Ohio 44514
+CATEGORIES:School Activity
+URL:https://polandschools.gofmx.com/scheduling/requests/3649193/occurrences/8552461
+X-COLOR:#0eed3f
+DTSTAMP:20260610T021549Z
+END:VEVENT
+END:VCALENDAR
