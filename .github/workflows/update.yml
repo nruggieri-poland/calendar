@@ -1,0 +1,55 @@
+name: Sync Calendar Feeds
+
+on:
+  # Run every hour
+  schedule:
+    - cron: "0 * * * *"
+
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+  # Also run on push to main (good for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - "sync.js"
+      - ".github/workflows/sync.yml"
+
+permissions:
+  contents: write   # needed to commit output files back to the repo
+
+jobs:
+  sync:
+    name: Fetch & Build Calendar Files
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Node.js (built-in fetch available in Node 18+) ────────────────
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # ── 3. Run sync script ───────────────────────────────────────────────
+      - name: Run sync
+        run: node sync.js
+
+      # ── 4. Commit output files back to repo ──────────────────────────────
+      - name: Commit output files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/events.json output/events.csv output/events.ics
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes — skipping commit"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+            git commit -m "chore: sync calendar feeds [${TIMESTAMP}]"
+            git push
+          fi
