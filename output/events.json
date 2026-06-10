@@ -1777,7 +1777,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2026-09-01 12:00 AM",
-    "end": "2026-09-01 2:00 AM",
+    "end": "2026-09-01 11:59 PM",
     "location": "Knoll Run",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3551366/occurrences/8363694"
   },
@@ -1986,7 +1986,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2026-10-12 12:00 AM",
-    "end": "2026-10-12 2:00 AM",
+    "end": "2026-10-12 11:59 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619114/occurrences/8491302"
   },
@@ -1997,7 +1997,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2026-10-12 12:00 AM",
-    "end": "2026-10-12 2:00 AM",
+    "end": "2026-10-12 11:59 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619115/occurrences/8491303"
   },
@@ -2008,7 +2008,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2026-10-14 12:00 AM",
-    "end": "2026-10-14 2:00 AM",
+    "end": "2026-10-14 11:59 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619116/occurrences/8491304"
   },
@@ -2019,7 +2019,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2026-10-14 12:00 AM",
-    "end": "2026-10-14 2:00 AM",
+    "end": "2026-10-14 11:59 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619117/occurrences/8491305"
   },
@@ -2030,7 +2030,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2027-02-06 12:00 AM",
-    "end": "2027-02-06 2:00 AM",
+    "end": "2027-02-06 11:59 PM",
     "location": "Hubbard Middle School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619118/occurrences/8491306"
   },
@@ -2041,7 +2041,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2027-02-06 12:00 AM",
-    "end": "2027-02-06 2:00 AM",
+    "end": "2027-02-06 11:59 PM",
     "location": "Hubbard Middle School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619119/occurrences/8491307"
   },
@@ -2052,7 +2052,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2027-02-06 12:00 AM",
-    "end": "2027-02-06 2:00 AM",
+    "end": "2027-02-06 11:59 PM",
     "location": "South Range Middle School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619120/occurrences/8491308"
   },
@@ -2063,7 +2063,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2027-02-06 12:00 AM",
-    "end": "2027-02-06 2:00 AM",
+    "end": "2027-02-06 11:59 PM",
     "location": "South Range Middle School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619121/occurrences/8491309"
   },
@@ -2074,7 +2074,7 @@
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2027-02-06 12:00 AM",
-    "end": "2027-02-06 2:00 AM",
+    "end": "2027-02-06 11:59 PM",
     "location": "Struthers High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619122/occurrences/8491310"
   },
@@ -4153,7 +4153,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-09-07 12:00 AM",
-    "end": "2026-09-07 2:00 AM",
+    "end": "2026-09-07 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3073594/occurrences/7477733"
   },
@@ -4175,7 +4175,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-11-26 12:00 AM",
-    "end": "2026-11-26 2:00 AM",
+    "end": "2026-11-26 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3286604/occurrences/7850999"
   },
@@ -4186,7 +4186,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2027-01-18 12:00 AM",
-    "end": "2027-01-18 2:00 AM",
+    "end": "2027-01-18 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3286605/occurrences/7851000"
   },
@@ -4219,7 +4219,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-13 12:00 AM",
-    "end": "2026-07-13 2:00 AM",
+    "end": "2026-07-13 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466195/occurrences/8177077"
   },
@@ -4230,7 +4230,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-14 12:00 AM",
-    "end": "2026-07-14 2:00 AM",
+    "end": "2026-07-14 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466196/occurrences/8177078"
   },
@@ -4241,7 +4241,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-15 12:00 AM",
-    "end": "2026-07-15 2:00 AM",
+    "end": "2026-07-15 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466197/occurrences/8177079"
   },
@@ -4252,7 +4252,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-16 12:00 AM",
-    "end": "2026-07-16 2:00 AM",
+    "end": "2026-07-16 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466198/occurrences/8177080"
   },
@@ -4263,7 +4263,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-17 12:00 AM",
-    "end": "2026-07-17 2:00 AM",
+    "end": "2026-07-17 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466199/occurrences/8177081"
   },
@@ -4274,7 +4274,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-18 12:00 AM",
-    "end": "2026-07-18 2:00 AM",
+    "end": "2026-07-18 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466200/occurrences/8177082"
   },
@@ -4285,7 +4285,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-19 12:00 AM",
-    "end": "2026-07-19 2:00 AM",
+    "end": "2026-07-19 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466201/occurrences/8177083"
   },
@@ -4296,7 +4296,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-20 12:00 AM",
-    "end": "2026-07-20 2:00 AM",
+    "end": "2026-07-20 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466202/occurrences/8177084"
   },
@@ -4307,7 +4307,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-21 12:00 AM",
-    "end": "2026-07-21 2:00 AM",
+    "end": "2026-07-21 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466203/occurrences/8177085"
   },
@@ -4318,7 +4318,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-22 12:00 AM",
-    "end": "2026-07-22 2:00 AM",
+    "end": "2026-07-22 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466204/occurrences/8177086"
   },
@@ -4329,7 +4329,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-23 12:00 AM",
-    "end": "2026-07-23 2:00 AM",
+    "end": "2026-07-23 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466205/occurrences/8177087"
   },
@@ -4340,7 +4340,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-24 12:00 AM",
-    "end": "2026-07-24 2:00 AM",
+    "end": "2026-07-24 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466206/occurrences/8177088"
   },
@@ -4351,7 +4351,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-25 12:00 AM",
-    "end": "2026-07-25 2:00 AM",
+    "end": "2026-07-25 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466207/occurrences/8177089"
   },
@@ -4362,7 +4362,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-07-26 12:00 AM",
-    "end": "2026-07-26 2:00 AM",
+    "end": "2026-07-26 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3466208/occurrences/8177090"
   },
@@ -4472,7 +4472,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-06-11 12:00 AM",
-    "end": "2026-06-11 2:00 AM",
+    "end": "2026-06-11 11:59 PM",
     "location": "Cheer Time Athletics",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3613968/occurrences/8480018"
   },
@@ -4483,7 +4483,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-06-12 12:00 AM",
-    "end": "2026-06-12 2:00 AM",
+    "end": "2026-06-12 11:59 PM",
     "location": "Cheer Time Athletics",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3613969/occurrences/8480019"
   },
@@ -4494,7 +4494,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-11-22 12:00 AM",
-    "end": "2026-11-22 2:00 AM",
+    "end": "2026-11-22 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3615447/occurrences/8485075"
   },
@@ -4505,7 +4505,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-12-12 12:00 AM",
-    "end": "2026-12-12 2:00 AM",
+    "end": "2026-12-12 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3615448/occurrences/8485076"
   },
@@ -4516,7 +4516,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2026-12-13 12:00 AM",
-    "end": "2026-12-13 2:00 AM",
+    "end": "2026-12-13 11:59 PM",
     "location": "3199 Dobbins Road Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3615449/occurrences/8485077"
   },
@@ -4527,7 +4527,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2027-05-02 12:00 AM",
-    "end": "2027-05-02 2:00 AM",
+    "end": "2027-05-02 11:59 PM",
     "location": "Niles High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619129/occurrences/8491340"
   },
@@ -4538,7 +4538,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2027-05-02 12:00 AM",
-    "end": "2027-05-02 2:00 AM",
+    "end": "2027-05-02 11:59 PM",
     "location": "Niles High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3619130/occurrences/8491341"
   },
@@ -4626,7 +4626,7 @@
     "type": "School Activity",
     "color": "#0eed3f",
     "start": "2027-03-11 12:00 AM",
-    "end": "2027-03-11 2:00 AM",
+    "end": "2027-03-11 11:59 PM",
     "location": "Holy Family Church",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3636493/occurrences/8522058"
   },

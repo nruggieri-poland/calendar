@@ -133,7 +133,7 @@ function parseIcs(text, feed) {
         event.end = formatDate(line, true);
         event._dtend = line.split(":").pop().trim();
 
-        // Fix ICS "next-day" all-day end dates
+        // Fix ICS "next-day" all-day end dates (DATE-only DTEND)
         if (event.start && event.end && !line.includes("T")) {
           const startDatePart = event.start.split(" ")[0];
           const endDatePart = event.end.split(" ")[0];
@@ -145,6 +145,14 @@ function parseIcs(text, feed) {
             event.end = toEasternString(corrected);
             event._dtend = null; // signal to use original for ICS
           }
+        }
+
+        // Fix timed "midnight-start" events (FMX all-day/TBA encoding: 12 AM – 2 AM)
+        if (event.start && event.start.endsWith("12:00 AM")) {
+          const s = event.start.split("-");
+          event.end = toEasternString(
+            new Date(parseInt(s[0]), parseInt(s[1]) - 1, parseInt(s[2]), 23, 59)
+          );
         }
       }
       if (line.startsWith("LOCATION")) {
