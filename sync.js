@@ -8,8 +8,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const FEEDS_CSV_URL =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vSATVO6MeraRQxM9TyiEOduUpTtrliflsQEzwmOGAxXFGLH3MOLCkC9RIH76FfAuf4dj4UkzmrKKPsL/pub?output=csv";
+const FEEDS_CSV_PATH = path.join(__dirname, "plsd-ics.csv");
 
 const OUTPUT_DIR = path.join(__dirname, "output");
 const TIMEZONE = "America/New_York";
@@ -234,8 +233,8 @@ function writeIcs(events) {
 // ---------------------------------------------------------------------------
 
 async function main() {
-  console.log("📥 Fetching feeds config CSV…");
-  const csvText = await fetchText(FEEDS_CSV_URL);
+  console.log("📥 Reading feeds config CSV…");
+  const csvText = fs.readFileSync(FEEDS_CSV_PATH, "utf8");
   const feeds = parseFeedsCsv(csvText);
   console.log(`   Found ${feeds.length} feed(s)`);
 
