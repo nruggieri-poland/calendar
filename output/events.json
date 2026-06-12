@@ -13761,17 +13761,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3550668/occurrences/8361952"
   },
   {
-    "uid": "schedule-request-2448311-occurrence-5895678",
-    "title": "2448311 - Physical's All Athletes",
-    "summary": "2448311 - Physical's All Athletes",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2025-06-11 12:00 PM",
-    "end": "2025-06-11 2:00 PM",
-    "location": "PSHS Teacher's Lounge",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2448311/occurrences/5895678"
-  },
-  {
     "uid": "schedule-request-2575038-occurrence-6349177",
     "title": "2575038 - Time: TBA - Labor Day",
     "summary": "2575038 - Time: TBA - Labor Day",
@@ -14056,17 +14045,6 @@
     "end": "2025-12-20 9:00 AM",
     "location": "PSHS Caf, Aud, PE Gym, Lib, Fieldhouse Lobby",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2851040/occurrences/6937883"
-  },
-  {
-    "uid": "schedule-request-2867953-occurrence-6969461",
-    "title": "2867953 - Time: TBA - PE Gym Closed Flooring",
-    "summary": "2867953 - Time: TBA - PE Gym Closed Flooring",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2025-06-11 12:00 AM",
-    "end": "2025-06-11 7:59 PM",
-    "location": "3199 Dobbins Rd Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2867953/occurrences/6969461"
   },
   {
     "uid": "schedule-request-2867954-occurrence-6969462",
