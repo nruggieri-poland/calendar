@@ -168,6 +168,62 @@ function parseIcs(text, feed) {
 }
 
 // ---------------------------------------------------------------------------
+// Changelog
+// ---------------------------------------------------------------------------
+
+const TRACKED_FIELDS = ["title", "start", "end", "location", "type", "color"];
+
+function generateDiff(oldEvents, newEvents) {
+  const oldByUid = new Map(oldEvents.filter(e => e.uid).map(e => [e.uid, e]));
+  const newByUid = new Map(newEvents.filter(e => e.uid).map(e => [e.uid, e]));
+
+  const added = [];
+  const removed = [];
+  const edited = [];
+
+  for (const [uid, ev] of newByUid) {
+    if (!oldByUid.has(uid)) {
+      added.push({ uid, title: ev.title, type: ev.type, start: ev.start, end: ev.end });
+    } else {
+      const old = oldByUid.get(uid);
+      const changes = {};
+      for (const field of TRACKED_FIELDS) {
+        const oldVal = old[field] || "";
+        const newVal = ev[field] || "";
+        if (oldVal !== newVal) changes[field] = { from: oldVal, to: newVal };
+      }
+      if (Object.keys(changes).length > 0) {
+        edited.push({ uid, title: ev.title, type: ev.type, start: ev.start, end: ev.end, changes });
+      }
+    }
+  }
+
+  for (const [uid, ev] of oldByUid) {
+    if (!newByUid.has(uid)) {
+      removed.push({ uid, title: ev.title, type: ev.type, start: ev.start, end: ev.end });
+    }
+  }
+
+  return { added, removed, edited };
+}
+
+function appendChangelog(diff) {
+  const changelogPath = path.join(OUTPUT_DIR, "changelog.json");
+  let entries = [];
+  if (fs.existsSync(changelogPath)) {
+    try { entries = JSON.parse(fs.readFileSync(changelogPath, "utf8")); } catch {}
+  }
+  entries.unshift({
+    timestamp: new Date().toISOString(),
+    added: diff.added,
+    removed: diff.removed,
+    edited: diff.edited,
+  });
+  if (entries.length > 200) entries = entries.slice(0, 200);
+  fs.writeFileSync(changelogPath, JSON.stringify(entries, null, 2));
+}
+
+// ---------------------------------------------------------------------------
 // Output writers
 // ---------------------------------------------------------------------------
 
@@ -238,6 +294,13 @@ async function main() {
   const feeds = parseFeedsCsv(csvText);
   console.log(`   Found ${feeds.length} feed(s)`);
 
+  // Load previous events for diffing before we overwrite
+  const eventsJsonPath = path.join(OUTPUT_DIR, "events.json");
+  let previousEvents = [];
+  if (fs.existsSync(eventsJsonPath)) {
+    try { previousEvents = JSON.parse(fs.readFileSync(eventsJsonPath, "utf8")); } catch {}
+  }
+
   const allEvents = [];
 
   for (const feed of feeds) {
@@ -255,6 +318,23 @@ async function main() {
   console.log(`\n✅ Total events: ${allEvents.length}`);
 
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+
+  // Diff and write changelog (skip on first run when there's nothing to compare)
+  if (previousEvents.length > 0) {
+    const normalised = allEvents.map(e => {
+      const obj = {};
+      CSV_HEADERS.forEach(h => { obj[h] = e[h] || ""; });
+      return obj;
+    });
+    const diff = generateDiff(previousEvents, normalised);
+    const hasChanges = diff.added.length > 0 || diff.removed.length > 0 || diff.edited.length > 0;
+    if (hasChanges) {
+      console.log(`📋 Changes: +${diff.added.length} added  -${diff.removed.length} removed  ~${diff.edited.length} edited`);
+      appendChangelog(diff);
+    } else {
+      console.log("📋 No event changes detected");
+    }
+  }
 
   writeJson(allEvents);
   writeCsv(allEvents);

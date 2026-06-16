@@ -44,7 +44,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/events.json output/events.csv output/events.ics
+          git add output/events.json output/events.csv output/events.ics output/changelog.json
           # Only commit if there are actual changes
           if git diff --cached --quiet; then
             echo "No changes — skipping commit"
