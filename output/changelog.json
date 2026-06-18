@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-06-18T08:40:54.624Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2867957-occurrence-6969465",
+        "title": "2867957 - Time: TBA - PE Gym Closed Flooring",
+        "type": "School Activity",
+        "start": "2025-06-17 12:00 AM",
+        "end": "2025-06-17 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-06-17T08:58:14.153Z",
     "added": [],
     "removed": [
