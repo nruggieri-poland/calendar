@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-06-19T06:12:23.815Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2868097-occurrence-6969866",
+        "title": "2868097 - Girls 8th Volleyball (MS Volleyball Open Gym)",
+        "type": "Other",
+        "start": "2025-06-18 12:00 PM",
+        "end": "2025-06-18 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-2867958-occurrence-6969466",
+        "title": "2867958 - Time: TBA - PE Gym Closed Flooring",
+        "type": "School Activity",
+        "start": "2025-06-18 12:00 AM",
+        "end": "2025-06-18 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-06-18T08:40:54.624Z",
     "added": [],
     "removed": [
