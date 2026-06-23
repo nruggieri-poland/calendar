@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-06-23T06:45:52.283Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2905199-occurrence-7104844",
+        "title": "2905199 - Girls Varsity Lacrosse",
+        "type": "Athletics - Home",
+        "start": "2025-06-22 6:00 PM",
+        "end": "2025-06-22 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-06-22T09:44:17.514Z",
     "added": [],
     "removed": [
