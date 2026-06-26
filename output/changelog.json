@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-06-26T06:51:07.868Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2697893-occurrence-6566234",
+        "title": "2697893 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-06-25 6:00 PM",
+        "end": "2025-06-25 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2867963-occurrence-6969471",
+        "title": "2867963 - Time: TBA - PE Gym Closed Flooring",
+        "type": "School Activity",
+        "start": "2025-06-25 12:00 AM",
+        "end": "2025-06-25 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-2938416-occurrence-7154086",
+        "title": "2938416 - All Sports Boosters Meeting",
+        "type": "School Activity",
+        "start": "2025-06-25 7:00 PM",
+        "end": "2025-06-25 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-06-25T05:00:36.864Z",
     "added": [],
     "removed": [
