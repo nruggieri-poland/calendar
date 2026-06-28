@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-06-28T07:46:33.031Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2867966-occurrence-6969474",
+        "title": "2867966 - Time: TBA - PE Gym Closed Flooring",
+        "type": "School Activity",
+        "start": "2025-06-27 12:00 AM",
+        "end": "2025-06-27 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-2867967-occurrence-6969475",
+        "title": "2867967 - Time: TBA - Field House Gym Closed",
+        "type": "School Activity",
+        "start": "2025-06-27 12:00 AM",
+        "end": "2025-06-27 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-06-27T04:48:14.601Z",
     "added": [],
     "removed": [
