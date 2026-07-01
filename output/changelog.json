@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-07-01T07:08:43.124Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2905202-occurrence-7104848",
+        "title": "2905202 - Girls Varsity Volleyball (Volleyball Open Gyms )",
+        "type": "Athletics - Home",
+        "start": "2025-06-30 8:00 AM",
+        "end": "2025-06-30 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-2867968-occurrence-6969476",
+        "title": "2867968 - Time: TBA - Field House Gym Closed",
+        "type": "School Activity",
+        "start": "2025-06-30 12:00 AM",
+        "end": "2025-06-30 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-06-29T02:56:28.179Z",
     "added": [],
     "removed": [],
