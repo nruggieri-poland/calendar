@@ -18,9 +18,15 @@ const TIMEZONE = "America/New_York";
 // ---------------------------------------------------------------------------
 
 async function fetchText(url) {
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
-  return res.text();
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 30_000);
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+    return res.text();
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -240,7 +246,9 @@ function writeJson(events) {
 
 function escapeCsv(val) {
   if (val == null) return "";
-  const s = String(val);
+  let s = String(val);
+  // Neutralize leading formula-trigger chars so Excel/Sheets don't execute them.
+  if (/^[=+\-@\t]/.test(s)) s = `'${s}`;
   if (s.includes(",") || s.includes('"') || s.includes("\n")) {
     return `"${s.replace(/"/g, '""')}"`;
   }
@@ -253,6 +261,19 @@ function writeCsv(events) {
     rows.push(CSV_HEADERS.map((h) => escapeCsv(e[h] || "")).join(","));
   }
   fs.writeFileSync(path.join(OUTPUT_DIR, "events.csv"), rows.join("\n"));
+}
+
+// Strip CR/LF so a value from an external ICS feed can't inject new iCal lines.
+function icalRaw(val) {
+  return String(val ?? "").replace(/[\r\n]/g, "");
+}
+
+// Strip CR/LF and apply RFC 5545 §3.3.11 text escaping.
+function icalText(val) {
+  return icalRaw(val)
+    .replace(/\\/g, "\\\\")
+    .replace(/,/g, "\\,")
+    .replace(/;/g, "\\;");
 }
 
 function writeIcs(events) {
@@ -268,14 +289,14 @@ function writeIcs(events) {
 
   for (const e of events) {
     lines.push("BEGIN:VEVENT");
-    if (e.uid)      lines.push(`UID:${e.uid}`);
-    if (e._dtstart) lines.push(`DTSTART:${e._dtstart}`);
-    if (e._dtend)   lines.push(`DTEND:${e._dtend}`);
-    if (e.summary)  lines.push(`SUMMARY:${e.summary.replace(/,/g, "\\,")}`);
-    if (e.location) lines.push(`LOCATION:${e.location.replace(/,/g, "\\,")}`);
-    if (e.type)     lines.push(`CATEGORIES:${e.type}`);
-    if (e.link)     lines.push(`URL:${e.link}`);
-    lines.push(`X-COLOR:${e.color || ""}`);
+    if (e.uid)      lines.push(`UID:${icalRaw(e.uid)}`);
+    if (e._dtstart) lines.push(`DTSTART:${icalRaw(e._dtstart)}`);
+    if (e._dtend)   lines.push(`DTEND:${icalRaw(e._dtend)}`);
+    if (e.summary)  lines.push(`SUMMARY:${icalText(e.summary)}`);
+    if (e.location) lines.push(`LOCATION:${icalText(e.location)}`);
+    if (e.type)     lines.push(`CATEGORIES:${icalText(e.type)}`);
+    if (e.link)     lines.push(`URL:${icalRaw(e.link)}`);
+    lines.push(`X-COLOR:${icalRaw(e.color || "")}`);
     lines.push(`DTSTAMP:${new Date().toISOString().replace(/[-:.]/g, "").slice(0, 15)}Z`);
     lines.push("END:VEVENT");
   }
