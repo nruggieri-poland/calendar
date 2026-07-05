@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-07-05T07:20:21.375Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2867972-occurrence-6969480",
+        "title": "2867972 - Time: TBA - Field House Gym Closed",
+        "type": "School Activity",
+        "start": "2025-07-04 12:00 AM",
+        "end": "2025-07-04 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-04T04:30:37.081Z",
     "added": [],
     "removed": [
