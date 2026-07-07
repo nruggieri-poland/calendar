@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-07-07T06:41:21.408Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2905203-occurrence-7104849",
+        "title": "2905203 - Girls Varsity Lacrosse",
+        "type": "Athletics - Home",
+        "start": "2025-07-06 6:00 PM",
+        "end": "2025-07-06 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-2867974-occurrence-6969482",
+        "title": "2867974 - Time: TBA - Field House Gym Closed",
+        "type": "School Activity",
+        "start": "2025-07-06 12:00 AM",
+        "end": "2025-07-06 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-06T05:06:58.849Z",
     "added": [],
     "removed": [
