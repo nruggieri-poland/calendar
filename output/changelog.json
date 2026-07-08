@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-07-08T05:45:49.378Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2868098-occurrence-6969867",
+        "title": "2868098 - Girls 8th Volleyball (MS Volleyball Open Gym)",
+        "type": "Other",
+        "start": "2025-07-07 12:00 PM",
+        "end": "2025-07-07 2:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-07T06:41:21.408Z",
     "added": [],
     "removed": [
