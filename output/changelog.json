@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-07-10T06:39:31.206Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2942215-occurrence-7168536",
+        "title": "2942215 - Girls Varsity Volleyball (Open Gym)",
+        "type": "Athletics - Home",
+        "start": "2025-07-09 8:00 AM",
+        "end": "2025-07-09 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-2868099-occurrence-6969868",
+        "title": "2868099 - Girls 8th Volleyball (MS Volleyball Open Gym)",
+        "type": "Other",
+        "start": "2025-07-09 12:00 PM",
+        "end": "2025-07-09 2:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-08T05:45:49.378Z",
     "added": [],
     "removed": [
