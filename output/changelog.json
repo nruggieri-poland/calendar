@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-07-14T04:54:41.957Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2905204-occurrence-7104850",
+        "title": "2905204 - Girls Varsity Lacrosse",
+        "type": "Athletics - Home",
+        "start": "2025-07-13 6:00 PM",
+        "end": "2025-07-13 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-2867978-occurrence-6969486",
+        "title": "2867978 - Time: TBA - MS Gym Closed",
+        "type": "School Activity",
+        "start": "2025-07-13 12:00 AM",
+        "end": "2025-07-13 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-13T06:10:11.525Z",
     "added": [],
     "removed": [
