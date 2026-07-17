@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-07-17T05:36:42.238Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2942223-occurrence-7168547",
+        "title": "2942223 - Girls Varsity Volleyball vs Cardinal Mooney High School (Scrimmage)",
+        "type": "Athletics - Home",
+        "start": "2025-07-16 9:00 AM",
+        "end": "2025-07-16 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-2697894-occurrence-6566235",
+        "title": "2697894 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-07-16 6:00 PM",
+        "end": "2025-07-16 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2867981-occurrence-6969489",
+        "title": "2867981 - Time: TBA - MS Gym Closed",
+        "type": "School Activity",
+        "start": "2025-07-16 12:00 AM",
+        "end": "2025-07-16 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-16T05:34:43.173Z",
     "added": [],
     "removed": [
