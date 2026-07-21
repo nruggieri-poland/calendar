@@ -8041,17 +8041,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2903806/occurrences/7099562"
   },
   {
-    "uid": "schedule-request-2905205-occurrence-7104851",
-    "title": "2905205 - Girls Varsity Lacrosse",
-    "summary": "2905205 - Girls Varsity Lacrosse",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-07-20 6:00 PM",
-    "end": "2025-07-20 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2905205/occurrences/7104851"
-  },
-  {
     "uid": "schedule-request-2905206-occurrence-7104852",
     "title": "2905206 - Girls Varsity Lacrosse",
     "summary": "2905206 - Girls Varsity Lacrosse",
@@ -13792,17 +13781,6 @@
     "end": "2025-12-20 9:00 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2851040/occurrences/6937883"
-  },
-  {
-    "uid": "schedule-request-2867985-occurrence-6969493",
-    "title": "2867985 - Time: TBA - MS Gym Closed",
-    "summary": "2867985 - Time: TBA - MS Gym Closed",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2025-07-20 12:00 AM",
-    "end": "2025-07-20 7:59 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2867985/occurrences/6969493"
   },
   {
     "uid": "schedule-request-2870053-occurrence-6973930",
