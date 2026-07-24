@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-07-24T05:45:07.973Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2969541-occurrence-7231004",
+        "title": "2969541 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2025-07-23 5:00 PM",
+        "end": "2025-07-23 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-2868101-occurrence-6969870",
+        "title": "2868101 - Girls 8th Volleyball (MS Volleyball Open Gym)",
+        "type": "Other",
+        "start": "2025-07-23 12:00 PM",
+        "end": "2025-07-23 2:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-23T05:49:05.216Z",
     "added": [],
     "removed": [
