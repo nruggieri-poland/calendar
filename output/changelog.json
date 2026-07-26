@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-07-26T05:55:18.948Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2870146-occurrence-6974588",
+        "title": "2870146 - Time: TBA - Stadium Training Day",
+        "type": "School Activity",
+        "start": "2025-07-25 12:00 AM",
+        "end": "2025-07-25 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-24T05:45:07.973Z",
     "added": [],
     "removed": [
