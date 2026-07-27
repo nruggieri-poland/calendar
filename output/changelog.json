@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-07-27T06:23:42.720Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2942220-occurrence-7168541",
+        "title": "2942220 - Girls Varsity Volleyball (Open Gym)",
+        "type": "Athletics - Home",
+        "start": "2025-07-26 8:00 AM",
+        "end": "2025-07-26 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-26T05:55:18.948Z",
     "added": [],
     "removed": [
