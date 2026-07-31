@@ -1837,17 +1837,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2886032/occurrences/7017878"
   },
   {
-    "uid": "schedule-request-2903757-occurrence-7099368",
-    "title": "2903757 - Girls Varsity Golf @ Columbiana High School",
-    "summary": "2903757 - Girls Varsity Golf @ Columbiana High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-07-30 12:00 PM",
-    "end": "2025-07-30 2:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2903757/occurrences/7099368"
-  },
-  {
     "uid": "schedule-request-2903758-occurrence-7099369",
     "title": "2903758 - Girls Varsity Golf @ Hubbard High School",
     "summary": "2903758 - Girls Varsity Golf @ Hubbard High School",
@@ -8094,17 +8083,6 @@
     "end": "2026-04-01 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2918689/occurrences/7124928"
-  },
-  {
-    "uid": "schedule-request-2939772-occurrence-7157704",
-    "title": "2939772 - Boys Varsity Golf vs Hubbard High School",
-    "summary": "2939772 - Boys Varsity Golf vs Hubbard High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-07-30 8:00 AM",
-    "end": "2025-07-30 10:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2939772/occurrences/7157704"
   },
   {
     "uid": "schedule-request-2939773-occurrence-7157705",
