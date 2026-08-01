@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-01T05:50:25.321Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2903758-occurrence-7099369",
+        "title": "2903758 - Girls Varsity Golf @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2025-07-31 3:00 PM",
+        "end": "2025-07-31 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-2939773-occurrence-7157705",
+        "title": "2939773 - Boys Varsity Golf vs Springfield Local High School",
+        "type": "Athletics - Home",
+        "start": "2025-07-31 8:00 AM",
+        "end": "2025-07-31 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-07-31T04:18:41.779Z",
     "added": [],
     "removed": [

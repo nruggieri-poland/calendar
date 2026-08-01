@@ -1837,17 +1837,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2886032/occurrences/7017878"
   },
   {
-    "uid": "schedule-request-2903758-occurrence-7099369",
-    "title": "2903758 - Girls Varsity Golf @ Hubbard High School",
-    "summary": "2903758 - Girls Varsity Golf @ Hubbard High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-07-31 3:00 PM",
-    "end": "2025-07-31 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2903758/occurrences/7099369"
-  },
-  {
     "uid": "schedule-request-2903759-occurrence-7099370",
     "title": "2903759 - Girls Varsity Golf @ OPEN (Tiger Invitational)",
     "summary": "2903759 - Girls Varsity Golf @ OPEN (Tiger Invitational)",
@@ -8083,17 +8072,6 @@
     "end": "2026-04-01 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2918689/occurrences/7124928"
-  },
-  {
-    "uid": "schedule-request-2939773-occurrence-7157705",
-    "title": "2939773 - Boys Varsity Golf vs Springfield Local High School",
-    "summary": "2939773 - Boys Varsity Golf vs Springfield Local High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-07-31 8:00 AM",
-    "end": "2025-07-31 10:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2939773/occurrences/7157705"
   },
   {
     "uid": "schedule-request-2939919-occurrence-7157902",
