@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-03T06:15:32.027Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2837384-occurrence-6904859",
+        "title": "2837384 - Boys Junior Varsity Soccer @ Louisville High School",
+        "type": "Athletics - Away",
+        "start": "2025-08-02 10:00 AM",
+        "end": "2025-08-02 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-2837385-occurrence-6904860",
+        "title": "2837385 - Boys Varsity Soccer @ Louisville High School",
+        "type": "Athletics - Away",
+        "start": "2025-08-02 12:00 PM",
+        "end": "2025-08-02 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-2941211-occurrence-7161801",
+        "title": "2941211 - PLB League Weigh Ins",
+        "type": "Other",
+        "start": "2025-08-02 8:00 AM",
+        "end": "2025-08-02 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-02T16:03:24.501Z",
     "added": [],
     "removed": [
