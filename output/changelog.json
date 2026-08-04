@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-04T04:08:04.520Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2861759-occurrence-6958259",
+        "title": "2861759 - PLB Football & Cheer Photo Day",
+        "type": "Other",
+        "start": "2025-08-03 8:00 AM",
+        "end": "2025-08-03 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-03T20:22:56.352Z",
     "added": [
       {
