@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-08-04T15:22:23.725Z",
+    "added": [
+      {
+        "uid": "schedule-request-3859684-occurrence-8956945",
+        "title": "3859684 - Baseball (Boys V) @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-22 5:00 PM",
+        "end": "2027-04-22 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859685-occurrence-8956946",
+        "title": "3859685 - Baseball (Boys JV) @ Springfield Local High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-02 5:00 PM",
+        "end": "2027-04-02 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859686-occurrence-8956947",
+        "title": "3859686 - Baseball (Boys JV) @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-15 5:00 PM",
+        "end": "2027-04-15 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859687-occurrence-8956948",
+        "title": "3859687 - Baseball (Boys JV) @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-08 5:00 PM",
+        "end": "2027-04-08 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3860325-occurrence-8958176",
+        "title": "3860325 - Soccer (Girls V) @ Springfield Local High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-06 6:30 PM",
+        "end": "2026-08-06 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3859680-occurrence-8956941",
+        "title": "3859680 - Baseball (Boys V) vs Springfield Local High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-02 5:00 PM",
+        "end": "2027-04-02 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859681-occurrence-8956942",
+        "title": "3859681 - Baseball (Boys JV) vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-22 12:00 PM",
+        "end": "2027-04-22 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859682-occurrence-8956943",
+        "title": "3859682 - Baseball (Boys V) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-15 5:00 PM",
+        "end": "2027-04-15 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859683-occurrence-8956944",
+        "title": "3859683 - Baseball (Boys V) vs Howland High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-08 5:00 PM",
+        "end": "2027-04-08 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859688-occurrence-8956949",
+        "title": "3859688 - MS Volleyball Tryouts @ PE Gym",
+        "type": "Other",
+        "start": "2026-08-04 11:00 AM",
+        "end": "2026-08-04 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-3859689-occurrence-8956950",
+        "title": "3859689 - All Sports Booster Meeting @ PSHS Library",
+        "type": "Other",
+        "start": "2026-08-04 6:00 PM",
+        "end": "2026-08-04 7:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858261-occurrence-8952822",
+        "title": "3858261 - MS Volleyball Tryouts @ PE Gym",
+        "type": "Other",
+        "start": "2026-08-01 10:00 AM",
+        "end": "2026-08-01 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858261-occurrence-8952823",
+        "title": "3858261 - MS Volleyball Tryouts @ PE Gym",
+        "type": "Other",
+        "start": "2026-08-03 10:00 AM",
+        "end": "2026-08-03 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858261-occurrence-8952824",
+        "title": "3858261 - MS Volleyball Tryouts @ PE Gym",
+        "type": "Other",
+        "start": "2026-08-04 10:00 AM",
+        "end": "2026-08-04 12:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-04T04:08:04.520Z",
     "added": [],
     "removed": [

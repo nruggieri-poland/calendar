@@ -8624,6 +8624,61 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858223/occurrences/8952746"
   },
   {
+    "uid": "schedule-request-3859684-occurrence-8956945",
+    "title": "3859684 - Baseball (Boys V) @ Canfield High School",
+    "summary": "3859684 - Baseball (Boys V) @ Canfield High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-22 5:00 PM",
+    "end": "2027-04-22 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859684/occurrences/8956945"
+  },
+  {
+    "uid": "schedule-request-3859685-occurrence-8956946",
+    "title": "3859685 - Baseball (Boys JV) @ Springfield Local High School",
+    "summary": "3859685 - Baseball (Boys JV) @ Springfield Local High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-02 5:00 PM",
+    "end": "2027-04-02 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859685/occurrences/8956946"
+  },
+  {
+    "uid": "schedule-request-3859686-occurrence-8956947",
+    "title": "3859686 - Baseball (Boys JV) @ Boardman High School",
+    "summary": "3859686 - Baseball (Boys JV) @ Boardman High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-15 5:00 PM",
+    "end": "2027-04-15 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859686/occurrences/8956947"
+  },
+  {
+    "uid": "schedule-request-3859687-occurrence-8956948",
+    "title": "3859687 - Baseball (Boys JV) @ Howland High School",
+    "summary": "3859687 - Baseball (Boys JV) @ Howland High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-08 5:00 PM",
+    "end": "2027-04-08 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859687/occurrences/8956948"
+  },
+  {
+    "uid": "schedule-request-3860325-occurrence-8958176",
+    "title": "3860325 - Soccer (Girls V) @ Springfield Local High School",
+    "summary": "3860325 - Soccer (Girls V) @ Springfield Local High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-08-06 6:30 PM",
+    "end": "2026-08-06 8:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3860325/occurrences/8958176"
+  },
+  {
     "uid": "schedule-request-2496875-occurrence-6167701",
     "title": "2496875 - Boys/Girls Varsity Track vs OPEN (Northeast 8 Championship Meet )",
     "summary": "2496875 - Boys/Girls Varsity Track vs OPEN (Northeast 8 Championship Meet )",
@@ -17347,6 +17402,50 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857968/occurrences/8952376"
   },
   {
+    "uid": "schedule-request-3859680-occurrence-8956941",
+    "title": "3859680 - Baseball (Boys V) vs Springfield Local High School",
+    "summary": "3859680 - Baseball (Boys V) vs Springfield Local High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-02 5:00 PM",
+    "end": "2027-04-02 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859680/occurrences/8956941"
+  },
+  {
+    "uid": "schedule-request-3859681-occurrence-8956942",
+    "title": "3859681 - Baseball (Boys JV) vs Canfield High School",
+    "summary": "3859681 - Baseball (Boys JV) vs Canfield High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-22 12:00 PM",
+    "end": "2027-04-22 2:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859681/occurrences/8956942"
+  },
+  {
+    "uid": "schedule-request-3859682-occurrence-8956943",
+    "title": "3859682 - Baseball (Boys V) vs Boardman High School",
+    "summary": "3859682 - Baseball (Boys V) vs Boardman High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-15 5:00 PM",
+    "end": "2027-04-15 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859682/occurrences/8956943"
+  },
+  {
+    "uid": "schedule-request-3859683-occurrence-8956944",
+    "title": "3859683 - Baseball (Boys V) vs Howland High School",
+    "summary": "3859683 - Baseball (Boys V) vs Howland High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-08 5:00 PM",
+    "end": "2027-04-08 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859683/occurrences/8956944"
+  },
+  {
     "uid": "schedule-request-2697895-occurrence-6566236",
     "title": "2697895 - Board Meeting - Poland BOE",
     "summary": "2697895 - Board Meeting - Poland BOE",
@@ -18777,39 +18876,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952821"
   },
   {
-    "uid": "schedule-request-3858261-occurrence-8952822",
-    "title": "3858261 - MS Volleyball Tryouts @ PE Gym",
-    "summary": "3858261 - MS Volleyball Tryouts @ PE Gym",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-08-01 10:00 AM",
-    "end": "2026-08-01 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858261/occurrences/8952822"
-  },
-  {
-    "uid": "schedule-request-3858261-occurrence-8952823",
-    "title": "3858261 - MS Volleyball Tryouts @ PE Gym",
-    "summary": "3858261 - MS Volleyball Tryouts @ PE Gym",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-08-03 10:00 AM",
-    "end": "2026-08-03 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858261/occurrences/8952823"
-  },
-  {
-    "uid": "schedule-request-3858261-occurrence-8952824",
-    "title": "3858261 - MS Volleyball Tryouts @ PE Gym",
-    "summary": "3858261 - MS Volleyball Tryouts @ PE Gym",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-08-04 10:00 AM",
-    "end": "2026-08-04 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858261/occurrences/8952824"
-  },
-  {
     "uid": "schedule-request-3858262-occurrence-8952825",
     "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -18907,6 +18973,28 @@
     "end": "2026-11-09 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858262/occurrences/8952833"
+  },
+  {
+    "uid": "schedule-request-3859688-occurrence-8956949",
+    "title": "3859688 - MS Volleyball Tryouts @ PE Gym",
+    "summary": "3859688 - MS Volleyball Tryouts @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-08-04 11:00 AM",
+    "end": "2026-08-04 1:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859688/occurrences/8956949"
+  },
+  {
+    "uid": "schedule-request-3859689-occurrence-8956950",
+    "title": "3859689 - All Sports Booster Meeting @ PSHS Library",
+    "summary": "3859689 - All Sports Booster Meeting @ PSHS Library",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-08-04 6:00 PM",
+    "end": "2026-08-04 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3859689/occurrences/8956950"
   },
   {
     "uid": "schedule-request-2575038-occurrence-6349177",
