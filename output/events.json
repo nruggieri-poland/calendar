@@ -8679,6 +8679,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860325/occurrences/8958176"
   },
   {
+    "uid": "schedule-request-3860560-occurrence-8959200",
+    "title": "3860560 - Baseball (Boys V) @ Salem High School",
+    "summary": "3860560 - Baseball (Boys V) @ Salem High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-05-14 7:00 PM",
+    "end": "2027-05-14 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3860560/occurrences/8959200"
+  },
+  {
     "uid": "schedule-request-2496875-occurrence-6167701",
     "title": "2496875 - Boys/Girls Varsity Track vs OPEN (Northeast 8 Championship Meet )",
     "summary": "2496875 - Boys/Girls Varsity Track vs OPEN (Northeast 8 Championship Meet )",
@@ -17444,6 +17455,17 @@
     "end": "2027-04-08 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3859683/occurrences/8956944"
+  },
+  {
+    "uid": "schedule-request-3860558-occurrence-8959198",
+    "title": "3860558 - Baseball (Boys JV) vs Salem High School",
+    "summary": "3860558 - Baseball (Boys JV) vs Salem High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-05-14 7:00 PM",
+    "end": "2027-05-14 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3860558/occurrences/8959198"
   },
   {
     "uid": "schedule-request-2697895-occurrence-6566236",
