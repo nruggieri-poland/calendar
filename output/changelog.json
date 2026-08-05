@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-05T13:54:46.052Z",
+    "added": [
+      {
+        "uid": "schedule-request-3862320-occurrence-8964434",
+        "title": "3862320 - Football picnic @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-08-08 4:00 PM",
+        "end": "2026-08-08 8:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-05T06:23:35.115Z",
     "added": [],
     "removed": [
