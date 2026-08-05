@@ -1320,28 +1320,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2719567/occurrences/6607004"
   },
   {
-    "uid": "schedule-request-2719952-occurrence-6608203",
-    "title": "2719952 - Girls Junior Varsity Soccer @ Warren G Harding HS (Scrimmage)",
-    "summary": "2719952 - Girls Junior Varsity Soccer @ Warren G Harding HS (Scrimmage)",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-04 6:00 PM",
-    "end": "2025-08-04 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2719952/occurrences/6608203"
-  },
-  {
-    "uid": "schedule-request-2719953-occurrence-6608204",
-    "title": "2719953 - Girls Varsity Soccer @ Warren G Harding HS (Scrimmage)",
-    "summary": "2719953 - Girls Varsity Soccer @ Warren G Harding HS (Scrimmage)",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-04 8:00 PM",
-    "end": "2025-08-04 10:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2719953/occurrences/6608204"
-  },
-  {
     "uid": "schedule-request-2720100-occurrence-6608717",
     "title": "2720100 - Boys 7th Basketball @ Boardman Center Middle School - Youngstown (at Boardman Glenwood)",
     "summary": "2720100 - Boys 7th Basketball @ Boardman Center Middle School - Youngstown (at Boardman Glenwood)",
@@ -2044,17 +2022,6 @@
     "end": "2025-09-15 3:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2939706/occurrences/7157604"
-  },
-  {
-    "uid": "schedule-request-2939774-occurrence-7157706",
-    "title": "2939774 - Boys Varsity Golf @ OPEN (JFK Invitational)",
-    "summary": "2939774 - Boys Varsity Golf @ OPEN (JFK Invitational)",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-04 10:00 AM",
-    "end": "2025-08-04 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2939774/occurrences/7157706"
   },
   {
     "uid": "schedule-request-2939775-occurrence-7157707",

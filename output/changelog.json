@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-05T06:23:35.115Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2719952-occurrence-6608203",
+        "title": "2719952 - Girls Junior Varsity Soccer @ Warren G Harding HS (Scrimmage)",
+        "type": "Athletics - Away",
+        "start": "2025-08-04 6:00 PM",
+        "end": "2025-08-04 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-2719953-occurrence-6608204",
+        "title": "2719953 - Girls Varsity Soccer @ Warren G Harding HS (Scrimmage)",
+        "type": "Athletics - Away",
+        "start": "2025-08-04 8:00 PM",
+        "end": "2025-08-04 10:00 PM"
+      },
+      {
+        "uid": "schedule-request-2939774-occurrence-7157706",
+        "title": "2939774 - Boys Varsity Golf @ OPEN (JFK Invitational)",
+        "type": "Athletics - Away",
+        "start": "2025-08-04 10:00 AM",
+        "end": "2025-08-04 12:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-04T17:40:05.762Z",
     "added": [
       {
