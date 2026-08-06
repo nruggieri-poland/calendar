@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-06T13:52:13.072Z",
+    "added": [
+      {
+        "uid": "schedule-request-3866266-occurrence-8973997",
+        "title": "3866266 - Holiday Shoppe @ PE Gym",
+        "type": "Other",
+        "start": "2026-11-07 9:00 AM",
+        "end": "2026-11-07 4:00 PM"
+      },
+      {
+        "uid": "schedule-request-3866267-occurrence-8973998",
+        "title": "3866267 - Holiday Shoppe Set Up @ PE Gym",
+        "type": "Other",
+        "start": "2026-11-06 9:00 AM",
+        "end": "2026-11-06 6:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-06T05:42:40.189Z",
     "added": [],
     "removed": [

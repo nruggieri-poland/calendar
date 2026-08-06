@@ -18942,6 +18942,28 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3862320/occurrences/8964434"
   },
   {
+    "uid": "schedule-request-3866266-occurrence-8973997",
+    "title": "3866266 - Holiday Shoppe @ PE Gym",
+    "summary": "3866266 - Holiday Shoppe @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-07 9:00 AM",
+    "end": "2026-11-07 4:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3866266/occurrences/8973997"
+  },
+  {
+    "uid": "schedule-request-3866267-occurrence-8973998",
+    "title": "3866267 - Holiday Shoppe Set Up @ PE Gym",
+    "summary": "3866267 - Holiday Shoppe Set Up @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-06 9:00 AM",
+    "end": "2026-11-06 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3866267/occurrences/8973998"
+  },
+  {
     "uid": "schedule-request-2575038-occurrence-6349177",
     "title": "2575038 - Time: TBA - Labor Day",
     "summary": "2575038 - Time: TBA - Labor Day",
