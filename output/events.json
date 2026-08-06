@@ -1793,17 +1793,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2886032/occurrences/7017878"
   },
   {
-    "uid": "schedule-request-2903759-occurrence-7099370",
-    "title": "2903759 - Girls Varsity Golf @ OPEN (Tiger Invitational)",
-    "summary": "2903759 - Girls Varsity Golf @ OPEN (Tiger Invitational)",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-05 9:00 AM",
-    "end": "2025-08-05 11:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2903759/occurrences/7099370"
-  },
-  {
     "uid": "schedule-request-2903760-occurrence-7099371",
     "title": "2903760 - Girls Varsity Golf @ Lakeview High School",
     "summary": "2903760 - Girls Varsity Golf @ Lakeview High School",
@@ -2022,17 +2011,6 @@
     "end": "2025-09-15 3:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2939706/occurrences/7157604"
-  },
-  {
-    "uid": "schedule-request-2939775-occurrence-7157707",
-    "title": "2939775 - Time: TBA - Boys Varsity Golf @ South Range High School (and Lakeview)",
-    "summary": "2939775 - Time: TBA - Boys Varsity Golf @ South Range High School (and Lakeview)",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-05 12:00 AM",
-    "end": "2025-08-05 7:59 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2939775/occurrences/7157707"
   },
   {
     "uid": "schedule-request-2939920-occurrence-7157903",
@@ -10195,17 +10173,6 @@
     "end": "2025-08-13 9:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2832999/occurrences/6892294"
-  },
-  {
-    "uid": "schedule-request-2842842-occurrence-6918980",
-    "title": "2842842 - Girls Varsity Volleyball vs Ursuline High School (Scrimmage)",
-    "summary": "2842842 - Girls Varsity Volleyball vs Ursuline High School (Scrimmage)",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-05 9:00 AM",
-    "end": "2025-08-05 11:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2842842/occurrences/6918980"
   },
   {
     "uid": "schedule-request-2850465-occurrence-6936942",

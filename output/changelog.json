@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-06T05:42:40.189Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2903759-occurrence-7099370",
+        "title": "2903759 - Girls Varsity Golf @ OPEN (Tiger Invitational)",
+        "type": "Athletics - Away",
+        "start": "2025-08-05 9:00 AM",
+        "end": "2025-08-05 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-2939775-occurrence-7157707",
+        "title": "2939775 - Time: TBA - Boys Varsity Golf @ South Range High School (and Lakeview)",
+        "type": "Athletics - Away",
+        "start": "2025-08-05 12:00 AM",
+        "end": "2025-08-05 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-2842842-occurrence-6918980",
+        "title": "2842842 - Girls Varsity Volleyball vs Ursuline High School (Scrimmage)",
+        "type": "Athletics - Home",
+        "start": "2025-08-05 9:00 AM",
+        "end": "2025-08-05 11:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-05T17:44:54.522Z",
     "added": [],
     "removed": [
