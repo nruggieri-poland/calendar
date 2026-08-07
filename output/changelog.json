@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-07T14:08:39.876Z",
+    "added": [
+      {
+        "uid": "schedule-request-3868507-occurrence-8980836",
+        "title": "3868507 - Soccer (Girls JV) @ Austintown Fitch High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-13 5:30 PM",
+        "end": "2026-08-13 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3868509-occurrence-8980838",
+        "title": "3868509 - Soccer (Girls V) @ Austintown Fitch High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-13 6:30 PM",
+        "end": "2026-08-13 8:30 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-07T05:35:53.664Z",
     "added": [],
     "removed": [
