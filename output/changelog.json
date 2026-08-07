@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-08-07T05:35:53.664Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2837386-occurrence-6904861",
+        "title": "2837386 - Boys Junior Varsity Soccer @ Warren G Harding HS",
+        "type": "Athletics - Away",
+        "start": "2025-08-06 5:00 PM",
+        "end": "2025-08-06 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-2837387-occurrence-6904862",
+        "title": "2837387 - Boys Varsity Soccer @ Warren G Harding HS",
+        "type": "Athletics - Away",
+        "start": "2025-08-06 7:00 PM",
+        "end": "2025-08-06 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2847060-occurrence-6927713",
+        "title": "2847060 - Boys Varsity Golf @ Brookfield HS (Brookfield Invitational)",
+        "type": "Athletics - Away",
+        "start": "2025-08-06 8:30 AM",
+        "end": "2025-08-06 10:30 AM"
+      },
+      {
+        "uid": "schedule-request-2721279-occurrence-6611252",
+        "title": "2721279 - Girls Junior Varsity Soccer vs Austintown Fitch HS (Scrimmage)",
+        "type": "Athletics - Home",
+        "start": "2025-08-06 5:30 PM",
+        "end": "2025-08-06 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2721280-occurrence-6611253",
+        "title": "2721280 - Girls Varsity Soccer vs Austintown Fitch HS (Scrimmage)",
+        "type": "Athletics - Home",
+        "start": "2025-08-06 7:30 PM",
+        "end": "2025-08-06 9:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-07T00:37:59.568Z",
     "added": [
       {

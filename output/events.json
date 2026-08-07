@@ -1595,28 +1595,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2760253/occurrences/6678066"
   },
   {
-    "uid": "schedule-request-2837386-occurrence-6904861",
-    "title": "2837386 - Boys Junior Varsity Soccer @ Warren G Harding HS",
-    "summary": "2837386 - Boys Junior Varsity Soccer @ Warren G Harding HS",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-06 5:00 PM",
-    "end": "2025-08-06 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2837386/occurrences/6904861"
-  },
-  {
-    "uid": "schedule-request-2837387-occurrence-6904862",
-    "title": "2837387 - Boys Varsity Soccer @ Warren G Harding HS",
-    "summary": "2837387 - Boys Varsity Soccer @ Warren G Harding HS",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-06 7:00 PM",
-    "end": "2025-08-06 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2837387/occurrences/6904862"
-  },
-  {
     "uid": "schedule-request-2840713-occurrence-6914509",
     "title": "2840713 - Boys Varsity Golf @ Lakeview High School (NE8 Championship)",
     "summary": "2840713 - Boys Varsity Golf @ Lakeview High School (NE8 Championship)",
@@ -1637,17 +1615,6 @@
     "end": "2025-08-08 9:30 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2847037/occurrences/6927673"
-  },
-  {
-    "uid": "schedule-request-2847060-occurrence-6927713",
-    "title": "2847060 - Boys Varsity Golf @ Brookfield HS (Brookfield Invitational)",
-    "summary": "2847060 - Boys Varsity Golf @ Brookfield HS (Brookfield Invitational)",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-06 8:30 AM",
-    "end": "2025-08-06 10:30 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2847060/occurrences/6927713"
   },
   {
     "uid": "schedule-request-2847064-occurrence-6927717",
@@ -10085,28 +10052,6 @@
     "end": "2026-01-12 8:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2720103/occurrences/6608720"
-  },
-  {
-    "uid": "schedule-request-2721279-occurrence-6611252",
-    "title": "2721279 - Girls Junior Varsity Soccer vs Austintown Fitch HS (Scrimmage)",
-    "summary": "2721279 - Girls Junior Varsity Soccer vs Austintown Fitch HS (Scrimmage)",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-06 5:30 PM",
-    "end": "2025-08-06 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2721279/occurrences/6611252"
-  },
-  {
-    "uid": "schedule-request-2721280-occurrence-6611253",
-    "title": "2721280 - Girls Varsity Soccer vs Austintown Fitch HS (Scrimmage)",
-    "summary": "2721280 - Girls Varsity Soccer vs Austintown Fitch HS (Scrimmage)",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-06 7:30 PM",
-    "end": "2025-08-06 9:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2721280/occurrences/6611253"
   },
   {
     "uid": "schedule-request-2735774-occurrence-6641602",
