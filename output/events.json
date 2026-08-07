@@ -8624,6 +8624,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3868509/occurrences/8980838"
   },
   {
+    "uid": "schedule-request-3869526-occurrence-8982572",
+    "title": "3869526 - Soccer (Boys JV) @ Louisville High School",
+    "summary": "3869526 - Soccer (Boys JV) @ Louisville High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-08-31 6:30 PM",
+    "end": "2026-08-31 8:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3869526/occurrences/8982572"
+  },
+  {
     "uid": "schedule-request-2496875-occurrence-6167701",
     "title": "2496875 - Boys/Girls Varsity Track vs OPEN (Northeast 8 Championship Meet )",
     "summary": "2496875 - Boys/Girls Varsity Track vs OPEN (Northeast 8 Championship Meet )",
@@ -17367,6 +17378,17 @@
     "end": "2027-05-14 9:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860558/occurrences/8959198"
+  },
+  {
+    "uid": "schedule-request-3869525-occurrence-8982571",
+    "title": "3869525 - Soccer (Boys JV) vs Boardman High School",
+    "summary": "3869525 - Soccer (Boys JV) vs Boardman High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-09-08 6:00 PM",
+    "end": "2026-09-08 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3869525/occurrences/8982571"
   },
   {
     "uid": "schedule-request-2697895-occurrence-6566236",
