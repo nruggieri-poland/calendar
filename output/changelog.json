@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-08T04:50:38.159Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2903760-occurrence-7099371",
+        "title": "2903760 - Girls Varsity Golf @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2025-08-07 1:00 PM",
+        "end": "2025-08-07 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-2939986-occurrence-7158366",
+        "title": "2939986 - Boys Varsity Golf @ Ravenna High School (Ravenna Yank Heisler Invitational)",
+        "type": "Athletics - Away",
+        "start": "2025-08-07 8:00 AM",
+        "end": "2025-08-07 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-07T21:33:17.856Z",
     "added": [
       {
