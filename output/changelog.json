@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-09T04:58:54.556Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2847037-occurrence-6927673",
+        "title": "2847037 - Boys Varsity Golf @ Marlington High School (Joe Eaton Golf Invitational)",
+        "type": "Athletics - Away",
+        "start": "2025-08-08 7:30 AM",
+        "end": "2025-08-08 9:30 AM"
+      },
+      {
+        "uid": "schedule-request-2963623-occurrence-7213540",
+        "title": "2963623 - Boys Varsity Football @ Streetsboro High School (Scrimmage)",
+        "type": "Athletics - Away",
+        "start": "2025-08-08 10:00 AM",
+        "end": "2025-08-08 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-2964171-occurrence-7214499",
+        "title": "2964171 - Senior Banner Pictures for Fall Sports",
+        "type": "School Activity",
+        "start": "2025-08-08 1:00 PM",
+        "end": "2025-08-08 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-08T23:22:31.523Z",
     "added": [],
     "removed": [],
