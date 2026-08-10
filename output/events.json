@@ -7298,8 +7298,8 @@
     "summary": "3858118 - Soccer (Boys V) @ Boardman High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-08-18 7:00 PM",
-    "end": "2026-08-18 9:00 PM",
+    "start": "2026-08-18 7:15 PM",
+    "end": "2026-08-18 9:15 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858118/occurrences/8952641"
   },
@@ -7661,8 +7661,8 @@
     "summary": "3858151 - Soccer (Boys JV) @ Boardman High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-08-18 5:00 PM",
-    "end": "2026-08-18 7:00 PM",
+    "start": "2026-08-18 5:30 PM",
+    "end": "2026-08-18 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858151/occurrences/8952674"
   },
@@ -8600,6 +8600,28 @@
     "end": "2026-09-19 11:00 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3869952/occurrences/8984201"
+  },
+  {
+    "uid": "schedule-request-3871277-occurrence-8987616",
+    "title": "3871277 - Volleyball (Girls V) @ Springfield Local High School",
+    "summary": "3871277 - Volleyball (Girls V) @ Springfield Local High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-08-10 4:30 PM",
+    "end": "2026-08-10 6:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3871277/occurrences/8987616"
+  },
+  {
+    "uid": "schedule-request-3871278-occurrence-8987617",
+    "title": "3871278 - Volleyball (Girls V) @ South Range High School",
+    "summary": "3871278 - Volleyball (Girls V) @ South Range High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-08-15 4:00 PM",
+    "end": "2026-08-15 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3871278/occurrences/8987617"
   },
   {
     "uid": "schedule-request-2496875-occurrence-6167701",
