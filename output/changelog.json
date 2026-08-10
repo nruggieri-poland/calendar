@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-10T05:20:36.469Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2735739-occurrence-6641542",
+        "title": "2735739 - Girls Varsity Soccer @ Streetsboro High School (Scrimmage )",
+        "type": "Athletics - Away",
+        "start": "2025-08-09 9:00 AM",
+        "end": "2025-08-09 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-2869681-occurrence-6973218",
+        "title": "2869681 - Boys Varsity Football (Football Team Picnic )",
+        "type": "Athletics - Home",
+        "start": "2025-08-09 5:00 PM",
+        "end": "2025-08-09 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-10T01:17:18.177Z",
     "added": [],
     "removed": [
