@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-10T16:48:25.967Z",
+    "added": [
+      {
+        "uid": "schedule-request-3871980-occurrence-8989645",
+        "title": "3871980 - Football (Boys F) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-03 7:15 PM",
+        "end": "2026-09-03 9:15 PM"
+      },
+      {
+        "uid": "schedule-request-3871981-occurrence-8989646",
+        "title": "3871981 - Football (Boys F) vs Mineral Ridge High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 7:15 PM",
+        "end": "2026-08-26 9:15 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-10T14:17:39.205Z",
     "added": [
       {
