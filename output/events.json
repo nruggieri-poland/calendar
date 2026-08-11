@@ -6138,17 +6138,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857974/occurrences/8952382"
   },
   {
-    "uid": "schedule-request-3857975-occurrence-8952383",
-    "title": "3857975 - Football (Boys F) @ Hubbard High School",
-    "summary": "3857975 - Football (Boys F) @ Hubbard High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-16 7:30 PM",
-    "end": "2026-09-16 9:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857975/occurrences/8952383"
-  },
-  {
     "uid": "schedule-request-3857976-occurrence-8952384",
     "title": "3857976 - Football (Boys 7) @ Boardman High School",
     "summary": "3857976 - Football (Boys 7) @ Boardman High School",
@@ -8611,6 +8600,17 @@
     "end": "2026-08-15 6:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3871278/occurrences/8987617"
+  },
+  {
+    "uid": "schedule-request-3874125-occurrence-8997984",
+    "title": "3874125 - Football (Boys F) @ Alliance High School",
+    "summary": "3874125 - Football (Boys F) @ Alliance High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-09-17 6:00 PM",
+    "end": "2026-09-17 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3874125/occurrences/8997984"
   },
   {
     "uid": "schedule-request-2496875-occurrence-6167701",
@@ -18973,6 +18973,17 @@
     "end": "2026-08-16 11:00 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3871035/occurrences/8987345"
+  },
+  {
+    "uid": "schedule-request-3874129-occurrence-8997988",
+    "title": "3874129 - PLB Cheer Practice @ Dave Pavlansky Field",
+    "summary": "3874129 - PLB Cheer Practice @ Dave Pavlansky Field",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-09-12 2:00 PM",
+    "end": "2026-09-12 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3874129/occurrences/8997988"
   },
   {
     "uid": "schedule-request-2575038-occurrence-6349177",
