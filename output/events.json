@@ -16522,17 +16522,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857898/occurrences/8952306"
   },
   {
-    "uid": "schedule-request-3857899-occurrence-8952307",
-    "title": "3857899 - Soccer (Girls JV) vs Boardman High School",
-    "summary": "3857899 - Soccer (Girls JV) vs Boardman High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-03 10:00 AM",
-    "end": "2026-10-03 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857899/occurrences/8952307"
-  },
-  {
     "uid": "schedule-request-3857900-occurrence-8952308",
     "title": "3857900 - Basketball (Boys 7) vs CANFIELD VILLAGE MIDDLE SCHOOL",
     "summary": "3857900 - Basketball (Boys 7) vs CANFIELD VILLAGE MIDDLE SCHOOL",
@@ -16655,8 +16644,8 @@
   },
   {
     "uid": "schedule-request-3857911-occurrence-8952319",
-    "title": "3857911 - Golf (Girls V) vs Niles McKinley High School\\, Girard Sr High School",
-    "summary": "3857911 - Golf (Girls V) vs Niles McKinley High School\\, Girard Sr High School",
+    "title": "3857911 - Golf (Girls V) vs Girard Sr High School\\, Niles McKinley High School",
+    "summary": "3857911 - Golf (Girls V) vs Girard Sr High School\\, Niles McKinley High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
     "start": "2026-08-12 8:00 AM",
@@ -16747,8 +16736,8 @@
     "summary": "3857919 - Soccer (Girls V) vs Boardman High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-10-03 12:00 PM",
-    "end": "2026-10-03 2:00 PM",
+    "start": "2026-10-03 10:00 AM",
+    "end": "2026-10-03 12:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857919/occurrences/8952327"
   },
@@ -17347,17 +17336,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860558/occurrences/8959198"
   },
   {
-    "uid": "schedule-request-3869525-occurrence-8982571",
-    "title": "3869525 - Soccer (Boys JV) vs Boardman High School",
-    "summary": "3869525 - Soccer (Boys JV) vs Boardman High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 6:00 PM",
-    "end": "2026-09-08 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3869525/occurrences/8982571"
-  },
-  {
     "uid": "schedule-request-3871980-occurrence-8989645",
     "title": "3871980 - Football (Boys F) vs Boardman High School",
     "summary": "3871980 - Football (Boys F) vs Boardman High School",
@@ -17378,6 +17356,28 @@
     "end": "2026-08-26 9:15 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3871981/occurrences/8989646"
+  },
+  {
+    "uid": "schedule-request-3875765-occurrence-9001329",
+    "title": "3875765 - Soccer (Girls JV) vs Kenston High School",
+    "summary": "3875765 - Soccer (Girls JV) vs Kenston High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-09-08 5:00 PM",
+    "end": "2026-09-08 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3875765/occurrences/9001329"
+  },
+  {
+    "uid": "schedule-request-3875766-occurrence-9001330",
+    "title": "3875766 - Soccer (Boys JV) vs Boardman High School",
+    "summary": "3875766 - Soccer (Boys JV) vs Boardman High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-09-08 6:30 PM",
+    "end": "2026-09-08 8:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3875766/occurrences/9001330"
   },
   {
     "uid": "schedule-request-2697895-occurrence-6566236",
