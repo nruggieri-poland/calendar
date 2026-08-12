@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-08-12T16:51:58.601Z",
+    "added": [
+      {
+        "uid": "schedule-request-3878854-occurrence-9012542",
+        "title": "3878854 - Tennis (Girls V) vs Salem High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-15 4:00 PM",
+        "end": "2026-09-15 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3878855-occurrence-9012543",
+        "title": "3878855 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-09-27 10:00 AM",
+        "end": "2026-09-27 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3878856-occurrence-9012544",
+        "title": "3878856 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-10-04 10:00 AM",
+        "end": "2026-10-04 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3878857-occurrence-9012545",
+        "title": "3878857 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-10-24 10:00 AM",
+        "end": "2026-10-24 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3878858-occurrence-9012546",
+        "title": "3878858 - Poland Little Bulldogs football games @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-08-23 10:00 AM",
+        "end": "2026-08-23 6:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-12T14:18:48.505Z",
     "added": [],
     "removed": [

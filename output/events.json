@@ -17358,6 +17358,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3875766/occurrences/9001330"
   },
   {
+    "uid": "schedule-request-3878854-occurrence-9012542",
+    "title": "3878854 - Tennis (Girls V) vs Salem High School",
+    "summary": "3878854 - Tennis (Girls V) vs Salem High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-09-15 4:00 PM",
+    "end": "2026-09-15 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3878854/occurrences/9012542"
+  },
+  {
     "uid": "schedule-request-2697895-occurrence-6566236",
     "title": "2697895 - Board Meeting - Poland BOE",
     "summary": "2697895 - Board Meeting - Poland BOE",
@@ -18962,6 +18973,50 @@
     "end": "2026-09-12 3:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3874129/occurrences/8997988"
+  },
+  {
+    "uid": "schedule-request-3878855-occurrence-9012543",
+    "title": "3878855 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+    "summary": "3878855 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-09-27 10:00 AM",
+    "end": "2026-09-27 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3878855/occurrences/9012543"
+  },
+  {
+    "uid": "schedule-request-3878856-occurrence-9012544",
+    "title": "3878856 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+    "summary": "3878856 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-04 10:00 AM",
+    "end": "2026-10-04 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3878856/occurrences/9012544"
+  },
+  {
+    "uid": "schedule-request-3878857-occurrence-9012545",
+    "title": "3878857 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+    "summary": "3878857 - Poland Little Bulldogs Football Games @ Dave Pavlansky Field",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-24 10:00 AM",
+    "end": "2026-10-24 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3878857/occurrences/9012545"
+  },
+  {
+    "uid": "schedule-request-3878858-occurrence-9012546",
+    "title": "3878858 - Poland Little Bulldogs football games @ Dave Pavlansky Field",
+    "summary": "3878858 - Poland Little Bulldogs football games @ Dave Pavlansky Field",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-08-23 10:00 AM",
+    "end": "2026-08-23 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3878858/occurrences/9012546"
   },
   {
     "uid": "schedule-request-2575038-occurrence-6349177",
