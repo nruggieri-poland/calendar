@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-12T04:01:48.157Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2903761-occurrence-7099372",
+        "title": "2903761 - Girls Varsity Golf vs Niles McKinley High School (and Girard)",
+        "type": "Athletics - Home",
+        "start": "2025-08-11 8:00 AM",
+        "end": "2025-08-11 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-2980683-occurrence-7268139",
+        "title": "2980683 - All Sports Boosters Meeting",
+        "type": "School Activity",
+        "start": "2025-08-11 6:00 PM",
+        "end": "2025-08-11 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-11T19:57:44.618Z",
     "added": [
       {
