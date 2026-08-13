@@ -10,6 +10,10 @@ const path = require("path");
 
 const FEEDS_CSV_PATH = path.join(__dirname, "plsd-ics.csv");
 
+// gofmx-wide feed of deleted/cancelled requests — used to exclude events that
+// linger in a category feed (or a stale fetch) after being deleted upstream.
+const DELETED_FEED_URL = "https://polandschools.gofmx.com/calendar.ics?t3=bRw1WguLlK69Xl_tmRssV3KHc8Q1Tx5-X33N_ksnRT_7s2RNiAEbvfcOLb4zzJ-P6AvGAWY_29n6R2vYFBWtIwnczjzka1GfF9ADKtLWIZ4p2SyXpZSRgnAKwe0tGrDh";
+
 const OUTPUT_DIR = path.join(__dirname, "output");
 const TIMEZONE = "America/New_York";
 
