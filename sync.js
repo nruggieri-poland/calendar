@@ -178,6 +178,21 @@ function parseIcs(text, feed) {
 }
 
 // ---------------------------------------------------------------------------
+// Deleted-events feed
+// ---------------------------------------------------------------------------
+
+function parseDeletedUids(text) {
+  const uids = new Set();
+  const rawEvents = text.split("BEGIN:VEVENT").slice(1);
+  for (const block of rawEvents) {
+    const unfolded = block.replace(/\r?\n[ \t]/g, "");
+    const match = unfolded.match(/^UID:(.+)$/m);
+    if (match) uids.add(match[1].trim());
+  }
+  return uids;
+}
+
+// ---------------------------------------------------------------------------
 // Changelog
 // ---------------------------------------------------------------------------
 
@@ -342,11 +357,27 @@ async function main() {
 
   console.log(`\n✅ Total events: ${allEvents.length}`);
 
+  // Filter out anything that gofmx reports as deleted (belt-and-suspenders
+  // against a category feed lagging behind a deletion, or a duplicate
+  // request that was cloned-and-abandoned instead of edited in place).
+  let filteredEvents = allEvents;
+  try {
+    console.log("🗑️  Fetching deleted-events feed…");
+    const deletedText = await fetchText(DELETED_FEED_URL);
+    const deletedUids = parseDeletedUids(deletedText);
+    console.log(`   → ${deletedUids.size} deleted UID(s)`);
+    filteredEvents = allEvents.filter((e) => !e.uid || !deletedUids.has(e.uid));
+    const removedCount = allEvents.length - filteredEvents.length;
+    if (removedCount > 0) console.log(`   → excluded ${removedCount} event(s) present in a category feed but marked deleted`);
+  } catch (err) {
+    console.error(`❌ Error fetching deleted-events feed: ${err.message}`);
+  }
+
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
   // Diff and write changelog (skip on first run when there's nothing to compare)
   if (previousEvents.length > 0) {
-    const normalised = allEvents.map(e => {
+    const normalised = filteredEvents.map(e => {
       const obj = {};
       CSV_HEADERS.forEach(h => { obj[h] = e[h] || ""; });
       return obj;
@@ -361,9 +392,9 @@ async function main() {
     }
   }
 
-  writeJson(allEvents);
-  writeCsv(allEvents);
-  writeIcs(allEvents);
+  writeJson(filteredEvents);
+  writeCsv(filteredEvents);
+  writeIcs(filteredEvents);
 
   console.log("📁 Written: output/events.json, output/events.csv, output/events.ics");
 }
