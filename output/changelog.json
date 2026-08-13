@@ -1,5 +1,2616 @@
 [
   {
+    "timestamp": "2026-08-13T17:53:43.832Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2854230-occurrence-6943833",
+        "title": "2854230 - Boys Varsity Football @ Field High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-04 7:00 PM",
+        "end": "2026-09-04 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854231-occurrence-6943834",
+        "title": "2854231 - Boys Varsity Football @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-11 7:00 PM",
+        "end": "2026-09-11 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854233-occurrence-6943836",
+        "title": "2854233 - Boys Varsity Football @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-25 7:00 PM",
+        "end": "2026-09-25 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854236-occurrence-6943839",
+        "title": "2854236 - Boys Varsity Football @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-16 7:00 PM",
+        "end": "2026-10-16 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854237-occurrence-6943840",
+        "title": "2854237 - Boys Varsity Football @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-23 7:00 PM",
+        "end": "2026-10-23 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073613-occurrence-7477752",
+        "title": "3073613 - Girls Junior Varsity Volleyball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-25 5:30 PM",
+        "end": "2026-08-25 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073614-occurrence-7477753",
+        "title": "3073614 - Girls Varsity Volleyball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-25 7:00 PM",
+        "end": "2026-08-25 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073620-occurrence-7477758",
+        "title": "3073620 - Girls Junior Varsity Volleyball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 5:30 PM",
+        "end": "2026-09-03 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073621-occurrence-7477760",
+        "title": "3073621 - Girls Varsity Volleyball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 6:30 PM",
+        "end": "2026-09-03 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073624-occurrence-7477763",
+        "title": "3073624 - Girls Junior Varsity Volleyball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 5:30 PM",
+        "end": "2026-09-15 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073625-occurrence-7477764",
+        "title": "3073625 - Girls Varsity Volleyball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 7:00 PM",
+        "end": "2026-09-15 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073628-occurrence-7477767",
+        "title": "3073628 - Girls Junior Varsity Volleyball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-22 5:30 PM",
+        "end": "2026-09-22 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073629-occurrence-7477768",
+        "title": "3073629 - Girls Varsity Volleyball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-22 7:00 PM",
+        "end": "2026-09-22 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073630-occurrence-7477769",
+        "title": "3073630 - Girls Junior Varsity Volleyball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 5:30 PM",
+        "end": "2026-09-24 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073631-occurrence-7477770",
+        "title": "3073631 - Girls Varsity Volleyball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 7:00 PM",
+        "end": "2026-09-24 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073634-occurrence-7477773",
+        "title": "3073634 - Girls Junior Varsity Volleyball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-06 5:30 PM",
+        "end": "2026-10-06 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073635-occurrence-7477774",
+        "title": "3073635 - Girls Varsity Volleyball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-06 7:00 PM",
+        "end": "2026-10-06 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144623-occurrence-7560436",
+        "title": "3144623 - Girls 7th Volleyball @ Lakeview Middle School-Cortland",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 5:00 PM",
+        "end": "2026-08-24 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144624-occurrence-7560437",
+        "title": "3144624 - Girls 8th Volleyball @ Lakeview Middle School-Cortland",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 6:00 PM",
+        "end": "2026-08-24 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144629-occurrence-7560442",
+        "title": "3144629 - Girls 7th Volleyball @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2026-09-02 5:00 PM",
+        "end": "2026-09-02 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144630-occurrence-7560443",
+        "title": "3144630 - Girls 8th Volleyball @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2026-09-02 6:00 PM",
+        "end": "2026-09-02 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144633-occurrence-7560446",
+        "title": "3144633 - Girls 7th Volleyball @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 5:00 PM",
+        "end": "2026-09-14 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144634-occurrence-7560447",
+        "title": "3144634 - Girls 8th Volleyball @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 6:00 PM",
+        "end": "2026-09-14 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144637-occurrence-7560450",
+        "title": "3144637 - Girls 7th Volleyball @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-21 5:00 PM",
+        "end": "2026-09-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144638-occurrence-7560451",
+        "title": "3144638 - Girls 8th Volleyball @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-21 6:00 PM",
+        "end": "2026-09-21 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144639-occurrence-7560452",
+        "title": "3144639 - Girls 7th Volleyball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-23 5:00 PM",
+        "end": "2026-09-23 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144640-occurrence-7560453",
+        "title": "3144640 - Girls 8th Volleyball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3151004-occurrence-7567833",
+        "title": "3151004 - Girls 7th Volleyball @ Struthers MS",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 5:00 PM",
+        "end": "2026-10-05 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3151005-occurrence-7567834",
+        "title": "3151005 - Girls 8th Volleyball @ Struthers MS",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 6:00 PM",
+        "end": "2026-10-05 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3181780-occurrence-7609926",
+        "title": "3181780 - Girls Junior Varsity Volleyball @ United Local High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 5:30 PM",
+        "end": "2026-09-14 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3181781-occurrence-7609927",
+        "title": "3181781 - Girls Varsity Volleyball @ United Local High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 7:00 PM",
+        "end": "2026-09-14 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184897-occurrence-7614262",
+        "title": "3184897 - Boys Varsity Soccer @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 5:00 PM",
+        "end": "2026-08-20 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184898-occurrence-7614263",
+        "title": "3184898 - Boys Varsity Soccer @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 5:00 PM",
+        "end": "2026-08-24 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184899-occurrence-7614264",
+        "title": "3184899 - Boys Varsity Soccer @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 5:00 PM",
+        "end": "2026-09-01 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184901-occurrence-7614266",
+        "title": "3184901 - Boys Varsity Soccer @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 5:00 PM",
+        "end": "2026-09-14 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184905-occurrence-7614270",
+        "title": "3184905 - Boys Varsity Soccer @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 7:00 PM",
+        "end": "2026-10-05 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185702-occurrence-7615249",
+        "title": "3185702 - Girls Varsity Soccer @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 7:00 PM",
+        "end": "2026-08-20 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185703-occurrence-7615250",
+        "title": "3185703 - Girls Varsity Soccer @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 7:00 PM",
+        "end": "2026-08-24 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185705-occurrence-7615252",
+        "title": "3185705 - Girls Varsity Soccer @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 7:00 PM",
+        "end": "2026-09-01 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185707-occurrence-7615254",
+        "title": "3185707 - Girls Varsity Soccer @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 7:00 PM",
+        "end": "2026-09-14 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185710-occurrence-7615257",
+        "title": "3185710 - Girls Varsity Soccer @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 5:00 PM",
+        "end": "2026-09-24 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185712-occurrence-7615259",
+        "title": "3185712 - Girls Varsity Soccer @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 5:00 PM",
+        "end": "2026-10-05 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3194987-occurrence-7630574",
+        "title": "3194987 - Girls Varsity Soccer @ West Branch High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-26 12:00 PM",
+        "end": "2026-09-26 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198038-occurrence-7634698",
+        "title": "3198038 - Boys Junior Varsity Soccer @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 5:30 PM",
+        "end": "2026-09-03 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3198039-occurrence-7634699",
+        "title": "3198039 - Boys Varsity Soccer @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 7:15 PM",
+        "end": "2026-09-03 9:15 PM"
+      },
+      {
+        "uid": "schedule-request-3198071-occurrence-7634766",
+        "title": "3198071 - Boys Junior Varsity Football @ Salem Jr/Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-22 10:00 AM",
+        "end": "2026-08-22 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198075-occurrence-7634770",
+        "title": "3198075 - Boys Junior Varsity Football @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-19 10:00 AM",
+        "end": "2026-09-19 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198077-occurrence-7634772",
+        "title": "3198077 - Boys Junior Varsity Football @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-03 10:00 AM",
+        "end": "2026-10-03 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198078-occurrence-7634773",
+        "title": "3198078 - Boys Junior Varsity Football @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 10:00 AM",
+        "end": "2026-10-10 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198169-occurrence-7634980",
+        "title": "3198169 - Girls Varsity Soccer @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-17 7:00 PM",
+        "end": "2026-08-17 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198210-occurrence-7635168",
+        "title": "3198210 - Boys 8th Football @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2026-09-16 6:00 PM",
+        "end": "2026-09-16 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198211-occurrence-7635169",
+        "title": "3198211 - Boys Freshman Football @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-16 7:30 PM",
+        "end": "2026-09-16 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3204980-occurrence-7643688",
+        "title": "3204980 - Boys Junior Varsity Soccer @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-18 5:00 PM",
+        "end": "2026-08-18 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3204981-occurrence-7643689",
+        "title": "3204981 - Boys Varsity Soccer @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-18 7:00 PM",
+        "end": "2026-08-18 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3205240-occurrence-7644148",
+        "title": "3205240 - Boys 7th Football @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 5:00 PM",
+        "end": "2026-09-30 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3206080-occurrence-7645152",
+        "title": "3206080 - Girls Junior Varsity Volleyball @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-31 5:30 PM",
+        "end": "2026-08-31 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3206081-occurrence-7645153",
+        "title": "3206081 - Girls Varsity Volleyball @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-31 7:00 PM",
+        "end": "2026-08-31 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3206491-occurrence-7645760",
+        "title": "3206491 - Girls 7th Volleyball @ Glenwood Middle School-Youngstown",
+        "type": "Athletics - Away",
+        "start": "2026-09-09 5:00 PM",
+        "end": "2026-09-09 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3206492-occurrence-7645761",
+        "title": "3206492 - Girls 8th Volleyball @ Glenwood Middle School-Youngstown",
+        "type": "Athletics - Away",
+        "start": "2026-09-09 6:00 PM",
+        "end": "2026-09-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3208398-occurrence-7650422",
+        "title": "3208398 - Girls Junior Varsity Volleyball @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 10:00 AM",
+        "end": "2026-10-10 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3208399-occurrence-7650423",
+        "title": "3208399 - Girls Varsity Volleyball @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 11:30 AM",
+        "end": "2026-10-10 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-3210743-occurrence-7658025",
+        "title": "3210743 - Girls Junior Varsity Volleyball @ Champion High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-28 5:30 PM",
+        "end": "2026-09-28 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3210744-occurrence-7658026",
+        "title": "3210744 - Girls Varsity Volleyball @ Champion High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-28 7:00 PM",
+        "end": "2026-09-28 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3218456-occurrence-7688723",
+        "title": "3218456 - Boys 8th Football @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-10-08 6:30 PM",
+        "end": "2026-10-08 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3232376-occurrence-7724020",
+        "title": "3232376 - Boys Varsity Soccer @ Marlington High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-15 1:00 PM",
+        "end": "2026-08-15 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3232377-occurrence-7724021",
+        "title": "3232377 - Boys Junior Varsity Soccer @ Marlington High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-15 5:00 PM",
+        "end": "2026-08-15 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286470-occurrence-7850781",
+        "title": "3286470 - Boys Junior Varsity Basketball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-15 5:30 PM",
+        "end": "2026-12-15 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286471-occurrence-7850782",
+        "title": "3286471 - Boys Varsity Basketball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-15 7:00 PM",
+        "end": "2026-12-15 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286472-occurrence-7850783",
+        "title": "3286472 - Boys Junior Varsity Basketball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-18 5:30 PM",
+        "end": "2026-12-18 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286473-occurrence-7850784",
+        "title": "3286473 - Boys Varsity Basketball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-18 7:00 PM",
+        "end": "2026-12-18 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286474-occurrence-7850785",
+        "title": "3286474 - Boys Junior Varsity Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-01-05 5:30 PM",
+        "end": "2027-01-05 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286475-occurrence-7850786",
+        "title": "3286475 - Boys Varsity Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-01-05 7:00 PM",
+        "end": "2027-01-05 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286480-occurrence-7850791",
+        "title": "3286480 - Boys Junior Varsity Basketball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-15 5:30 PM",
+        "end": "2027-01-15 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286481-occurrence-7850792",
+        "title": "3286481 - Boys Varsity Basketball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-15 7:00 PM",
+        "end": "2027-01-15 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286488-occurrence-7850799",
+        "title": "3286488 - Boys Junior Varsity Basketball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-02 5:30 PM",
+        "end": "2027-02-02 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286489-occurrence-7850800",
+        "title": "3286489 - Boys Varsity Basketball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-02 7:00 PM",
+        "end": "2027-02-02 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286490-occurrence-7850801",
+        "title": "3286490 - Boys Junior Varsity Basketball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-05 5:30 PM",
+        "end": "2027-02-05 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286491-occurrence-7850802",
+        "title": "3286491 - Boys Varsity Basketball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-05 7:00 PM",
+        "end": "2027-02-05 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286606-occurrence-7851001",
+        "title": "3286606 - Boys Freshman Basketball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-07 5:00 PM",
+        "end": "2026-12-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286610-occurrence-7851005",
+        "title": "3286610 - Boys 7th Basketball @ Struthers MS",
+        "type": "Athletics - Away",
+        "start": "2026-12-09 5:00 PM",
+        "end": "2026-12-09 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286611-occurrence-7851006",
+        "title": "3286611 - Boys 8th Basketball @ Struthers MS",
+        "type": "Athletics - Away",
+        "start": "2026-12-09 6:00 PM",
+        "end": "2026-12-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286612-occurrence-7851007",
+        "title": "3286612 - Girls Junior Varsity Basketball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-10 5:30 PM",
+        "end": "2026-12-10 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286613-occurrence-7851008",
+        "title": "3286613 - Girls Varsity Basketball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-10 7:00 PM",
+        "end": "2026-12-10 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286614-occurrence-7851009",
+        "title": "3286614 - Boys Freshman Basketball @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-14 5:00 PM",
+        "end": "2026-12-14 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286616-occurrence-7851011",
+        "title": "3286616 - Boys 8th Basketball @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-12-14 6:00 PM",
+        "end": "2026-12-14 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286619-occurrence-7851014",
+        "title": "3286619 - Boys 7th Basketball @ Lakeview Middle School-Cortland",
+        "type": "Athletics - Away",
+        "start": "2026-12-16 5:00 PM",
+        "end": "2026-12-16 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286620-occurrence-7851015",
+        "title": "3286620 - Boys 8th Basketball @ Lakeview Middle School-Cortland",
+        "type": "Athletics - Away",
+        "start": "2026-12-16 6:00 PM",
+        "end": "2026-12-16 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286624-occurrence-7851019",
+        "title": "3286624 - Boys 7th Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-12-21 5:00 PM",
+        "end": "2026-12-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286625-occurrence-7851020",
+        "title": "3286625 - Boys 8th Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-12-21 6:00 PM",
+        "end": "2026-12-21 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286632-occurrence-7851027",
+        "title": "3286632 - Girls Junior Varsity Basketball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-07 5:30 PM",
+        "end": "2027-01-07 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286633-occurrence-7851028",
+        "title": "3286633 - Girls Varsity Basketball @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-07 7:00 PM",
+        "end": "2027-01-07 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286636-occurrence-7851031",
+        "title": "3286636 - Girls Junior Varsity Basketball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-11 5:30 PM",
+        "end": "2027-01-11 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286638-occurrence-7851033",
+        "title": "3286638 - Girls Varsity Basketball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-11 7:00 PM",
+        "end": "2027-01-11 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286640-occurrence-7851035",
+        "title": "3286640 - Boys 7th Basketball @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2027-01-13 5:00 PM",
+        "end": "2027-01-13 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286641-occurrence-7851036",
+        "title": "3286641 - Boys 8th Basketball @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2027-01-13 6:00 PM",
+        "end": "2027-01-13 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286647-occurrence-7851042",
+        "title": "3286647 - Girls Junior Varsity Basketball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-21 5:30 PM",
+        "end": "2027-01-21 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286648-occurrence-7851043",
+        "title": "3286648 - Girls Varsity Basketball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-21 7:00 PM",
+        "end": "2027-01-21 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286649-occurrence-7851044",
+        "title": "3286649 - Boys Freshman Basketball @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-25 5:00 PM",
+        "end": "2027-01-25 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286651-occurrence-7851046",
+        "title": "3286651 - Girls Junior Varsity Basketball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-25 5:30 PM",
+        "end": "2027-01-25 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286653-occurrence-7851048",
+        "title": "3286653 - Girls Varsity Basketball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-25 7:00 PM",
+        "end": "2027-01-25 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286654-occurrence-7851049",
+        "title": "3286654 - Girls 7th Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-01-27 5:00 PM",
+        "end": "2027-01-27 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286655-occurrence-7851050",
+        "title": "3286655 - Girls 8th Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-01-27 6:00 PM",
+        "end": "2027-01-27 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286656-occurrence-7851051",
+        "title": "3286656 - Boys Freshman Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-02-01 5:00 PM",
+        "end": "2027-02-01 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286657-occurrence-7851052",
+        "title": "3286657 - Girls Junior Varsity Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-02-01 5:30 PM",
+        "end": "2027-02-01 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286658-occurrence-7851053",
+        "title": "3286658 - Girls Varsity Basketball @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2027-02-01 7:00 PM",
+        "end": "2027-02-01 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286659-occurrence-7851054",
+        "title": "3286659 - Boys 7th Basketball @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2027-02-03 5:00 PM",
+        "end": "2027-02-03 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286660-occurrence-7851055",
+        "title": "3286660 - Boys 8th Basketball @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2027-02-03 6:00 PM",
+        "end": "2027-02-03 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290070-occurrence-7860555",
+        "title": "3290070 - Girls 7th Basketball @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-12-07 5:00 PM",
+        "end": "2026-12-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290071-occurrence-7860556",
+        "title": "3290071 - Girls 8th Basketball @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-12-07 6:00 PM",
+        "end": "2026-12-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290080-occurrence-7860565",
+        "title": "3290080 - Girls 7th Basketball @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2027-01-06 5:00 PM",
+        "end": "2027-01-06 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290081-occurrence-7860566",
+        "title": "3290081 - Girls 8th Basketball @ Hubbard MS",
+        "type": "Athletics - Away",
+        "start": "2027-01-06 6:00 PM",
+        "end": "2027-01-06 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290082-occurrence-7860567",
+        "title": "3290082 - Girls 7th Basketball @ Struthers MS",
+        "type": "Athletics - Away",
+        "start": "2027-01-11 5:00 PM",
+        "end": "2027-01-11 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290083-occurrence-7860568",
+        "title": "3290083 - Girls 8th Basketball @ Struthers MS",
+        "type": "Athletics - Away",
+        "start": "2027-01-11 6:00 PM",
+        "end": "2027-01-11 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290086-occurrence-7860571",
+        "title": "3290086 - Girls 7th Basketball @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2027-01-20 5:00 PM",
+        "end": "2027-01-20 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290087-occurrence-7860572",
+        "title": "3290087 - Girls 8th Basketball @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2027-01-20 6:00 PM",
+        "end": "2027-01-20 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290088-occurrence-7860573",
+        "title": "3290088 - Girls 7th Basketball @ Lakeview Middle School-Cortland",
+        "type": "Athletics - Away",
+        "start": "2027-01-25 5:00 PM",
+        "end": "2027-01-25 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290089-occurrence-7860574",
+        "title": "3290089 - Girls 8th Basketball @ Lakeview Middle School-Cortland",
+        "type": "Athletics - Away",
+        "start": "2027-01-25 6:00 PM",
+        "end": "2027-01-25 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3298722-occurrence-7889046",
+        "title": "3298722 - Boys Freshman Basketball @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-21 5:00 PM",
+        "end": "2026-12-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3298724-occurrence-7889048",
+        "title": "3298724 - Boys Freshman Basketball @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-03 5:00 PM",
+        "end": "2027-02-03 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3316109-occurrence-7942326",
+        "title": "3316109 - Boys Junior Varsity Football @ Kirtland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-29 10:00 AM",
+        "end": "2026-08-29 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3384370-occurrence-8023057",
+        "title": "3384370 - Girls Junior Varsity Basketball @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-11-30 5:30 PM",
+        "end": "2026-11-30 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3384371-occurrence-8023058",
+        "title": "3384371 - Girls Varsity Basketball @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-11-30 7:00 PM",
+        "end": "2026-11-30 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3384376-occurrence-8023063",
+        "title": "3384376 - Boys Freshman Basketball @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-13 5:30 PM",
+        "end": "2027-01-13 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3384377-occurrence-8023064",
+        "title": "3384377 - Boys Junior Varsity Basketball @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-16 5:30 PM",
+        "end": "2027-02-16 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3384378-occurrence-8023065",
+        "title": "3384378 - Boys Varsity Basketball @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-02-16 7:00 PM",
+        "end": "2027-02-16 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3384495-occurrence-8023351",
+        "title": "3384495 - Boys Junior Varsity Basketball @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-08 5:30 PM",
+        "end": "2026-12-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3384496-occurrence-8023352",
+        "title": "3384496 - Boys Varsity Basketball @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-08 7:00 PM",
+        "end": "2026-12-08 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3386100-occurrence-8026291",
+        "title": "3386100 - Boys Junior Varsity Basketball @ Campbell Memorial High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-29 5:30 PM",
+        "end": "2026-12-29 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3386101-occurrence-8026292",
+        "title": "3386101 - Boys Varsity Basketball @ Campbell Memorial High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-29 7:00 PM",
+        "end": "2026-12-29 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391473-occurrence-8035977",
+        "title": "3391473 - Boys Junior Varsity Basketball @ Austintown Fitch HS",
+        "type": "Athletics - Away",
+        "start": "2026-12-04 5:30 PM",
+        "end": "2026-12-04 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3391474-occurrence-8035978",
+        "title": "3391474 - Boys Varsity Basketball @ Austintown Fitch HS",
+        "type": "Athletics - Away",
+        "start": "2026-12-04 7:00 PM",
+        "end": "2026-12-04 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391596-occurrence-8036382",
+        "title": "3391596 - Girls Junior Varsity Basketball @ Crestview HS - Columbiana",
+        "type": "Athletics - Away",
+        "start": "2026-12-21 5:30 PM",
+        "end": "2026-12-21 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3391597-occurrence-8036383",
+        "title": "3391597 - Girls Varsity Basketball @ Crestview HS - Columbiana",
+        "type": "Athletics - Away",
+        "start": "2026-12-21 7:00 PM",
+        "end": "2026-12-21 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391972-occurrence-8037259",
+        "title": "3391972 - Girls Junior Varsity Basketball @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-05 12:00 PM",
+        "end": "2026-12-05 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391973-occurrence-8037260",
+        "title": "3391973 - Girls Varsity Basketball @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-05 1:30 PM",
+        "end": "2026-12-05 3:30 PM"
+      },
+      {
+        "uid": "schedule-request-3391976-occurrence-8037263",
+        "title": "3391976 - Boys Junior Varsity Basketball @ Springfield Local High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-09 11:00 AM",
+        "end": "2027-01-09 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391977-occurrence-8037264",
+        "title": "3391977 - Boys Varsity Basketball @ Springfield Local High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-09 1:30 PM",
+        "end": "2027-01-09 3:30 PM"
+      },
+      {
+        "uid": "schedule-request-3392042-occurrence-8037420",
+        "title": "3392042 - Boys Junior Varsity Basketball @ West Branch High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-23 5:30 PM",
+        "end": "2027-01-23 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3392043-occurrence-8037421",
+        "title": "3392043 - Boys Varsity Basketball @ West Branch High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-23 7:00 PM",
+        "end": "2027-01-23 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3394787-occurrence-8043261",
+        "title": "3394787 - Girls Junior Varsity Basketball @ James A Garfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-16 12:00 PM",
+        "end": "2027-01-16 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3394788-occurrence-8043262",
+        "title": "3394788 - Girls Varsity Basketball @ James A Garfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-16 1:30 PM",
+        "end": "2027-01-16 3:30 PM"
+      },
+      {
+        "uid": "schedule-request-3426146-occurrence-8090545",
+        "title": "3426146 - Girls Varsity Golf @ Girard Jr/Sr HS (Northeast 8 Golf Championship)",
+        "type": "Athletics - Away",
+        "start": "2026-09-08 8:00 AM",
+        "end": "2026-09-08 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3426147-occurrence-8090546",
+        "title": "3426147 - Boys Varsity Golf @ Girard Jr/Sr HS (NorthEast 8 Championship)",
+        "type": "Athletics - Away",
+        "start": "2026-09-09 8:00 AM",
+        "end": "2026-09-09 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3426148-occurrence-8090547",
+        "title": "3426148 - Girls 8th Volleyball @ Girard Jr/Sr HS (Northeast 8 Tournament)",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 9:00 AM",
+        "end": "2026-10-10 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3426149-occurrence-8090548",
+        "title": "3426149 - Girls 7th Volleyball @ Girard Jr/Sr HS (Northeast 8 Tournament)",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 9:00 AM",
+        "end": "2026-10-10 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482243-occurrence-8207590",
+        "title": "3482243 - Girls 7th Basketball @ Canfield Village Middle School",
+        "type": "Athletics - Away",
+        "start": "2027-02-04 5:30 PM",
+        "end": "2027-02-04 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3482245-occurrence-8207592",
+        "title": "3482245 - Girls 8th Basketball @ Canfield Village Middle School",
+        "type": "Athletics - Away",
+        "start": "2027-02-04 6:30 PM",
+        "end": "2027-02-04 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3482601-occurrence-8208398",
+        "title": "3482601 - Boys 8th Football @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 6:30 PM",
+        "end": "2026-09-30 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3482602-occurrence-8208399",
+        "title": "3482602 - Boys Freshman Football @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 7:30 PM",
+        "end": "2026-09-30 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3544367-occurrence-8349321",
+        "title": "3544367 - Girls Varsity Tennis @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-17 4:00 PM",
+        "end": "2026-09-17 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551296-occurrence-8363579",
+        "title": "3551296 - Boys Varsity Golf @ OPEN (Cardinal Classic)",
+        "type": "Athletics - Away",
+        "start": "2026-08-14 1:00 PM",
+        "end": "2026-08-14 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551297-occurrence-8363580",
+        "title": "3551297 - Boys Varsity Golf @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-17 1:00 PM",
+        "end": "2026-08-17 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551364-occurrence-8363692",
+        "title": "3551364 - Boys Varsity Golf @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-08-26 4:30 PM",
+        "end": "2026-08-26 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3551365-occurrence-8363693",
+        "title": "3551365 - Boys Varsity Golf @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-27 4:00 PM",
+        "end": "2026-08-27 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551366-occurrence-8363694",
+        "title": "3551366 - Time: TBA - Boys Varsity Golf @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 12:00 AM",
+        "end": "2026-09-01 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3551367-occurrence-8363695",
+        "title": "3551367 - Boys Varsity Golf @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 3:00 PM",
+        "end": "2026-09-03 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551368-occurrence-8363696",
+        "title": "3551368 - Boys Varsity Golf @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-08 3:30 PM",
+        "end": "2026-09-08 5:30 PM"
+      },
+      {
+        "uid": "schedule-request-3551370-occurrence-8363698",
+        "title": "3551370 - Boys Varsity Golf @ OPEN (Kiely Cup)",
+        "type": "Athletics - Away",
+        "start": "2026-09-13 1:00 PM",
+        "end": "2026-09-13 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551371-occurrence-8363699",
+        "title": "3551371 - Boys Varsity Golf @ OPEN (Kiely Cup)",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 9:00 AM",
+        "end": "2026-09-14 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3551432-occurrence-8364170",
+        "title": "3551432 - Girls 7th Basketball @ Boardman Center Middle School - Youngstown",
+        "type": "Athletics - Away",
+        "start": "2026-12-23 5:00 PM",
+        "end": "2026-12-23 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551433-occurrence-8364171",
+        "title": "3551433 - Girls 8th Basketball @ Boardman Center Middle School - Youngstown",
+        "type": "Athletics - Away",
+        "start": "2026-12-23 6:00 PM",
+        "end": "2026-12-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554084-occurrence-8380139",
+        "title": "3554084 - Girls Varsity Tennis @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 4:00 PM",
+        "end": "2026-08-24 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554085-occurrence-8380140",
+        "title": "3554085 - Girls Varsity Tennis @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-09 4:00 PM",
+        "end": "2026-09-09 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554087-occurrence-8380142",
+        "title": "3554087 - Girls Varsity Tennis @ Girard Jr/Sr HS",
+        "type": "Athletics - Away",
+        "start": "2026-09-21 4:00 PM",
+        "end": "2026-09-21 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3587969-occurrence-8422263",
+        "title": "3587969 - Girls Varsity Golf @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 4:00 PM",
+        "end": "2026-08-24 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3592808-occurrence-8428111",
+        "title": "3592808 - Girls Varsity Golf @ South Range High School (South Range Tournament)",
+        "type": "Athletics - Away",
+        "start": "2026-08-19 9:00 AM",
+        "end": "2026-08-19 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3592809-occurrence-8428112",
+        "title": "3592809 - Girls Varsity Golf @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 3:30 PM",
+        "end": "2026-08-20 5:30 PM"
+      },
+      {
+        "uid": "schedule-request-3592830-occurrence-8428137",
+        "title": "3592830 - Girls Varsity Golf @ OPEN (Terlesky Tournament)",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 11:30 AM",
+        "end": "2026-09-14 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-3619114-occurrence-8491302",
+        "title": "3619114 - Time: TBA - Girls 7th Volleyball @ OPEN (NE8 Tournament)",
+        "type": "Athletics - Away",
+        "start": "2026-10-12 12:00 AM",
+        "end": "2026-10-12 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619115-occurrence-8491303",
+        "title": "3619115 - Time: TBA - Girls 8th Volleyball @ OPEN (Ne 8 Tournament )",
+        "type": "Athletics - Away",
+        "start": "2026-10-12 12:00 AM",
+        "end": "2026-10-12 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619116-occurrence-8491304",
+        "title": "3619116 - Time: TBA - Girls 7th Volleyball @ OPEN (NE8 Championship)",
+        "type": "Athletics - Away",
+        "start": "2026-10-14 12:00 AM",
+        "end": "2026-10-14 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619117-occurrence-8491305",
+        "title": "3619117 - Time: TBA - Girls 8th Volleyball @ OPEN (NE8 Championship)",
+        "type": "Athletics - Away",
+        "start": "2026-10-14 12:00 AM",
+        "end": "2026-10-14 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619118-occurrence-8491306",
+        "title": "3619118 - Time: TBA - Boys 7th Basketball @ OPEN (North East 8 Basketball Tournament)",
+        "type": "Athletics - Away",
+        "start": "2027-02-06 12:00 AM",
+        "end": "2027-02-06 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619119-occurrence-8491307",
+        "title": "3619119 - Time: TBA - Boys 8th Basketball @ OPEN (North East 8 Basketball Tournament)",
+        "type": "Athletics - Away",
+        "start": "2027-02-06 12:00 AM",
+        "end": "2027-02-06 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619120-occurrence-8491308",
+        "title": "3619120 - Time: TBA - Girls 7th Basketball @ OPEN (North East 8 Basketball Tournament)",
+        "type": "Athletics - Away",
+        "start": "2027-02-06 12:00 AM",
+        "end": "2027-02-06 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619121-occurrence-8491309",
+        "title": "3619121 - Time: TBA - Girls 8th Basketball @ OPEN (North East 8 Basketball Tournament)",
+        "type": "Athletics - Away",
+        "start": "2027-02-06 12:00 AM",
+        "end": "2027-02-06 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619122-occurrence-8491310",
+        "title": "3619122 - Time: TBA - Boys Freshman Basketball @ OPEN (North East 8 Basketball Tournament)",
+        "type": "Athletics - Away",
+        "start": "2027-02-06 12:00 AM",
+        "end": "2027-02-06 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3644062-occurrence-8543748",
+        "title": "3644062 - Boys Junior Varsity Soccer @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-15 5:00 PM",
+        "end": "2026-10-15 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854229-occurrence-6943832",
+        "title": "2854229 - Boys Varsity Football vs Salem Jr/Sr High School (Season Opener)",
+        "type": "Athletics - Home",
+        "start": "2026-08-21 7:00 PM",
+        "end": "2026-08-21 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854232-occurrence-6943835",
+        "title": "2854232 - Boys Varsity Football vs Hubbard High School (Homecoming)",
+        "type": "Athletics - Home",
+        "start": "2026-09-18 7:00 PM",
+        "end": "2026-09-18 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854234-occurrence-6943837",
+        "title": "2854234 - Boys Varsity Football vs Niles McKinley High School (Band Senior Night)",
+        "type": "Athletics - Home",
+        "start": "2026-10-02 7:00 PM",
+        "end": "2026-10-02 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2854235-occurrence-6943838",
+        "title": "2854235 - Boys Varsity Football vs Girard Jr/Sr HS (Football/ Cheer  Senior Night)",
+        "type": "Athletics - Home",
+        "start": "2026-10-09 7:00 PM",
+        "end": "2026-10-09 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-2986798-occurrence-7290173",
+        "title": "2986798 - Boys/Girls Varsity Cross Country vs Hubbard High School (Northeast 8 Cross Country Championship )",
+        "type": "Athletics - Home",
+        "start": "2026-10-17 10:00 AM",
+        "end": "2026-10-17 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073615-occurrence-7477754",
+        "title": "3073615 - Girls Junior Varsity Volleyball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-27 5:30 PM",
+        "end": "2026-08-27 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073616-occurrence-7477755",
+        "title": "3073616 - Girls Varsity Volleyball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-27 7:00 PM",
+        "end": "2026-08-27 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073617-occurrence-7477756",
+        "title": "3073617 - Girls Junior Varsity Volleyball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 5:30 PM",
+        "end": "2026-09-01 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073618-occurrence-7477757",
+        "title": "3073618 - Girls Varsity Volleyball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 7:00 PM",
+        "end": "2026-09-01 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073622-occurrence-7477761",
+        "title": "3073622 - Girls Junior Varsity Volleyball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 5:30 PM",
+        "end": "2026-09-10 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073623-occurrence-7477762",
+        "title": "3073623 - Girls Varsity Volleyball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 7:00 PM",
+        "end": "2026-09-10 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073626-occurrence-7477765",
+        "title": "3073626 - Girls Junior Varsity Volleyball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 5:30 PM",
+        "end": "2026-09-17 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073627-occurrence-7477766",
+        "title": "3073627 - Girls Varsity Volleyball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 7:00 PM",
+        "end": "2026-09-17 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073632-occurrence-7477771",
+        "title": "3073632 - Girls Junior Varsity Volleyball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-29 5:30 PM",
+        "end": "2026-09-29 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073633-occurrence-7477772",
+        "title": "3073633 - Girls Varsity Volleyball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-29 6:30 PM",
+        "end": "2026-09-29 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073636-occurrence-7477775",
+        "title": "3073636 - Girls Junior Varsity Volleyball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-08 5:30 PM",
+        "end": "2026-10-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3073638-occurrence-7477777",
+        "title": "3073638 - Girls Varsity Volleyball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-08 7:00 PM",
+        "end": "2026-10-08 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144625-occurrence-7560438",
+        "title": "3144625 - Girls 7th Volleyball vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 5:00 PM",
+        "end": "2026-08-26 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144626-occurrence-7560439",
+        "title": "3144626 - Girls 8th Volleyball vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 6:00 PM",
+        "end": "2026-08-26 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144627-occurrence-7560440",
+        "title": "3144627 - Girls 7th Volleyball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-08-31 5:00 PM",
+        "end": "2026-08-31 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144628-occurrence-7560441",
+        "title": "3144628 - Girls 8th Volleyball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-08-31 6:00 PM",
+        "end": "2026-08-31 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144631-occurrence-7560444",
+        "title": "3144631 - Girls 7th Volleyball vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2026-09-07 5:00 PM",
+        "end": "2026-09-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144632-occurrence-7560445",
+        "title": "3144632 - Girls 8th Volleyball vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2026-09-07 6:00 PM",
+        "end": "2026-09-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144635-occurrence-7560448",
+        "title": "3144635 - Girls 7th Volleyball vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2026-09-16 5:00 PM",
+        "end": "2026-09-16 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144636-occurrence-7560449",
+        "title": "3144636 - Girls 8th Volleyball vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2026-09-16 6:00 PM",
+        "end": "2026-09-16 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144641-occurrence-7560454",
+        "title": "3144641 - Girls 7th Volleyball vs Hubbard MS",
+        "type": "Athletics - Home",
+        "start": "2026-09-28 5:00 PM",
+        "end": "2026-09-28 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3144642-occurrence-7560455",
+        "title": "3144642 - Girls 8th Volleyball vs Hubbard MS",
+        "type": "Athletics - Home",
+        "start": "2026-09-28 6:00 PM",
+        "end": "2026-09-28 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3151006-occurrence-7567835",
+        "title": "3151006 - Girls 7th Volleyball vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 5:00 PM",
+        "end": "2026-10-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3151007-occurrence-7567836",
+        "title": "3151007 - Girls 8th Volleyball vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 6:00 PM",
+        "end": "2026-10-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3182085-occurrence-7610633",
+        "title": "3182085 - Girls Junior Varsity Volleyball vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:30 PM",
+        "end": "2026-09-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3182086-occurrence-7610634",
+        "title": "3182086 - Girls Varsity Volleyball vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 7:00 PM",
+        "end": "2026-09-08 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184843-occurrence-7614105",
+        "title": "3184843 - Girls Junior Varsity Volleyball vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-21 5:30 PM",
+        "end": "2026-09-21 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3184844-occurrence-7614106",
+        "title": "3184844 - Girls Varsity Volleyball vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-21 7:00 PM",
+        "end": "2026-09-21 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184900-occurrence-7614265",
+        "title": "3184900 - Boys Varsity Soccer vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 5:00 PM",
+        "end": "2026-09-10 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184902-occurrence-7614267",
+        "title": "3184902 - Boys Varsity Soccer vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 7:00 PM",
+        "end": "2026-09-17 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184903-occurrence-7614268",
+        "title": "3184903 - Boys Varsity Soccer vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-21 7:00 PM",
+        "end": "2026-09-21 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184904-occurrence-7614269",
+        "title": "3184904 - Boys Varsity Soccer vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-28 7:00 PM",
+        "end": "2026-09-28 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3184906-occurrence-7614271",
+        "title": "3184906 - Boys Varsity Soccer vs Girard Jr/Sr HS (Senior Night)",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 7:00 PM",
+        "end": "2026-10-07 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185704-occurrence-7615251",
+        "title": "3185704 - Girls Varsity Soccer vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-27 7:00 PM",
+        "end": "2026-08-27 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185706-occurrence-7615253",
+        "title": "3185706 - Girls Varsity Soccer vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 7:00 PM",
+        "end": "2026-09-10 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185708-occurrence-7615255",
+        "title": "3185708 - Girls Varsity Soccer vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 5:00 PM",
+        "end": "2026-09-17 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185709-occurrence-7615256",
+        "title": "3185709 - Girls Varsity Soccer vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-21 5:00 PM",
+        "end": "2026-09-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185711-occurrence-7615258",
+        "title": "3185711 - Girls Varsity Soccer vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-28 5:00 PM",
+        "end": "2026-09-28 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3185713-occurrence-7615260",
+        "title": "3185713 - Girls Varsity Soccer vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 5:00 PM",
+        "end": "2026-10-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3194421-occurrence-7627690",
+        "title": "3194421 - Girls Junior Varsity Volleyball vs Campbell Memorial High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-24 5:30 PM",
+        "end": "2026-08-24 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3194422-occurrence-7627691",
+        "title": "3194422 - Girls Varsity Volleyball vs Campbell Memorial High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-24 7:00 PM",
+        "end": "2026-08-24 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3194874-occurrence-7630180",
+        "title": "3194874 - Girls Varsity Soccer vs St. Vincent-St. Mary H.S.",
+        "type": "Athletics - Home",
+        "start": "2026-10-01 7:00 PM",
+        "end": "2026-10-01 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3194921-occurrence-7630258",
+        "title": "3194921 - Boys Varsity Soccer vs Champion High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-01 5:00 PM",
+        "end": "2026-10-01 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198037-occurrence-7634697",
+        "title": "3198037 - Girls Varsity Soccer vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-02 7:00 PM",
+        "end": "2026-09-02 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198040-occurrence-7634700",
+        "title": "3198040 - Boys 7th Football vs Canfield Village Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 4:30 PM",
+        "end": "2026-09-09 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3198041-occurrence-7634701",
+        "title": "3198041 - Boys 8th Football vs Canfield Village Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 6:00 PM",
+        "end": "2026-09-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198042-occurrence-7634702",
+        "title": "3198042 - Boys Freshman Football vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 7:30 PM",
+        "end": "2026-09-09 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3198072-occurrence-7634767",
+        "title": "3198072 - Boys 8th Football vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 6:00 PM",
+        "end": "2026-08-26 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198073-occurrence-7634768",
+        "title": "3198073 - Boys Junior Varsity Football vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-05 10:00 AM",
+        "end": "2026-09-05 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198074-occurrence-7634769",
+        "title": "3198074 - Boys Junior Varsity Football vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-12 10:00 AM",
+        "end": "2026-09-12 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198076-occurrence-7634771",
+        "title": "3198076 - Boys Junior Varsity Football vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-26 10:00 AM",
+        "end": "2026-09-26 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198079-occurrence-7634774",
+        "title": "3198079 - Boys Junior Varsity Football vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-17 10:00 AM",
+        "end": "2026-10-17 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198117-occurrence-7634844",
+        "title": "3198117 - Boys 7th Football vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2026-09-03 4:30 PM",
+        "end": "2026-09-03 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3198118-occurrence-7634845",
+        "title": "3198118 - Boys 8th Football vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2026-09-03 6:00 PM",
+        "end": "2026-09-03 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3198119-occurrence-7634846",
+        "title": "3198119 - Boys Freshman Football vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-03 7:30 PM",
+        "end": "2026-09-03 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3204982-occurrence-7643690",
+        "title": "3204982 - Boys Junior Varsity Soccer vs Salem Jr/Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-24 5:00 PM",
+        "end": "2026-09-24 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3204983-occurrence-7643691",
+        "title": "3204983 - Boys Varsity Soccer vs Salem Jr/Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-24 7:00 PM",
+        "end": "2026-09-24 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3204984-occurrence-7643692",
+        "title": "3204984 - Girls Varsity Soccer vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-03 12:00 PM",
+        "end": "2026-10-03 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3205097-occurrence-7643911",
+        "title": "3205097 - Boys 7th Football vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 4:30 PM",
+        "end": "2026-09-23 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3205098-occurrence-7643912",
+        "title": "3205098 - Boys 8th Football vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3205099-occurrence-7643913",
+        "title": "3205099 - Boys Freshman Football vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 7:30 PM",
+        "end": "2026-09-23 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3205239-occurrence-7644147",
+        "title": "3205239 - Girls 7th Volleyball vs Glenwood Middle School-Youngstown",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 5:00 PM",
+        "end": "2026-09-30 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3205241-occurrence-7644149",
+        "title": "3205241 - Girls 8th Volleyball vs Glenwood Middle School-Youngstown",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 6:00 PM",
+        "end": "2026-09-30 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3206083-occurrence-7645155",
+        "title": "3206083 - Girls Junior Varsity Volleyball vs Springfield Local High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-05 5:30 PM",
+        "end": "2026-10-05 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3206084-occurrence-7645156",
+        "title": "3206084 - Girls Varsity Volleyball vs Springfield Local High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-05 7:00 PM",
+        "end": "2026-10-05 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3227803-occurrence-7713610",
+        "title": "3227803 - Boys Varsity Soccer vs Crestview HS - Columbiana",
+        "type": "Athletics - Home",
+        "start": "2026-08-27 5:00 PM",
+        "end": "2026-08-27 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3232458-occurrence-7725200",
+        "title": "3232458 - Boys Junior Varsity Soccer vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-13 5:00 PM",
+        "end": "2026-10-13 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3232459-occurrence-7725201",
+        "title": "3232459 - Boys Varsity Soccer vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-13 7:00 PM",
+        "end": "2026-10-13 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286464-occurrence-7850775",
+        "title": "3286464 - Girls Junior Varsity Basketball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-03 5:30 PM",
+        "end": "2026-12-03 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286465-occurrence-7850776",
+        "title": "3286465 - Girls Varsity Basketball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-03 7:00 PM",
+        "end": "2026-12-03 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286466-occurrence-7850777",
+        "title": "3286466 - Girls Junior Varsity Basketball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-07 5:30 PM",
+        "end": "2026-12-07 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286467-occurrence-7850778",
+        "title": "3286467 - Girls Varsity Basketball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-07 7:00 PM",
+        "end": "2026-12-07 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286468-occurrence-7850779",
+        "title": "3286468 - Boys Junior Varsity Basketball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-12 5:30 PM",
+        "end": "2027-02-12 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286469-occurrence-7850780",
+        "title": "3286469 - Boys Varsity Basketball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-12 7:00 PM",
+        "end": "2027-02-12 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286476-occurrence-7850787",
+        "title": "3286476 - Boys Junior Varsity Basketball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-08 5:30 PM",
+        "end": "2027-01-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286477-occurrence-7850788",
+        "title": "3286477 - Boys Varsity Basketball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-08 7:00 PM",
+        "end": "2027-01-08 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286478-occurrence-7850789",
+        "title": "3286478 - Boys Junior Varsity Basketball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-12 5:30 PM",
+        "end": "2027-01-12 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286479-occurrence-7850790",
+        "title": "3286479 - Boys Varsity Basketball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-12 7:00 PM",
+        "end": "2027-01-12 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286482-occurrence-7850793",
+        "title": "3286482 - Boys Junior Varsity Basketball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-19 5:30 PM",
+        "end": "2027-01-19 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286483-occurrence-7850794",
+        "title": "3286483 - Boys Varsity Basketball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-19 7:00 PM",
+        "end": "2027-01-19 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286484-occurrence-7850795",
+        "title": "3286484 - Boys Junior Varsity Basketball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-22 5:30 PM",
+        "end": "2027-01-22 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286485-occurrence-7850796",
+        "title": "3286485 - Boys Varsity Basketball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-22 7:00 PM",
+        "end": "2027-01-22 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286486-occurrence-7850797",
+        "title": "3286486 - Boys Junior Varsity Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-29 5:30 PM",
+        "end": "2027-01-29 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286487-occurrence-7850798",
+        "title": "3286487 - Boys Varsity Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-29 7:00 PM",
+        "end": "2027-01-29 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286607-occurrence-7851002",
+        "title": "3286607 - Boys 7th Basketball vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-12-07 5:00 PM",
+        "end": "2026-12-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286608-occurrence-7851003",
+        "title": "3286608 - Boys 8th Basketball vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-12-07 6:00 PM",
+        "end": "2026-12-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286615-occurrence-7851010",
+        "title": "3286615 - Girls Junior Varsity Basketball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-14 5:30 PM",
+        "end": "2026-12-14 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286617-occurrence-7851012",
+        "title": "3286617 - Girls Varsity Basketball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-14 7:00 PM",
+        "end": "2026-12-14 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286618-occurrence-7851013",
+        "title": "3286618 - Boys Freshman Basketball vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-16 5:00 PM",
+        "end": "2026-12-16 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286622-occurrence-7851017",
+        "title": "3286622 - Girls Junior Varsity Basketball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-17 5:30 PM",
+        "end": "2026-12-17 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286623-occurrence-7851018",
+        "title": "3286623 - Girls Varsity Basketball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-17 7:00 PM",
+        "end": "2026-12-17 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286626-occurrence-7851021",
+        "title": "3286626 - Boys Freshman Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-04 5:00 PM",
+        "end": "2027-01-04 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286627-occurrence-7851022",
+        "title": "3286627 - Girls Junior Varsity Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-04 5:30 PM",
+        "end": "2027-01-04 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286628-occurrence-7851023",
+        "title": "3286628 - Girls Varsity Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-04 7:00 PM",
+        "end": "2027-01-04 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286629-occurrence-7851024",
+        "title": "3286629 - Boys Freshman Basketball vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-06 5:00 PM",
+        "end": "2027-01-06 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286630-occurrence-7851025",
+        "title": "3286630 - Boys 7th Basketball vs Hubbard MS",
+        "type": "Athletics - Home",
+        "start": "2027-01-06 5:00 PM",
+        "end": "2027-01-06 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286631-occurrence-7851026",
+        "title": "3286631 - Boys 8th Basketball vs Hubbard MS",
+        "type": "Athletics - Home",
+        "start": "2027-01-06 6:00 PM",
+        "end": "2027-01-06 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286634-occurrence-7851029",
+        "title": "3286634 - Boys Freshman Basketball vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-11 5:00 PM",
+        "end": "2027-01-11 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286635-occurrence-7851030",
+        "title": "3286635 - Boys 7th Basketball vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2027-01-11 5:00 PM",
+        "end": "2027-01-11 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286637-occurrence-7851032",
+        "title": "3286637 - Boys 8th Basketball vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2027-01-11 6:00 PM",
+        "end": "2027-01-11 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286642-occurrence-7851037",
+        "title": "3286642 - Girls Junior Varsity Basketball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-14 5:30 PM",
+        "end": "2027-01-14 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3286643-occurrence-7851038",
+        "title": "3286643 - Girls Varsity Basketball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-14 7:00 PM",
+        "end": "2027-01-14 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286644-occurrence-7851039",
+        "title": "3286644 - Boys Freshman Basketball vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-20 5:00 PM",
+        "end": "2027-01-20 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286645-occurrence-7851040",
+        "title": "3286645 - Boys 7th Basketball vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2027-01-20 5:00 PM",
+        "end": "2027-01-20 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286646-occurrence-7851041",
+        "title": "3286646 - Boys 8th Basketball vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2027-01-20 6:00 PM",
+        "end": "2027-01-20 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286650-occurrence-7851045",
+        "title": "3286650 - Boys 7th Basketball vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2027-01-25 5:00 PM",
+        "end": "2027-01-25 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286652-occurrence-7851047",
+        "title": "3286652 - Boys 8th Basketball vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2027-01-25 6:00 PM",
+        "end": "2027-01-25 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290072-occurrence-7860557",
+        "title": "3290072 - Girls 7th Basketball vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2026-12-09 5:00 PM",
+        "end": "2026-12-09 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290073-occurrence-7860558",
+        "title": "3290073 - Girls 8th Basketball vs Struthers MS",
+        "type": "Athletics - Home",
+        "start": "2026-12-09 6:00 PM",
+        "end": "2026-12-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290074-occurrence-7860559",
+        "title": "3290074 - Girls 7th Basketball vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-12-14 5:00 PM",
+        "end": "2026-12-14 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290075-occurrence-7860560",
+        "title": "3290075 - Girls 8th Basketball vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-12-14 6:00 PM",
+        "end": "2026-12-14 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290076-occurrence-7860561",
+        "title": "3290076 - Girls 7th Basketball vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2026-12-16 5:00 PM",
+        "end": "2026-12-16 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290077-occurrence-7860562",
+        "title": "3290077 - Girls 8th Basketball vs Lakeview Middle School-Cortland",
+        "type": "Athletics - Home",
+        "start": "2026-12-16 6:00 PM",
+        "end": "2026-12-16 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290078-occurrence-7860563",
+        "title": "3290078 - Girls 7th Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-12-21 5:00 PM",
+        "end": "2026-12-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290079-occurrence-7860564",
+        "title": "3290079 - Girls 8th Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-12-21 6:00 PM",
+        "end": "2026-12-21 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290084-occurrence-7860569",
+        "title": "3290084 - Girls 7th Basketball vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2027-01-13 5:00 PM",
+        "end": "2027-01-13 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290085-occurrence-7860570",
+        "title": "3290085 - Girls 8th Basketball vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2027-01-13 6:00 PM",
+        "end": "2027-01-13 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290090-occurrence-7860575",
+        "title": "3290090 - Girls 7th Basketball vs Hubbard MS",
+        "type": "Athletics - Home",
+        "start": "2027-02-03 5:00 PM",
+        "end": "2027-02-03 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3290091-occurrence-7860576",
+        "title": "3290091 - Girls 8th Basketball vs Hubbard MS",
+        "type": "Athletics - Home",
+        "start": "2027-02-03 6:00 PM",
+        "end": "2027-02-03 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3298723-occurrence-7889047",
+        "title": "3298723 - Boys Freshman Basketball vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-27 5:00 PM",
+        "end": "2027-01-27 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3316095-occurrence-7942312",
+        "title": "3316095 - Boys Varsity Football vs Kirtland High School (Team Hall of Fame Induction)",
+        "type": "Athletics - Home",
+        "start": "2026-08-28 7:00 PM",
+        "end": "2026-08-28 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3384372-occurrence-8023059",
+        "title": "3384372 - Boys Freshman Basketball vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-10 5:00 PM",
+        "end": "2026-12-10 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3384373-occurrence-8023060",
+        "title": "3384373 - Boys Junior Varsity Basketball vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-22 5:30 PM",
+        "end": "2026-12-22 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3384374-occurrence-8023061",
+        "title": "3384374 - Boys Varsity Basketball vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-22 7:00 PM",
+        "end": "2026-12-22 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3384532-occurrence-8023566",
+        "title": "3384532 - Girls Junior Varsity Basketball vs Cardinal Mooney High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-08 5:30 PM",
+        "end": "2027-02-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3384533-occurrence-8023567",
+        "title": "3384533 - Girls Varsity Basketball vs Cardinal Mooney High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-08 7:00 PM",
+        "end": "2027-02-08 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3387047-occurrence-8028633",
+        "title": "3387047 - Girls Junior Varsity Basketball vs Salem Jr/Sr High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-04 5:30 PM",
+        "end": "2027-02-04 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3387048-occurrence-8028634",
+        "title": "3387048 - Girls Varsity Basketball vs Salem Jr/Sr High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-04 7:00 PM",
+        "end": "2027-02-04 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3387049-occurrence-8028635",
+        "title": "3387049 - Boys Junior Varsity Basketball vs Salem Jr/Sr High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-09 5:30 PM",
+        "end": "2027-02-09 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3387050-occurrence-8028636",
+        "title": "3387050 - Boys Varsity Basketball vs Salem Jr/Sr High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-09 7:00 PM",
+        "end": "2027-02-09 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3387775-occurrence-8031039",
+        "title": "3387775 - Girls Junior Varsity Basketball vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-10 5:30 PM",
+        "end": "2027-02-10 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3387776-occurrence-8031040",
+        "title": "3387776 - Girls Varsity Basketball vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-10 7:00 PM",
+        "end": "2027-02-10 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391475-occurrence-8035979",
+        "title": "3391475 - Girls Varsity Basketball vs Austintown Fitch HS (UNITED WAY CLASSIC)",
+        "type": "Athletics - Home",
+        "start": "2026-12-12 12:00 PM",
+        "end": "2026-12-12 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391476-occurrence-8035980",
+        "title": "3391476 - Boys Junior Varsity Basketball vs Howland High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-19 5:30 PM",
+        "end": "2027-02-19 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3391477-occurrence-8035981",
+        "title": "3391477 - Boys Varsity Basketball vs Howland High School",
+        "type": "Athletics - Home",
+        "start": "2027-02-19 7:00 PM",
+        "end": "2027-02-19 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3391974-occurrence-8037261",
+        "title": "3391974 - Girls Junior Varsity Basketball vs Springfield Local High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-28 5:30 PM",
+        "end": "2026-12-28 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3391975-occurrence-8037262",
+        "title": "3391975 - Girls Varsity Basketball vs Springfield Local High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-28 7:00 PM",
+        "end": "2026-12-28 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3392489-occurrence-8038454",
+        "title": "3392489 - Boys Varsity Basketball vs Neshannock Junior/Senior High School (United Way Classic )",
+        "type": "Athletics - Home",
+        "start": "2026-12-12 5:15 PM",
+        "end": "2026-12-12 7:15 PM"
+      },
+      {
+        "uid": "schedule-request-3394036-occurrence-8041158",
+        "title": "3394036 - Girls Junior Varsity Basketball vs LaBrae High School",
+        "type": "Athletics - Home",
+        "start": "2026-11-23 5:30 PM",
+        "end": "2026-11-23 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3394037-occurrence-8041159",
+        "title": "3394037 - Girls Varsity Basketball vs LaBrae High School",
+        "type": "Athletics - Home",
+        "start": "2026-11-23 7:00 PM",
+        "end": "2026-11-23 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3424304-occurrence-8086722",
+        "title": "3424304 - Boys Varsity Football vs Louisville High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-13 6:00 PM",
+        "end": "2026-08-13 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3482242-occurrence-8207589",
+        "title": "3482242 - Boys 7th Basketball vs Canfield Village Middle School",
+        "type": "Athletics - Home",
+        "start": "2027-02-04 5:00 PM",
+        "end": "2027-02-04 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3482244-occurrence-8207591",
+        "title": "3482244 - Boys 8th Basketball vs Canfield Village Middle School",
+        "type": "Athletics - Home",
+        "start": "2027-02-04 6:00 PM",
+        "end": "2027-02-04 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3482646-occurrence-8208525",
+        "title": "3482646 - Boys Freshman Football vs Beaver Local HS",
+        "type": "Athletics - Home",
+        "start": "2026-10-08 6:00 PM",
+        "end": "2026-10-08 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551361-occurrence-8363689",
+        "title": "3551361 - Boys Varsity Golf vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-18 8:00 AM",
+        "end": "2026-08-18 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3551362-occurrence-8363690",
+        "title": "3551362 - Boys Varsity Golf vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-20 8:00 AM",
+        "end": "2026-08-20 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3551363-occurrence-8363691",
+        "title": "3551363 - Boys Varsity Golf vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-24 8:00 AM",
+        "end": "2026-08-24 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3551369-occurrence-8363697",
+        "title": "3551369 - Boys Varsity Golf vs OPEN ( Senior Night)",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 5:45 PM",
+        "end": "2026-09-10 7:45 PM"
+      },
+      {
+        "uid": "schedule-request-3551434-occurrence-8364172",
+        "title": "3551434 - Boys 7th Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-27 5:00 PM",
+        "end": "2027-01-27 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3551435-occurrence-8364173",
+        "title": "3551435 - Boys 8th Basketball vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2027-01-27 6:00 PM",
+        "end": "2027-01-27 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3553503-occurrence-8374332",
+        "title": "3553503 - Boys 7th Basketball vs Boardman Center Middle School - Youngstown",
+        "type": "Athletics - Home",
+        "start": "2026-12-23 5:00 PM",
+        "end": "2026-12-23 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3553504-occurrence-8374333",
+        "title": "3553504 - Boys 8th Basketball vs Boardman Center Middle School - Youngstown",
+        "type": "Athletics - Home",
+        "start": "2026-12-23 6:00 PM",
+        "end": "2026-12-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554049-occurrence-8380100",
+        "title": "3554049 - Girls Varsity Tennis vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-02 4:00 PM",
+        "end": "2026-09-02 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554082-occurrence-8380137",
+        "title": "3554082 - Girls Varsity Tennis vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-17 4:00 PM",
+        "end": "2026-08-17 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554083-occurrence-8380138",
+        "title": "3554083 - Girls Varsity Tennis vs Girard Jr/Sr HS",
+        "type": "Athletics - Home",
+        "start": "2026-08-19 4:00 PM",
+        "end": "2026-08-19 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554086-occurrence-8380141",
+        "title": "3554086 - Girls Varsity Tennis vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-16 4:00 PM",
+        "end": "2026-09-16 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554088-occurrence-8380143",
+        "title": "3554088 - Girls Varsity Tennis vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-22 4:00 PM",
+        "end": "2026-09-22 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3554089-occurrence-8380144",
+        "title": "3554089 - Girls Varsity Tennis vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 4:00 PM",
+        "end": "2026-09-23 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3587911-occurrence-8422078",
+        "title": "3587911 - Girls Varsity Golf vs Hubbard High School (and South Range)",
+        "type": "Athletics - Home",
+        "start": "2026-08-17 8:00 AM",
+        "end": "2026-08-17 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3638958-occurrence-8529052",
+        "title": "3638958 - Boys Junior Varsity Soccer vs Marlington High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 6:00 PM",
+        "end": "2026-09-30 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3073594-occurrence-7477733",
+        "title": "3073594 - Time: TBA - Labor Day",
+        "type": "School Activity",
+        "start": "2026-09-07 12:00 AM",
+        "end": "2026-09-07 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3286463-occurrence-7850774",
+        "title": "3286463 - Unitled Way Classic",
+        "type": "School Activity",
+        "start": "2026-12-12 12:00 PM",
+        "end": "2026-12-12 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3286604-occurrence-7850999",
+        "title": "3286604 - Time: TBA - THANKSGIVING",
+        "type": "School Activity",
+        "start": "2026-11-26 12:00 AM",
+        "end": "2026-11-26 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3286605-occurrence-7851000",
+        "title": "3286605 - Time: TBA - MLK Day No School",
+        "type": "School Activity",
+        "start": "2027-01-18 12:00 AM",
+        "end": "2027-01-18 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3304334-occurrence-7905616",
+        "title": "3304334 - Homecoming Dance",
+        "type": "School Activity",
+        "start": "2026-09-19 7:00 PM",
+        "end": "2026-09-19 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3458321-occurrence-8161336",
+        "title": "3458321 - Band Night",
+        "type": "School Activity",
+        "start": "2026-09-26 7:00 PM",
+        "end": "2026-09-26 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3482128-occurrence-8207406",
+        "title": "3482128 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-01-30 9:00 AM",
+        "end": "2027-01-30 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482129-occurrence-8207407",
+        "title": "3482129 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-01-30 9:00 AM",
+        "end": "2027-01-30 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482130-occurrence-8207408",
+        "title": "3482130 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-01-31 9:00 AM",
+        "end": "2027-01-31 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482131-occurrence-8207409",
+        "title": "3482131 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-01-31 9:00 AM",
+        "end": "2027-01-31 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482132-occurrence-8207410",
+        "title": "3482132 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-02-06 9:00 AM",
+        "end": "2027-02-06 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482133-occurrence-8207411",
+        "title": "3482133 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-02-06 9:00 AM",
+        "end": "2027-02-06 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482134-occurrence-8207412",
+        "title": "3482134 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-02-07 9:00 AM",
+        "end": "2027-02-07 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3482135-occurrence-8207413",
+        "title": "3482135 - All Sports Booster Club Basketball Tournament",
+        "type": "School Activity",
+        "start": "2027-02-07 9:00 AM",
+        "end": "2027-02-07 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3587890-occurrence-8422050",
+        "title": "3587890 - Underclassmen Pictures",
+        "type": "School Activity",
+        "start": "2026-10-07 7:30 AM",
+        "end": "2026-10-07 9:30 AM"
+      },
+      {
+        "uid": "schedule-request-3615447-occurrence-8485075",
+        "title": "3615447 - Time: TBA - Girls Varsity Cheerleading (OASSA Cheerleading Regional Qualifier)",
+        "type": "School Activity",
+        "start": "2026-11-22 12:00 AM",
+        "end": "2026-11-22 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3615448-occurrence-8485076",
+        "title": "3615448 - Time: TBA - Girls Varsity Cheerleading (OASSA Cheerleading Championship)",
+        "type": "School Activity",
+        "start": "2026-12-12 12:00 AM",
+        "end": "2026-12-12 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3615449-occurrence-8485077",
+        "title": "3615449 - Time: TBA - Girls Varsity Cheerleading (OASSA Cheerleading Championship)",
+        "type": "School Activity",
+        "start": "2026-12-13 12:00 AM",
+        "end": "2026-12-13 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619129-occurrence-8491340",
+        "title": "3619129 - Time: TBA - Baseball All League Selection Meeting",
+        "type": "School Activity",
+        "start": "2027-05-02 12:00 AM",
+        "end": "2027-05-02 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3619130-occurrence-8491341",
+        "title": "3619130 - Time: TBA - Softball All League Selection Meeting",
+        "type": "School Activity",
+        "start": "2027-05-02 12:00 AM",
+        "end": "2027-05-02 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3636299-occurrence-8521721",
+        "title": "3636299 - High School Band/Choir Concert",
+        "type": "School Activity",
+        "start": "2026-12-02 7:30 PM",
+        "end": "2026-12-02 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3636300-occurrence-8521722",
+        "title": "3636300 - Junior High Holiday Band and Choir Concert",
+        "type": "School Activity",
+        "start": "2026-12-03 7:00 PM",
+        "end": "2026-12-03 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3636301-occurrence-8521723",
+        "title": "3636301 - 5/6  Holiday Choir Concert",
+        "type": "School Activity",
+        "start": "2026-12-17 6:00 PM",
+        "end": "2026-12-17 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3636302-occurrence-8521724",
+        "title": "3636302 - 5/6 Holiday Band Concert",
+        "type": "School Activity",
+        "start": "2026-12-17 7:30 PM",
+        "end": "2026-12-17 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3636350-occurrence-8521791",
+        "title": "3636350 - PSHS Winter Band & Choir Concert",
+        "type": "School Activity",
+        "start": "2027-02-17 7:30 PM",
+        "end": "2027-02-17 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3636351-occurrence-8521792",
+        "title": "3636351 - HS Spring Band & Choir Concert",
+        "type": "School Activity",
+        "start": "2027-05-05 7:30 PM",
+        "end": "2027-05-05 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3636352-occurrence-8521793",
+        "title": "3636352 - POSTPONED: 7/8 Spring Band & Choir  Concert",
+        "type": "School Activity",
+        "start": "2027-05-06 7:00 PM",
+        "end": "2027-05-06 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3636493-occurrence-8522058",
+        "title": "3636493 - Time: TBA - Poland School Foundation Dinner",
+        "type": "School Activity",
+        "start": "2027-03-11 12:00 AM",
+        "end": "2027-03-11 6:59 PM"
+      },
+      {
+        "uid": "schedule-request-3649193-occurrence-8552461",
+        "title": "3649193 - 7/8 Spring Band & Choir  Concert",
+        "type": "School Activity",
+        "start": "2027-05-04 7:00 PM",
+        "end": "2027-05-04 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-13T16:50:47.588Z",
     "added": [
       {
