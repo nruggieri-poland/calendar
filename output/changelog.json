@@ -1,5 +1,250 @@
 [
   {
+    "timestamp": "2026-08-13T15:54:54.599Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2697895-occurrence-6566236",
+        "title": "2697895 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-08-13 6:00 PM",
+        "end": "2025-08-13 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697896-occurrence-6566237",
+        "title": "2697896 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-09-10 6:00 PM",
+        "end": "2025-09-10 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697897-occurrence-6566238",
+        "title": "2697897 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-09-24 6:00 PM",
+        "end": "2025-09-24 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697898-occurrence-6566239",
+        "title": "2697898 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-10-08 6:00 PM",
+        "end": "2025-10-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697899-occurrence-6566240",
+        "title": "2697899 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-10-22 6:00 PM",
+        "end": "2025-10-22 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697900-occurrence-6566241",
+        "title": "2697900 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-11-05 6:00 PM",
+        "end": "2025-11-05 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697901-occurrence-6566242",
+        "title": "2697901 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-11-19 6:00 PM",
+        "end": "2025-11-19 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2697902-occurrence-6566243",
+        "title": "2697902 - Board Meeting - Poland BOE",
+        "type": "Board Meeting",
+        "start": "2025-12-11 6:00 PM",
+        "end": "2025-12-11 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-2994222-occurrence-7330404",
+        "title": "2994222 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2025-08-21 5:00 PM",
+        "end": "2025-08-21 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3316005-occurrence-7942222",
+        "title": "3316005 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2025-11-22 8:30 AM",
+        "end": "2025-11-22 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3381891-occurrence-8019368",
+        "title": "3381891 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2025-12-09 6:00 PM",
+        "end": "2025-12-09 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094710",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-01-21 6:00 PM",
+        "end": "2026-01-21 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094711",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-02-04 6:00 PM",
+        "end": "2026-02-04 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094712",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-02-25 6:00 PM",
+        "end": "2026-02-25 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094713",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-03-11 6:00 PM",
+        "end": "2026-03-11 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094714",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-03-25 6:00 PM",
+        "end": "2026-03-25 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094715",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-04-15 6:00 PM",
+        "end": "2026-04-15 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094716",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-04-29 6:00 PM",
+        "end": "2026-04-29 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094717",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-05-06 6:00 PM",
+        "end": "2026-05-06 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094718",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-05-20 6:00 PM",
+        "end": "2026-05-20 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094719",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-06-29 6:00 PM",
+        "end": "2026-06-29 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094720",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-07-23 6:00 PM",
+        "end": "2026-07-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094721",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-08-17 6:00 PM",
+        "end": "2026-08-17 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094722",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-09-09 6:00 PM",
+        "end": "2026-09-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094723",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094724",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-10-07 6:00 PM",
+        "end": "2026-10-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094725",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-10-21 6:00 PM",
+        "end": "2026-10-21 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094726",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-11-04 6:00 PM",
+        "end": "2026-11-04 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094727",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-11-18 6:00 PM",
+        "end": "2026-11-18 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094728",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-12-09 6:00 PM",
+        "end": "2026-12-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3527231-occurrence-8318457",
+        "title": "3527231 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2026-03-02 5:00 PM",
+        "end": "2026-03-02 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3527231-occurrence-8318458",
+        "title": "3527231 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2026-03-03 5:00 PM",
+        "end": "2026-03-03 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3527232-occurrence-8318459",
+        "title": "3527232 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2026-03-09 7:00 PM",
+        "end": "2026-03-09 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3536871-occurrence-8336866",
+        "title": "3536871 - Special Board Meeting",
+        "type": "Board Meeting",
+        "start": "2026-03-06 3:00 PM",
+        "end": "2026-03-06 4:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-13T04:05:25.855Z",
     "added": [],
     "removed": [
