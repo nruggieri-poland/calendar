@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-13T04:05:25.855Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-2987601-occurrence-7293048",
+        "title": "2987601 - Girls Varsity Volleyball @ East Palestine HS",
+        "type": "Athletics - Away",
+        "start": "2025-08-12 5:00 PM",
+        "end": "2025-08-12 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-2832997-occurrence-6892292",
+        "title": "2832997 - Boys Varsity Soccer vs United Local High School",
+        "type": "Athletics - Home",
+        "start": "2025-08-12 7:00 PM",
+        "end": "2025-08-12 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-12T16:51:58.601Z",
     "added": [
       {
