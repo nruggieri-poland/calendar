@@ -1683,17 +1683,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2886032/occurrences/7017878"
   },
   {
-    "uid": "schedule-request-2903762-occurrence-7099373",
-    "title": "2903762 - Time: TBA - POSTPONED: Girls Varsity Golf @ Girard Jr/Sr HS",
-    "summary": "2903762 - Time: TBA - POSTPONED: Girls Varsity Golf @ Girard Jr/Sr HS",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2025-08-13 12:00 AM",
-    "end": "2025-08-13 7:59 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2903762/occurrences/7099373"
-  },
-  {
     "uid": "schedule-request-2903763-occurrence-7099374",
     "title": "2903763 - Girls Varsity Golf @ Niles McKinley High School",
     "summary": "2903763 - Girls Varsity Golf @ Niles McKinley High School",
@@ -8140,28 +8129,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2759457/occurrences/6675961"
   },
   {
-    "uid": "schedule-request-2832998-occurrence-6892293",
-    "title": "2832998 - Girls Junior Varsity Soccer vs Salem Jr/Sr High School (1/2 Only )",
-    "summary": "2832998 - Girls Junior Varsity Soccer vs Salem Jr/Sr High School (1/2 Only )",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-13 6:00 PM",
-    "end": "2025-08-13 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2832998/occurrences/6892293"
-  },
-  {
-    "uid": "schedule-request-2832999-occurrence-6892294",
-    "title": "2832999 - Girls Varsity Soccer vs Salem Jr/Sr High School",
-    "summary": "2832999 - Girls Varsity Soccer vs Salem Jr/Sr High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-13 7:00 PM",
-    "end": "2025-08-13 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2832999/occurrences/6892294"
-  },
-  {
     "uid": "schedule-request-2850465-occurrence-6936942",
     "title": "2850465 - Boys/Girls Varsity Track vs OPEN (Poland Track and Field Invite 30th Year)",
     "summary": "2850465 - Boys/Girls Varsity Track vs OPEN (Poland Track and Field Invite 30th Year)",
@@ -8360,17 +8327,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/2918689/occurrences/7124928"
   },
   {
-    "uid": "schedule-request-2939919-occurrence-7157902",
-    "title": "2939919 - Time: TBA - POSTPONED: Boys Varsity Golf vs Girard Jr/Sr HS (and South Range)",
-    "summary": "2939919 - Time: TBA - POSTPONED: Boys Varsity Golf vs Girard Jr/Sr HS (and South Range)",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-13 12:00 AM",
-    "end": "2025-08-13 7:59 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2939919/occurrences/7157902"
-  },
-  {
     "uid": "schedule-request-2939921-occurrence-7157904",
     "title": "2939921 - Boys Varsity Golf vs Struthers High School",
     "summary": "2939921 - Boys Varsity Golf vs Struthers High School",
@@ -8468,17 +8424,6 @@
     "end": "2025-10-11 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/2949592/occurrences/7185484"
-  },
-  {
-    "uid": "schedule-request-2965299-occurrence-7219328",
-    "title": "2965299 - Girls Varsity Tennis vs Niles McKinley High School",
-    "summary": "2965299 - Girls Varsity Tennis vs Niles McKinley High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2025-08-13 4:00 PM",
-    "end": "2025-08-13 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2965299/occurrences/7219328"
   },
   {
     "uid": "schedule-request-2965304-occurrence-7219342",
@@ -13572,17 +13517,6 @@
     "end": "2026-09-15 6:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3878854/occurrences/9012542"
-  },
-  {
-    "uid": "schedule-request-2697895-occurrence-6566236",
-    "title": "2697895 - Board Meeting - Poland BOE",
-    "summary": "2697895 - Board Meeting - Poland BOE",
-    "type": "Board Meeting",
-    "color": "#00328f",
-    "start": "2025-08-13 6:00 PM",
-    "end": "2025-08-13 7:30 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/2697895/occurrences/6566236"
   },
   {
     "uid": "schedule-request-2697896-occurrence-6566237",
