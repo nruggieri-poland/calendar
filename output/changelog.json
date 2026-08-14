@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-14T17:48:00.232Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3866408-occurrence-8974392",
+        "title": "3866408 - Golf (Boys V) @ Shenango High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-14 11:00 AM",
+        "end": "2026-08-14 1:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-14T04:21:33.079Z",
     "added": [],
     "removed": [
