@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-15T19:17:35.492Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857991-occurrence-8952399",
+        "title": "3857991 - Soccer (Boys V) @ Marlington High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-15 1:00 PM",
+        "end": "2026-08-15 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-15T17:15:57.232Z",
     "added": [],
     "removed": [
