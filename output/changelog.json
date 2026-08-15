@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-15T22:15:04.585Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3871278-occurrence-8987617",
+        "title": "3871278 - Volleyball (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-15 4:00 PM",
+        "end": "2026-08-15 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-15T19:17:35.492Z",
     "added": [],
     "removed": [
