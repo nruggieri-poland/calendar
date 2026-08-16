@@ -1,5 +1,845 @@
 [
   {
+    "timestamp": "2026-08-16T13:55:11.953Z",
+    "added": [],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3888166-occurrence-9035131",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-02 12:00 AM",
+        "end": "2026-09-02 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-01 8:00 PM",
+            "to": "2026-09-02 12:00 AM"
+          },
+          "end": {
+            "from": "2026-09-03 7:59 PM",
+            "to": "2026-09-02 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035132",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-03 12:00 AM",
+        "end": "2026-09-03 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-02 8:00 PM",
+            "to": "2026-09-03 12:00 AM"
+          },
+          "end": {
+            "from": "2026-09-04 7:59 PM",
+            "to": "2026-09-03 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035133",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-04 12:00 AM",
+        "end": "2026-09-04 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-03 8:00 PM",
+            "to": "2026-09-04 12:00 AM"
+          },
+          "end": {
+            "from": "2026-09-05 7:59 PM",
+            "to": "2026-09-04 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035134",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-07 12:00 AM",
+        "end": "2026-09-07 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-06 8:00 PM",
+            "to": "2026-09-07 12:00 AM"
+          },
+          "end": {
+            "from": "2026-09-08 7:59 PM",
+            "to": "2026-09-07 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035135",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-10-08 12:00 AM",
+        "end": "2026-10-08 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-10-07 8:00 PM",
+            "to": "2026-10-08 12:00 AM"
+          },
+          "end": {
+            "from": "2026-10-09 7:59 PM",
+            "to": "2026-10-08 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035136",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-10-09 12:00 AM",
+        "end": "2026-10-09 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-10-08 8:00 PM",
+            "to": "2026-10-09 12:00 AM"
+          },
+          "end": {
+            "from": "2026-10-10 7:59 PM",
+            "to": "2026-10-09 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035137",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-01-18 12:00 AM",
+        "end": "2027-01-18 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-01-17 7:00 PM",
+            "to": "2027-01-18 12:00 AM"
+          },
+          "end": {
+            "from": "2027-01-19 6:59 PM",
+            "to": "2027-01-18 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035138",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-02-12 12:00 AM",
+        "end": "2027-02-12 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-02-11 7:00 PM",
+            "to": "2027-02-12 12:00 AM"
+          },
+          "end": {
+            "from": "2027-02-13 6:59 PM",
+            "to": "2027-02-12 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035139",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-02-15 12:00 AM",
+        "end": "2027-02-15 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-02-14 7:00 PM",
+            "to": "2027-02-15 12:00 AM"
+          },
+          "end": {
+            "from": "2027-02-16 6:59 PM",
+            "to": "2027-02-15 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035140",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-02-16 12:00 AM",
+        "end": "2027-02-16 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-02-15 7:00 PM",
+            "to": "2027-02-16 12:00 AM"
+          },
+          "end": {
+            "from": "2027-02-17 6:59 PM",
+            "to": "2027-02-16 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035141",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-03-25 12:00 AM",
+        "end": "2027-03-25 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-24 8:00 PM",
+            "to": "2027-03-25 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-26 7:59 PM",
+            "to": "2027-03-25 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035142",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-04-30 12:00 AM",
+        "end": "2027-04-30 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-04-29 8:00 PM",
+            "to": "2027-04-30 12:00 AM"
+          },
+          "end": {
+            "from": "2027-05-01 7:59 PM",
+            "to": "2027-04-30 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035143",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2027-05-31 12:00 AM",
+        "end": "2027-05-31 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-05-30 8:00 PM",
+            "to": "2027-05-31 12:00 AM"
+          },
+          "end": {
+            "from": "2027-06-01 7:59 PM",
+            "to": "2027-05-31 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888167-occurrence-9035144",
+        "title": "3888167 - CLOSED - Thanksgiving Recess",
+        "type": "CLOSED",
+        "start": "2026-11-25 12:00 AM",
+        "end": "2026-11-25 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-11-24 7:00 PM",
+            "to": "2026-11-25 12:00 AM"
+          },
+          "end": {
+            "from": "2026-11-26 6:59 PM",
+            "to": "2026-11-25 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888167-occurrence-9035145",
+        "title": "3888167 - CLOSED - Thanksgiving Recess",
+        "type": "CLOSED",
+        "start": "2026-11-26 12:00 AM",
+        "end": "2026-11-26 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-11-25 7:00 PM",
+            "to": "2026-11-26 12:00 AM"
+          },
+          "end": {
+            "from": "2026-11-27 6:59 PM",
+            "to": "2026-11-26 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888167-occurrence-9035146",
+        "title": "3888167 - CLOSED - Thanksgiving Recess",
+        "type": "CLOSED",
+        "start": "2026-11-27 12:00 AM",
+        "end": "2026-11-27 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-11-26 7:00 PM",
+            "to": "2026-11-27 12:00 AM"
+          },
+          "end": {
+            "from": "2026-11-28 6:59 PM",
+            "to": "2026-11-27 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035147",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-21 12:00 AM",
+        "end": "2026-12-21 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-20 7:00 PM",
+            "to": "2026-12-21 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-22 6:59 PM",
+            "to": "2026-12-21 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035148",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-22 12:00 AM",
+        "end": "2026-12-22 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-21 7:00 PM",
+            "to": "2026-12-22 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-23 6:59 PM",
+            "to": "2026-12-22 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035149",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-23 12:00 AM",
+        "end": "2026-12-23 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-22 7:00 PM",
+            "to": "2026-12-23 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-24 6:59 PM",
+            "to": "2026-12-23 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035150",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-24 12:00 AM",
+        "end": "2026-12-24 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-23 7:00 PM",
+            "to": "2026-12-24 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-25 6:59 PM",
+            "to": "2026-12-24 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035151",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-25 12:00 AM",
+        "end": "2026-12-25 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-24 7:00 PM",
+            "to": "2026-12-25 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-26 6:59 PM",
+            "to": "2026-12-25 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035152",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-26 12:00 AM",
+        "end": "2026-12-26 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-25 7:00 PM",
+            "to": "2026-12-26 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-27 6:59 PM",
+            "to": "2026-12-26 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035153",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-27 12:00 AM",
+        "end": "2026-12-27 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-26 7:00 PM",
+            "to": "2026-12-27 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-28 6:59 PM",
+            "to": "2026-12-27 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035154",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-28 12:00 AM",
+        "end": "2026-12-28 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-27 7:00 PM",
+            "to": "2026-12-28 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-29 6:59 PM",
+            "to": "2026-12-28 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035155",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-29 12:00 AM",
+        "end": "2026-12-29 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-28 7:00 PM",
+            "to": "2026-12-29 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-30 6:59 PM",
+            "to": "2026-12-29 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035156",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-30 12:00 AM",
+        "end": "2026-12-30 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-29 7:00 PM",
+            "to": "2026-12-30 12:00 AM"
+          },
+          "end": {
+            "from": "2026-12-31 6:59 PM",
+            "to": "2026-12-30 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035157",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2026-12-31 12:00 AM",
+        "end": "2026-12-31 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-30 7:00 PM",
+            "to": "2026-12-31 12:00 AM"
+          },
+          "end": {
+            "from": "2027-01-01 6:59 PM",
+            "to": "2026-12-31 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888168-occurrence-9035158",
+        "title": "3888168 - CLOSED - Winter Recess",
+        "type": "CLOSED",
+        "start": "2027-01-01 12:00 AM",
+        "end": "2027-01-01 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-12-31 7:00 PM",
+            "to": "2027-01-01 12:00 AM"
+          },
+          "end": {
+            "from": "2027-01-02 6:59 PM",
+            "to": "2027-01-01 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035161",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-03-26 12:00 AM",
+        "end": "2027-03-26 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-25 8:00 PM",
+            "to": "2027-03-26 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-27 7:59 PM",
+            "to": "2027-03-26 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035162",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-03-27 12:00 AM",
+        "end": "2027-03-27 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-26 8:00 PM",
+            "to": "2027-03-27 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-28 7:59 PM",
+            "to": "2027-03-27 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035163",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-03-28 12:00 AM",
+        "end": "2027-03-28 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-27 8:00 PM",
+            "to": "2027-03-28 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-29 7:59 PM",
+            "to": "2027-03-28 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035164",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-03-29 12:00 AM",
+        "end": "2027-03-29 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-28 8:00 PM",
+            "to": "2027-03-29 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-30 7:59 PM",
+            "to": "2027-03-29 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035165",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-03-30 12:00 AM",
+        "end": "2027-03-30 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-29 8:00 PM",
+            "to": "2027-03-30 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-31 7:59 PM",
+            "to": "2027-03-30 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035166",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-03-31 12:00 AM",
+        "end": "2027-03-31 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-30 8:00 PM",
+            "to": "2027-03-31 12:00 AM"
+          },
+          "end": {
+            "from": "2027-04-01 7:59 PM",
+            "to": "2027-03-31 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035167",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-04-01 12:00 AM",
+        "end": "2027-04-01 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-31 8:00 PM",
+            "to": "2027-04-01 12:00 AM"
+          },
+          "end": {
+            "from": "2027-04-02 7:59 PM",
+            "to": "2027-04-01 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888170-occurrence-9035168",
+        "title": "3888170 - Spring Recess",
+        "type": "CLOSED",
+        "start": "2027-04-02 12:00 AM",
+        "end": "2027-04-02 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-04-01 8:00 PM",
+            "to": "2027-04-02 12:00 AM"
+          },
+          "end": {
+            "from": "2027-04-03 7:59 PM",
+            "to": "2027-04-02 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888169-occurrence-9035159",
+        "title": "3888169 - Parent-Teacher Conferences",
+        "type": "School Activity",
+        "start": "2026-10-08 12:00 AM",
+        "end": "2026-10-08 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-10-07 8:00 PM",
+            "to": "2026-10-08 12:00 AM"
+          },
+          "end": {
+            "from": "2026-10-09 7:59 PM",
+            "to": "2026-10-08 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888169-occurrence-9035160",
+        "title": "3888169 - Parent-Teacher Conferences",
+        "type": "School Activity",
+        "start": "2027-02-11 12:00 AM",
+        "end": "2027-02-11 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-02-10 7:00 PM",
+            "to": "2027-02-11 12:00 AM"
+          },
+          "end": {
+            "from": "2027-02-12 6:59 PM",
+            "to": "2027-02-11 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035169",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-17 12:00 AM",
+        "end": "2026-08-17 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-08-16 8:00 PM",
+            "to": "2026-08-17 12:00 AM"
+          },
+          "end": {
+            "from": "2026-08-18 7:59 PM",
+            "to": "2026-08-17 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035170",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-18 12:00 AM",
+        "end": "2026-08-18 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-08-17 8:00 PM",
+            "to": "2026-08-18 12:00 AM"
+          },
+          "end": {
+            "from": "2026-08-19 7:59 PM",
+            "to": "2026-08-18 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035171",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-19 12:00 AM",
+        "end": "2026-08-19 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-08-18 8:00 PM",
+            "to": "2026-08-19 12:00 AM"
+          },
+          "end": {
+            "from": "2026-08-20 7:59 PM",
+            "to": "2026-08-19 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035172",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-20 12:00 AM",
+        "end": "2026-08-20 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-08-19 8:00 PM",
+            "to": "2026-08-20 12:00 AM"
+          },
+          "end": {
+            "from": "2026-08-21 7:59 PM",
+            "to": "2026-08-20 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035173",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-21 12:00 AM",
+        "end": "2026-08-21 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-08-20 8:00 PM",
+            "to": "2026-08-21 12:00 AM"
+          },
+          "end": {
+            "from": "2026-08-22 7:59 PM",
+            "to": "2026-08-21 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035174",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-24 12:00 AM",
+        "end": "2026-08-24 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-08-23 8:00 PM",
+            "to": "2026-08-24 12:00 AM"
+          },
+          "end": {
+            "from": "2026-08-25 7:59 PM",
+            "to": "2026-08-24 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035175",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-09-02 12:00 AM",
+        "end": "2026-09-02 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-01 8:00 PM",
+            "to": "2026-09-02 12:00 AM"
+          },
+          "end": {
+            "from": "2026-09-03 7:59 PM",
+            "to": "2026-09-02 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035176",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2027-02-16 12:00 AM",
+        "end": "2027-02-16 6:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-02-15 7:00 PM",
+            "to": "2027-02-16 12:00 AM"
+          },
+          "end": {
+            "from": "2027-02-17 6:59 PM",
+            "to": "2027-02-16 6:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035177",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2027-03-25 12:00 AM",
+        "end": "2027-03-25 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-03-24 8:00 PM",
+            "to": "2027-03-25 12:00 AM"
+          },
+          "end": {
+            "from": "2027-03-26 7:59 PM",
+            "to": "2027-03-25 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035178",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2027-04-30 12:00 AM",
+        "end": "2027-04-30 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-04-29 8:00 PM",
+            "to": "2027-04-30 12:00 AM"
+          },
+          "end": {
+            "from": "2027-05-01 7:59 PM",
+            "to": "2027-04-30 7:59 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035180",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2027-06-03 12:00 AM",
+        "end": "2027-06-03 7:59 PM",
+        "changes": {
+          "start": {
+            "from": "2027-06-02 8:00 PM",
+            "to": "2027-06-03 12:00 AM"
+          },
+          "end": {
+            "from": "2027-06-04 7:59 PM",
+            "to": "2027-06-03 7:59 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-16T12:27:45.401Z",
     "added": [
       {
