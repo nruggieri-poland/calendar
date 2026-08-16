@@ -64,16 +64,27 @@ function formatDate(raw, isEnd = false) {
   if (!raw) return "";
   const cleanRaw = raw.split(":").pop().trim();
 
-  const year = parseInt(cleanRaw.slice(0, 4));
-  const month = parseInt(cleanRaw.slice(4, 6)) - 1;
-  const day = parseInt(cleanRaw.slice(6, 8));
+  let year = parseInt(cleanRaw.slice(0, 4));
+  let month = parseInt(cleanRaw.slice(4, 6)) - 1;
+  let day = parseInt(cleanRaw.slice(6, 8));
 
-  // All-day (YYYYMMDD)
+  // All-day (DATE-only, YYYYMMDD) — this has no attached timezone, so it must
+  // be treated as a literal Eastern wall-clock date, not run through a
+  // system-local Date object (that round-trip shifts it by the UTC offset
+  // and can push midnight into the previous calendar day). Per RFC 5545
+  // §3.8.2.2, DTEND on a DATE-value VEVENT is exclusive (the day *after*
+  // the event's last day), so roll it back one day before formatting.
   if (cleanRaw.length <= 8) {
+    if (isEnd) {
+      const d = new Date(year, month, day);
+      d.setDate(d.getDate() - 1);
+      year = d.getFullYear();
+      month = d.getMonth();
+      day = d.getDate();
+    }
     const hour = isEnd ? 23 : 0;
     const minute = isEnd ? 59 : 0;
-    const d = new Date(year, month, day, hour, minute, 0);
-    return toEasternString(d);
+    return formatEasternDateString(year, month, day, hour, minute);
   }
 
   // Timed (YYYYMMDDTHHMMSSZ)
@@ -81,6 +92,16 @@ function formatDate(raw, isEnd = false) {
   const minute = parseInt(cleanRaw.slice(11, 13));
   const utcDate = new Date(Date.UTC(year, month, day, hour, minute));
   return toEasternString(utcDate);
+}
+
+// Formats a literal Eastern-time wall-clock date (no timezone conversion) —
+// used for all-day values, which don't correspond to a real UTC instant.
+function formatEasternDateString(year, month, day, hour, minute) {
+  const pad2 = (n) => String(n).padStart(2, "0");
+  let h12 = hour % 12;
+  if (h12 === 0) h12 = 12;
+  const ampm = hour < 12 ? "AM" : "PM";
+  return `${year}-${pad2(month + 1)}-${pad2(day)} ${h12}:${pad2(minute)} ${ampm}`;
 }
 
 function toEasternString(date) {
@@ -141,20 +162,6 @@ function parseIcs(text, feed) {
       if (line.startsWith("DTEND")) {
         event.end = formatDate(line, true);
         event._dtend = line.split(":").pop().trim();
-
-        // Fix ICS "next-day" all-day end dates (DATE-only DTEND)
-        if (event.start && event.end && !line.includes("T")) {
-          const startDatePart = event.start.split(" ")[0];
-          const endDatePart = event.end.split(" ")[0];
-          if (startDatePart !== endDatePart) {
-            const s = event.start.split("-");
-            const corrected = new Date(
-              parseInt(s[0]), parseInt(s[1]) - 1, parseInt(s[2]), 23, 59
-            );
-            event.end = toEasternString(corrected);
-            event._dtend = null; // signal to use original for ICS
-          }
-        }
 
         // Fix timed "midnight-start" events (FMX all-day/TBA encoding: 12 AM – 2 AM)
         if (event.start && event.start.endsWith("12:00 AM")) {

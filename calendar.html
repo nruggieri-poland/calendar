@@ -1,0 +1,2280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+<div class="pcal" id="pcal">
+
+  <div class="pcal-head">
+    <h2 class="pcal-title">Poland Schools Calendar</h2>
+    <div class="pcal-bar">
+      <div class="pcal-nav">
+        <button aria-label="Previous period" class="pcal-nav-btn" id="pcalPrev">
+          <svg aria-hidden="true" fill="none" height="14" stroke="currentColor" stroke-linecap="round"
+            stroke-width="2.5" viewbox="0 0 16 16" width="14">
+            <path d="M10 12L6 8l4-4"></path>
+          </svg>
+        </button>
+        <span class="pcal-period" id="pcalPeriod"></span>
+        <button aria-label="Next period" class="pcal-nav-btn" id="pcalNext">
+          <svg aria-hidden="true" fill="none" height="14" stroke="currentColor" stroke-linecap="round"
+            stroke-width="2.5" viewbox="0 0 16 16" width="14">
+            <path d="M6 12l4-4-4-4"></path>
+          </svg>
+        </button>
+        <button class="pcal-today-btn" id="pcalToday">Today</button>
+      </div>
+      <div aria-label="Calendar view" class="pcal-views" role="radiogroup">
+        <button aria-checked="true" class="pcal-view-btn pcal-view-btn--on" data-view="month" role="radio" tabindex="0">Month</button>
+        <button aria-checked="false" class="pcal-view-btn" data-view="week" role="radio" tabindex="-1">Week</button>
+        <button aria-checked="false" class="pcal-view-btn" data-view="day" role="radio" tabindex="-1">Day</button>
+        <button aria-checked="false" class="pcal-view-btn" data-view="agenda" role="radio" tabindex="-1">Agenda</button>
+      </div>
+    </div>
+    <div class="pcal-filter-row">
+      <div class="pcal-dropdown" id="pcalDropdown">
+        <button aria-expanded="false" aria-haspopup="listbox" class="pcal-dropdown-btn" id="pcalFilterBtn">
+          <span id="pcalFilterLabel">All categories</span>
+          <svg aria-hidden="true" class="pcal-dropdown-chevron" fill="none" height="12" stroke="currentColor"
+            stroke-linecap="round" stroke-width="2" viewbox="0 0 12 12" width="12">
+            <path d="M2 4l4 4 4-4"></path>
+          </svg>
+        </button>
+        <div class="pcal-dropdown-panel pcal-hidden" id="pcalFilterPanel"></div>
+      </div>
+      <label aria-label="Search events" class="pcal-search-wrap">
+        <svg aria-hidden="true" class="pcal-search-ic" fill="currentColor" height="16" viewbox="0 0 20 20" width="16">
+          <path clip-rule="evenodd"
+            d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+            fill-rule="evenodd"></path>
+        </svg>
+        <input aria-label="Search events" autocomplete="off" class="pcal-search" id="pcalSearch"
+          placeholder="Search events…" spellcheck="false" type="search">
+      </label>
+    </div>
+  </div>
+
+  <div aria-live="polite" class="pcal-status pcal-hidden" id="pcalStatus" role="status">
+    <span aria-hidden="true" class="pcal-spinner"></span>
+    <span id="pcalStatusMsg">Loading events…</span>
+    <button class="pcal-retry-btn pcal-hidden" id="pcalRetry">Retry</button>
+  </div>
+
+  <div class="pcal-body" id="pcalBody"></div>
+
+  <div class="pcal-overlay pcal-hidden" id="pcalOverlay">
+    <div aria-labelledby="pcalDialogTitle" aria-modal="true" class="pcal-dialog" role="dialog">
+      <button aria-label="Close event details" class="pcal-dialog-close" id="pcalClose">
+        <svg aria-hidden="true" fill="currentColor" height="18" viewbox="0 0 20 20" width="18">
+          <path clip-rule="evenodd"
+            d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+            fill-rule="evenodd"></path>
+        </svg>
+      </button>
+      <div id="pcalDialogBody"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Icon symbol defs — kept in HTML so no closing tags appear inside the script block -->
+<svg aria-hidden="true" focusable="false" style="display:none;position:absolute" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="pcal-ic-clock" viewbox="0 0 20 20">
+    <path clip-rule="evenodd"
+      d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z"
+      fill-rule="evenodd"></path>
+  </symbol>
+  <symbol id="pcal-ic-pin" viewbox="0 0 20 20">
+    <path clip-rule="evenodd"
+      d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
+      fill-rule="evenodd"></path>
+  </symbol>
+  <symbol id="pcal-ic-cal" viewbox="0 0 20 20">
+    <path clip-rule="evenodd"
+      d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z"
+      fill-rule="evenodd"></path>
+  </symbol>
+  <symbol id="pcal-ic-check" viewbox="0 0 12 12">
+    <path d="M2 6l3 3 5-5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+  </symbol>
+  <symbol id="pcal-ic-ext" viewbox="0 0 20 20">
+    <path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path>
+    <path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path>
+  </symbol>
+</svg>
+
+<style>
+  /* ── Reset & scope ─────────────────────────────────────────────────────────── */
+  .pcal,
+  .pcal * {
+    box-sizing: border-box;
+  }
+
+  /* ── Custom properties ─────────────────────────────────────────────────────── */
+  .pcal {
+    --blue: #00328f;
+    --blue-mid: #0044bb;
+    --blue-pale: #e8eef9;
+    --blue-text: #fff;
+    --text: #111827;
+    --text-2: #4b5563;
+    --text-3: #6b7280;
+    --border: #e5e7eb;
+    --bg: #fff;
+    --bg-2: #f9fafb;
+    --radius-sm: 6px;
+    --radius: 10px;
+    --radius-lg: 14px;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, .08);
+    --shadow: 0 4px 16px rgba(0, 0, 0, .12);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, .18);
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    --transition: 160ms ease;
+    --border-ui: #767676;
+    /* category color slots (overridden per element) */
+    --cat: #00328f;
+    --cat-bg: #e8eef9;
+  }
+
+  /* ── Utility ───────────────────────────────────────────────────────────────── */
+  .pcal-hidden {
+    display: none !important;
+  }
+
+  /* ── Focus visible (keyboard-only ring, never shows on mouse click) ─────────── */
+  .pcal :focus-visible {
+    outline: 2px solid var(--blue);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+  }
+
+  .pcal-mcell:focus-visible {
+    outline: 2px solid var(--blue);
+    outline-offset: -2px;
+    z-index: 1;
+    position: relative;
+  }
+
+  /* ── Grid row wrappers (role=row) — invisible to layout ────────────────────── */
+  .pcal-month > [role="row"] {
+    display: contents;
+  }
+
+  /* ── Container ─────────────────────────────────────────────────────────────── */
+  .pcal {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 .5rem 2rem;
+    font-family: var(--font);
+    color: var(--text);
+    line-height: 1.5;
+  }
+
+  /* ── Header ────────────────────────────────────────────────────────────────── */
+  .pcal-head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .75rem;
+    padding: 1.25rem 0 1rem;
+    text-align: center;
+  }
+
+  .pcal-title {
+    margin: 0;
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -.02em;
+    color: var(--blue);
+  }
+
+  .pcal-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: .75rem;
+  }
+
+  /* Navigation */
+  .pcal-nav {
+    display: flex;
+    align-items: center;
+    gap: .375rem;
+  }
+
+  .pcal-nav-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--border-ui);
+    border-radius: var(--radius-sm);
+    background: var(--bg);
+    color: var(--text-2);
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
+  }
+
+  .pcal-nav-btn:hover {
+    background: var(--blue-pale);
+    border-color: var(--blue);
+    color: var(--blue);
+  }
+
+  .pcal-period {
+    min-width: 160px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+    text-align: center;
+  }
+
+  .pcal-today-btn {
+    height: 32px;
+    padding: 0 .875rem;
+    border: 1px solid var(--border-ui);
+    border-radius: var(--radius-sm);
+    background: var(--bg);
+    color: var(--text-2);
+    font-size: .8125rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
+    font-family: var(--font);
+  }
+
+  .pcal-today-btn:hover {
+    background: var(--blue-pale);
+    border-color: var(--blue);
+    color: var(--blue);
+  }
+
+  /* View buttons */
+  .pcal-views {
+    display: flex;
+    border: 1px solid var(--border-ui);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+  }
+
+  .pcal-view-btn {
+    padding: .375rem .875rem;
+    border: none;
+    border-left: 1px solid var(--border-ui);
+    background: var(--bg);
+    color: var(--text-2);
+    font-size: .8125rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background var(--transition), color var(--transition);
+    font-family: var(--font);
+  }
+
+  .pcal-view-btn:first-child {
+    border-left: none;
+  }
+
+  .pcal-view-btn:hover {
+    background: var(--bg-2);
+    color: var(--text);
+  }
+
+  .pcal-view-btn--on {
+    background: var(--blue);
+    color: var(--blue-text);
+  }
+
+  .pcal-view-btn--on:hover {
+    background: var(--blue-mid);
+    color: var(--blue-text);
+  }
+
+  /* Filter row */
+  .pcal-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    width: 100%;
+    max-width: 900px;
+  }
+
+  /* ── Category dropdown ─────────────────────────────────────────────────────── */
+  .pcal-dropdown {
+    position: relative;
+  }
+
+  .pcal-dropdown-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: .375rem;
+    height: 32px;
+    padding: 0 .625rem 0 .875rem;
+    border: 1px solid var(--border-ui);
+    border-radius: var(--radius-sm);
+    background: var(--bg);
+    color: var(--text-2);
+    font-size: .8125rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color var(--transition), background var(--transition), color var(--transition);
+    font-family: var(--font);
+    white-space: nowrap;
+  }
+
+  .pcal-dropdown-btn:hover,
+  .pcal-dropdown-btn--open {
+    border-color: var(--blue);
+    background: var(--blue-pale);
+    color: var(--blue);
+  }
+
+  .pcal-dropdown-chevron {
+    transition: transform var(--transition);
+    flex-shrink: 0;
+    opacity: .6;
+  }
+
+  .pcal-dropdown-btn--open .pcal-dropdown-chevron {
+    transform: rotate(180deg);
+  }
+
+  .pcal-dropdown-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 4px;
+    border-radius: 999px;
+    background: var(--blue);
+    color: #fff;
+    font-size: .6875rem;
+    font-weight: 700;
+    line-height: 1;
+    margin-left: 1px;
+  }
+
+  .pcal-dropdown-btn--open .pcal-dropdown-badge {
+    background: var(--blue-mid);
+  }
+
+  .pcal-dropdown-panel {
+    position: absolute;
+    top: calc(100% + 5px);
+    left: 0;
+    z-index: 200;
+    min-width: 230px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: .3125rem 0;
+    animation: pcal-fade-in 120ms ease;
+  }
+
+  .pcal-dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .4375rem .75rem;
+    cursor: pointer;
+    font-size: .8125rem;
+    color: var(--text);
+    transition: background var(--transition);
+    user-select: none;
+  }
+
+  .pcal-dropdown-item:hover {
+    background: var(--bg-2);
+  }
+
+  .pcal-dropdown-check {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    border: 1.5px solid #d1d5db;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background var(--transition), border-color var(--transition);
+    color: transparent;
+  }
+
+  .pcal-dropdown-item--checked .pcal-dropdown-check {
+    background: var(--blue);
+    border-color: var(--blue);
+    color: #fff;
+  }
+
+  .pcal-dropdown-dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .pcal-dropdown-divider {
+    height: 1px;
+    background: var(--border);
+    margin: .3125rem 0;
+  }
+
+  .pcal-search-wrap {
+    display: flex;
+    align-items: center;
+    gap: .375rem;
+    padding: .3125rem .625rem;
+    border: 1px solid var(--border-ui);
+    border-radius: var(--radius-sm);
+    background: var(--bg);
+    transition: border-color var(--transition), box-shadow var(--transition);
+  }
+
+  .pcal-search-wrap:focus-within {
+    border-color: var(--blue);
+    box-shadow: 0 0 0 3px rgba(0, 50, 143, .1);
+  }
+
+  .pcal-search-ic {
+    color: var(--text-3);
+    flex-shrink: 0;
+  }
+
+  .pcal-search {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: .8125rem;
+    color: var(--text);
+    width: 160px;
+    font-family: var(--font);
+  }
+
+  .pcal-search::placeholder {
+    color: var(--text-3);
+  }
+
+  .pcal-search::-webkit-search-cancel-button {
+    cursor: pointer;
+  }
+
+  /* ── Status bar ────────────────────────────────────────────────────────────── */
+  .pcal-status {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .625rem .875rem;
+    background: var(--blue-pale);
+    border: 1px solid #c8d8f0;
+    border-radius: var(--radius);
+    margin-bottom: .75rem;
+    font-size: .875rem;
+    color: var(--blue);
+  }
+
+  .pcal-status--err {
+    background: #fef2f2;
+    border-color: #fca5a5;
+    color: #b91c1c;
+  }
+
+  .pcal-spinner {
+    width: 16px;
+    height: 16px;
+    border: 2px solid #c8d8f0;
+    border-top-color: var(--blue);
+    border-radius: 50%;
+    animation: pcal-spin .8s linear infinite;
+    flex-shrink: 0;
+  }
+
+  .pcal-status--err .pcal-spinner {
+    display: none;
+  }
+
+  @keyframes pcal-spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .pcal-retry-btn {
+    margin-left: auto;
+    padding: .25rem .625rem;
+    border: 1px solid currentColor;
+    border-radius: var(--radius-sm);
+    background: transparent;
+    color: inherit;
+    font-size: .75rem;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: var(--font);
+  }
+
+  .pcal-retry-btn:hover {
+    background: rgba(0, 0, 0, .06);
+  }
+
+  /* ── Month grid ────────────────────────────────────────────────────────────── */
+  .pcal-month {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    border-top: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+  }
+
+  .pcal-dow {
+    padding: .375rem .25rem;
+    text-align: center;
+    font-size: .6875rem;
+    font-weight: 600;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: var(--text-2);
+    background: var(--bg-2);
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .pcal-mcell {
+    height: 110px;
+    overflow: hidden;
+    padding: .375rem;
+    background: var(--bg);
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background var(--transition);
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    position: relative;
+  }
+
+  .pcal-mcell:hover {
+    background: var(--bg-2);
+  }
+
+  .pcal-mcell--other {
+    background: var(--bg-2);
+  }
+
+  .pcal-mcell--other:hover {
+    background: #f3f4f6;
+  }
+
+  .pcal-mcell--other .pcal-dnum {
+    color: var(--text-3);
+  }
+
+  .pcal-mcell--today {
+    background: #eff4ff;
+  }
+
+  .pcal-mcell--today:hover {
+    background: #e6edff;
+  }
+
+  .pcal-mcell--today .pcal-dnum {
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--blue);
+    color: #fff;
+    border-radius: 50%;
+    font-weight: 700;
+  }
+
+  .pcal-dnum {
+    font-size: .8125rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1;
+    margin-bottom: 2px;
+    align-self: flex-start;
+  }
+
+  /* Event pill (compact, month/week headers) */
+  .pcal-pill {
+    display: block;
+    width: 100%;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-size: .6875rem;
+    font-weight: 500;
+    font-family: var(--font);
+    text-align: left;
+    background: var(--cat-bg, var(--blue-pale));
+    color: var(--cat, var(--blue));
+    border: none;
+    border-left: 3px solid var(--cat, var(--blue));
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: opacity var(--transition), filter var(--transition);
+    text-decoration: none;
+  }
+
+  .pcal-pill:hover {
+    filter: brightness(.95);
+  }
+
+  .pcal-more-btn {
+    border: none;
+    background: transparent;
+    color: var(--blue);
+    font-size: .6875rem;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 1px 3px;
+    text-align: left;
+    font-family: var(--font);
+  }
+
+  .pcal-more-btn:hover {
+    text-decoration: underline;
+  }
+
+  /* ── Week grid ─────────────────────────────────────────────────────────────── */
+  .pcal-week {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    border-top: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+    overflow-x: auto;
+  }
+
+  .pcal-wcol {
+    min-width: 100px;
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .pcal-wcol-hdr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: .5rem .25rem .375rem;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--border);
+    gap: 2px;
+  }
+
+  .pcal-wcol--today .pcal-wcol-hdr {
+    background: var(--blue-pale);
+  }
+
+  .pcal-wcol-dow {
+    font-size: .6875rem;
+    font-weight: 600;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+
+  .pcal-wcol--today .pcal-wcol-dow {
+    color: var(--blue);
+  }
+
+  .pcal-wcol-num {
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: .9rem;
+    font-weight: 600;
+    color: var(--text);
+    border-radius: 50%;
+  }
+
+  .pcal-wcol--today .pcal-wcol-num {
+    background: var(--blue);
+    color: #fff;
+  }
+
+  .pcal-wevents {
+    padding: .375rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    flex: 1;
+    min-height: 100px;
+  }
+
+  .pcal-wempty {
+    font-size: .75rem;
+    color: var(--text-3);
+    text-align: center;
+    padding-top: .75rem;
+  }
+
+  /* ── Day view ──────────────────────────────────────────────────────────────── */
+  .pcal-day-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: .625rem;
+    padding-top: .25rem;
+  }
+
+  /* ── Agenda view ───────────────────────────────────────────────────────────── */
+  .pcal-agenda-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    padding-top: .25rem;
+  }
+
+  .pcal-agenda-hdr {
+    display: flex;
+    align-items: baseline;
+    gap: .5rem;
+    padding: .25rem 0;
+    margin-bottom: .5rem;
+    border-bottom: 2px solid var(--blue);
+  }
+
+  .pcal-agenda-rel {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--blue);
+  }
+
+  .pcal-agenda-abs {
+    font-size: .8125rem;
+    color: var(--text-3);
+  }
+
+  .pcal-agenda-events {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+  }
+
+  /* ── Event card ────────────────────────────────────────────────────────────── */
+  .pcal-card {
+    display: flex;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    overflow: hidden;
+    cursor: default;
+    transition: box-shadow var(--transition), transform var(--transition);
+  }
+
+  .pcal-card:hover {
+    box-shadow: var(--shadow);
+    transform: translateY(-1px);
+  }
+
+  .pcal-card-stripe {
+    width: 5px;
+    flex-shrink: 0;
+    background: var(--cat, var(--blue));
+  }
+
+  .pcal-card-body {
+    padding: .625rem .875rem;
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .pcal-card-badge {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 999px;
+    font-size: .6875rem;
+    font-weight: 600;
+    letter-spacing: .02em;
+    background: var(--cat-bg, var(--blue-pale));
+    color: var(--cat, var(--blue));
+    width: fit-content;
+  }
+
+  .pcal-card-title {
+    font-size: .9rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.35;
+  }
+
+  .pcal-card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .375rem .75rem;
+    align-items: center;
+    font-size: .775rem;
+    color: var(--text-2);
+  }
+
+  .pcal-card-meta-item {
+    display: flex;
+    align-items: center;
+    gap: .25rem;
+  }
+
+  .pcal-card-meta-item svg {
+    color: var(--text-3);
+    flex-shrink: 0;
+  }
+
+  .pcal-card-link {
+    display: inline-flex;
+    align-items: center;
+    gap: .25rem;
+    margin-top: .25rem;
+    padding: .2rem .5rem .2rem .375rem;
+    font-size: .75rem;
+    color: var(--blue);
+    font-weight: 600;
+    text-decoration: none;
+    background: var(--bg);
+    border: 1px solid var(--blue);
+    border-radius: 4px;
+    width: fit-content;
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
+  }
+
+  .pcal-card-link:hover {
+    background: var(--blue-pale);
+    border-color: var(--blue);
+    color: var(--blue);
+    text-decoration: none;
+  }
+
+  .pcal-card-link:active {
+    background: #d0dcf5;
+    color: var(--blue);
+  }
+
+  /* ── Past events ───────────────────────────────────────────────────────────── */
+  .pcal-card--past,
+  .pcal-pill--past {
+    opacity: .65;
+    filter: grayscale(.35);
+  }
+
+  .pcal-card--past:hover,
+  .pcal-pill--past:hover {
+    opacity: .8;
+  }
+
+  /* ── Empty state ───────────────────────────────────────────────────────────── */
+  .pcal-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .5rem;
+    padding: 3rem 1rem;
+    color: var(--text-3);
+    font-size: .9rem;
+  }
+
+  .pcal-empty svg {
+    opacity: .4;
+  }
+
+  /* ── Modal overlay ─────────────────────────────────────────────────────────── */
+  .pcal-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: rgba(17, 24, 39, .5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    animation: pcal-fade-in 140ms ease;
+  }
+
+  @keyframes pcal-fade-in {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+
+  .pcal-dialog {
+    position: relative;
+    background: var(--bg);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    width: 100%;
+    max-width: 440px;
+    overflow: hidden;
+    animation: pcal-slide-up 180ms cubic-bezier(.2, .8, .4, 1);
+  }
+
+  @keyframes pcal-slide-up {
+    from {
+      transform: translateY(12px);
+      opacity: 0;
+    }
+  }
+
+  .pcal-dialog-close {
+    position: absolute;
+    top: .75rem;
+    right: .75rem;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, .06);
+    color: var(--text-2);
+    cursor: pointer;
+    transition: background var(--transition), color var(--transition);
+  }
+
+  .pcal-dialog-close:hover {
+    background: rgba(0, 0, 0, .12);
+    color: var(--text);
+  }
+
+  /* Dialog body (filled by JS) */
+  .pcal-dialog-stripe {
+    height: 6px;
+  }
+
+  .pcal-dialog-inner {
+    padding: 1.125rem 1.25rem 1.375rem;
+    display: flex;
+    flex-direction: column;
+    gap: .625rem;
+  }
+
+  .pcal-dialog-badge {
+    display: inline-block;
+    padding: 3px 9px;
+    border-radius: 999px;
+    font-size: .7rem;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    width: fit-content;
+  }
+
+  .pcal-dialog-title {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+  }
+
+  .pcal-dialog-detail {
+    display: flex;
+    align-items: flex-start;
+    gap: .5rem;
+    font-size: .875rem;
+    color: var(--text-2);
+  }
+
+  .pcal-dialog-detail svg {
+    flex-shrink: 0;
+    margin-top: 2px;
+    color: var(--text-3);
+  }
+
+  .pcal-dialog-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: .375rem;
+    margin-top: .25rem;
+    padding: .5rem .875rem;
+    background: var(--blue);
+    color: #fff;
+    border-radius: var(--radius-sm);
+    font-size: .8125rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background var(--transition);
+    width: fit-content;
+  }
+
+  .pcal-dialog-cta:hover {
+    background: var(--blue-mid);
+  }
+
+  /* ── Month cell dots (shown on mobile instead of pill text) ───────────────── */
+  .pcal-mcell-dots {
+    display: none;
+    gap: 3px;
+    flex-wrap: wrap;
+    margin-top: 3px;
+  }
+
+  .pcal-mcell-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  /* ── Mobile week strip ──────────────────────────────────────────────────────── */
+  .pcal-week-mobile {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .pcal-wstrip {
+    display: flex;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .pcal-wstrip::-webkit-scrollbar {
+    display: none;
+  }
+
+  .pcal-wstrip-day {
+    flex: 1;
+    min-width: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+    padding: .625rem .25rem .5rem;
+    background: none;
+    border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    font-family: var(--font);
+    transition: background var(--transition), border-color var(--transition);
+  }
+
+  .pcal-wstrip-day:hover {
+    background: rgba(0, 0, 0, .04);
+  }
+
+  .pcal-wstrip-day--active {
+    border-bottom-color: var(--blue);
+  }
+
+  .pcal-wstrip-dow {
+    font-size: .625rem;
+    font-weight: 600;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: var(--text-2);
+  }
+
+  .pcal-wstrip-day--active .pcal-wstrip-dow {
+    color: var(--blue);
+  }
+
+  .pcal-wstrip-num {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: .9375rem;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .pcal-wstrip-day--today .pcal-wstrip-num {
+    background: var(--blue);
+    color: #fff;
+    font-weight: 700;
+  }
+
+  .pcal-wstrip-day--active:not(.pcal-wstrip-day--today) .pcal-wstrip-num {
+    color: var(--blue);
+    font-weight: 600;
+  }
+
+  .pcal-wstrip-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--blue);
+  }
+
+  .pcal-wday-panel {
+    padding: .875rem .75rem;
+    display: flex;
+    flex-direction: column;
+    gap: .625rem;
+    min-height: 160px;
+  }
+
+  .pcal-wday-date {
+    font-size: .875rem;
+    font-weight: 600;
+    color: var(--text-2);
+    padding-bottom: .5rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ── Responsive ────────────────────────────────────────────────────────────── */
+  @media (max-width: 640px) {
+    .pcal-title {
+      font-size: 1.375rem;
+    }
+
+    .pcal-bar {
+      flex-direction: column;
+      gap: .5rem;
+    }
+
+    .pcal-period {
+      min-width: 130px;
+      font-size: .875rem;
+    }
+
+    .pcal-dow {
+      font-size: .5625rem;
+    }
+
+    /* Month cells: compact with event dots instead of pill text */
+    .pcal-mcell {
+      height: 56px;
+    }
+
+    .pcal-pill,
+    .pcal-more-btn {
+      display: none;
+    }
+
+    .pcal-mcell-dots {
+      display: flex;
+    }
+
+    /* Filter row: full-width stacked on mobile */
+    .pcal-filter-row {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .pcal-dropdown {
+      width: 100%;
+    }
+
+    .pcal-dropdown-btn {
+      width: 100%;
+      justify-content: space-between;
+    }
+
+    .pcal-dropdown-panel {
+      width: 100%;
+      min-width: 0;
+    }
+
+    .pcal-search-wrap {
+      display: flex;
+    }
+
+    .pcal-search {
+      flex: 1;
+      width: 100%;
+    }
+  }
+
+  /* ── Card button ──────────────────────────────────────────────────────────── */
+  .pcal-card-btn {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    font-family: var(--font);
+    color: inherit;
+  }
+
+  /* Suppress browser outline on programmatic dialog focus */
+  .pcal-dialog:focus {
+    outline: none;
+  }
+
+  /* ── Reduced motion ───────────────────────────────────────────────────────── */
+  @media (prefers-reduced-motion: reduce) {
+    .pcal *,
+    .pcal {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+
+    .pcal-card:hover {
+      transform: none;
+    }
+
+    .pcal-spinner {
+      animation: none;
+      border-color: var(--blue);
+      opacity: .7;
+    }
+  }
+</style>
+
+<script>
+  (function () {
+    "use strict";
+
+    /* ── Config ──────────────────────────────────────────────────────────────── */
+    const FEED_URL = "https://raw.githubusercontent.com/nruggieri-poland/calendar/refs/heads/master/output/events.json";
+
+    /* ── State ───────────────────────────────────────────────────────────────── */
+    let allEvents = [];
+    let visibleEvents = [];
+    let currentView = "month";
+    let currentDate = new Date();
+    let activeFilters = new Set();
+    let searchQuery = "";
+    let categories = [];
+    let activeCellDate = null;    // roving tabindex for month grid
+    let _modalTrigger = null;     // element that opened the modal
+    let _modalTrapHandler = null; // focus-trap keydown listener
+
+    /* ── DOM refs (resolved in boot(), safe for late injection by CMS) ──────── */
+    let $period, $body, $status, $statusMsg, $search, $overlay, $dialogBody;
+    let $filterBtn, $filterLabel, $filterPanel;
+
+    /* ── Icon helper (no HTML strings in JS — Finalsite compat) ─────────────── */
+    const SVG_NS = "http://www.w3.org/2000/svg";
+    function makeIcon(id, size) {
+      const svg = document.createElementNS(SVG_NS, "svg");
+      svg.setAttribute("width", size || 13);
+      svg.setAttribute("height", size || 13);
+      svg.setAttribute("fill", "currentColor");
+      svg.setAttribute("aria-hidden", "true");
+      const use = document.createElementNS(SVG_NS, "use");
+      use.setAttribute("href", "#pcal-ic-" + id);
+      svg.appendChild(use);
+      return svg;
+    }
+
+    /* ── Helpers ─────────────────────────────────────────────────────────────── */
+    function esc(s) {
+      if (!s) return "";
+      return String(s)
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+
+    function cleanTitle(t) {
+      if (!t) return "";
+      return t
+        .replace(/^\d+\s*-\s*/, "")
+        .replace(/^Time:\s*TBA\s*-\s*/i, "")
+        .trim();
+    }
+
+    function parseDate(s) {
+      if (!s) return null;
+      // "YYYY-MM-DD h:mm AM/PM" — Safari rejects this; parse manually
+      var m = s.match(/^(\d{4})-(\d{2})-(\d{2})\s+(\d+):(\d{2})\s*(AM|PM)$/i);
+      if (m) {
+        var h = parseInt(m[4], 10);
+        var min = parseInt(m[5], 10);
+        var pm = m[6].toUpperCase() === "PM";
+        if (pm && h !== 12) h += 12;
+        if (!pm && h === 12) h = 0;
+        return new Date(parseInt(m[1], 10), parseInt(m[2], 10) - 1, parseInt(m[3], 10), h, min, 0);
+      }
+      // Date-only string (YYYY-MM-DD) — new Date() would parse as UTC midnight,
+      // shifting the day back in negative-offset timezones; force local midnight instead.
+      var dm = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+      if (dm) return new Date(parseInt(dm[1], 10), parseInt(dm[2], 10) - 1, parseInt(dm[3], 10));
+      var d = new Date(s);
+      return isNaN(d.getTime()) ? null : d;
+    }
+
+    function sameDay(a, b) {
+      return a.getFullYear() === b.getFullYear()
+        && a.getMonth() === b.getMonth()
+        && a.getDate() === b.getDate();
+    }
+
+    function isToday(d) { return sameDay(d, new Date()); }
+
+    function weekStart(d) {
+      const c = new Date(d);
+      c.setDate(c.getDate() - c.getDay());
+      c.setHours(0, 0, 0, 0);
+      return c;
+    }
+
+    function addDays(d, n) {
+      const c = new Date(d);
+      c.setDate(c.getDate() + n);
+      return c;
+    }
+
+    function fmtTime(d) {
+      if (!d) return "";
+      if (d.getHours() === 0 && d.getMinutes() === 0) return "";
+      return d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+    }
+
+    // Sync marks all-day events as 12:00 AM start / 11:59 PM end (same day).
+    // Requiring an exact midnight *end* here (rather than "both times blank")
+    // is what actually distinguishes an all-day event from one that merely
+    // starts at midnight.
+    function isAllDay(start, end) {
+      if (!start || start.getHours() !== 0 || start.getMinutes() !== 0) return false;
+      if (!end) return true;
+      return end.getHours() === 23 && end.getMinutes() === 59;
+    }
+
+    function fmtDateLong(d) {
+      return d.toLocaleDateString("en-US", {
+        weekday: "long", month: "long", day: "numeric", year: "numeric"
+      });
+    }
+
+    function relLabel(d) {
+      const tod = new Date(); tod.setHours(0, 0, 0, 0);
+      const tgt = new Date(d); tgt.setHours(0, 0, 0, 0);
+      const diff = Math.round((tgt - tod) / 86400000);
+      if (diff === 0) return "Today";
+      if (diff === 1) return "Tomorrow";
+      if (diff === -1) return "Yesterday";
+      if (diff > 1 && diff < 7) return d.toLocaleDateString("en-US", { weekday: "long" });
+      return d.toLocaleDateString("en-US", {
+        month: "long", day: "numeric",
+        year: d.getFullYear() !== new Date().getFullYear() ? "numeric" : undefined
+      });
+    }
+
+    /* Category color palette ──────────────────────────────────────────────── */
+    // Brand colors match GoFMX; main/bg pairs darkened to meet WCAG 2.1 AA (≥4.5:1)
+    const CATEGORY_COLORS = {
+      "Athletics - Away":        { main: "#a8061a", bg: "#fde8e9" }, // 6.6:1
+      "Athletics - Home":        { main: "#0d14b5", bg: "#e7e8fd" }, // 8.1:1
+      "Board Meeting":           { main: "#00328f", bg: "#e0e9f9" }, // 9.3:1
+      "CLOSED":                  { main: "#525252", bg: "#f0f0f0" }, // 6.4:1
+      "Community Event":         { main: "#5a6200", bg: "#f8fcc0" }, // 5.6:1
+      "Community Member Rental": { main: "#7c4f20", bg: "#f5e6d0" }, // 5.3:1
+      "Other":                   { main: "#525252", bg: "#f0f0f0" }, // 6.4:1
+      "PTO Meeting":             { main: "#7e22ce", bg: "#f5e0fd" }, // 5.6:1
+      "School Activity":         { main: "#196b00", bg: "#d4fae0" }, // 5.7:1
+      "Staff Event":             { main: "#0a6666", bg: "#ccfafa" }, // 5.6:1
+    };
+    const DEFAULT_CAT = { main: "#00328f", bg: "#e0e9f9" };
+
+    function catColor(type) {
+      if (!type) return DEFAULT_CAT;
+      return CATEGORY_COLORS[type] || DEFAULT_CAT;
+    }
+
+    function isPastEvent(ev) {
+      const tod = new Date(); tod.setHours(0, 0, 0, 0);
+      const d = parseDate(ev.start);
+      return d && d < tod;
+    }
+
+    function eventsForDay(d) {
+      return visibleEvents.filter(ev => {
+        const s = parseDate(ev.start);
+        return s && sameDay(s, d);
+      });
+    }
+
+    /* ── Data loading ────────────────────────────────────────────────────────── */
+    async function loadEvents() {
+      showStatus("Loading events…", false);
+      try {
+        const res = await fetch(FEED_URL);
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        allEvents = await res.json();
+        const catSet = new Set(allEvents.map(e => e.type).filter(Boolean));
+        categories = [...catSet].sort();
+        buildFilterDropdown();
+        applyFilters();
+        hideStatus();
+        render();
+      } catch {
+        showStatus("Unable to load events. Please try again.", true);
+        render();
+      }
+    }
+
+    function applyFilters() {
+      const q = searchQuery.trim().toLowerCase();
+      visibleEvents = allEvents.filter(ev => {
+        const catOk = activeFilters.size === 0 || activeFilters.has(ev.type);
+        const qOk = !q
+          || cleanTitle(ev.title || "").toLowerCase().includes(q)
+          || (ev.location || "").toLowerCase().includes(q)
+          || (ev.type || "").toLowerCase().includes(q);
+        return catOk && qOk;
+      });
+    }
+
+    function buildFilterDropdown() {
+      $filterPanel.setAttribute("role", "listbox");
+      $filterPanel.setAttribute("aria-multiselectable", "true");
+      $filterPanel.setAttribute("aria-label", "Filter by category");
+      $filterPanel.innerHTML = "";
+
+      // Update button label + badge
+      const existingBadge = $filterBtn.querySelector(".pcal-dropdown-badge");
+      if (existingBadge) existingBadge.remove();
+
+      if (activeFilters.size === 0) {
+        $filterLabel.textContent = "All categories";
+      } else if (activeFilters.size === 1) {
+        $filterLabel.textContent = [...activeFilters][0];
+      } else {
+        $filterLabel.textContent = "Categories";
+        const badge = document.createElement("span");
+        badge.className = "pcal-dropdown-badge";
+        badge.textContent = activeFilters.size;
+        $filterBtn.insertBefore(badge, $filterBtn.querySelector(".pcal-dropdown-chevron"));
+      }
+
+      // "All" row
+      $filterPanel.appendChild(makeFilterItem("All", activeFilters.size === 0, null, function () {
+        activeFilters.clear();
+        buildFilterDropdown(); applyFilters(); render();
+      }));
+
+      // Divider
+      const div = document.createElement("div");
+      div.className = "pcal-dropdown-divider";
+      $filterPanel.appendChild(div);
+
+      // One row per category
+      categories.forEach(function (cat) {
+        const color = catColor(cat);
+        $filterPanel.appendChild(makeFilterItem(cat, activeFilters.has(cat), color, function () {
+          if (activeFilters.has(cat)) activeFilters.delete(cat);
+          else activeFilters.add(cat);
+          if (activeFilters.size === categories.length) activeFilters.clear();
+          buildFilterDropdown(); applyFilters(); render();
+        }));
+      });
+    }
+
+    function makeFilterItem(label, checked, color, onClick) {
+      const item = document.createElement("div");
+      item.className = "pcal-dropdown-item" + (checked ? " pcal-dropdown-item--checked" : "");
+      item.setAttribute("role", "option");
+      item.setAttribute("aria-selected", checked ? "true" : "false");
+      item.setAttribute("tabindex", "-1");
+
+      const check = document.createElement("div");
+      check.className = "pcal-dropdown-check";
+      check.setAttribute("aria-hidden", "true");
+      if (checked) check.appendChild(makeIcon("check", 11));
+      item.appendChild(check);
+
+      if (color) {
+        const dot = document.createElement("div");
+        dot.className = "pcal-dropdown-dot";
+        dot.style.background = color.main;
+        dot.setAttribute("aria-hidden", "true");
+        item.appendChild(dot);
+      }
+
+      item.appendChild(document.createTextNode(label));
+      item.addEventListener("click", onClick);
+      item.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); onClick(); }
+      });
+      return item;
+    }
+
+    function openDropdown() {
+      $filterPanel.classList.remove("pcal-hidden");
+      $filterBtn.classList.add("pcal-dropdown-btn--open");
+      $filterBtn.setAttribute("aria-expanded", "true");
+      var first = $filterPanel.querySelector("[role='option']");
+      if (first) first.focus();
+    }
+
+    function closeDropdown() {
+      $filterPanel.classList.add("pcal-hidden");
+      $filterBtn.classList.remove("pcal-dropdown-btn--open");
+      $filterBtn.setAttribute("aria-expanded", "false");
+    }
+
+    function onDropdownKey(e) {
+      if ($filterPanel.classList.contains("pcal-hidden")) return;
+      var items = Array.from($filterPanel.querySelectorAll("[role='option']"));
+      var idx = items.indexOf(document.activeElement);
+      if (e.key === "ArrowDown") {
+        e.preventDefault();
+        var next = items[(idx + 1) % items.length];
+        if (next) next.focus();
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault();
+        var prev = items[(idx - 1 + items.length) % items.length];
+        if (prev) prev.focus();
+      } else if (e.key === "Escape") {
+        closeDropdown();
+        $filterBtn.focus();
+      } else if (e.key === "Tab") {
+        closeDropdown();
+      }
+    }
+
+    /* ── Status ──────────────────────────────────────────────────────────────── */
+    function showStatus(msg, isErr) {
+      $status.classList.remove("pcal-hidden");
+      $status.classList.toggle("pcal-status--err", isErr);
+      $statusMsg.textContent = msg;
+      const retry = document.getElementById("pcalRetry");
+      if (isErr) retry.classList.remove("pcal-hidden");
+      else retry.classList.add("pcal-hidden");
+    }
+
+    function hideStatus() { $status.classList.add("pcal-hidden"); }
+
+    /* ── Render ──────────────────────────────────────────────────────────────── */
+    function render() {
+      updatePeriod();
+      $body.innerHTML = "";
+      switch (currentView) {
+        case "month": renderMonth(); break;
+        case "week": renderWeek(); break;
+        case "day": renderDay(); break;
+        case "agenda": renderAgenda(); break;
+      }
+    }
+
+    function updatePeriod() {
+      if (currentView === "month") {
+        $period.textContent = currentDate.toLocaleString("en-US", { month: "long", year: "numeric" });
+      } else if (currentView === "week") {
+        if (window.innerWidth < 640) {
+          $period.textContent = currentDate.toLocaleDateString("en-US", {
+            weekday: "short", month: "short", day: "numeric"
+          });
+        } else {
+          const sw = weekStart(currentDate), ew = addDays(sw, 6);
+          $period.textContent =
+            sw.toLocaleDateString("en-US", { month: "short", day: "numeric" }) + " – " +
+            ew.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+        }
+      } else if (currentView === "day") {
+        $period.textContent = currentDate.toLocaleDateString("en-US", {
+          weekday: "long", month: "long", day: "numeric", year: "numeric"
+        });
+      } else {
+        const agStart = new Date(currentDate); agStart.setHours(0, 0, 0, 0);
+        const agEnd = addDays(agStart, 30);
+        $period.textContent =
+          agStart.toLocaleDateString("en-US", { month: "short", day: "numeric" }) + " – " +
+          agEnd.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+      }
+    }
+
+    /* Month ── */
+    function renderMonth() {
+      const yr = currentDate.getFullYear(), mo = currentDate.getMonth();
+      const first = new Date(yr, mo, 1);
+      const last = new Date(yr, mo + 1, 0);
+      const offset = first.getDay();
+
+      const grid = document.createElement("div");
+      grid.className = "pcal-month";
+      grid.setAttribute("role", "grid");
+      grid.setAttribute("aria-label", currentDate.toLocaleString("en-US", { month: "long", year: "numeric" }));
+
+      // Header row
+      const headerRow = document.createElement("div");
+      headerRow.setAttribute("role", "row");
+      [["Sun","Sunday"],["Mon","Monday"],["Tue","Tuesday"],["Wed","Wednesday"],["Thu","Thursday"],["Fri","Friday"],["Sat","Saturday"]].forEach(([abbr, full]) => {
+        const hdr = document.createElement("div");
+        hdr.className = "pcal-dow";
+        hdr.setAttribute("role", "columnheader");
+        hdr.setAttribute("aria-label", full);
+        hdr.textContent = abbr;
+        headerRow.appendChild(hdr);
+      });
+      grid.appendChild(headerRow);
+
+      // Collect all cells
+      const cellDates = [];
+      for (let i = 0; i < offset; i++) cellDates.push({ date: new Date(yr, mo, 1 - offset + i), other: true });
+      for (let d = 1; d <= last.getDate(); d++) cellDates.push({ date: new Date(yr, mo, d), other: false });
+      const total = offset + last.getDate();
+      const tail = (7 - (total % 7)) % 7;
+      for (let i = 1; i <= tail; i++) cellDates.push({ date: new Date(yr, mo + 1, i), other: true });
+
+      // Group into rows of 7
+      for (let r = 0; r < cellDates.length; r += 7) {
+        const row = document.createElement("div");
+        row.setAttribute("role", "row");
+        cellDates.slice(r, r + 7).forEach(function ({ date, other }) {
+          const cell = makeMonthCell(date, other);
+          if (isToday(date)) cell.classList.add("pcal-mcell--today");
+          row.appendChild(cell);
+        });
+        grid.appendChild(row);
+      }
+
+      // Initialise roving tabindex target
+      const today = new Date();
+      if (!activeCellDate || activeCellDate.getMonth() !== mo || activeCellDate.getFullYear() !== yr) {
+        activeCellDate = (today.getFullYear() === yr && today.getMonth() === mo)
+          ? new Date(yr, mo, today.getDate())
+          : new Date(yr, mo, 1);
+      }
+
+      grid.addEventListener("keydown", onGridKey);
+      $body.appendChild(grid);
+      updateActiveCellTabindex(false);
+    }
+
+    function makeMonthCell(date, other) {
+      const evs = eventsForDay(date);
+      const cell = document.createElement("div");
+      cell.className = "pcal-mcell" + (other ? " pcal-mcell--other" : "");
+
+      // ARIA / keyboard
+      const pad = function (n) { return String(n).padStart(2, "0"); };
+      cell.setAttribute("data-date", date.getFullYear() + "-" + pad(date.getMonth() + 1) + "-" + pad(date.getDate()));
+      cell.setAttribute("role", "gridcell");
+      cell.setAttribute("tabindex", "-1");
+      const evCount = evs.length;
+      const todayStr = isToday(date) ? ", today" : "";
+      const evStr = evCount === 0 ? "no events" : evCount === 1 ? "1 event" : evCount + " events";
+      cell.setAttribute("aria-label", date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }) + todayStr + ", " + evStr);
+
+      const num = document.createElement("span");
+      num.className = "pcal-dnum";
+      num.setAttribute("aria-hidden", "true");
+      num.textContent = date.getDate();
+      cell.appendChild(num);
+
+      evs.slice(0, 3).forEach(ev => {
+        cell.appendChild(makePill(ev));
+      });
+
+      if (evs.length > 3) {
+        const more = document.createElement("button");
+        more.className = "pcal-more-btn";
+        more.textContent = "+" + (evs.length - 3) + " more";
+        more.setAttribute("aria-label", (evs.length - 3) + " more events on " + date.toLocaleDateString("en-US", { month: "long", day: "numeric" }));
+        more.addEventListener("click", function (e) {
+          e.stopPropagation();
+          currentDate = new Date(date);
+          setView("day");
+        });
+        cell.appendChild(more);
+      }
+
+      // Dot indicators for mobile (hidden on desktop via CSS, aria-hidden since cell has aria-label)
+      if (evs.length > 0) {
+        const dots = document.createElement("div");
+        dots.className = "pcal-mcell-dots";
+        dots.setAttribute("aria-hidden", "true");
+        evs.slice(0, 4).forEach(function (ev) {
+          const dot = document.createElement("span");
+          dot.className = "pcal-mcell-dot";
+          dot.style.background = catColor(ev.type).main;
+          dots.appendChild(dot);
+        });
+        cell.appendChild(dots);
+      }
+
+      cell.addEventListener("click", function () {
+        activeCellDate = new Date(date);
+        currentDate = new Date(date);
+        setView("day");
+      });
+      return cell;
+    }
+
+    function getCellEl(date) {
+      const grid = $body.querySelector(".pcal-month[role='grid']");
+      if (!grid) return null;
+      const pad = function (n) { return String(n).padStart(2, "0"); };
+      return grid.querySelector("[data-date='" + date.getFullYear() + "-" + pad(date.getMonth() + 1) + "-" + pad(date.getDate()) + "']");
+    }
+
+    function updateActiveCellTabindex(focusIt) {
+      const grid = $body.querySelector(".pcal-month[role='grid']");
+      if (!grid || !activeCellDate) return;
+      grid.querySelectorAll("[data-date]").forEach(function (el) { el.setAttribute("tabindex", "-1"); });
+      const active = getCellEl(activeCellDate);
+      if (active) {
+        active.setAttribute("tabindex", "0");
+        if (focusIt) active.focus();
+      }
+    }
+
+    function onGridKey(e) {
+      var keys = ["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown", "Enter", " "];
+      if (!activeCellDate || keys.indexOf(e.key) === -1) return;
+      e.preventDefault();
+
+      if (e.key === "Enter" || e.key === " ") {
+        currentDate = new Date(activeCellDate);
+        setView("day");
+        return;
+      }
+
+      var next = activeCellDate;
+      if (e.key === "ArrowLeft")  next = addDays(activeCellDate, -1);
+      if (e.key === "ArrowRight") next = addDays(activeCellDate, 1);
+      if (e.key === "ArrowUp")    next = addDays(activeCellDate, -7);
+      if (e.key === "ArrowDown")  next = addDays(activeCellDate, 7);
+
+      activeCellDate = next;
+      var yr = next.getFullYear(), mo = next.getMonth();
+      if (yr !== currentDate.getFullYear() || mo !== currentDate.getMonth()) {
+        currentDate = new Date(yr, mo, 1);
+        render();
+      } else {
+        updateActiveCellTabindex(true);
+      }
+    }
+
+    function makePill(ev) {
+      const color = catColor(ev.type);
+      const pill = document.createElement("button");
+      pill.className = "pcal-pill" + (isPastEvent(ev) ? " pcal-pill--past" : "");
+      pill.style.setProperty("--cat", color.main);
+      pill.style.setProperty("--cat-bg", color.bg);
+      const title = cleanTitle(ev.title);
+      pill.textContent = title;
+      pill.setAttribute("aria-label", title + (ev.type ? ", " + ev.type : ""));
+      pill.addEventListener("click", function (e) { e.stopPropagation(); openModal(ev); });
+      return pill;
+    }
+
+    /* Week ── */
+    function renderWeek() {
+      if (window.innerWidth < 640) { renderWeekMobile(); return; }
+      const sw = weekStart(currentDate);
+      const grid = document.createElement("div");
+      grid.className = "pcal-week";
+
+      for (let i = 0; i < 7; i++) {
+        const day = addDays(sw, i);
+        const dayEvs = eventsForDay(day);
+        const col = document.createElement("div");
+        col.className = "pcal-wcol" + (isToday(day) ? " pcal-wcol--today" : "");
+
+        const hdr = document.createElement("div");
+        hdr.className = "pcal-wcol-hdr";
+        const dow = document.createElement("span"); dow.className = "pcal-wcol-dow";
+        dow.textContent = day.toLocaleDateString("en-US", { weekday: "short" });
+        const num = document.createElement("span"); num.className = "pcal-wcol-num";
+        num.textContent = day.getDate();
+        hdr.appendChild(dow); hdr.appendChild(num);
+        col.appendChild(hdr);
+
+        const evList = document.createElement("div");
+        evList.className = "pcal-wevents";
+        if (dayEvs.length === 0) {
+          const empty = document.createElement("div");
+          empty.className = "pcal-wempty";
+          empty.textContent = "—";
+          evList.appendChild(empty);
+        } else {
+          dayEvs.forEach(ev => evList.appendChild(makePill(ev)));
+        }
+        col.appendChild(evList);
+        grid.appendChild(col);
+      }
+
+      $body.appendChild(grid);
+    }
+
+    function renderWeekMobile() {
+      const sw = weekStart(currentDate);
+      const wrap = document.createElement("div");
+      wrap.className = "pcal-week-mobile";
+
+      // ── Day strip ───────────────────────────────────────────────────────────
+      const strip = document.createElement("div");
+      strip.className = "pcal-wstrip";
+      strip.setAttribute("aria-label", "Week days");
+
+      for (let i = 0; i < 7; i++) {
+        const day = addDays(sw, i);
+        const isActive = sameDay(day, currentDate);
+        const dayEvs = eventsForDay(day);
+
+        const btn = document.createElement("button");
+        let cls = "pcal-wstrip-day";
+        if (isActive) cls += " pcal-wstrip-day--active";
+        if (isToday(day)) cls += " pcal-wstrip-day--today";
+        btn.className = cls;
+        btn.setAttribute("aria-label",
+          day.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" }) +
+          (dayEvs.length ? ", " + dayEvs.length + " event" + (dayEvs.length !== 1 ? "s" : "") : ", no events") +
+          (isActive ? " (selected)" : ""));
+        btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+
+        const dowEl = document.createElement("span");
+        dowEl.className = "pcal-wstrip-dow";
+        dowEl.setAttribute("aria-hidden", "true");
+        dowEl.textContent = day.toLocaleDateString("en-US", { weekday: "short" });
+
+        const numEl = document.createElement("span");
+        numEl.className = "pcal-wstrip-num";
+        numEl.setAttribute("aria-hidden", "true");
+        numEl.textContent = day.getDate();
+
+        btn.appendChild(dowEl);
+        btn.appendChild(numEl);
+
+        if (dayEvs.length > 0) {
+          const dot = document.createElement("span");
+          dot.className = "pcal-wstrip-dot";
+          dot.setAttribute("aria-hidden", "true");
+          btn.appendChild(dot);
+        }
+
+        btn.addEventListener("click", (function (d) {
+          return function () { currentDate = new Date(d); render(); };
+        })(day));
+
+        strip.appendChild(btn);
+      }
+      wrap.appendChild(strip);
+
+      // ── Day events panel ────────────────────────────────────────────────────
+      const panel = document.createElement("div");
+      panel.className = "pcal-wday-panel";
+      panel.setAttribute("aria-label", "Events for " + currentDate.toLocaleDateString("en-US", {
+        weekday: "long", month: "long", day: "numeric"
+      }));
+
+      const dateLabel = document.createElement("div");
+      dateLabel.className = "pcal-wday-date";
+      dateLabel.setAttribute("aria-hidden", "true");
+      dateLabel.textContent = currentDate.toLocaleDateString("en-US", {
+        weekday: "long", month: "long", day: "numeric"
+      });
+      panel.appendChild(dateLabel);
+
+      const evs = eventsForDay(currentDate);
+      if (evs.length === 0) {
+        panel.appendChild(emptyState("No events on this day."));
+      } else {
+        evs.forEach(function (ev) { panel.appendChild(makeCard(ev)); });
+      }
+      wrap.appendChild(panel);
+      $body.appendChild(wrap);
+    }
+
+    /* Day ── */
+    function renderDay() {
+      const evs = eventsForDay(currentDate);
+      const wrap = document.createElement("div");
+      wrap.className = "pcal-day-wrap";
+      if (evs.length === 0) {
+        wrap.appendChild(emptyState("No events on this day."));
+      } else {
+        evs.forEach(ev => wrap.appendChild(makeCard(ev)));
+      }
+      $body.appendChild(wrap);
+    }
+
+    /* Agenda ── */
+    function renderAgenda() {
+      const tod = new Date(currentDate); tod.setHours(0, 0, 0, 0);
+      const windowEnd = addDays(tod, 30);
+
+      const sorted = visibleEvents
+        .filter(ev => { const d = parseDate(ev.start); return d && d >= tod && d < windowEnd; })
+        .sort((a, b) => parseDate(a.start) - parseDate(b.start));
+
+      const wrap = document.createElement("div");
+      wrap.className = "pcal-agenda-wrap";
+
+      if (sorted.length === 0) {
+        wrap.appendChild(emptyState("No events in this period. Use the arrows to browse other dates."));
+      } else {
+        const byDate = {};
+        sorted.forEach(ev => {
+          const d = parseDate(ev.start);
+          const key = d.toDateString();
+          if (!byDate[key]) byDate[key] = { date: d, evs: [] };
+          byDate[key].evs.push(ev);
+        });
+
+        Object.values(byDate).forEach(({ date, evs }) => {
+          const sec = document.createElement("div");
+          sec.className = "pcal-agenda-sec";
+
+          const hdr = document.createElement("div");
+          hdr.className = "pcal-agenda-hdr";
+          const rel = document.createElement("span"); rel.className = "pcal-agenda-rel";
+          rel.textContent = relLabel(date);
+          const abs = document.createElement("span"); abs.className = "pcal-agenda-abs";
+          abs.textContent = date.toLocaleDateString("en-US", {
+            weekday: "long", month: "long", day: "numeric"
+          });
+          hdr.appendChild(rel); hdr.appendChild(abs);
+          sec.appendChild(hdr);
+
+          const list = document.createElement("div");
+          list.className = "pcal-agenda-events";
+          evs.forEach(ev => list.appendChild(makeCard(ev)));
+          sec.appendChild(list);
+          wrap.appendChild(sec);
+        });
+      }
+
+      $body.appendChild(wrap);
+    }
+
+    function makeCard(ev) {
+      const color = catColor(ev.type);
+      const card = document.createElement("div");
+      card.className = "pcal-card" + (isPastEvent(ev) ? " pcal-card--past" : "");
+      card.style.setProperty("--cat", color.main);
+      card.style.setProperty("--cat-bg", color.bg);
+
+      const stripe = document.createElement("div"); stripe.className = "pcal-card-stripe";
+      card.appendChild(stripe);
+
+      const body = document.createElement("div"); body.className = "pcal-card-body";
+
+      const start = parseDate(ev.start), end = parseDate(ev.end);
+      const allDay = isAllDay(start, end);
+      const st = start ? fmtTime(start) : "", et = end ? fmtTime(end) : "";
+      const timeStr = st && et ? st + " – " + et : st || "";
+      const cardTitle = cleanTitle(ev.title);
+      const cardTime = allDay ? "All day" : timeStr;
+      const cardParts = [cardTitle, ev.type, cardTime, ev.location].filter(Boolean);
+
+      // Focusable button wraps badge+title+meta; no interactive descendants inside
+      const btn = document.createElement("button");
+      btn.className = "pcal-card-btn";
+      btn.setAttribute("aria-label", cardParts.join(", ") + ". Press Enter for details.");
+      btn.addEventListener("click", function () { openModal(ev); });
+
+      if (ev.type) {
+        const badge = document.createElement("span"); badge.className = "pcal-card-badge";
+        badge.setAttribute("aria-hidden", "true");
+        badge.textContent = ev.type;
+        btn.appendChild(badge);
+      }
+
+      const title = document.createElement("div"); title.className = "pcal-card-title";
+      title.setAttribute("aria-hidden", "true");
+      title.textContent = cardTitle;
+      btn.appendChild(title);
+
+      const meta = document.createElement("div"); meta.className = "pcal-card-meta";
+      meta.setAttribute("aria-hidden", "true");
+
+      if (allDay || timeStr) {
+        const item = document.createElement("span"); item.className = "pcal-card-meta-item";
+        item.appendChild(makeIcon("clock"));
+        item.appendChild(document.createTextNode(allDay ? "All day" : timeStr));
+        meta.appendChild(item);
+      }
+
+      if (ev.location) {
+        const item = document.createElement("span"); item.className = "pcal-card-meta-item";
+        item.appendChild(makeIcon("pin"));
+        item.appendChild(document.createTextNode(ev.location));
+        meta.appendChild(item);
+      }
+      btn.appendChild(meta);
+      body.appendChild(btn);
+
+      // GoFMX link is a sibling of the button — not nested inside it
+      if (ev.link) {
+        const link = document.createElement("a"); link.className = "pcal-card-link";
+        link.href = ev.link; link.target = "_blank"; link.rel = "noopener";
+        link.setAttribute("aria-label", "View \u201c" + cardTitle + "\u201d in GoFMX (opens in new tab)");
+        link.appendChild(document.createTextNode("View in GoFMX "));
+        link.appendChild(makeIcon("ext", 11));
+        body.appendChild(link);
+      }
+
+      card.appendChild(body);
+      return card;
+    }
+
+    function emptyState(msg) {
+      const wrap = document.createElement("div"); wrap.className = "pcal-empty";
+      const svg = document.createElementNS(SVG_NS, "svg");
+      svg.setAttribute("width", "40"); svg.setAttribute("height", "40");
+      svg.setAttribute("viewBox", "0 0 24 24"); svg.setAttribute("fill", "none");
+      svg.setAttribute("stroke", "currentColor"); svg.setAttribute("stroke-width", "1.5");
+      svg.setAttribute("aria-hidden", "true");
+      const rect = document.createElementNS(SVG_NS, "rect");
+      rect.setAttribute("x", "3"); rect.setAttribute("y", "4");
+      rect.setAttribute("width", "18"); rect.setAttribute("height", "18"); rect.setAttribute("rx", "2");
+      svg.appendChild(rect);
+      const path = document.createElementNS(SVG_NS, "path");
+      path.setAttribute("d", "M16 2v4M8 2v4M3 10h18");
+      svg.appendChild(path);
+      wrap.appendChild(svg);
+      wrap.appendChild(document.createTextNode(msg));
+      return wrap;
+    }
+
+    /* ── Modal ───────────────────────────────────────────────────────────────── */
+    function openModal(ev) {
+      const color = catColor(ev.type);
+      const start = parseDate(ev.start), end = parseDate(ev.end);
+      const allDay = isAllDay(start, end);
+      const st = start ? fmtTime(start) : "", et = end ? fmtTime(end) : "";
+      const timeStr = allDay ? "All day" : (st && et ? st + " – " + et : st || "");
+      const dateStr = start ? fmtDateLong(start) : "";
+
+      const stripe = document.createElement("div");
+      stripe.className = "pcal-dialog-stripe";
+      stripe.style.background = color.main;
+
+      const inner = document.createElement("div");
+      inner.className = "pcal-dialog-inner";
+
+      if (ev.type) {
+        const badge = document.createElement("span");
+        badge.className = "pcal-dialog-badge";
+        badge.style.background = color.bg;
+        badge.style.color = color.main;
+        badge.textContent = ev.type;
+        inner.appendChild(badge);
+      }
+
+      const title = document.createElement("h3");
+      title.id = "pcalDialogTitle";
+      title.className = "pcal-dialog-title";
+      title.textContent = cleanTitle(ev.title);
+      inner.appendChild(title);
+
+      const addDetail = (iconId, text) => {
+        if (!text) return;
+        const row = document.createElement("div"); row.className = "pcal-dialog-detail";
+        row.appendChild(makeIcon(iconId, 15));
+        row.appendChild(document.createTextNode(text));
+        inner.appendChild(row);
+      };
+
+      addDetail("cal", dateStr);
+      addDetail("clock", timeStr);
+      addDetail("pin", ev.location || "");
+
+      if (ev.link) {
+        const cta = document.createElement("a");
+        cta.className = "pcal-dialog-cta";
+        cta.href = ev.link; cta.target = "_blank"; cta.rel = "noopener";
+        cta.setAttribute("aria-label", "View \u201c" + cleanTitle(ev.title) + "\u201d full details in GoFMX (opens in new tab)");
+        cta.appendChild(document.createTextNode("View full details in GoFMX "));
+        cta.appendChild(makeIcon("ext", 12));
+        inner.appendChild(cta);
+      }
+
+      $dialogBody.innerHTML = "";
+      $dialogBody.appendChild(stripe);
+      $dialogBody.appendChild(inner);
+
+      _modalTrigger = document.activeElement;
+      $overlay.classList.remove("pcal-hidden");
+
+      // Focus the dialog element so AT announces the title before listing controls
+      var dialog = $overlay.querySelector(".pcal-dialog");
+      dialog.setAttribute("tabindex", "-1");
+      dialog.focus();
+
+      // Focus trap
+      _modalTrapHandler = function (e) {
+        if (e.key !== "Tab") return;
+        var focusables = Array.from(dialog.querySelectorAll(
+          'button:not([disabled]), [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        ));
+        if (!focusables.length) return;
+        var first = focusables[0], last = focusables[focusables.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault(); last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault(); first.focus();
+        }
+      };
+      document.addEventListener("keydown", _modalTrapHandler);
+      document.addEventListener("keydown", onEsc);
+    }
+
+    function closeModal() {
+      $overlay.classList.add("pcal-hidden");
+      document.removeEventListener("keydown", onEsc);
+      if (_modalTrapHandler) {
+        document.removeEventListener("keydown", _modalTrapHandler);
+        _modalTrapHandler = null;
+      }
+      if (_modalTrigger) {
+        _modalTrigger.focus();
+        _modalTrigger = null;
+      }
+    }
+
+    function onEsc(e) { if (e.key === "Escape") closeModal(); }
+
+    /* ── Navigation ──────────────────────────────────────────────────────────── */
+    function navigate(dir) {
+      switch (currentView) {
+        case "month":
+          currentDate = new Date(currentDate.getFullYear(), currentDate.getMonth() + dir, 1);
+          break;
+        case "week":
+          currentDate = addDays(currentDate, window.innerWidth < 640 ? dir : dir * 7);
+          break;
+        case "day":
+          currentDate = addDays(currentDate, dir);
+          break;
+        case "agenda":
+          currentDate = addDays(currentDate, dir * 30);
+          break;
+      }
+      render();
+    }
+
+    function setView(view) {
+      currentView = view;
+      document.querySelectorAll(".pcal-view-btn").forEach(function (b) {
+        var on = b.dataset.view === view;
+        b.classList.toggle("pcal-view-btn--on", on);
+        b.setAttribute("aria-checked", on ? "true" : "false");
+        b.setAttribute("tabindex", on ? "0" : "-1");
+      });
+      render();
+    }
+
+    /* ── Boot: resolve DOM refs, attach listeners, start calendar ───────────── */
+    function boot() {
+      $period      = document.getElementById("pcalPeriod");
+      $body        = document.getElementById("pcalBody");
+      $status      = document.getElementById("pcalStatus");
+      $statusMsg   = document.getElementById("pcalStatusMsg");
+      $search      = document.getElementById("pcalSearch");
+      $overlay     = document.getElementById("pcalOverlay");
+      $dialogBody  = document.getElementById("pcalDialogBody");
+      $filterBtn   = document.getElementById("pcalFilterBtn");
+      $filterLabel = document.getElementById("pcalFilterLabel");
+      $filterPanel = document.getElementById("pcalFilterPanel");
+
+      if (!$body) return; // embed not in DOM yet — nothing to render
+
+      document.getElementById("pcalPrev").addEventListener("click", () => navigate(-1));
+      document.getElementById("pcalNext").addEventListener("click", () => navigate(1));
+      document.getElementById("pcalToday").addEventListener("click", () => { currentDate = new Date(); render(); });
+      document.getElementById("pcalRetry").addEventListener("click", loadEvents);
+      document.getElementById("pcalClose").addEventListener("click", closeModal);
+      $overlay.addEventListener("click", function (e) { if (e.target === $overlay) closeModal(); });
+
+      // Swipe navigation
+      var swipeX = 0, swipeY = 0;
+      $body.addEventListener("touchstart", function (e) {
+        swipeX = e.touches[0].clientX;
+        swipeY = e.touches[0].clientY;
+      }, { passive: true });
+      $body.addEventListener("touchend", function (e) {
+        var dx = e.changedTouches[0].clientX - swipeX;
+        var dy = e.changedTouches[0].clientY - swipeY;
+        if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+          if (currentView === "week" && window.innerWidth < 640) {
+            currentDate = addDays(currentDate, dx < 0 ? 1 : -1);
+            render();
+          } else {
+            navigate(dx < 0 ? 1 : -1);
+          }
+        }
+      }, { passive: true });
+
+      $filterBtn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        $filterPanel.classList.contains("pcal-hidden") ? openDropdown() : closeDropdown();
+      });
+
+      document.addEventListener("click", function (e) {
+        var dropdown = document.getElementById("pcalDropdown");
+        if (dropdown && !dropdown.contains(e.target)) closeDropdown();
+      });
+
+      document.addEventListener("keydown", onDropdownKey);
+
+      // Initialise tabindex for radiogroup pattern (one tab stop; arrow keys change view)
+      document.querySelectorAll(".pcal-view-btn").forEach(function (b) {
+        b.setAttribute("tabindex", b.classList.contains("pcal-view-btn--on") ? "0" : "-1");
+      });
+
+      document.querySelectorAll(".pcal-view-btn").forEach(function (btn) {
+        btn.addEventListener("click", function () { setView(btn.dataset.view); });
+      });
+
+      // Arrow-key navigation within the view radiogroup
+      (function () {
+        var viewBtns = Array.from(document.querySelectorAll(".pcal-view-btn"));
+        document.querySelector(".pcal-views").addEventListener("keydown", function (e) {
+          var idx = viewBtns.indexOf(document.activeElement);
+          if (idx === -1) return;
+          var next = -1;
+          if (e.key === "ArrowRight" || e.key === "ArrowDown") { e.preventDefault(); next = (idx + 1) % viewBtns.length; }
+          else if (e.key === "ArrowLeft" || e.key === "ArrowUp") { e.preventDefault(); next = (idx - 1 + viewBtns.length) % viewBtns.length; }
+          if (next !== -1) { viewBtns[next].focus(); setView(viewBtns[next].dataset.view); }
+        });
+      })();
+
+      var searchTimer;
+      $search.addEventListener("input", function () {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(function () {
+          searchQuery = $search.value;
+          applyFilters();
+          render();
+        }, 220);
+      });
+
+      document.addEventListener("keydown", function (e) {
+        if (!$overlay.classList.contains("pcal-hidden")) return;
+        if (document.activeElement && ["INPUT", "TEXTAREA", "SELECT"].includes(document.activeElement.tagName)) return;
+        // Don't steal arrow keys from the month grid (onGridKey handles them there)
+        var grid = $body.querySelector(".pcal-month[role='grid']");
+        if (grid && grid.contains(document.activeElement)) return;
+        if (e.key === "ArrowLeft") navigate(-1);
+        if (e.key === "ArrowRight") navigate(1);
+      });
+
+      render();
+      loadEvents();
+    }
+
+    /* Run immediately if DOM is ready; otherwise wait for it ───────────────── */
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", boot);
+    } else {
+      boot();
+    }
+  })();
+</script>
+</body>
+</html>
