@@ -1392,6 +1392,35 @@
       return CATEGORY_COLORS[type] || DEFAULT_CAT;
     }
 
+    // Category display order — anything not listed here sorts after these, in
+    // its existing (time) order.
+    const CATEGORY_PRIORITY = [
+      "CLOSED",
+      "School Activity",
+      "Staff Event",
+      "Board Meeting",
+      "Community Event",
+      "Athletics - Home",
+      "Athletics - Away",
+      "PTO Meeting",
+      "Other",
+      "Community Member Rental",
+    ];
+
+    function categoryRank(type) {
+      const i = CATEGORY_PRIORITY.indexOf(type);
+      return i === -1 ? CATEGORY_PRIORITY.length : i;
+    }
+
+    // Sorts by category priority first, start time as tiebreaker.
+    function sortEvents(evs) {
+      return evs.slice().sort(function (a, b) {
+        const rankDiff = categoryRank(a.type) - categoryRank(b.type);
+        if (rankDiff !== 0) return rankDiff;
+        return parseDate(a.start) - parseDate(b.start);
+      });
+    }
+
     function isPastEvent(ev) {
       const tod = new Date(); tod.setHours(0, 0, 0, 0);
       const d = parseDate(ev.start);
@@ -1399,10 +1428,10 @@
     }
 
     function eventsForDay(d) {
-      return visibleEvents.filter(ev => {
+      return sortEvents(visibleEvents.filter(ev => {
         const s = parseDate(ev.start);
         return s && sameDay(s, d);
-      });
+      }));
     }
 
     /* ── Data loading ────────────────────────────────────────────────────────── */
@@ -1924,6 +1953,7 @@
           if (!byDate[key]) byDate[key] = { date: d, evs: [] };
           byDate[key].evs.push(ev);
         });
+        Object.values(byDate).forEach(function (group) { group.evs = sortEvents(group.evs); });
 
         Object.values(byDate).forEach(({ date, evs }) => {
           const sec = document.createElement("div");
