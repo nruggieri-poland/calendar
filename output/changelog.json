@@ -1,5 +1,117 @@
 [
   {
+    "timestamp": "2026-08-16T14:16:53.734Z",
+    "added": [
+      {
+        "uid": "schedule-request-3888189-occurrence-9035363",
+        "title": "3888189 - Grade 4 Orientation",
+        "type": "School Activity",
+        "start": "2026-08-20 2:00 PM",
+        "end": "2026-08-20 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3888190-occurrence-9035364",
+        "title": "3888190 - Kindergarten Orientation",
+        "type": "School Activity",
+        "start": "2026-08-21 10:00 AM",
+        "end": "2026-08-21 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3888191-occurrence-9035365",
+        "title": "3888191 - Grade 1 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 8:30 AM",
+        "end": "2026-08-20 9:00 AM"
+      },
+      {
+        "uid": "schedule-request-3888192-occurrence-9035366",
+        "title": "3888192 - Grade 2 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 9:30 AM",
+        "end": "2026-08-20 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3888193-occurrence-9035367",
+        "title": "3888193 - Grade 3 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 10:30 AM",
+        "end": "2026-08-20 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3888194-occurrence-9035368",
+        "title": "3888194 - Grade 5 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 12:45 PM",
+        "end": "2026-08-20 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-3888195-occurrence-9035369",
+        "title": "3888195 - Grade 6 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 11:30 AM",
+        "end": "2026-08-20 12:15 PM"
+      },
+      {
+        "uid": "schedule-request-3888196-occurrence-9035370",
+        "title": "3888196 - Grades 7 & 9 + New Student Orientation",
+        "type": "School Activity",
+        "start": "2026-08-20 2:15 PM",
+        "end": "2026-08-20 3:15 PM"
+      },
+      {
+        "uid": "schedule-request-3888197-occurrence-9035371",
+        "title": "3888197 - Grades 7-12 Open House",
+        "type": "School Activity",
+        "start": "2026-08-20 3:30 PM",
+        "end": "2026-08-20 4:30 PM"
+      },
+      {
+        "uid": "schedule-request-3888198-occurrence-9035372",
+        "title": "3888198 - PSHS Schedule Pickup - Grade 7",
+        "type": "School Activity",
+        "start": "2026-08-20 1:45 PM",
+        "end": "2026-08-20 2:10 PM"
+      },
+      {
+        "uid": "schedule-request-3888199-occurrence-9035373",
+        "title": "3888199 - PSHS Schedule Pickup - Grade 8",
+        "type": "School Activity",
+        "start": "2026-08-20 11:00 AM",
+        "end": "2026-08-20 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3888200-occurrence-9035374",
+        "title": "3888200 - PSHS Schedule Pickup - Grade 9",
+        "type": "School Activity",
+        "start": "2026-08-20 1:45 PM",
+        "end": "2026-08-20 2:10 PM"
+      },
+      {
+        "uid": "schedule-request-3888201-occurrence-9035375",
+        "title": "3888201 - PSHS Schedule Pickup - Grade 10",
+        "type": "School Activity",
+        "start": "2026-08-20 11:00 AM",
+        "end": "2026-08-20 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3888202-occurrence-9035376",
+        "title": "3888202 - PSHS Schedule Pickup - Grade 11",
+        "type": "School Activity",
+        "start": "2026-08-20 10:00 AM",
+        "end": "2026-08-20 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3888203-occurrence-9035377",
+        "title": "3888203 - PSHS Schedule Pickup - Grade 12",
+        "type": "School Activity",
+        "start": "2026-08-20 10:00 AM",
+        "end": "2026-08-20 11:00 AM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-16T13:55:11.953Z",
     "added": [],
     "removed": [],
