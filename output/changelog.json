@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-17T23:17:22.174Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858040-occurrence-8952453",
+        "title": "3858040 - Volleyball (Girls 7) @ Columbiana Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-08-17 5:30 PM",
+        "end": "2026-08-17 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858201-occurrence-8952724",
+        "title": "3858201 - Soccer (Girls JV) @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-17 5:00 PM",
+        "end": "2026-08-17 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-17T22:17:58.317Z",
     "added": [],
     "removed": [
