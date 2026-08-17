@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-17T14:21:10.398Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857961-occurrence-8952369",
+        "title": "3857961 - Golf (Girls V) vs South Range High School\\, Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-17 8:00 AM",
+        "end": "2026-08-17 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-16T15:15:55.163Z",
     "added": [],
     "removed": [
