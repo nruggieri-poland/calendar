@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-17T22:17:58.317Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857838-occurrence-8952246",
+        "title": "3857838 - Tennis (Girls V) vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-17 4:00 PM",
+        "end": "2026-08-17 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-17T19:22:33.023Z",
     "added": [],
     "removed": [
