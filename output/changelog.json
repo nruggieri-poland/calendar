@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-18T02:12:42.777Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858122-occurrence-8952645",
+        "title": "3858122 - Soccer (Girls V) @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-17 7:00 PM",
+        "end": "2026-08-17 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-18T00:54:37.635Z",
     "added": [],
     "removed": [
