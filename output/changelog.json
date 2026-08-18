@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-18T14:26:44.472Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857769-occurrence-8952177",
+        "title": "3857769 - Golf (Boys V) vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-18 8:00 AM",
+        "end": "2026-08-18 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-18T13:37:31.889Z",
     "added": [],
     "removed": [],
