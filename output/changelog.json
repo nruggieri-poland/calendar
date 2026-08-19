@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-19T04:31:07.527Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888171-occurrence-9035170",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-08-18 12:00 AM",
+        "end": "2026-08-18 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-19T02:15:41.525Z",
     "added": [],
     "removed": [
