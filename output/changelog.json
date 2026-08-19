@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-19T22:18:33.248Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858050-occurrence-8952463",
+        "title": "3858050 - Volleyball (Girls 7) @ East Palestine High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-19 5:00 PM",
+        "end": "2026-08-19 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857934-occurrence-8952342",
+        "title": "3857934 - Tennis (Girls V) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-19 4:00 PM",
+        "end": "2026-08-19 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-19T15:24:51.539Z",
     "added": [],
     "removed": [
