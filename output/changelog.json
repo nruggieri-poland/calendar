@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-19T15:24:51.539Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858120-occurrence-8952643",
+        "title": "3858120 - Golf (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-19 9:00 AM",
+        "end": "2026-08-19 11:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-19T04:31:07.527Z",
     "added": [],
     "removed": [
