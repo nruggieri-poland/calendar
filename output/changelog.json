@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-19T00:54:54.609Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858151-occurrence-8952674",
+        "title": "3858151 - Soccer (Boys JV) @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-18 5:30 PM",
+        "end": "2026-08-18 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-18T22:16:33.854Z",
     "added": [],
     "removed": [
