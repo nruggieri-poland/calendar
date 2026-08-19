@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-19T23:17:45.125Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858008-occurrence-8952416",
+        "title": "3858008 - Volleyball (Girls 8) @ East Palestine High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-19 6:00 PM",
+        "end": "2026-08-19 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-19T22:18:33.248Z",
     "added": [],
     "removed": [
