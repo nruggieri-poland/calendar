@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-20T23:20:09.964Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858202-occurrence-8952725",
+        "title": "3858202 - Soccer (Boys V) @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 5:00 PM",
+        "end": "2026-08-20 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T22:21:00.792Z",
     "added": [],
     "removed": [
