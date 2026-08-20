@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-20T13:41:11.650Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888191-occurrence-9035365",
+        "title": "3888191 - Grade 1 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 8:30 AM",
+        "end": "2026-08-20 9:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T04:31:09.468Z",
     "added": [],
     "removed": [
