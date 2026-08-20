@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-20T22:21:00.792Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858143-occurrence-8952666",
+        "title": "3858143 - Golf (Girls V) @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 3:30 PM",
+        "end": "2026-08-20 5:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T21:21:59.345Z",
     "added": [],
     "removed": [
