@@ -3135,17 +3135,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857865/occurrences/8952273"
   },
   {
-    "uid": "schedule-request-3857866-occurrence-8952274",
-    "title": "3857866 - Golf (Boys V) vs South Range High School",
-    "summary": "3857866 - Golf (Boys V) vs South Range High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-20 8:00 AM",
-    "end": "2026-08-20 10:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857866/occurrences/8952274"
-  },
-  {
     "uid": "schedule-request-3857867-occurrence-8952275",
     "title": "3857867 - Football (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
     "summary": "3857867 - Football (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
@@ -5718,17 +5707,6 @@
     "end": "2026-08-21 11:00 AM",
     "location": "7 Elm St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888190/occurrences/9035364"
-  },
-  {
-    "uid": "schedule-request-3888192-occurrence-9035366",
-    "title": "3888192 - Grade 2 Meet & Greet",
-    "summary": "3888192 - Grade 2 Meet & Greet",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2026-08-20 9:30 AM",
-    "end": "2026-08-20 10:00 AM",
-    "location": "7 Elm St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888192/occurrences/9035366"
   },
   {
     "uid": "schedule-request-3888193-occurrence-9035367",

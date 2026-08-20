@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-20T14:30:10.281Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857866-occurrence-8952274",
+        "title": "3857866 - Golf (Boys V) vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-20 8:00 AM",
+        "end": "2026-08-20 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3888192-occurrence-9035366",
+        "title": "3888192 - Grade 2 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 9:30 AM",
+        "end": "2026-08-20 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T13:41:11.650Z",
     "added": [],
     "removed": [
