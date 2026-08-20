@@ -5709,17 +5709,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888190/occurrences/9035364"
   },
   {
-    "uid": "schedule-request-3888193-occurrence-9035367",
-    "title": "3888193 - Grade 3 Meet & Greet",
-    "summary": "3888193 - Grade 3 Meet & Greet",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2026-08-20 10:30 AM",
-    "end": "2026-08-20 11:00 AM",
-    "location": "7 Elm St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888193/occurrences/9035367"
-  },
-  {
     "uid": "schedule-request-3888194-occurrence-9035368",
     "title": "3888194 - Grade 5 Meet & Greet",
     "summary": "3888194 - Grade 5 Meet & Greet",
@@ -5806,28 +5795,6 @@
     "end": "2026-08-20 12:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888201/occurrences/9035375"
-  },
-  {
-    "uid": "schedule-request-3888202-occurrence-9035376",
-    "title": "3888202 - PSHS Schedule Pickup - Grade 11",
-    "summary": "3888202 - PSHS Schedule Pickup - Grade 11",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2026-08-20 10:00 AM",
-    "end": "2026-08-20 11:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888202/occurrences/9035376"
-  },
-  {
-    "uid": "schedule-request-3888203-occurrence-9035377",
-    "title": "3888203 - PSHS Schedule Pickup - Grade 12",
-    "summary": "3888203 - PSHS Schedule Pickup - Grade 12",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2026-08-20 10:00 AM",
-    "end": "2026-08-20 11:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888203/occurrences/9035377"
   },
   {
     "uid": "schedule-request-3888171-occurrence-9035172",
