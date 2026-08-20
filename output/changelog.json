@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-20T00:55:01.661Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857976-occurrence-8952384",
+        "title": "3857976 - Football (Boys 7) @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-19 6:00 PM",
+        "end": "2026-08-19 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-19T23:17:45.125Z",
     "added": [],
     "removed": [
