@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-20T19:25:56.093Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888189-occurrence-9035363",
+        "title": "3888189 - Grade 4 Orientation",
+        "type": "School Activity",
+        "start": "2026-08-20 2:00 PM",
+        "end": "2026-08-20 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3888196-occurrence-9035370",
+        "title": "3888196 - Grades 7 & 9 + New Student Orientation",
+        "type": "School Activity",
+        "start": "2026-08-20 2:15 PM",
+        "end": "2026-08-20 3:15 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T18:30:21.005Z",
     "added": [],
     "removed": [
