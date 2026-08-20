@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-08-20T18:30:21.005Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888194-occurrence-9035368",
+        "title": "3888194 - Grade 5 Meet & Greet",
+        "type": "School Activity",
+        "start": "2026-08-20 12:45 PM",
+        "end": "2026-08-20 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-3888198-occurrence-9035372",
+        "title": "3888198 - PSHS Schedule Pickup - Grade 7",
+        "type": "School Activity",
+        "start": "2026-08-20 1:45 PM",
+        "end": "2026-08-20 2:10 PM"
+      },
+      {
+        "uid": "schedule-request-3888200-occurrence-9035374",
+        "title": "3888200 - PSHS Schedule Pickup - Grade 9",
+        "type": "School Activity",
+        "start": "2026-08-20 1:45 PM",
+        "end": "2026-08-20 2:10 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T16:27:35.407Z",
     "added": [],
     "removed": [
