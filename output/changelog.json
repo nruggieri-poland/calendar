@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-20T21:21:59.345Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888197-occurrence-9035371",
+        "title": "3888197 - Grades 7-12 Open House",
+        "type": "School Activity",
+        "start": "2026-08-20 3:30 PM",
+        "end": "2026-08-20 4:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T19:25:56.093Z",
     "added": [],
     "removed": [
