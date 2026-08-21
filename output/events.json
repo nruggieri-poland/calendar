@@ -1281,8 +1281,8 @@
     "summary": "3858150 - Soccer (Girls JV) @ Boardman High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-08-22 3:00 PM",
-    "end": "2026-08-22 5:00 PM",
+    "start": "2026-08-22 3:30 PM",
+    "end": "2026-08-22 5:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858150/occurrences/8952673"
   },
@@ -5641,17 +5641,6 @@
     "end": "2027-05-29 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888172/occurrences/9035179"
-  },
-  {
-    "uid": "schedule-request-3888190-occurrence-9035364",
-    "title": "3888190 - Kindergarten Orientation",
-    "summary": "3888190 - Kindergarten Orientation",
-    "type": "School Activity",
-    "color": "#0eed3f",
-    "start": "2026-08-21 10:00 AM",
-    "end": "2026-08-21 11:00 AM",
-    "location": "7 Elm St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888190/occurrences/9035364"
   },
   {
     "uid": "schedule-request-3888171-occurrence-9035173",
