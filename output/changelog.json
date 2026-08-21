@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-21T17:22:39.571Z",
+    "added": [
+      {
+        "uid": "schedule-request-3899418-occurrence-9072420",
+        "title": "3899418 - AED/CPR training @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-01 12:00 PM",
+        "end": "2026-09-01 3:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-21T15:27:02.829Z",
     "added": [],
     "removed": [
