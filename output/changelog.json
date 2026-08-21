@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-21T02:24:15.816Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858211-occurrence-8952734",
+        "title": "3858211 - Soccer (Girls V) @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 7:00 PM",
+        "end": "2026-08-20 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-21T00:58:55.391Z",
     "added": [],
     "removed": [
