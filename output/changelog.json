@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-21T00:58:55.391Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857969-occurrence-8952377",
+        "title": "3857969 - Football (Boys F) @ Salem High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-20 5:30 PM",
+        "end": "2026-08-20 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-20T23:20:09.964Z",
     "added": [],
     "removed": [
