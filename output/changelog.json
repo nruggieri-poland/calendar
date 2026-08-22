@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-22T02:13:14.182Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857937-occurrence-8952345",
+        "title": "3857937 - Football (Boys V) vs Salem High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-21 7:00 PM",
+        "end": "2026-08-21 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-21T17:22:39.571Z",
     "added": [
       {
