@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-24T23:17:37.183Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858059-occurrence-8952472",
+        "title": "3858059 - Soccer (Boys V) @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 5:00 PM",
+        "end": "2026-08-24 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858189-occurrence-8952712",
+        "title": "3858189 - Volleyball (Girls 8) @ LAKEVIEW MIDDLE SCHOOL",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 6:00 PM",
+        "end": "2026-08-24 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-24T22:19:47.365Z",
     "added": [],
     "removed": [
