@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-24T22:19:47.365Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858010-occurrence-8952418",
+        "title": "3858010 - Volleyball (Girls 7) @ LAKEVIEW MIDDLE SCHOOL",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 5:00 PM",
+        "end": "2026-08-24 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858215-occurrence-8952738",
+        "title": "3858215 - Golf (Girls V) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-24 4:00 PM",
+        "end": "2026-08-24 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-24T16:29:24.762Z",
     "added": [],
     "removed": [],

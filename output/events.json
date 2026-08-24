@@ -319,17 +319,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858007/occurrences/8952415"
   },
   {
-    "uid": "schedule-request-3858010-occurrence-8952418",
-    "title": "3858010 - Volleyball (Girls 7) @ LAKEVIEW MIDDLE SCHOOL",
-    "summary": "3858010 - Volleyball (Girls 7) @ LAKEVIEW MIDDLE SCHOOL",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-24 5:00 PM",
-    "end": "2026-08-24 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858010/occurrences/8952418"
-  },
-  {
     "uid": "schedule-request-3858011-occurrence-8952419",
     "title": "3858011 - Basketball (Boys V) @ Campbell Memorial High School",
     "summary": "3858011 - Basketball (Boys V) @ Campbell Memorial High School",
@@ -1890,17 +1879,6 @@
     "end": "2027-02-03 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858214/occurrences/8952737"
-  },
-  {
-    "uid": "schedule-request-3858215-occurrence-8952738",
-    "title": "3858215 - Golf (Girls V) @ Lakeview High School",
-    "summary": "3858215 - Golf (Girls V) @ Lakeview High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-24 4:00 PM",
-    "end": "2026-08-24 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858215/occurrences/8952738"
   },
   {
     "uid": "schedule-request-3858216-occurrence-8952739",
