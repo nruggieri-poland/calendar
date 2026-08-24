@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-24T14:35:43.900Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857799-occurrence-8952207",
+        "title": "3857799 - Golf (Boys V) vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-24 8:00 AM",
+        "end": "2026-08-24 10:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-23T22:15:24.359Z",
     "added": [],
     "removed": [
