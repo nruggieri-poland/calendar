@@ -5608,5 +5608,16 @@
     "end": "2027-06-03 7:59 PM",
     "location": "McKinley Elementary School, Poland Middle School, and Poland Seminary High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888171/occurrences/9035180"
+  },
+  {
+    "uid": "schedule-request-3909324-occurrence-9099089",
+    "title": "3909324 - Legal Update",
+    "summary": "3909324 - Legal Update",
+    "type": "Staff Event",
+    "color": "#11f5f5",
+    "start": "2026-09-02 9:00 AM",
+    "end": "2026-09-02 2:00 PM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3909324/occurrences/9099089"
   }
 ]

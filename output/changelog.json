@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-25T16:29:38.053Z",
+    "added": [
+      {
+        "uid": "schedule-request-3909324-occurrence-9099089",
+        "title": "3909324 - Legal Update",
+        "type": "Staff Event",
+        "start": "2026-09-02 9:00 AM",
+        "end": "2026-09-02 2:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-25T14:38:36.944Z",
     "added": [
       {
