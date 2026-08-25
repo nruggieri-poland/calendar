@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-25T22:20:13.697Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858129-occurrence-8952652",
+        "title": "3858129 - Tennis (Girls V) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-25 4:00 PM",
+        "end": "2026-08-25 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-25T20:21:32.826Z",
     "added": [],
     "removed": [
