@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-25T00:57:02.971Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857870-occurrence-8952278",
+        "title": "3857870 - Volleyball (Girls JV) vs Campbell Memorial High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-24 5:30 PM",
+        "end": "2026-08-24 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858251-occurrence-8952774",
+        "title": "3858251 - Youngstown Football Official Association @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-08-24 7:00 PM",
+        "end": "2026-08-24 8:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-24T23:17:37.183Z",
     "added": [],
     "removed": [
