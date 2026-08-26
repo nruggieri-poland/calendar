@@ -1991,6 +1991,28 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3874125/occurrences/8997984"
   },
   {
+    "uid": "schedule-request-3918051-occurrence-9115496",
+    "title": "3918051 - Baseball (Boys V) @ Cene Park",
+    "summary": "3918051 - Baseball (Boys V) @ Cene Park",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-07 5:00 PM",
+    "end": "2027-04-07 7:00 PM",
+    "location": "Cene Park",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3918051/occurrences/9115496"
+  },
+  {
+    "uid": "schedule-request-3918052-occurrence-9115497",
+    "title": "3918052 - Football (Boys 7) @ Liberty High School",
+    "summary": "3918052 - Football (Boys 7) @ Liberty High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-10-07 5:00 PM",
+    "end": "2026-10-07 7:00 PM",
+    "location": "Liberty High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3918052/occurrences/9115497"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -2293,8 +2315,8 @@
     "summary": "3857801 - Soccer (Girls V) vs Lakeview High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-09-28 5:00 PM",
-    "end": "2026-09-28 7:00 PM",
+    "start": "2026-09-28 7:00 PM",
+    "end": "2026-09-28 9:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857801/occurrences/8952209"
   },
@@ -3191,8 +3213,8 @@
   },
   {
     "uid": "schedule-request-3857891-occurrence-8952299",
-    "title": "3857891 - Football (Boys 7) vs Niles Middle School",
-    "summary": "3857891 - Football (Boys 7) vs Niles Middle School",
+    "title": "Canceled: 3857891 - Football (Boys 7) vs Niles Middle School",
+    "summary": "Canceled: 3857891 - Football (Boys 7) vs Niles Middle School",
     "type": "Athletics - Home",
     "color": "#131cf0",
     "start": "2026-08-26 5:00 PM",
@@ -3580,8 +3602,8 @@
     "summary": "3857928 - Soccer (Boys V) vs Lakeview High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-09-28 7:00 PM",
-    "end": "2026-09-28 9:00 PM",
+    "start": "2026-09-28 5:00 PM",
+    "end": "2026-09-28 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857928/occurrences/8952336"
   },
@@ -3701,8 +3723,8 @@
     "summary": "3857941 - Football (Boys 8) vs LAKEVIEW MIDDLE SCHOOL",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-08-26 6:00 PM",
-    "end": "2026-08-26 8:00 PM",
+    "start": "2026-08-26 5:45 PM",
+    "end": "2026-08-26 7:45 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857941/occurrences/8952349"
   },
@@ -4079,6 +4101,17 @@
     "end": "2026-09-15 6:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3878854/occurrences/9012542"
+  },
+  {
+    "uid": "schedule-request-3918050-occurrence-9115495",
+    "title": "3918050 - Baseball (Boys JV) vs Ursuline High School",
+    "summary": "3918050 - Baseball (Boys JV) vs Ursuline High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-07 5:00 PM",
+    "end": "2027-04-07 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3918050/occurrences/9115495"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094722",
