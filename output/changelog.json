@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-26T00:58:02.740Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858174-occurrence-8952697",
+        "title": "3858174 - Volleyball (Girls JV) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-25 5:30 PM",
+        "end": "2026-08-25 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-25T22:20:13.697Z",
     "added": [],
     "removed": [
