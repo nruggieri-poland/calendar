@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-08-27T02:48:26.019Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858024-occurrence-8952432",
+        "title": "3858024 - Golf (Boys V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-26 4:30 PM",
+        "end": "2026-08-26 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857786-occurrence-8952194",
+        "title": "3857786 - Volleyball (Girls 8) vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 6:00 PM",
+        "end": "2026-08-26 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857891-occurrence-8952299",
+        "title": "Canceled: 3857891 - Football (Boys 7) vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 5:00 PM",
+        "end": "2026-08-26 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857895-occurrence-8952303",
+        "title": "3857895 - Volleyball (Girls 7) vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 5:00 PM",
+        "end": "2026-08-26 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857941-occurrence-8952349",
+        "title": "3857941 - Football (Boys 8) vs LAKEVIEW MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 5:45 PM",
+        "end": "2026-08-26 7:45 PM"
+      },
+      {
+        "uid": "schedule-request-3871981-occurrence-8989646",
+        "title": "3871981 - Football (Boys F) vs Mineral Ridge High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-26 7:15 PM",
+        "end": "2026-08-26 9:15 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-26T18:54:10.356Z",
     "added": [
       {

@@ -451,17 +451,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858023/occurrences/8952431"
   },
   {
-    "uid": "schedule-request-3858024-occurrence-8952432",
-    "title": "3858024 - Golf (Boys V) @ Girard Sr High School",
-    "summary": "3858024 - Golf (Boys V) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-26 4:30 PM",
-    "end": "2026-08-26 6:30 PM",
-    "location": "mahoning cc",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858024/occurrences/8952432"
-  },
-  {
     "uid": "schedule-request-3858026-occurrence-8952439",
     "title": "3858026 - Football (Boys 8) @ Girard Sr High School",
     "summary": "3858026 - Football (Boys 8) @ Girard Sr High School",
@@ -2178,17 +2167,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857785/occurrences/8952193"
   },
   {
-    "uid": "schedule-request-3857786-occurrence-8952194",
-    "title": "3857786 - Volleyball (Girls 8) vs South Range Middle School",
-    "summary": "3857786 - Volleyball (Girls 8) vs South Range Middle School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-26 6:00 PM",
-    "end": "2026-08-26 7:00 PM",
-    "location": "47 College St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857786/occurrences/8952194"
-  },
-  {
     "uid": "schedule-request-3857787-occurrence-8952195",
     "title": "3857787 - Cross Country (Coed MS) vs TBD",
     "summary": "3857787 - Cross Country (Coed MS) vs TBD",
@@ -3212,17 +3190,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857889/occurrences/8952297"
   },
   {
-    "uid": "schedule-request-3857891-occurrence-8952299",
-    "title": "Canceled: 3857891 - Football (Boys 7) vs Niles Middle School",
-    "summary": "Canceled: 3857891 - Football (Boys 7) vs Niles Middle School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-26 5:00 PM",
-    "end": "2026-08-26 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857891/occurrences/8952299"
-  },
-  {
     "uid": "schedule-request-3857892-occurrence-8952300",
     "title": "3857892 - Football (Boys JV) vs South Range High School",
     "summary": "3857892 - Football (Boys JV) vs South Range High School",
@@ -3254,17 +3221,6 @@
     "end": "2026-09-23 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857894/occurrences/8952302"
-  },
-  {
-    "uid": "schedule-request-3857895-occurrence-8952303",
-    "title": "3857895 - Volleyball (Girls 7) vs South Range Middle School",
-    "summary": "3857895 - Volleyball (Girls 7) vs South Range Middle School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-26 5:00 PM",
-    "end": "2026-08-26 6:00 PM",
-    "location": "47 College St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857895/occurrences/8952303"
   },
   {
     "uid": "schedule-request-3857896-occurrence-8952304",
@@ -3718,17 +3674,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857940/occurrences/8952348"
   },
   {
-    "uid": "schedule-request-3857941-occurrence-8952349",
-    "title": "3857941 - Football (Boys 8) vs LAKEVIEW MIDDLE SCHOOL",
-    "summary": "3857941 - Football (Boys 8) vs LAKEVIEW MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-26 5:45 PM",
-    "end": "2026-08-26 7:45 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857941/occurrences/8952349"
-  },
-  {
     "uid": "schedule-request-3857943-occurrence-8952351",
     "title": "3857943 - Cross Country (Coed MS) vs TBD",
     "summary": "3857943 - Cross Country (Coed MS) vs TBD",
@@ -4057,17 +4002,6 @@
     "end": "2026-09-03 9:15 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3871980/occurrences/8989645"
-  },
-  {
-    "uid": "schedule-request-3871981-occurrence-8989646",
-    "title": "3871981 - Football (Boys F) vs Mineral Ridge High School",
-    "summary": "3871981 - Football (Boys F) vs Mineral Ridge High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-26 7:15 PM",
-    "end": "2026-08-26 9:15 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3871981/occurrences/8989646"
   },
   {
     "uid": "schedule-request-3875765-occurrence-9001329",
