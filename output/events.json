@@ -1430,17 +1430,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858173/occurrences/8952696"
   },
   {
-    "uid": "schedule-request-3858175-occurrence-8952698",
-    "title": "3858175 - Golf (Boys V) @ Niles McKinley High School",
-    "summary": "3858175 - Golf (Boys V) @ Niles McKinley High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-27 4:00 PM",
-    "end": "2026-08-27 6:00 PM",
-    "location": "old avalon",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858175/occurrences/8952698"
-  },
-  {
     "uid": "schedule-request-3858176-occurrence-8952699",
     "title": "3858176 - Soccer (Girls V) @ Struthers High School",
     "summary": "3858176 - Soccer (Girls V) @ Struthers High School",
@@ -3883,17 +3872,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857963/occurrences/8952371"
   },
   {
-    "uid": "schedule-request-3857964-occurrence-8952372",
-    "title": "3857964 - Soccer (Boys V) vs Crestview High School (Columbiana)",
-    "summary": "3857964 - Soccer (Boys V) vs Crestview High School (Columbiana)",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-27 5:00 PM",
-    "end": "2026-08-27 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857964/occurrences/8952372"
-  },
-  {
     "uid": "schedule-request-3857965-occurrence-8952373",
     "title": "3857965 - Football (Boys V) vs Girard Sr High School",
     "summary": "3857965 - Football (Boys V) vs Girard Sr High School",
@@ -4046,6 +4024,17 @@
     "end": "2027-04-07 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3918050/occurrences/9115495"
+  },
+  {
+    "uid": "schedule-request-3919719-occurrence-9121831",
+    "title": "3919719 - Baseball (Boys V) vs Mineral Ridge High School",
+    "summary": "3919719 - Baseball (Boys V) vs Mineral Ridge High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-10 12:00 PM",
+    "end": "2027-04-10 2:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3919719/occurrences/9121831"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094722",
@@ -4783,17 +4772,6 @@
     "end": "2026-10-12 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858248/occurrences/8952771"
-  },
-  {
-    "uid": "schedule-request-3858249-occurrence-8952772",
-    "title": "3858249 - Poland Players Informational Meeting @ PSHS Auditorium",
-    "summary": "3858249 - Poland Players Informational Meeting @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-08-27 6:00 PM",
-    "end": "2026-08-27 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858249/occurrences/8952772"
   },
   {
     "uid": "schedule-request-3858254-occurrence-8952777",
