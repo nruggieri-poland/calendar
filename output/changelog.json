@@ -1,5 +1,46 @@
 [
   {
+    "timestamp": "2026-08-27T13:37:30.280Z",
+    "added": [],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3858053-occurrence-8952466",
+        "title": "3858053 - Soccer (Boys V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 7:00 PM",
+        "end": "2026-09-14 9:00 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-14 5:00 PM",
+            "to": "2026-09-14 7:00 PM"
+          },
+          "end": {
+            "from": "2026-09-14 7:00 PM",
+            "to": "2026-09-14 9:00 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3858223-occurrence-8952746",
+        "title": "3858223 - Soccer (Girls V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 5:00 PM",
+        "end": "2026-09-14 7:00 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-14 7:00 PM",
+            "to": "2026-09-14 5:00 PM"
+          },
+          "end": {
+            "from": "2026-09-14 9:00 PM",
+            "to": "2026-09-14 7:00 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-27T02:48:26.019Z",
     "added": [],
     "removed": [
