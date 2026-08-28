@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-08-28T20:36:51.176Z",
+    "added": [
+      {
+        "uid": "schedule-request-3946919-occurrence-9153803",
+        "title": "3946919 - Soccer (Boys JV) @ Liberty High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 7:00 PM",
+        "end": "2026-09-15 9:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3858047-occurrence-8952460",
+        "title": "3858047 - Cross Country (Coed V) vs Poland Seminary High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 4:45 PM",
+        "end": "2026-09-01 6:45 PM",
+        "changes": {
+          "title": {
+            "from": "3858047 - Cross Country (Coed V) @ Woodland Park",
+            "to": "3858047 - Cross Country (Coed V) vs Poland Seminary High School"
+          },
+          "location": {
+            "from": "Woodland Park",
+            "to": "3199 Dobbins Rd. Poland, Ohio 44514"
+          },
+          "type": {
+            "from": "Athletics - Away",
+            "to": "Athletics - Home"
+          },
+          "color": {
+            "from": "#de0720",
+            "to": "#131cf0"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-28T08:37:12.484Z",
     "added": [],
     "removed": [

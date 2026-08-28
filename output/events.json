@@ -649,17 +649,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858046/occurrences/8952459"
   },
   {
-    "uid": "schedule-request-3858047-occurrence-8952460",
-    "title": "3858047 - Cross Country (Coed V) @ Woodland Park",
-    "summary": "3858047 - Cross Country (Coed V) @ Woodland Park",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-01 4:45 PM",
-    "end": "2026-09-01 6:45 PM",
-    "location": "Woodland Park",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858047/occurrences/8952460"
-  },
-  {
     "uid": "schedule-request-3858048-occurrence-8952461",
     "title": "3858048 - Basketball (Girls V) @ Boardman High School",
     "summary": "3858048 - Basketball (Girls V) @ Boardman High School",
@@ -1989,6 +1978,17 @@
     "end": "2026-10-07 7:00 PM",
     "location": "Liberty High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3918052/occurrences/9115497"
+  },
+  {
+    "uid": "schedule-request-3946919-occurrence-9153803",
+    "title": "3946919 - Soccer (Boys JV) @ Liberty High School",
+    "summary": "3946919 - Soccer (Boys JV) @ Liberty High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-09-15 7:00 PM",
+    "end": "2026-09-15 9:00 PM",
+    "location": "Liberty High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3946919/occurrences/9153803"
   },
   {
     "uid": "schedule-request-3857770-occurrence-8952178",
@@ -3881,6 +3881,17 @@
     "end": "2026-09-01 6:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857968/occurrences/8952376"
+  },
+  {
+    "uid": "schedule-request-3858047-occurrence-8952460",
+    "title": "3858047 - Cross Country (Coed V) vs Poland Seminary High School",
+    "summary": "3858047 - Cross Country (Coed V) vs Poland Seminary High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-09-01 4:45 PM",
+    "end": "2026-09-01 6:45 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3858047/occurrences/8952460"
   },
   {
     "uid": "schedule-request-3859680-occurrence-8956941",
