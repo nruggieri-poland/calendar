@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-08-29T19:05:05.022Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858013-occurrence-8952421",
+        "title": "3858013 - Football (Boys JV) @ Kirtland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-29 10:00 AM",
+        "end": "2026-08-29 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858112-occurrence-8952635",
+        "title": "3858112 - Cross Country (Coed V) @ Waterworth Memorial Park",
+        "type": "Athletics - Away",
+        "start": "2026-08-29 10:30 AM",
+        "end": "2026-08-29 12:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-29T15:24:37.303Z",
     "added": [],
     "removed": [

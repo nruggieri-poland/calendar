@@ -341,17 +341,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858012/occurrences/8952420"
   },
   {
-    "uid": "schedule-request-3858013-occurrence-8952421",
-    "title": "3858013 - Football (Boys JV) @ Kirtland High School",
-    "summary": "3858013 - Football (Boys JV) @ Kirtland High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-29 10:00 AM",
-    "end": "2026-08-29 12:00 PM",
-    "location": "Kirtland High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858013/occurrences/8952421"
-  },
-  {
     "uid": "schedule-request-3858014-occurrence-8952422",
     "title": "3858014 - Basketball (Girls 8) @ LAKEVIEW MIDDLE SCHOOL",
     "summary": "3858014 - Basketball (Girls 8) @ LAKEVIEW MIDDLE SCHOOL",
@@ -878,17 +867,6 @@
     "end": "2026-09-28 7:30 PM",
     "location": "Champion High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858111/occurrences/8952634"
-  },
-  {
-    "uid": "schedule-request-3858112-occurrence-8952635",
-    "title": "3858112 - Cross Country (Coed V) @ Waterworth Memorial Park",
-    "summary": "3858112 - Cross Country (Coed V) @ Waterworth Memorial Park",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-29 10:30 AM",
-    "end": "2026-08-29 12:30 PM",
-    "location": "Waterworth Memorial Park",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858112/occurrences/8952635"
   },
   {
     "uid": "schedule-request-3858113-occurrence-8952636",
