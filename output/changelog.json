@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-29T03:00:51.573Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857802-occurrence-8952210",
+        "title": "3857802 - Football (Boys V) vs Kirtland High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-28 7:00 PM",
+        "end": "2026-08-28 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-28T20:36:51.176Z",
     "added": [
       {
