@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-29T15:24:37.303Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858044-occurrence-8952457",
+        "title": "3858044 - Cross Country (Coed MS) @ Waterworth Memorial Park",
+        "type": "Athletics - Away",
+        "start": "2026-08-29 9:00 AM",
+        "end": "2026-08-29 11:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-29T03:00:51.573Z",
     "added": [],
     "removed": [
