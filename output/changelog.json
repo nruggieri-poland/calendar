@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-08-30T23:03:48.127Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857855-occurrence-8952263",
+        "title": "3857855 - Golf (Boys V) vs TBD",
+        "type": "Athletics - Home",
+        "start": "2026-08-30 5:00 PM",
+        "end": "2026-08-30 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-30T00:57:13.550Z",
     "added": [],
     "removed": [
