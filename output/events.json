@@ -2047,8 +2047,8 @@
   },
   {
     "uid": "schedule-request-3857781-occurrence-8952189",
-    "title": "3857781 - Soccer (Boys JV) vs Marlington High School",
-    "summary": "3857781 - Soccer (Boys JV) vs Marlington High School",
+    "title": "3857781 - Soccer (Boys JV) vs Warren G Harding High School",
+    "summary": "3857781 - Soccer (Boys JV) vs Warren G Harding High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
     "start": "2026-09-30 7:00 PM",
@@ -3360,8 +3360,8 @@
     "summary": "3857919 - Soccer (Girls V) vs Boardman High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-10-03 10:00 AM",
-    "end": "2026-10-03 12:00 PM",
+    "start": "2026-10-17 12:30 PM",
+    "end": "2026-10-17 2:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857919/occurrences/8952327"
   },
@@ -5344,6 +5344,28 @@
     "end": "2026-09-17 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3917320/occurrences/9112880"
+  },
+  {
+    "uid": "schedule-request-3971086-occurrence-9179504",
+    "title": "3971086 - YSU College visit @ PSHS Auditorium",
+    "summary": "3971086 - YSU College visit @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-09-14 9:00 AM",
+    "end": "2026-09-14 10:00 AM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3971086/occurrences/9179504"
+  },
+  {
+    "uid": "schedule-request-3971235-occurrence-9181120",
+    "title": "3971235 - PTO Meeting",
+    "summary": "3971235 - PTO Meeting",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-09-09 9:30 AM",
+    "end": "2026-09-09 10:30 AM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3971235/occurrences/9181120"
   },
   {
     "uid": "schedule-request-3888169-occurrence-9035159",

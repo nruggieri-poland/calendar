@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-08-31T17:47:22.630Z",
+    "added": [
+      {
+        "uid": "schedule-request-3971086-occurrence-9179504",
+        "title": "3971086 - YSU College visit @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-14 9:00 AM",
+        "end": "2026-09-14 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3971235-occurrence-9181120",
+        "title": "3971235 - PTO Meeting",
+        "type": "PTO Meeting",
+        "start": "2026-09-09 9:30 AM",
+        "end": "2026-09-09 10:30 AM"
+      }
+    ],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3857781-occurrence-8952189",
+        "title": "3857781 - Soccer (Boys JV) vs Warren G Harding High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 7:00 PM",
+        "end": "2026-09-30 9:00 PM",
+        "changes": {
+          "title": {
+            "from": "3857781 - Soccer (Boys JV) vs Marlington High School",
+            "to": "3857781 - Soccer (Boys JV) vs Warren G Harding High School"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3857919-occurrence-8952327",
+        "title": "3857919 - Soccer (Girls V) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-17 12:30 PM",
+        "end": "2026-10-17 2:30 PM",
+        "changes": {
+          "start": {
+            "from": "2026-10-03 10:00 AM",
+            "to": "2026-10-17 12:30 PM"
+          },
+          "end": {
+            "from": "2026-10-03 12:00 PM",
+            "to": "2026-10-17 2:30 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T03:02:48.083Z",
     "added": [],
     "removed": [],
