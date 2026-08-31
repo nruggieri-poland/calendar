@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-08-31T03:02:48.083Z",
+    "added": [],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3857878-occurrence-8952286",
+        "title": "3857878 - Soccer (Girls V) vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-02 6:00 PM",
+        "end": "2026-09-02 8:00 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-02 7:00 PM",
+            "to": "2026-09-02 6:00 PM"
+          },
+          "end": {
+            "from": "2026-09-02 9:00 PM",
+            "to": "2026-09-02 8:00 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-30T23:03:48.127Z",
     "added": [],
     "removed": [
