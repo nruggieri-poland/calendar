@@ -1,5 +1,52 @@
 [
   {
+    "timestamp": "2026-08-31T22:18:12.691Z",
+    "added": [
+      {
+        "uid": "schedule-request-3972264-occurrence-9186964",
+        "title": "3972264 - OSU College visit @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-24 10:00 AM",
+        "end": "2026-09-24 11:00 AM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3857778-occurrence-8952186",
+        "title": "3857778 - Volleyball (Girls 7) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-31 5:00 PM",
+        "end": "2026-08-31 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857845-occurrence-8952253",
+        "title": "3857845 - Tennis (Girls V) vs Austintown Fitch High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-31 4:00 PM",
+        "end": "2026-08-31 6:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3858194-occurrence-8952717",
+        "title": "3858194 - Football (Boys 7) @ 723 Elm Street\\, Youngstown\\, OH 44502",
+        "type": "Athletics - Away",
+        "start": "2026-09-17 6:00 PM",
+        "end": "2026-09-17 8:00 PM",
+        "changes": {
+          "title": {
+            "from": "3858194 - Football (Boys 7) @ TBD",
+            "to": "3858194 - Football (Boys 7) @ 723 Elm Street\\, Youngstown\\, OH 44502"
+          },
+          "location": {
+            "from": "TBD",
+            "to": "723 Elm Street, Youngstown, OH 44502"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T17:47:22.630Z",
     "added": [
       {
