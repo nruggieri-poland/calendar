@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-01T17:13:44.699Z",
+    "added": [
+      {
+        "uid": "schedule-request-3973564-occurrence-9191739",
+        "title": "3973564 - Boys Lacrosse Clinic @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-10-18 11:00 AM",
+        "end": "2026-10-18 12:30 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-01T01:33:05.468Z",
     "added": [],
     "removed": [
