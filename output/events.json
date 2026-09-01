@@ -242,17 +242,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857999/occurrences/8952407"
   },
   {
-    "uid": "schedule-request-3858000-occurrence-8952408",
-    "title": "3858000 - Volleyball (Girls JV) @ Howland High School",
-    "summary": "3858000 - Volleyball (Girls JV) @ Howland High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-31 5:30 PM",
-    "end": "2026-08-31 7:30 PM",
-    "location": "Howland High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858000/occurrences/8952408"
-  },
-  {
     "uid": "schedule-request-3858001-occurrence-8952409",
     "title": "3858001 - Cross Country (Coed V) @ Canfield Fairgrounds",
     "summary": "3858001 - Cross Country (Coed V) @ Canfield Fairgrounds",
@@ -284,17 +273,6 @@
     "end": "2026-10-15 7:00 PM",
     "location": "Howland High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858003/occurrences/8952411"
-  },
-  {
-    "uid": "schedule-request-3858004-occurrence-8952412",
-    "title": "3858004 - Volleyball (Girls V) @ Howland High School",
-    "summary": "3858004 - Volleyball (Girls V) @ Howland High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-31 7:00 PM",
-    "end": "2026-08-31 9:00 PM",
-    "location": "Howland High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858004/occurrences/8952412"
   },
   {
     "uid": "schedule-request-3858005-occurrence-8952413",
@@ -1881,17 +1859,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860560/occurrences/8959200"
   },
   {
-    "uid": "schedule-request-3869526-occurrence-8982572",
-    "title": "3869526 - Soccer (Boys JV) @ Louisville High School",
-    "summary": "3869526 - Soccer (Boys JV) @ Louisville High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-08-31 6:30 PM",
-    "end": "2026-08-31 8:30 PM",
-    "location": "Louisville High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3869526/occurrences/8982572"
-  },
-  {
     "uid": "schedule-request-3874125-occurrence-8997984",
     "title": "3874125 - Football (Boys F) @ Alliance High School",
     "summary": "3874125 - Football (Boys F) @ Alliance High School",
@@ -2880,17 +2847,6 @@
     "end": "2026-09-29 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857869/occurrences/8952277"
-  },
-  {
-    "uid": "schedule-request-3857871-occurrence-8952279",
-    "title": "3857871 - Volleyball (Girls 8) vs Girard Sr High School",
-    "summary": "3857871 - Volleyball (Girls 8) vs Girard Sr High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-08-31 6:00 PM",
-    "end": "2026-08-31 7:00 PM",
-    "location": "47 College St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857871/occurrences/8952279"
   },
   {
     "uid": "schedule-request-3857873-occurrence-8952281",
@@ -4541,17 +4497,6 @@
     "end": "2026-10-05 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858238/occurrences/8952761"
-  },
-  {
-    "uid": "schedule-request-3858239-occurrence-8952762",
-    "title": "3858239 - Poland Players Fall Tryouts @ PSHS Auditorium",
-    "summary": "3858239 - Poland Players Fall Tryouts @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-08-31 6:00 PM",
-    "end": "2026-08-31 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858239/occurrences/8952762"
   },
   {
     "uid": "schedule-request-3858240-occurrence-8952763",

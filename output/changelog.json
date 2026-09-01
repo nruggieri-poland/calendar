@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-09-01T01:33:05.468Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858000-occurrence-8952408",
+        "title": "3858000 - Volleyball (Girls JV) @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-31 5:30 PM",
+        "end": "2026-08-31 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858004-occurrence-8952412",
+        "title": "3858004 - Volleyball (Girls V) @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-31 7:00 PM",
+        "end": "2026-08-31 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3869526-occurrence-8982572",
+        "title": "3869526 - Soccer (Boys JV) @ Louisville High School",
+        "type": "Athletics - Away",
+        "start": "2026-08-31 6:30 PM",
+        "end": "2026-08-31 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857871-occurrence-8952279",
+        "title": "3857871 - Volleyball (Girls 8) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-08-31 6:00 PM",
+        "end": "2026-08-31 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858239-occurrence-8952762",
+        "title": "3858239 - Poland Players Fall Tryouts @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-08-31 6:00 PM",
+        "end": "2026-08-31 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-08-31T22:18:12.691Z",
     "added": [
       {
