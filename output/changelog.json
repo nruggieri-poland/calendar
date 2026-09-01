@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-01T22:56:14.172Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857968-occurrence-8952376",
+        "title": "3857968 - Tennis (Girls V) vs Liberty High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 4:00 PM",
+        "end": "2026-09-01 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858047-occurrence-8952460",
+        "title": "3858047 - Cross Country (Coed V) vs Poland Seminary High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 4:45 PM",
+        "end": "2026-09-01 6:45 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-01T20:24:43.711Z",
     "added": [],
     "removed": [
