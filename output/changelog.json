@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-02T05:21:40.479Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858141-occurrence-8952664",
+        "title": "3858141 - Soccer (Girls V) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 7:00 PM",
+        "end": "2026-09-01 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857947-occurrence-8952355",
+        "title": "3857947 - Volleyball (Girls V) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 7:00 PM",
+        "end": "2026-09-01 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-02T00:48:11.797Z",
     "added": [],
     "removed": [
