@@ -781,17 +781,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858068/occurrences/8952481"
   },
   {
-    "uid": "schedule-request-3858104-occurrence-8952627",
-    "title": "3858104 - Soccer (Boys V) @ Lakeview High School",
-    "summary": "3858104 - Soccer (Boys V) @ Lakeview High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-01 5:00 PM",
-    "end": "2026-09-01 7:00 PM",
-    "location": "Lakeview High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858104/occurrences/8952627"
-  },
-  {
     "uid": "schedule-request-3858107-occurrence-8952630",
     "title": "3858107 - Football (Boys V) @ Struthers High School",
     "summary": "3858107 - Football (Boys V) @ Struthers High School",
@@ -966,17 +955,6 @@
     "end": "2026-10-16 9:00 PM",
     "location": "Lakeview High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858128/occurrences/8952651"
-  },
-  {
-    "uid": "schedule-request-3858130-occurrence-8952653",
-    "title": "3858130 - Golf (Boys V) @ Struthers High School",
-    "summary": "3858130 - Golf (Boys V) @ Struthers High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-01 6:00 PM",
-    "end": "2026-09-01 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858130/occurrences/8952653"
   },
   {
     "uid": "schedule-request-3858131-occurrence-8952654",
@@ -1252,17 +1230,6 @@
     "end": "2027-01-25 7:00 PM",
     "location": "Hubbard High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858163/occurrences/8952686"
-  },
-  {
-    "uid": "schedule-request-3858164-occurrence-8952687",
-    "title": "3858164 - Cross Country (Coed MS) @ Woodland Park",
-    "summary": "3858164 - Cross Country (Coed MS) @ Woodland Park",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-01 5:50 PM",
-    "end": "2026-09-01 7:50 PM",
-    "location": "Woodland Park",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858164/occurrences/8952687"
   },
   {
     "uid": "schedule-request-3858165-occurrence-8952688",
@@ -1923,17 +1890,6 @@
     "end": "2026-09-17 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857771/occurrences/8952179"
-  },
-  {
-    "uid": "schedule-request-3857772-occurrence-8952180",
-    "title": "3857772 - Volleyball (Girls JV) vs Girard Sr High School",
-    "summary": "3857772 - Volleyball (Girls JV) vs Girard Sr High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-01 5:30 PM",
-    "end": "2026-09-01 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857772/occurrences/8952180"
   },
   {
     "uid": "schedule-request-3857773-occurrence-8952181",

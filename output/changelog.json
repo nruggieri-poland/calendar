@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-09-02T00:48:11.797Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858104-occurrence-8952627",
+        "title": "3858104 - Soccer (Boys V) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 5:00 PM",
+        "end": "2026-09-01 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858130-occurrence-8952653",
+        "title": "3858130 - Golf (Boys V) @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 6:00 PM",
+        "end": "2026-09-01 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858164-occurrence-8952687",
+        "title": "3858164 - Cross Country (Coed MS) @ Woodland Park",
+        "type": "Athletics - Away",
+        "start": "2026-09-01 5:50 PM",
+        "end": "2026-09-01 7:50 PM"
+      },
+      {
+        "uid": "schedule-request-3857772-occurrence-8952180",
+        "title": "3857772 - Volleyball (Girls JV) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-01 5:30 PM",
+        "end": "2026-09-01 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-01T22:56:14.172Z",
     "added": [],
     "removed": [
