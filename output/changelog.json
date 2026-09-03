@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-03T22:09:20.158Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858018-occurrence-8952426",
+        "title": "3858018 - Golf (Boys V) @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 3:15 PM",
+        "end": "2026-09-03 5:15 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-03T19:34:50.587Z",
     "added": [
       {
