@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-03T16:51:17.975Z",
+    "added": [
+      {
+        "uid": "schedule-request-3980601-occurrence-9208629",
+        "title": "3980601 - Outdoor Club-Pickleball Tournament @ PSHS Tennis Courts",
+        "type": "Other",
+        "start": "2026-09-21 2:30 PM",
+        "end": "2026-09-21 4:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-03T07:40:23.013Z",
     "added": [],
     "removed": [
