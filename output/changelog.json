@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-03T07:40:23.013Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888166-occurrence-9035131",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-02 12:00 AM",
+        "end": "2026-09-02 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-3888171-occurrence-9035175",
+        "title": "3888171 - Teacher In-Service Day",
+        "type": "Staff Event",
+        "start": "2026-09-02 12:00 AM",
+        "end": "2026-09-02 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-03T02:35:14.397Z",
     "added": [],
     "removed": [

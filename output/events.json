@@ -3817,17 +3817,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094728"
   },
   {
-    "uid": "schedule-request-3888166-occurrence-9035131",
-    "title": "3888166 - CLOSED - No Classes for Students",
-    "summary": "3888166 - CLOSED - No Classes for Students",
-    "type": "CLOSED",
-    "color": "#828282",
-    "start": "2026-09-02 12:00 AM",
-    "end": "2026-09-02 7:59 PM",
-    "location": "Central Office, McKinley Elementary School, Poland Middle School, and Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888166/occurrences/9035131"
-  },
-  {
     "uid": "schedule-request-3888166-occurrence-9035132",
     "title": "3888166 - CLOSED - No Classes for Students",
     "summary": "3888166 - CLOSED - No Classes for Students",
@@ -5201,17 +5190,6 @@
     "end": "2027-05-29 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888172/occurrences/9035179"
-  },
-  {
-    "uid": "schedule-request-3888171-occurrence-9035175",
-    "title": "3888171 - Teacher In-Service Day",
-    "summary": "3888171 - Teacher In-Service Day",
-    "type": "Staff Event",
-    "color": "#11f5f5",
-    "start": "2026-09-02 12:00 AM",
-    "end": "2026-09-02 7:59 PM",
-    "location": "McKinley Elementary School, Poland Middle School, and Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888171/occurrences/9035175"
   },
   {
     "uid": "schedule-request-3888171-occurrence-9035176",
