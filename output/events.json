@@ -110,17 +110,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857983/occurrences/8952391"
   },
   {
-    "uid": "schedule-request-3857984-occurrence-8952392",
-    "title": "3857984 - Soccer (Boys V) @ Canfield High School",
-    "summary": "3857984 - Soccer (Boys V) @ Canfield High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-03 7:15 PM",
-    "end": "2026-09-03 9:15 PM",
-    "location": "Canfield High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857984/occurrences/8952392"
-  },
-  {
     "uid": "schedule-request-3857986-occurrence-8952394",
     "title": "3857986 - Volleyball (Girls 8) @ Campbell Memorial High School",
     "summary": "3857986 - Volleyball (Girls 8) @ Campbell Memorial High School",
@@ -1318,17 +1307,6 @@
     "end": "2026-11-30 9:00 PM",
     "location": "Canfield High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858181/occurrences/8952704"
-  },
-  {
-    "uid": "schedule-request-3858182-occurrence-8952705",
-    "title": "3858182 - Volleyball (Girls V) @ Hubbard High School",
-    "summary": "3858182 - Volleyball (Girls V) @ Hubbard High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-03 7:00 PM",
-    "end": "2026-09-03 9:00 PM",
-    "location": "Hubbard High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858182/occurrences/8952705"
   },
   {
     "uid": "schedule-request-3858183-occurrence-8952706",
@@ -3619,17 +3597,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860558/occurrences/8959198"
   },
   {
-    "uid": "schedule-request-3871980-occurrence-8989645",
-    "title": "3871980 - Football (Boys F) vs Boardman High School",
-    "summary": "3871980 - Football (Boys F) vs Boardman High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-03 7:15 PM",
-    "end": "2026-09-03 9:15 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3871980/occurrences/8989645"
-  },
-  {
     "uid": "schedule-request-3875765-occurrence-9001329",
     "title": "3875765 - Soccer (Girls JV) vs Kenston High School",
     "summary": "3875765 - Soccer (Girls JV) vs Kenston High School",
@@ -3760,17 +3727,6 @@
     "end": "2026-12-09 8:00 PM",
     "location": "3030 Dobbins Road",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094728"
-  },
-  {
-    "uid": "schedule-request-3888166-occurrence-9035132",
-    "title": "3888166 - CLOSED - No Classes for Students",
-    "summary": "3888166 - CLOSED - No Classes for Students",
-    "type": "CLOSED",
-    "color": "#828282",
-    "start": "2026-09-03 12:00 AM",
-    "end": "2026-09-03 7:59 PM",
-    "location": "Central Office, McKinley Elementary School, Poland Middle School, and Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888166/occurrences/9035132"
   },
   {
     "uid": "schedule-request-3888166-occurrence-9035133",

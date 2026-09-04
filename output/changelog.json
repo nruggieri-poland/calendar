@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-09-04T05:22:10.595Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857984-occurrence-8952392",
+        "title": "3857984 - Soccer (Boys V) @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 7:15 PM",
+        "end": "2026-09-03 9:15 PM"
+      },
+      {
+        "uid": "schedule-request-3858182-occurrence-8952705",
+        "title": "3858182 - Volleyball (Girls V) @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-03 7:00 PM",
+        "end": "2026-09-03 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3871980-occurrence-8989645",
+        "title": "3871980 - Football (Boys F) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-03 7:15 PM",
+        "end": "2026-09-03 9:15 PM"
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035132",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-03 12:00 AM",
+        "end": "2026-09-03 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-04T00:38:40.660Z",
     "added": [],
     "removed": [
