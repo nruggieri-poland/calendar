@@ -990,17 +990,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858136/occurrences/8952659"
   },
   {
-    "uid": "schedule-request-3858137-occurrence-8952660",
-    "title": "3858137 - Soccer (Boys JV) @ Canfield High School",
-    "summary": "3858137 - Soccer (Boys JV) @ Canfield High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-03 5:30 PM",
-    "end": "2026-09-03 7:30 PM",
-    "location": "Canfield High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858137/occurrences/8952660"
-  },
-  {
     "uid": "schedule-request-3858138-occurrence-8952661",
     "title": "3858138 - Cross Country (Coed MS) @ Trumbull County Fairgrounds",
     "summary": "3858138 - Cross Country (Coed MS) @ Trumbull County Fairgrounds",
@@ -1307,17 +1296,6 @@
     "end": "2026-12-21 6:00 PM",
     "location": "Girard Sr High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858177/occurrences/8952700"
-  },
-  {
-    "uid": "schedule-request-3858179-occurrence-8952702",
-    "title": "3858179 - Volleyball (Girls JV) @ Hubbard High School",
-    "summary": "3858179 - Volleyball (Girls JV) @ Hubbard High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-03 5:30 PM",
-    "end": "2026-09-03 7:30 PM",
-    "location": "Hubbard High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858179/occurrences/8952702"
   },
   {
     "uid": "schedule-request-3858180-occurrence-8952703",
@@ -2088,17 +2066,6 @@
     "end": "2027-02-03 7:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857798/occurrences/8952206"
-  },
-  {
-    "uid": "schedule-request-3857800-occurrence-8952208",
-    "title": "3857800 - Football (Boys 7) vs LAKEVIEW MIDDLE SCHOOL",
-    "summary": "3857800 - Football (Boys 7) vs LAKEVIEW MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-03 4:45 PM",
-    "end": "2026-09-03 6:45 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857800/occurrences/8952208"
   },
   {
     "uid": "schedule-request-3857801-occurrence-8952209",
@@ -3595,17 +3562,6 @@
     "end": "2027-01-14 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857966/occurrences/8952374"
-  },
-  {
-    "uid": "schedule-request-3857967-occurrence-8952375",
-    "title": "3857967 - Football (Boys 8) vs STRUTHERS MIDDLE SCHOOL",
-    "summary": "3857967 - Football (Boys 8) vs STRUTHERS MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-03 6:00 PM",
-    "end": "2026-09-03 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857967/occurrences/8952375"
   },
   {
     "uid": "schedule-request-3859680-occurrence-8956941",
