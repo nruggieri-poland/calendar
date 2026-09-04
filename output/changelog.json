@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-04T17:59:58.992Z",
+    "added": [
+      {
+        "uid": "schedule-request-3982463-occurrence-9215428",
+        "title": "3982463 - Speech and Debate Home Tournament @ PSHS Caf & Aud & PE Gym & Lib & Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-12-19 7:00 AM",
+        "end": "2026-12-19 5:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-04T14:42:36.277Z",
     "added": [
       {
