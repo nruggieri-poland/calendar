@@ -1496,17 +1496,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858203/occurrences/8952726"
   },
   {
-    "uid": "schedule-request-3858204-occurrence-8952727",
-    "title": "3858204 - Football (Boys V) @ Field High School",
-    "summary": "3858204 - Football (Boys V) @ Field High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-04 7:00 PM",
-    "end": "2026-09-04 9:00 PM",
-    "location": "Field High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858204/occurrences/8952727"
-  },
-  {
     "uid": "schedule-request-3858205-occurrence-8952728",
     "title": "3858205 - Volleyball (Girls V) @ United High School",
     "summary": "3858205 - Volleyball (Girls V) @ United High School",
@@ -3727,17 +3716,6 @@
     "end": "2026-12-09 8:00 PM",
     "location": "3030 Dobbins Road",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094728"
-  },
-  {
-    "uid": "schedule-request-3888166-occurrence-9035133",
-    "title": "3888166 - CLOSED - No Classes for Students",
-    "summary": "3888166 - CLOSED - No Classes for Students",
-    "type": "CLOSED",
-    "color": "#828282",
-    "start": "2026-09-04 12:00 AM",
-    "end": "2026-09-04 7:59 PM",
-    "location": "Central Office, McKinley Elementary School, Poland Middle School, and Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888166/occurrences/9035133"
   },
   {
     "uid": "schedule-request-3888166-occurrence-9035134",

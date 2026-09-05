@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-05T05:11:24.864Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858204-occurrence-8952727",
+        "title": "3858204 - Football (Boys V) @ Field High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-04 7:00 PM",
+        "end": "2026-09-04 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035133",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-09-04 12:00 AM",
+        "end": "2026-09-04 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-04T17:59:58.992Z",
     "added": [
       {
