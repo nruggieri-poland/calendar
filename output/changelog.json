@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-05T18:45:04.121Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858015-occurrence-8952423",
+        "title": "3858015 - Soccer (Girls JV) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-05 11:00 AM",
+        "end": "2026-09-05 1:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-05T16:28:58.642Z",
     "added": [],
     "removed": [
