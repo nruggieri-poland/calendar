@@ -1452,17 +1452,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858198/occurrences/8952721"
   },
   {
-    "uid": "schedule-request-3858199-occurrence-8952722",
-    "title": "3858199 - Golf (Girls V) @ Girard Sr High School",
-    "summary": "3858199 - Golf (Girls V) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-08 8:00 AM",
-    "end": "2026-09-08 10:00 AM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858199/occurrences/8952722"
-  },
-  {
     "uid": "schedule-request-3858200-occurrence-8952723",
     "title": "3858200 - Volleyball (Girls 8) @ South Range Middle School",
     "summary": "3858200 - Volleyball (Girls 8) @ South Range Middle School",
@@ -1769,6 +1758,17 @@
     "end": "2027-03-24 6:30 PM",
     "location": "Mohawk High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3974925/occurrences/9198416"
+  },
+  {
+    "uid": "schedule-request-3992780-occurrence-9233778",
+    "title": "3992780 - Basketball (Boys F) @ Boardman High School",
+    "summary": "3992780 - Basketball (Boys F) @ Boardman High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-28 11:00 AM",
+    "end": "2026-12-28 1:00 PM",
+    "location": "Boardman High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3992780/occurrences/9233778"
   },
   {
     "uid": "schedule-request-3857770-occurrence-8952178",
@@ -3553,24 +3553,13 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860558/occurrences/8959198"
   },
   {
-    "uid": "schedule-request-3875765-occurrence-9001329",
-    "title": "3875765 - Soccer (Girls JV) vs Kenston High School",
-    "summary": "3875765 - Soccer (Girls JV) vs Kenston High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 5:00 PM",
-    "end": "2026-09-08 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3875765/occurrences/9001329"
-  },
-  {
     "uid": "schedule-request-3875766-occurrence-9001330",
     "title": "3875766 - Soccer (Boys JV) vs Boardman High School",
     "summary": "3875766 - Soccer (Boys JV) vs Boardman High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-09-08 6:30 PM",
-    "end": "2026-09-08 8:30 PM",
+    "start": "2026-09-08 5:00 PM",
+    "end": "2026-09-08 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3875766/occurrences/9001330"
   },
@@ -3606,6 +3595,17 @@
     "end": "2027-04-10 2:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3919719/occurrences/9121831"
+  },
+  {
+    "uid": "schedule-request-3992775-occurrence-9233773",
+    "title": "3992775 - Basketball (Boys F) vs Boardman High School",
+    "summary": "3992775 - Basketball (Boys F) vs Boardman High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-12-01 5:00 PM",
+    "end": "2026-12-01 7:00 PM",
+    "location": "pshs pe gym",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3992775/occurrences/9233773"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094722",

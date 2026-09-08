@@ -1,5 +1,59 @@
 [
   {
+    "timestamp": "2026-09-08T17:00:46.012Z",
+    "added": [
+      {
+        "uid": "schedule-request-3992780-occurrence-9233778",
+        "title": "3992780 - Basketball (Boys F) @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-28 11:00 AM",
+        "end": "2026-12-28 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-3992775-occurrence-9233773",
+        "title": "3992775 - Basketball (Boys F) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-01 5:00 PM",
+        "end": "2026-12-01 7:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858199-occurrence-8952722",
+        "title": "3858199 - Golf (Girls V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-08 8:00 AM",
+        "end": "2026-09-08 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3875765-occurrence-9001329",
+        "title": "3875765 - Soccer (Girls JV) vs Kenston High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:00 PM",
+        "end": "2026-09-08 7:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3875766-occurrence-9001330",
+        "title": "3875766 - Soccer (Boys JV) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:00 PM",
+        "end": "2026-09-08 7:00 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-08 6:30 PM",
+            "to": "2026-09-08 5:00 PM"
+          },
+          "end": {
+            "from": "2026-09-08 8:30 PM",
+            "to": "2026-09-08 7:00 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-08T07:43:16.742Z",
     "added": [],
     "removed": [
