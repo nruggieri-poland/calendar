@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-08T22:18:07.768Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857864-occurrence-8952272",
+        "title": "3857864 - Volleyball (Girls 7) vs Campbell Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:00 PM",
+        "end": "2026-09-08 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-08T17:00:46.012Z",
     "added": [
       {
