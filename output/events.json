@@ -1888,7 +1888,7 @@
     "color": "#131cf0",
     "start": "2026-09-30 5:00 PM",
     "end": "2026-09-30 6:00 PM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857784/occurrences/8952192"
   },
   {
@@ -2075,7 +2075,7 @@
     "color": "#131cf0",
     "start": "2026-09-30 6:00 PM",
     "end": "2026-09-30 7:00 PM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857808/occurrences/8952216"
   },
   {
@@ -2119,7 +2119,7 @@
     "color": "#131cf0",
     "start": "2027-01-31 9:00 AM",
     "end": "2027-01-31 10:00 AM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857812/occurrences/8952220"
   },
   {
@@ -2328,7 +2328,7 @@
     "color": "#131cf0",
     "start": "2027-02-06 9:00 AM",
     "end": "2027-02-06 10:00 AM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857833/occurrences/8952241"
   },
   {
@@ -2339,7 +2339,7 @@
     "color": "#131cf0",
     "start": "2027-02-07 9:00 AM",
     "end": "2027-02-07 10:00 AM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857835/occurrences/8952243"
   },
   {
@@ -2438,7 +2438,7 @@
     "color": "#131cf0",
     "start": "2026-09-16 5:00 PM",
     "end": "2026-09-16 6:00 PM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857846/occurrences/8952254"
   },
   {
@@ -2702,7 +2702,7 @@
     "color": "#131cf0",
     "start": "2026-09-28 5:00 PM",
     "end": "2026-09-28 6:00 PM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857880/occurrences/8952288"
   },
   {
@@ -2977,7 +2977,7 @@
     "color": "#131cf0",
     "start": "2026-10-07 5:00 PM",
     "end": "2026-10-07 6:00 PM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857912/occurrences/8952320"
   },
   {
@@ -3208,7 +3208,7 @@
     "color": "#131cf0",
     "start": "2027-01-30 9:00 AM",
     "end": "2027-01-30 10:00 AM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857938/occurrences/8952346"
   },
   {
@@ -3296,7 +3296,7 @@
     "color": "#131cf0",
     "start": "2026-09-09 5:00 PM",
     "end": "2026-09-09 6:00 PM",
-    "location": "poland middle school",
+    "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857951/occurrences/8952359"
   },
   {
@@ -4992,6 +4992,72 @@
     "end": "2026-09-10 4:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3997949/occurrences/9243223"
+  },
+  {
+    "uid": "schedule-request-3998243-occurrence-9244863",
+    "title": "3998243 - Women's Get Together @ PSHS Fieldhouse Lobby",
+    "summary": "3998243 - Women's Get Together @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-09-22 2:00 PM",
+    "end": "2026-09-22 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3998243/occurrences/9244863"
+  },
+  {
+    "uid": "schedule-request-3998392-occurrence-9245645",
+    "title": "3998392 - PTO Meeting",
+    "summary": "3998392 - PTO Meeting",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-10-14 9:30 AM",
+    "end": "2026-10-14 11:30 AM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3998392/occurrences/9245645"
+  },
+  {
+    "uid": "schedule-request-3998392-occurrence-9245646",
+    "title": "3998392 - PTO Meeting",
+    "summary": "3998392 - PTO Meeting",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-12-09 9:30 AM",
+    "end": "2026-12-09 11:30 AM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3998392/occurrences/9245646"
+  },
+  {
+    "uid": "schedule-request-3998410-occurrence-9245757",
+    "title": "3998410 - PTO Meeting",
+    "summary": "3998410 - PTO Meeting",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2027-01-13 9:30 AM",
+    "end": "2027-01-13 11:30 AM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3998410/occurrences/9245757"
+  },
+  {
+    "uid": "schedule-request-3998410-occurrence-9245758",
+    "title": "3998410 - PTO Meeting",
+    "summary": "3998410 - PTO Meeting",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2027-02-10 9:30 AM",
+    "end": "2027-02-10 11:30 AM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3998410/occurrences/9245758"
+  },
+  {
+    "uid": "schedule-request-3998414-occurrence-9245814",
+    "title": "3998414 - PTO Meeting",
+    "summary": "3998414 - PTO Meeting",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2027-05-12 9:30 AM",
+    "end": "2027-05-12 11:30 AM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/3998414/occurrences/9245814"
   },
   {
     "uid": "schedule-request-3888169-occurrence-9035159",
