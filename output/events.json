@@ -2453,17 +2453,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857846/occurrences/8952254"
   },
   {
-    "uid": "schedule-request-3857847-occurrence-8952255",
-    "title": "3857847 - Volleyball (Girls 8) vs Campbell Middle School",
-    "summary": "3857847 - Volleyball (Girls 8) vs Campbell Middle School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 6:00 PM",
-    "end": "2026-09-08 7:00 PM",
-    "location": "poland middle school",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857847/occurrences/8952255"
-  },
-  {
     "uid": "schedule-request-3857848-occurrence-8952256",
     "title": "3857848 - Basketball (Boys 7) vs LAKEVIEW MIDDLE SCHOOL",
     "summary": "3857848 - Basketball (Boys 7) vs LAKEVIEW MIDDLE SCHOOL",
@@ -2572,17 +2561,6 @@
     "end": "2026-09-08 9:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857858/occurrences/8952266"
-  },
-  {
-    "uid": "schedule-request-3857859-occurrence-8952267",
-    "title": "3857859 - Cross Country (Coed V) vs TBD",
-    "summary": "3857859 - Cross Country (Coed V) vs TBD",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 4:45 PM",
-    "end": "2026-09-08 6:45 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857859/occurrences/8952267"
   },
   {
     "uid": "schedule-request-3857860-occurrence-8952268",
@@ -3102,17 +3080,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857919/occurrences/8952327"
   },
   {
-    "uid": "schedule-request-3857920-occurrence-8952328",
-    "title": "3857920 - Volleyball (Girls JV) vs Boardman High School",
-    "summary": "3857920 - Volleyball (Girls JV) vs Boardman High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 5:30 PM",
-    "end": "2026-09-08 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857920/occurrences/8952328"
-  },
-  {
     "uid": "schedule-request-3857922-occurrence-8952330",
     "title": "3857922 - Basketball (Boys 8) vs Hubbard MS",
     "summary": "3857922 - Basketball (Boys 8) vs Hubbard MS",
@@ -3287,17 +3254,6 @@
     "end": "2027-01-31 10:00 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857940/occurrences/8952348"
-  },
-  {
-    "uid": "schedule-request-3857943-occurrence-8952351",
-    "title": "3857943 - Cross Country (Coed MS) vs TBD",
-    "summary": "3857943 - Cross Country (Coed MS) vs TBD",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 5:50 PM",
-    "end": "2026-09-08 7:50 PM",
-    "location": "Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857943/occurrences/8952351"
   },
   {
     "uid": "schedule-request-3857944-occurrence-8952352",
@@ -3540,17 +3496,6 @@
     "end": "2027-05-14 9:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860558/occurrences/8959198"
-  },
-  {
-    "uid": "schedule-request-3875766-occurrence-9001330",
-    "title": "3875766 - Soccer (Boys JV) vs Boardman High School",
-    "summary": "3875766 - Soccer (Boys JV) vs Boardman High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-08 5:00 PM",
-    "end": "2026-09-08 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3875766/occurrences/9001330"
   },
   {
     "uid": "schedule-request-3878854-occurrence-9012542",
@@ -4356,17 +4301,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952788"
   },
   {
-    "uid": "schedule-request-3858257-occurrence-8952789",
-    "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-08 6:00 PM",
-    "end": "2026-09-08 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952789"
-  },
-  {
     "uid": "schedule-request-3858257-occurrence-8952790",
     "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -4981,17 +4915,6 @@
     "end": "2026-09-21 4:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3980601/occurrences/9208629"
-  },
-  {
-    "uid": "schedule-request-3981335-occurrence-9211442",
-    "title": "3981335 - Poland All Sports Booster Meeting @ PSHS Cafeteria",
-    "summary": "3981335 - Poland All Sports Booster Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-08 6:00 PM",
-    "end": "2026-09-08 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3981335/occurrences/9211442"
   },
   {
     "uid": "schedule-request-3982463-occurrence-9215428",

@@ -1,5 +1,61 @@
 [
   {
+    "timestamp": "2026-09-09T00:58:49.140Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857847-occurrence-8952255",
+        "title": "3857847 - Volleyball (Girls 8) vs Campbell Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 6:00 PM",
+        "end": "2026-09-08 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857859-occurrence-8952267",
+        "title": "3857859 - Cross Country (Coed V) vs TBD",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 4:45 PM",
+        "end": "2026-09-08 6:45 PM"
+      },
+      {
+        "uid": "schedule-request-3857920-occurrence-8952328",
+        "title": "3857920 - Volleyball (Girls JV) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:30 PM",
+        "end": "2026-09-08 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857943-occurrence-8952351",
+        "title": "3857943 - Cross Country (Coed MS) vs TBD",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:50 PM",
+        "end": "2026-09-08 7:50 PM"
+      },
+      {
+        "uid": "schedule-request-3875766-occurrence-9001330",
+        "title": "3875766 - Soccer (Boys JV) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-08 5:00 PM",
+        "end": "2026-09-08 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858257-occurrence-8952789",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-08 6:00 PM",
+        "end": "2026-09-08 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3981335-occurrence-9211442",
+        "title": "3981335 - Poland All Sports Booster Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-09-08 6:00 PM",
+        "end": "2026-09-08 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-08T22:18:07.768Z",
     "added": [],
     "removed": [
