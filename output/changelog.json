@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-09-09T23:46:27.120Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858115-occurrence-8952638",
+        "title": "3858115 - Tennis (Girls V) @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-09 4:00 PM",
+        "end": "2026-09-09 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857777-occurrence-8952185",
+        "title": "3857777 - Volleyball (Girls 8) vs STRUTHERS MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 6:00 PM",
+        "end": "2026-09-09 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857876-occurrence-8952284",
+        "title": "3857876 - Football (Boys 7) vs CANFIELD VILLAGE MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 4:30 PM",
+        "end": "2026-09-09 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857951-occurrence-8952359",
+        "title": "3857951 - Volleyball (Girls 7) vs STRUTHERS MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 5:00 PM",
+        "end": "2026-09-09 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-09T21:28:23.355Z",
     "added": [],
     "removed": [
