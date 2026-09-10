@@ -4411,17 +4411,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952808"
   },
   {
-    "uid": "schedule-request-3858259-occurrence-8952809",
-    "title": "3858259 - Poland Players Rehearsal @ TBD",
-    "summary": "3858259 - Poland Players Rehearsal @ TBD",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-10 2:30 PM",
-    "end": "2026-09-10 5:00 PM",
-    "location": "TBD",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858259/occurrences/8952809"
-  },
-  {
     "uid": "schedule-request-3858259-occurrence-8952810",
     "title": "3858259 - Poland Players Rehearsal @ TBD",
     "summary": "3858259 - Poland Players Rehearsal @ TBD",
@@ -4893,17 +4882,6 @@
     "end": "2027-05-19 2:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3997773/occurrences/9242590"
-  },
-  {
-    "uid": "schedule-request-3997949-occurrence-9243223",
-    "title": "3997949 - flagline practice @ PSHS Fieldhouse Lobby",
-    "summary": "3997949 - flagline practice @ PSHS Fieldhouse Lobby",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-10 2:30 PM",
-    "end": "2026-09-10 4:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3997949/occurrences/9243223"
   },
   {
     "uid": "schedule-request-3998243-occurrence-9244863",

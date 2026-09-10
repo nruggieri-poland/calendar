@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-10T22:12:02.329Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858259-occurrence-8952809",
+        "title": "3858259 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2026-09-10 2:30 PM",
+        "end": "2026-09-10 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-3997949-occurrence-9243223",
+        "title": "3997949 - flagline practice @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-09-10 2:30 PM",
+        "end": "2026-09-10 4:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-10T16:51:27.716Z",
     "added": [
       {
