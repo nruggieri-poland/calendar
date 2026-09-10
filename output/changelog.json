@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-10T16:51:27.716Z",
+    "added": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-10T02:42:28.547Z",
     "added": [],
     "removed": [
