@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-10T02:42:28.547Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857796-occurrence-8952204",
+        "title": "3857796 - Football (Boys F) vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 7:30 PM",
+        "end": "2026-09-09 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857867-occurrence-8952275",
+        "title": "3857867 - Football (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-09-09 6:00 PM",
+        "end": "2026-09-09 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094722",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-09-09 6:00 PM",
+        "end": "2026-09-09 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-09T23:46:27.120Z",
     "added": [],
     "removed": [

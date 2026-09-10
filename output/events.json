@@ -1958,17 +1958,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857795/occurrences/8952203"
   },
   {
-    "uid": "schedule-request-3857796-occurrence-8952204",
-    "title": "3857796 - Football (Boys F) vs Canfield High School",
-    "summary": "3857796 - Football (Boys F) vs Canfield High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-09 7:30 PM",
-    "end": "2026-09-09 9:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857796/occurrences/8952204"
-  },
-  {
     "uid": "schedule-request-3857797-occurrence-8952205",
     "title": "3857797 - Basketball (Girls JV) vs Salem High School",
     "summary": "3857797 - Basketball (Girls JV) vs Salem High School",
@@ -2572,17 +2561,6 @@
     "end": "2026-10-07 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857865/occurrences/8952273"
-  },
-  {
-    "uid": "schedule-request-3857867-occurrence-8952275",
-    "title": "3857867 - Football (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
-    "summary": "3857867 - Football (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-09 6:00 PM",
-    "end": "2026-09-09 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857867/occurrences/8952275"
   },
   {
     "uid": "schedule-request-3857868-occurrence-8952276",
@@ -3474,17 +3452,6 @@
     "end": "2026-12-01 7:00 PM",
     "location": "pshs pe gym",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3992775/occurrences/9233773"
-  },
-  {
-    "uid": "schedule-request-3428269-occurrence-8094722",
-    "title": "3428269 - PLSD - Board of Education Meeting",
-    "summary": "3428269 - PLSD - Board of Education Meeting",
-    "type": "Board Meeting",
-    "color": "#00328f",
-    "start": "2026-09-09 6:00 PM",
-    "end": "2026-09-09 8:00 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094722"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094723",
