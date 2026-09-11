@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-11T05:33:12.153Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857832-occurrence-8952240",
+        "title": "3857832 - Soccer (Girls V) vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 7:00 PM",
+        "end": "2026-09-10 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857927-occurrence-8952335",
+        "title": "3857927 - Volleyball (Girls V) vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-10 7:00 PM",
+        "end": "2026-09-10 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-11T00:46:54.813Z",
     "added": [],
     "removed": [
