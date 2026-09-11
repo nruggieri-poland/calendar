@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-11T21:30:49.851Z",
+    "added": [
+      {
+        "uid": "schedule-request-4003946-occurrence-9259856",
+        "title": "4003946 - Sweethearts Dance @ PE Gym",
+        "type": "Other",
+        "start": "2027-02-20 6:00 PM",
+        "end": "2027-02-20 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4003947-occurrence-9259857",
+        "title": "4003947 - Set up for Sweethearts Dance @ PE Gym",
+        "type": "Other",
+        "start": "2027-02-20 10:00 AM",
+        "end": "2027-02-20 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4003948-occurrence-9259858",
+        "title": "4003948 - Financial Aid Night @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-08 7:00 PM",
+        "end": "2026-10-08 8:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-11T05:33:12.153Z",
     "added": [],
     "removed": [

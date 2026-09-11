@@ -4862,6 +4862,39 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
+    "uid": "schedule-request-4003946-occurrence-9259856",
+    "title": "4003946 - Sweethearts Dance @ PE Gym",
+    "summary": "4003946 - Sweethearts Dance @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-02-20 6:00 PM",
+    "end": "2027-02-20 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4003946/occurrences/9259856"
+  },
+  {
+    "uid": "schedule-request-4003947-occurrence-9259857",
+    "title": "4003947 - Set up for Sweethearts Dance @ PE Gym",
+    "summary": "4003947 - Set up for Sweethearts Dance @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-02-20 10:00 AM",
+    "end": "2027-02-20 5:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4003947/occurrences/9259857"
+  },
+  {
+    "uid": "schedule-request-4003948-occurrence-9259858",
+    "title": "4003948 - Financial Aid Night @ PSHS Auditorium",
+    "summary": "4003948 - Financial Aid Night @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-08 7:00 PM",
+    "end": "2026-10-08 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4003948/occurrences/9259858"
+  },
+  {
     "uid": "schedule-request-3998392-occurrence-9245645",
     "title": "3998392 - PTO Meeting",
     "summary": "3998392 - PTO Meeting",
