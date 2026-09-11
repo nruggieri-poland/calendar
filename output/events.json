@@ -2882,17 +2882,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857907/occurrences/8952315"
   },
   {
-    "uid": "schedule-request-3857908-occurrence-8952316",
-    "title": "3857908 - Soccer (Boys V) vs South Range High School",
-    "summary": "3857908 - Soccer (Boys V) vs South Range High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-10 5:00 PM",
-    "end": "2026-09-10 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857908/occurrences/8952316"
-  },
-  {
     "uid": "schedule-request-3857909-occurrence-8952317",
     "title": "3857909 - Basketball (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
     "summary": "3857909 - Basketball (Boys 8) vs CANFIELD VILLAGE MIDDLE SCHOOL",
@@ -3276,17 +3265,6 @@
     "end": "2026-12-12 1:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857955/occurrences/8952363"
-  },
-  {
-    "uid": "schedule-request-3857956-occurrence-8952364",
-    "title": "3857956 - Volleyball (Girls JV) vs Struthers High School",
-    "summary": "3857956 - Volleyball (Girls JV) vs Struthers High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-10 5:30 PM",
-    "end": "2026-09-10 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857956/occurrences/8952364"
   },
   {
     "uid": "schedule-request-3857957-occurrence-8952365",
