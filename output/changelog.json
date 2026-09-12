@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-12T02:44:56.236Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858221-occurrence-8952744",
+        "title": "3858221 - Football (Boys V) @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-11 7:00 PM",
+        "end": "2026-09-11 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-11T21:30:49.851Z",
     "added": [
       {
