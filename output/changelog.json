@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-12T22:46:24.294Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858258-occurrence-8952799",
+        "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-12 9:30 AM",
+        "end": "2026-09-12 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-12T20:02:54.328Z",
     "added": [],
     "removed": [
