@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-12T17:38:22.226Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857994-occurrence-8952402",
+        "title": "3857994 - Cross Country (Coed V) @ Streetsboro Invitational",
+        "type": "Athletics - Away",
+        "start": "2026-09-12 11:00 AM",
+        "end": "2026-09-12 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858041-occurrence-8952454",
+        "title": "3858041 - Cross Country (Coed MS) @ Streetsboro Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-12 10:00 AM",
+        "end": "2026-09-12 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857882-occurrence-8952290",
+        "title": "3857882 - Football (Boys JV) vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-12 10:00 AM",
+        "end": "2026-09-12 12:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-12T02:44:56.236Z",
     "added": [],
     "removed": [
