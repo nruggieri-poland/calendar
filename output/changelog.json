@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-12T20:02:54.328Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3874129-occurrence-8997988",
+        "title": "3874129 - PLB Cheer Practice @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-09-12 2:00 PM",
+        "end": "2026-09-12 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-12T17:38:22.226Z",
     "added": [],
     "removed": [
