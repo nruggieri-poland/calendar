@@ -418,17 +418,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858032/occurrences/8952445"
   },
   {
-    "uid": "schedule-request-3858033-occurrence-8952446",
-    "title": "3858033 - Golf (Boys V) @ Canterbury Golf Club Inc",
-    "summary": "3858033 - Golf (Boys V) @ Canterbury Golf Club Inc",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-13 1:00 PM",
-    "end": "2026-09-13 3:00 PM",
-    "location": "Canterbury Golf Club Inc",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858033/occurrences/8952446"
-  },
-  {
     "uid": "schedule-request-3858035-occurrence-8952448",
     "title": "3858035 - Basketball (Boys 8) @ Girard Sr High School",
     "summary": "3858035 - Basketball (Boys 8) @ Girard Sr High School",
@@ -4046,17 +4035,6 @@
     "end": "2026-12-17 8:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858254/occurrences/8952777"
-  },
-  {
-    "uid": "schedule-request-3858256-occurrence-8952783",
-    "title": "3858256 - Poland Flag Football League @ Baird Mitchell",
-    "summary": "3858256 - Poland Flag Football League @ Baird Mitchell",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-13 9:00 AM",
-    "end": "2026-09-13 2:00 PM",
-    "location": "Baird Mitchell",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952783"
   },
   {
     "uid": "schedule-request-3858256-occurrence-8952784",

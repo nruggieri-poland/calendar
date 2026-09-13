@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-13T20:09:39.652Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858033-occurrence-8952446",
+        "title": "3858033 - Golf (Boys V) @ Canterbury Golf Club Inc",
+        "type": "Athletics - Away",
+        "start": "2026-09-13 1:00 PM",
+        "end": "2026-09-13 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858256-occurrence-8952783",
+        "title": "3858256 - Poland Flag Football League @ Baird Mitchell",
+        "type": "Other",
+        "start": "2026-09-13 9:00 AM",
+        "end": "2026-09-13 2:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-12T22:46:24.294Z",
     "added": [],
     "removed": [
