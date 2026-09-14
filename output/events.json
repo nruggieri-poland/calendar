@@ -374,17 +374,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858028/occurrences/8952441"
   },
   {
-    "uid": "schedule-request-3858029-occurrence-8952442",
-    "title": "3858029 - Golf (Girls V) @ Lake Club",
-    "summary": "3858029 - Golf (Girls V) @ Lake Club",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-14 11:30 AM",
-    "end": "2026-09-14 1:30 PM",
-    "location": "Lake Club",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858029/occurrences/8952442"
-  },
-  {
     "uid": "schedule-request-3858030-occurrence-8952443",
     "title": "3858030 - Basketball (Girls 7) @ STRUTHERS MIDDLE SCHOOL",
     "summary": "3858030 - Basketball (Girls 7) @ STRUTHERS MIDDLE SCHOOL",
@@ -4748,30 +4737,8 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "akron university,pshs stadium parking lot",
+    "location": "pshs stadium parking lot,akron university",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
-  },
-  {
-    "uid": "schedule-request-4003946-occurrence-9259856",
-    "title": "4003946 - Sweethearts Dance @ PE Gym",
-    "summary": "4003946 - Sweethearts Dance @ PE Gym",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2027-02-20 6:00 PM",
-    "end": "2027-02-20 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4003946/occurrences/9259856"
-  },
-  {
-    "uid": "schedule-request-4003947-occurrence-9259857",
-    "title": "4003947 - Set up for Sweethearts Dance @ PE Gym",
-    "summary": "4003947 - Set up for Sweethearts Dance @ PE Gym",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2027-02-20 10:00 AM",
-    "end": "2027-02-20 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4003947/occurrences/9259857"
   },
   {
     "uid": "schedule-request-4003948-occurrence-9259858",
