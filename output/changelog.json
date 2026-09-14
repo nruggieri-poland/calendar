@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-09-14T17:27:54.907Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858043-occurrence-8952456",
+        "title": "3858043 - Golf (Boys V) @ Canterbury Golf Club Inc",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 9:00 AM",
+        "end": "2026-09-14 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3971086-occurrence-9179504",
+        "title": "3971086 - YSU College visit @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-14 9:00 AM",
+        "end": "2026-09-14 10:00 AM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3946919-occurrence-9153803",
+        "title": "3946919 - Soccer (Boys JV) @ Liberty High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 6:00 PM",
+        "end": "2026-09-15 8:00 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-15 7:00 PM",
+            "to": "2026-09-15 6:00 PM"
+          },
+          "end": {
+            "from": "2026-09-15 9:00 PM",
+            "to": "2026-09-15 8:00 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "pshs stadium parking lot,akron university",
+            "to": "akron university,pshs stadium parking lot"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-13T20:09:39.652Z",
     "added": [],
     "removed": [
@@ -85756,20 +85808,6 @@
         "type": "School Activity",
         "start": "2025-06-16 12:00 AM",
         "end": "2025-06-16 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-06-16T06:29:43.204Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905196-occurrence-7104841",
-        "title": "2905196 - Girls Varsity Lacrosse",
-        "type": "Athletics - Home",
-        "start": "2025-06-15 6:00 PM",
-        "end": "2025-06-15 8:00 PM"
       }
     ],
     "edited": []

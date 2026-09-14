@@ -473,17 +473,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858042/occurrences/8952455"
   },
   {
-    "uid": "schedule-request-3858043-occurrence-8952456",
-    "title": "3858043 - Golf (Boys V) @ Canterbury Golf Club Inc",
-    "summary": "3858043 - Golf (Boys V) @ Canterbury Golf Club Inc",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-14 9:00 AM",
-    "end": "2026-09-14 11:00 AM",
-    "location": "Canterbury Golf Club Inc",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858043/occurrences/8952456"
-  },
-  {
     "uid": "schedule-request-3858045-occurrence-8952458",
     "title": "3858045 - Basketball (Boys 7) @ LAKEVIEW MIDDLE SCHOOL",
     "summary": "3858045 - Basketball (Boys 7) @ LAKEVIEW MIDDLE SCHOOL",
@@ -1677,8 +1666,8 @@
     "summary": "3946919 - Soccer (Boys JV) @ Liberty High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-09-15 7:00 PM",
-    "end": "2026-09-15 9:00 PM",
+    "start": "2026-09-15 6:00 PM",
+    "end": "2026-09-15 8:00 PM",
     "location": "Liberty High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3946919/occurrences/9153803"
   },
@@ -4620,17 +4609,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3917320/occurrences/9112880"
   },
   {
-    "uid": "schedule-request-3971086-occurrence-9179504",
-    "title": "3971086 - YSU College visit @ PSHS Auditorium",
-    "summary": "3971086 - YSU College visit @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-14 9:00 AM",
-    "end": "2026-09-14 10:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3971086/occurrences/9179504"
-  },
-  {
     "uid": "schedule-request-3972264-occurrence-9186964",
     "title": "3972264 - OSU College visit @ PSHS Auditorium",
     "summary": "3972264 - OSU College visit @ PSHS Auditorium",
@@ -4770,7 +4748,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "pshs stadium parking lot,akron university",
+    "location": "akron university,pshs stadium parking lot",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
