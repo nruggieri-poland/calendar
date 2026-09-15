@@ -495,17 +495,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858052/occurrences/8952465"
   },
   {
-    "uid": "schedule-request-3858053-occurrence-8952466",
-    "title": "3858053 - Soccer (Boys V) @ Girard Sr High School",
-    "summary": "3858053 - Soccer (Boys V) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-14 7:00 PM",
-    "end": "2026-09-14 9:00 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858053/occurrences/8952466"
-  },
-  {
     "uid": "schedule-request-3858055-occurrence-8952468",
     "title": "3858055 - Cross Country (Coed V) @ Fortress Obetz",
     "summary": "3858055 - Cross Country (Coed V) @ Fortress Obetz",
@@ -1351,17 +1340,6 @@
     "end": "2026-09-21 7:00 PM",
     "location": "South Range Middle School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858200/occurrences/8952723"
-  },
-  {
-    "uid": "schedule-request-3858205-occurrence-8952728",
-    "title": "3858205 - Volleyball (Girls V) @ United High School",
-    "summary": "3858205 - Volleyball (Girls V) @ United High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-14 7:00 PM",
-    "end": "2026-09-14 9:00 PM",
-    "location": "United High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858205/occurrences/8952728"
   },
   {
     "uid": "schedule-request-3858206-occurrence-8952729",

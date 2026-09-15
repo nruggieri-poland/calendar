@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-15T05:41:50.263Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858053-occurrence-8952466",
+        "title": "3858053 - Soccer (Boys V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 7:00 PM",
+        "end": "2026-09-14 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858205-occurrence-8952728",
+        "title": "3858205 - Volleyball (Girls V) @ United High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-14 7:00 PM",
+        "end": "2026-09-14 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-15T00:10:09.342Z",
     "added": [],
     "removed": [
@@ -85857,27 +85878,6 @@
         "type": "School Activity",
         "start": "2025-06-19 12:00 AM",
         "end": "2025-06-19 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-06-19T06:12:23.815Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2868097-occurrence-6969866",
-        "title": "2868097 - Girls 8th Volleyball (MS Volleyball Open Gym)",
-        "type": "Other",
-        "start": "2025-06-18 12:00 PM",
-        "end": "2025-06-18 2:00 PM"
-      },
-      {
-        "uid": "schedule-request-2867958-occurrence-6969466",
-        "title": "2867958 - Time: TBA - PE Gym Closed Flooring",
-        "type": "School Activity",
-        "start": "2025-06-18 12:00 AM",
-        "end": "2025-06-18 7:59 PM"
       }
     ],
     "edited": []
