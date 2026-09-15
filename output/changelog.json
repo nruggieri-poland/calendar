@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-15T22:38:46.825Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3878854-occurrence-9012542",
+        "title": "3878854 - Tennis (Girls V) vs Salem High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-15 4:00 PM",
+        "end": "2026-09-15 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-15T19:26:42.513Z",
     "added": [
       {
@@ -85946,20 +85960,6 @@
         "type": "Athletics - Home",
         "start": "2025-06-22 6:00 PM",
         "end": "2025-06-22 8:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-06-22T09:44:17.514Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905198-occurrence-7104843",
-        "title": "2905198 - Girls Varsity Volleyball (Volleyball Open Gyms )",
-        "type": "Athletics - Home",
-        "start": "2025-06-21 8:00 PM",
-        "end": "2025-06-21 10:00 PM"
       }
     ],
     "edited": []
