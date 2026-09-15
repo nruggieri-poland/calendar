@@ -1177,17 +1177,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858181/occurrences/8952704"
   },
   {
-    "uid": "schedule-request-3858183-occurrence-8952706",
-    "title": "3858183 - Soccer (Girls JV) @ Cardinal Mooney High School",
-    "summary": "3858183 - Soccer (Girls JV) @ Cardinal Mooney High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-15 5:30 PM",
-    "end": "2026-09-15 7:30 PM",
-    "location": "Cardinal Mooney High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858183/occurrences/8952706"
-  },
-  {
     "uid": "schedule-request-3858184-occurrence-8952707",
     "title": "3858184 - Basketball (Boys V) @ Springfield High School",
     "summary": "3858184 - Basketball (Boys V) @ Springfield High School",
@@ -4533,13 +4522,13 @@
   },
   {
     "uid": "schedule-request-3982463-occurrence-9215428",
-    "title": "3982463 - Speech and Debate Home Tournament @ PSHS Caf & Aud & PE Gym & Lib & Fieldhouse Lobby",
-    "summary": "3982463 - Speech and Debate Home Tournament @ PSHS Caf & Aud & PE Gym & Lib & Fieldhouse Lobby",
+    "title": "3982463 - Speech and Debate Home Tournament @ TBD",
+    "summary": "3982463 - Speech and Debate Home Tournament @ TBD",
     "type": "Other",
     "color": "#828282",
     "start": "2026-12-19 7:00 AM",
     "end": "2026-12-19 5:00 PM",
-    "location": "PSHS Caf & Aud & PE Gym & Lib & Fieldhouse Lobby",
+    "location": "pshs caf & aud & pe gym & lib & fieldhouse lobby",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3982463/occurrences/9215428"
   },
   {
@@ -4638,7 +4627,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "akron university,pshs stadium parking lot",
+    "location": "pshs stadium parking lot,akron university",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
@@ -4651,6 +4640,72 @@
     "end": "2026-10-08 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4003948/occurrences/9259858"
+  },
+  {
+    "uid": "schedule-request-4010041-occurrence-9277710",
+    "title": "4010041 - Boys Lacrosse Meeting @ PSHS Library",
+    "summary": "4010041 - Boys Lacrosse Meeting @ PSHS Library",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-09-29 7:00 PM",
+    "end": "2026-09-29 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4010041/occurrences/9277710"
+  },
+  {
+    "uid": "schedule-request-4010042-occurrence-9277712",
+    "title": "4010042 - Sweethearts Dance @ PE Gym",
+    "summary": "4010042 - Sweethearts Dance @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-02-20 6:00 PM",
+    "end": "2027-02-20 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4010042/occurrences/9277712"
+  },
+  {
+    "uid": "schedule-request-4010043-occurrence-9277713",
+    "title": "4010043 - 8th Grade Academic Awards @ PSHS Aud & Cafeteria",
+    "summary": "4010043 - 8th Grade Academic Awards @ PSHS Aud & Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-05-12 7:00 PM",
+    "end": "2027-05-12 8:30 PM",
+    "location": "PSHS Aud & Cafeteria",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4010043/occurrences/9277713"
+  },
+  {
+    "uid": "schedule-request-4010044-occurrence-9277714",
+    "title": "4010044 - Speech and Debate Tournament @ Poland Middle School",
+    "summary": "4010044 - Speech and Debate Tournament @ Poland Middle School",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-02-20 7:00 AM",
+    "end": "2027-02-20 6:00 PM",
+    "location": "47 College St. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4010044/occurrences/9277714"
+  },
+  {
+    "uid": "schedule-request-4010045-occurrence-9277715",
+    "title": "4010045 - STEP Membership Meeting @ PSHS Cafeteria",
+    "summary": "4010045 - STEP Membership Meeting @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-06 6:30 PM",
+    "end": "2026-10-06 7:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4010045/occurrences/9277715"
+  },
+  {
+    "uid": "schedule-request-4010046-occurrence-9277716",
+    "title": "4010046 - Set up for Sweethearts Dance @ PE Gym",
+    "summary": "4010046 - Set up for Sweethearts Dance @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-02-20 10:00 AM",
+    "end": "2027-02-20 5:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4010046/occurrences/9277716"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",

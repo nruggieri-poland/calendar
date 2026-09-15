@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-09-15T15:24:08.402Z",
+    "added": [
+      {
+        "uid": "schedule-request-4010041-occurrence-9277710",
+        "title": "4010041 - Boys Lacrosse Meeting @ PSHS Library",
+        "type": "Other",
+        "start": "2026-09-29 7:00 PM",
+        "end": "2026-09-29 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4010042-occurrence-9277712",
+        "title": "4010042 - Sweethearts Dance @ PE Gym",
+        "type": "Other",
+        "start": "2027-02-20 6:00 PM",
+        "end": "2027-02-20 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4010043-occurrence-9277713",
+        "title": "4010043 - 8th Grade Academic Awards @ PSHS Aud & Cafeteria",
+        "type": "Other",
+        "start": "2027-05-12 7:00 PM",
+        "end": "2027-05-12 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-4010044-occurrence-9277714",
+        "title": "4010044 - Speech and Debate Tournament @ Poland Middle School",
+        "type": "Other",
+        "start": "2027-02-20 7:00 AM",
+        "end": "2027-02-20 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-4010045-occurrence-9277715",
+        "title": "4010045 - STEP Membership Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-06 6:30 PM",
+        "end": "2026-10-06 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4010046-occurrence-9277716",
+        "title": "4010046 - Set up for Sweethearts Dance @ PE Gym",
+        "type": "Other",
+        "start": "2027-02-20 10:00 AM",
+        "end": "2027-02-20 5:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858183-occurrence-8952706",
+        "title": "3858183 - Soccer (Girls JV) @ Cardinal Mooney High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 5:30 PM",
+        "end": "2026-09-15 7:30 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3982463-occurrence-9215428",
+        "title": "3982463 - Speech and Debate Home Tournament @ TBD",
+        "type": "Other",
+        "start": "2026-12-19 7:00 AM",
+        "end": "2026-12-19 5:00 PM",
+        "changes": {
+          "title": {
+            "from": "3982463 - Speech and Debate Home Tournament @ PSHS Caf & Aud & PE Gym & Lib & Fieldhouse Lobby",
+            "to": "3982463 - Speech and Debate Home Tournament @ TBD"
+          },
+          "location": {
+            "from": "PSHS Caf & Aud & PE Gym & Lib & Fieldhouse Lobby",
+            "to": "pshs caf & aud & pe gym & lib & fieldhouse lobby"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "akron university,pshs stadium parking lot",
+            "to": "pshs stadium parking lot,akron university"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T05:41:50.263Z",
     "added": [],
     "removed": [
@@ -85864,20 +85952,6 @@
         "type": "School Activity",
         "start": "2025-06-20 12:00 AM",
         "end": "2025-06-20 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-06-20T05:08:16.203Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2867959-occurrence-6969467",
-        "title": "2867959 - Time: TBA - PE Gym Closed Flooring",
-        "type": "School Activity",
-        "start": "2025-06-19 12:00 AM",
-        "end": "2025-06-19 7:59 PM"
       }
     ],
     "edited": []
