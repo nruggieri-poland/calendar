@@ -341,17 +341,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858026/occurrences/8952439"
   },
   {
-    "uid": "schedule-request-3858027-occurrence-8952440",
-    "title": "3858027 - Cross Country (Coed V) @ Columbiana High School",
-    "summary": "3858027 - Cross Country (Coed V) @ Columbiana High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-15 4:45 PM",
-    "end": "2026-09-15 6:45 PM",
-    "location": "Columbiana High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858027/occurrences/8952440"
-  },
-  {
     "uid": "schedule-request-3858028-occurrence-8952441",
     "title": "3858028 - Basketball (Girls JV) @ Boardman High School",
     "summary": "3858028 - Basketball (Girls JV) @ Boardman High School",
@@ -691,17 +680,6 @@
     "end": "2026-12-21 7:30 PM",
     "location": "Crestview High School (Columbiana)",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858113/occurrences/8952636"
-  },
-  {
-    "uid": "schedule-request-3858114-occurrence-8952637",
-    "title": "3858114 - Volleyball (Girls JV) @ Niles McKinley High School",
-    "summary": "3858114 - Volleyball (Girls JV) @ Niles McKinley High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-15 5:30 PM",
-    "end": "2026-09-15 7:30 PM",
-    "location": "Niles McKinley High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858114/occurrences/8952637"
   },
   {
     "uid": "schedule-request-3858119-occurrence-8952642",
@@ -1298,17 +1276,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858196/occurrences/8952719"
   },
   {
-    "uid": "schedule-request-3858197-occurrence-8952720",
-    "title": "3858197 - Cross Country (Coed MS) @ Columbiana High School",
-    "summary": "3858197 - Cross Country (Coed MS) @ Columbiana High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-15 5:50 PM",
-    "end": "2026-09-15 7:50 PM",
-    "location": "Columbiana High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858197/occurrences/8952720"
-  },
-  {
     "uid": "schedule-request-3858198-occurrence-8952721",
     "title": "3858198 - Volleyball (Girls 8) @ STRUTHERS MIDDLE SCHOOL",
     "summary": "3858198 - Volleyball (Girls 8) @ STRUTHERS MIDDLE SCHOOL",
@@ -1560,17 +1527,6 @@
     "end": "2026-10-07 7:00 PM",
     "location": "Liberty High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3918052/occurrences/9115497"
-  },
-  {
-    "uid": "schedule-request-3946919-occurrence-9153803",
-    "title": "3946919 - Soccer (Boys JV) @ Liberty High School",
-    "summary": "3946919 - Soccer (Boys JV) @ Liberty High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-15 6:00 PM",
-    "end": "2026-09-15 8:00 PM",
-    "location": "Liberty High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3946919/occurrences/9153803"
   },
   {
     "uid": "schedule-request-3974925-occurrence-9198416",
@@ -3960,17 +3916,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952788"
   },
   {
-    "uid": "schedule-request-3858257-occurrence-8952790",
-    "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-15 6:00 PM",
-    "end": "2026-09-15 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952790"
-  },
-  {
     "uid": "schedule-request-3858257-occurrence-8952791",
     "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -4605,7 +4550,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "pshs stadium parking lot,akron university",
+    "location": "akron university,pshs stadium parking lot",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
@@ -4783,6 +4728,17 @@
     "end": "2027-05-29 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3888172/occurrences/9035179"
+  },
+  {
+    "uid": "schedule-request-4011154-occurrence-9282451",
+    "title": "4011154 - Strategic Planning Meeting",
+    "summary": "4011154 - Strategic Planning Meeting",
+    "type": "School Activity",
+    "color": "#0eed3f",
+    "start": "2026-09-16 6:00 PM",
+    "end": "2026-09-16 7:30 PM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4011154/occurrences/9282451"
   },
   {
     "uid": "schedule-request-3888171-occurrence-9035176",

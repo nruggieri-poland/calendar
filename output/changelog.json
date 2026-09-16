@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": "2026-09-16T00:58:49.376Z",
+    "added": [
+      {
+        "uid": "schedule-request-4011154-occurrence-9282451",
+        "title": "4011154 - Strategic Planning Meeting",
+        "type": "School Activity",
+        "start": "2026-09-16 6:00 PM",
+        "end": "2026-09-16 7:30 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858027-occurrence-8952440",
+        "title": "3858027 - Cross Country (Coed V) @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 4:45 PM",
+        "end": "2026-09-15 6:45 PM"
+      },
+      {
+        "uid": "schedule-request-3858114-occurrence-8952637",
+        "title": "3858114 - Volleyball (Girls JV) @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 5:30 PM",
+        "end": "2026-09-15 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858197-occurrence-8952720",
+        "title": "3858197 - Cross Country (Coed MS) @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 5:50 PM",
+        "end": "2026-09-15 7:50 PM"
+      },
+      {
+        "uid": "schedule-request-3946919-occurrence-9153803",
+        "title": "3946919 - Soccer (Boys JV) @ Liberty High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-15 6:00 PM",
+        "end": "2026-09-15 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858257-occurrence-8952790",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-15 6:00 PM",
+        "end": "2026-09-15 8:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "pshs stadium parking lot,akron university",
+            "to": "akron university,pshs stadium parking lot"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-15T22:38:46.825Z",
     "added": [],
     "removed": [
@@ -85946,20 +86010,6 @@
         "type": "School Activity",
         "start": "2025-06-23 12:00 AM",
         "end": "2025-06-23 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-06-23T06:45:52.283Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905199-occurrence-7104844",
-        "title": "2905199 - Girls Varsity Lacrosse",
-        "type": "Athletics - Home",
-        "start": "2025-06-22 6:00 PM",
-        "end": "2025-06-22 8:00 PM"
       }
     ],
     "edited": []
