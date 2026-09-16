@@ -4539,7 +4539,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "akron university,pshs stadium parking lot",
+    "location": "pshs stadium parking lot,akron university",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
@@ -4629,6 +4629,28 @@
     "end": "2026-09-16 1:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4010646/occurrences/9280284"
+  },
+  {
+    "uid": "schedule-request-4011952-occurrence-9283899",
+    "title": "4011952 - Practice ACT @ PSHS FieldHouse",
+    "summary": "4011952 - Practice ACT @ PSHS FieldHouse",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-10 7:00 AM",
+    "end": "2026-12-10 2:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4011952/occurrences/9283899"
+  },
+  {
+    "uid": "schedule-request-4011953-occurrence-9283900",
+    "title": "4011953 - PSAT @ PSHS FieldHouse",
+    "summary": "4011953 - PSAT @ PSHS FieldHouse",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-13 7:00 AM",
+    "end": "2026-10-13 2:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4011953/occurrences/9283900"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",
