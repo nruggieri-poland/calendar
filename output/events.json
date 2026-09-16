@@ -2101,17 +2101,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857836/occurrences/8952244"
   },
   {
-    "uid": "schedule-request-3857837-occurrence-8952245",
-    "title": "3857837 - Tennis (Girls V) vs Lakeview High School",
-    "summary": "3857837 - Tennis (Girls V) vs Lakeview High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-16 4:00 PM",
-    "end": "2026-09-16 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857837/occurrences/8952245"
-  },
-  {
     "uid": "schedule-request-3857839-occurrence-8952247",
     "title": "3857839 - Basketball (Boys JV) vs Canfield High School",
     "summary": "3857839 - Basketball (Boys JV) vs Canfield High School",
@@ -2176,17 +2165,6 @@
     "end": "2026-12-14 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857844/occurrences/8952252"
-  },
-  {
-    "uid": "schedule-request-3857846-occurrence-8952254",
-    "title": "3857846 - Volleyball (Girls 7) vs LAKEVIEW MIDDLE SCHOOL",
-    "summary": "3857846 - Volleyball (Girls 7) vs LAKEVIEW MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-16 5:00 PM",
-    "end": "2026-09-16 6:00 PM",
-    "location": "47 College St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857846/occurrences/8952254"
   },
   {
     "uid": "schedule-request-3857848-occurrence-8952256",
@@ -4134,17 +4112,6 @@
     "end": "2026-10-08 5:00 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858259/occurrences/8952813"
-  },
-  {
-    "uid": "schedule-request-3858260-occurrence-8952815",
-    "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-16 2:30 PM",
-    "end": "2026-09-16 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952815"
   },
   {
     "uid": "schedule-request-3858260-occurrence-8952816",
