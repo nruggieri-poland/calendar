@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-09-18T02:47:28.108Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858194-occurrence-8952717",
+        "title": "3858194 - Football (Boys 7) @ 723 Elm Street\\, Youngstown\\, OH 44502",
+        "type": "Athletics - Away",
+        "start": "2026-09-17 6:00 PM",
+        "end": "2026-09-17 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3874125-occurrence-8997984",
+        "title": "3874125 - Football (Boys F) @ Alliance High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-17 6:00 PM",
+        "end": "2026-09-17 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857861-occurrence-8952269",
+        "title": "3857861 - Soccer (Boys V) vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 7:00 PM",
+        "end": "2026-09-17 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857930-occurrence-8952338",
+        "title": "3857930 - Volleyball (Girls V) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 7:00 PM",
+        "end": "2026-09-17 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857949-occurrence-8952357",
+        "title": "3857949 - Volleyball (Girls JV) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-17 5:30 PM",
+        "end": "2026-09-17 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3917320-occurrence-9112880",
+        "title": "3917320 - DC Parent Meeting @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-17 7:00 PM",
+        "end": "2026-09-17 8:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "pshs stadium parking lot,akron university",
+            "to": "akron university,pshs stadium parking lot"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-17T20:51:52.132Z",
     "added": [],
     "removed": [
@@ -79556,27 +79619,6 @@
         "type": "School Activity",
         "start": "2025-07-01 12:00 AM",
         "end": "2025-07-01 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-01T07:08:43.124Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905202-occurrence-7104848",
-        "title": "2905202 - Girls Varsity Volleyball (Volleyball Open Gyms )",
-        "type": "Athletics - Home",
-        "start": "2025-06-30 8:00 AM",
-        "end": "2025-06-30 10:00 AM"
-      },
-      {
-        "uid": "schedule-request-2867968-occurrence-6969476",
-        "title": "2867968 - Time: TBA - Field House Gym Closed",
-        "type": "School Activity",
-        "start": "2025-06-30 12:00 AM",
-        "end": "2025-06-30 7:59 PM"
       }
     ],
     "edited": []

@@ -1221,17 +1221,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858193/occurrences/8952716"
   },
   {
-    "uid": "schedule-request-3858194-occurrence-8952717",
-    "title": "3858194 - Football (Boys 7) @ 723 Elm Street\\, Youngstown\\, OH 44502",
-    "summary": "3858194 - Football (Boys 7) @ 723 Elm Street\\, Youngstown\\, OH 44502",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-17 6:00 PM",
-    "end": "2026-09-17 8:00 PM",
-    "location": "723 Elm Street, Youngstown, OH 44502",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858194/occurrences/8952717"
-  },
-  {
     "uid": "schedule-request-3858195-occurrence-8952718",
     "title": "3858195 - Basketball (Girls JV) @ South Range High School",
     "summary": "3858195 - Basketball (Girls JV) @ South Range High School",
@@ -1461,17 +1450,6 @@
     "end": "2027-05-14 9:00 PM",
     "location": "Salem High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3860560/occurrences/8959200"
-  },
-  {
-    "uid": "schedule-request-3874125-occurrence-8997984",
-    "title": "3874125 - Football (Boys F) @ Alliance High School",
-    "summary": "3874125 - Football (Boys F) @ Alliance High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-17 6:00 PM",
-    "end": "2026-09-17 8:00 PM",
-    "location": "Alliance High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3874125/occurrences/8997984"
   },
   {
     "uid": "schedule-request-3918051-occurrence-9115496",
@@ -2244,17 +2222,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857860/occurrences/8952268"
   },
   {
-    "uid": "schedule-request-3857861-occurrence-8952269",
-    "title": "3857861 - Soccer (Boys V) vs Hubbard High School",
-    "summary": "3857861 - Soccer (Boys V) vs Hubbard High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-17 7:00 PM",
-    "end": "2026-09-17 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857861/occurrences/8952269"
-  },
-  {
     "uid": "schedule-request-3857862-occurrence-8952270",
     "title": "3857862 - Basketball (Boys V) vs Neshannock High School",
     "summary": "3857862 - Basketball (Boys V) vs Neshannock High School",
@@ -2772,17 +2739,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857928/occurrences/8952336"
   },
   {
-    "uid": "schedule-request-3857930-occurrence-8952338",
-    "title": "3857930 - Volleyball (Girls V) vs Lakeview High School",
-    "summary": "3857930 - Volleyball (Girls V) vs Lakeview High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-17 7:00 PM",
-    "end": "2026-09-17 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857930/occurrences/8952338"
-  },
-  {
     "uid": "schedule-request-3857931-occurrence-8952339",
     "title": "3857931 - Basketball (Boys 8) vs LAKEVIEW MIDDLE SCHOOL",
     "summary": "3857931 - Basketball (Boys 8) vs LAKEVIEW MIDDLE SCHOOL",
@@ -2902,17 +2858,6 @@
     "end": "2026-12-09 7:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857946/occurrences/8952354"
-  },
-  {
-    "uid": "schedule-request-3857949-occurrence-8952357",
-    "title": "3857949 - Volleyball (Girls JV) vs Lakeview High School",
-    "summary": "3857949 - Volleyball (Girls JV) vs Lakeview High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-17 5:30 PM",
-    "end": "2026-09-17 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857949/occurrences/8952357"
   },
   {
     "uid": "schedule-request-3857950-occurrence-8952358",
@@ -4301,17 +4246,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3907294/occurrences/9093842"
   },
   {
-    "uid": "schedule-request-3917320-occurrence-9112880",
-    "title": "3917320 - DC Parent Meeting @ PSHS Auditorium",
-    "summary": "3917320 - DC Parent Meeting @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-17 7:00 PM",
-    "end": "2026-09-17 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3917320/occurrences/9112880"
-  },
-  {
     "uid": "schedule-request-3972264-occurrence-9186964",
     "title": "3972264 - OSU College visit @ PSHS Auditorium",
     "summary": "3972264 - OSU College visit @ PSHS Auditorium",
@@ -4451,7 +4385,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "pshs stadium parking lot,akron university",
+    "location": "akron university,pshs stadium parking lot",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
