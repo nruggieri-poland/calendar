@@ -1496,6 +1496,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3992780/occurrences/9233778"
   },
   {
+    "uid": "schedule-request-4020082-occurrence-9299523",
+    "title": "4020082 - Baseball (Boys JV) @ New Castle HS",
+    "summary": "4020082 - Baseball (Boys JV) @ New Castle HS",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-29 5:00 PM",
+    "end": "2027-04-29 7:00 PM",
+    "location": "New Castle HS",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4020082/occurrences/9299523"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -3056,6 +3067,39 @@
     "end": "2026-12-01 7:00 PM",
     "location": "pshs pe gym",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3992775/occurrences/9233773"
+  },
+  {
+    "uid": "schedule-request-4020081-occurrence-9299522",
+    "title": "4020081 - Baseball (Boys V) vs New Castle HS",
+    "summary": "4020081 - Baseball (Boys V) vs New Castle HS",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-01 5:00 PM",
+    "end": "2027-04-01 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4020081/occurrences/9299522"
+  },
+  {
+    "uid": "schedule-request-4020084-occurrence-9299525",
+    "title": "4020084 - Baseball (Boys V) vs Columbiana High School",
+    "summary": "4020084 - Baseball (Boys V) vs Columbiana High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-05-13 5:00 PM",
+    "end": "2027-05-13 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4020084/occurrences/9299525"
+  },
+  {
+    "uid": "schedule-request-4020299-occurrence-9300034",
+    "title": "4020299 - Baseball (Boys V) vs New Castle HS",
+    "summary": "4020299 - Baseball (Boys V) vs New Castle HS",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-29 5:00 PM",
+    "end": "2027-04-29 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4020299/occurrences/9300034"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094723",
