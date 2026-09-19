@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-19T17:41:35.695Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858134-occurrence-8952657",
+        "title": "3858134 - Cross Country (Coed MS) @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-19 9:00 AM",
+        "end": "2026-09-19 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-3858218-occurrence-8952741",
+        "title": "3858218 - Football (Boys JV) @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-19 10:00 AM",
+        "end": "2026-09-19 12:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-19T05:25:11.003Z",
     "added": [],
     "removed": [
@@ -79618,20 +79639,6 @@
         "type": "School Activity",
         "start": "2025-07-06 12:00 AM",
         "end": "2025-07-06 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-06T05:06:58.849Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2867973-occurrence-6969481",
-        "title": "2867973 - Time: TBA - Field House Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-05 12:00 AM",
-        "end": "2025-07-05 7:59 PM"
       }
     ],
     "edited": []
