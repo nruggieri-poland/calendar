@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-09-19T00:53:31.386Z",
+    "added": [],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "akron university,pshs stadium parking lot",
+            "to": "pshs stadium parking lot,akron university"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-18T19:23:12.922Z",
     "added": [],
     "removed": [
@@ -79612,20 +79632,6 @@
         "type": "School Activity",
         "start": "2025-07-04 12:00 AM",
         "end": "2025-07-04 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-04T04:30:37.081Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2867971-occurrence-6969479",
-        "title": "2867971 - Time: TBA - Field House Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-03 12:00 AM",
-        "end": "2025-07-03 7:59 PM"
       }
     ],
     "edited": []
