@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-20T20:10:35.438Z",
+    "added": [
+      {
+        "uid": "schedule-request-4024346-occurrence-9306086",
+        "title": "4024346 - Football (Boys F) vs Conneaut High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-15 6:00 PM",
+        "end": "2026-10-15 8:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858256-occurrence-8952784",
+        "title": "3858256 - Poland Flag Football League @ Baird Mitchell",
+        "type": "Other",
+        "start": "2026-09-20 9:00 AM",
+        "end": "2026-09-20 2:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-20T17:52:44.459Z",
     "added": [
       {
@@ -79604,27 +79626,6 @@
         "type": "School Activity",
         "start": "2025-07-11 12:00 AM",
         "end": "2025-07-11 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-11T06:08:57.881Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2942216-occurrence-7168537",
-        "title": "2942216 - Girls Varsity Volleyball (Open Gym)",
-        "type": "Athletics - Home",
-        "start": "2025-07-10 8:00 AM",
-        "end": "2025-07-10 10:00 AM"
-      },
-      {
-        "uid": "schedule-request-2867975-occurrence-6969483",
-        "title": "2867975 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-10 12:00 AM",
-        "end": "2025-07-10 7:59 PM"
       }
     ],
     "edited": []
