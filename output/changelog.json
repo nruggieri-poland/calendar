@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-21T21:36:02.137Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3980601-occurrence-9208629",
+        "title": "3980601 - Outdoor Club-Pickleball Tournament @ PSHS Tennis Courts",
+        "type": "Other",
+        "start": "2026-09-21 2:30 PM",
+        "end": "2026-09-21 4:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-21T17:41:54.049Z",
     "added": [],
     "removed": [],
@@ -79622,20 +79636,6 @@
         "type": "School Activity",
         "start": "2025-07-13 12:00 AM",
         "end": "2025-07-13 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-13T06:10:11.525Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2867977-occurrence-6969485",
-        "title": "2867977 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-12 12:00 AM",
-        "end": "2025-07-12 7:59 PM"
       }
     ],
     "edited": []
