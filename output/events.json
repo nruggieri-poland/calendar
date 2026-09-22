@@ -1,16 +1,5 @@
 [
   {
-    "uid": "schedule-request-3857970-occurrence-8952378",
-    "title": "3857970 - Volleyball (Girls 7) @ South Range Middle School",
-    "summary": "3857970 - Volleyball (Girls 7) @ South Range Middle School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-21 5:00 PM",
-    "end": "2026-09-21 6:00 PM",
-    "location": "South Range Middle School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857970/occurrences/8952378"
-  },
-  {
     "uid": "schedule-request-3857972-occurrence-8952380",
     "title": "3857972 - Basketball (Girls JV) @ James A Garfield High School",
     "summary": "3857972 - Basketball (Girls JV) @ James A Garfield High School",
@@ -1243,17 +1232,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858198/occurrences/8952721"
   },
   {
-    "uid": "schedule-request-3858200-occurrence-8952723",
-    "title": "3858200 - Volleyball (Girls 8) @ South Range Middle School",
-    "summary": "3858200 - Volleyball (Girls 8) @ South Range Middle School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-21 6:00 PM",
-    "end": "2026-09-21 7:00 PM",
-    "location": "South Range Middle School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858200/occurrences/8952723"
-  },
-  {
     "uid": "schedule-request-3858206-occurrence-8952729",
     "title": "3858206 - Volleyball (Girls JV) @ Girard Sr High School",
     "summary": "3858206 - Volleyball (Girls JV) @ Girard Sr High School",
@@ -2134,17 +2112,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857850/occurrences/8952258"
   },
   {
-    "uid": "schedule-request-3857851-occurrence-8952259",
-    "title": "3857851 - Soccer (Boys V) vs Niles McKinley High School",
-    "summary": "3857851 - Soccer (Boys V) vs Niles McKinley High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-21 5:00 PM",
-    "end": "2026-09-21 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857851/occurrences/8952259"
-  },
-  {
     "uid": "schedule-request-3857852-occurrence-8952260",
     "title": "3857852 - Basketball (Boys 8) vs Boardman Center Intermediate",
     "summary": "3857852 - Basketball (Boys 8) vs Boardman Center Intermediate",
@@ -2528,17 +2495,6 @@
     "end": "2027-02-12 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857906/occurrences/8952314"
-  },
-  {
-    "uid": "schedule-request-3857907-occurrence-8952315",
-    "title": "3857907 - Volleyball (Girls JV) vs Canfield High School",
-    "summary": "3857907 - Volleyball (Girls JV) vs Canfield High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-21 5:30 PM",
-    "end": "2026-09-21 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857907/occurrences/8952315"
   },
   {
     "uid": "schedule-request-3857909-occurrence-8952317",
@@ -3707,17 +3663,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858245/occurrences/8952768"
   },
   {
-    "uid": "schedule-request-3858246-occurrence-8952769",
-    "title": "3858246 - Youngstown Football Official Association @ PSHS Cafeteria",
-    "summary": "3858246 - Youngstown Football Official Association @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-21 6:00 PM",
-    "end": "2026-09-21 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858246/occurrences/8952769"
-  },
-  {
     "uid": "schedule-request-3858248-occurrence-8952771",
     "title": "3858248 - Youngstown Football Official Association @ PSHS Cafeteria",
     "summary": "3858248 - Youngstown Football Official Association @ PSHS Cafeteria",
@@ -4057,17 +4002,6 @@
     "end": "2026-10-28 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952821"
-  },
-  {
-    "uid": "schedule-request-3858262-occurrence-8952826",
-    "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-21 6:00 PM",
-    "end": "2026-09-21 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858262/occurrences/8952826"
   },
   {
     "uid": "schedule-request-3858262-occurrence-8952827",

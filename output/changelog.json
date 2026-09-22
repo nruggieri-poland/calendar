@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-09-22T00:30:37.018Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857970-occurrence-8952378",
+        "title": "3857970 - Volleyball (Girls 7) @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-21 5:00 PM",
+        "end": "2026-09-21 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858200-occurrence-8952723",
+        "title": "3858200 - Volleyball (Girls 8) @ South Range Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-21 6:00 PM",
+        "end": "2026-09-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857851-occurrence-8952259",
+        "title": "3857851 - Soccer (Boys V) vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-21 5:00 PM",
+        "end": "2026-09-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857907-occurrence-8952315",
+        "title": "3857907 - Volleyball (Girls JV) vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-21 5:30 PM",
+        "end": "2026-09-21 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858246-occurrence-8952769",
+        "title": "3858246 - Youngstown Football Official Association @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-09-21 6:00 PM",
+        "end": "2026-09-21 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858262-occurrence-8952826",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-21 6:00 PM",
+        "end": "2026-09-21 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-21T21:36:02.137Z",
     "added": [],
     "removed": [
@@ -79615,27 +79664,6 @@
         "type": "School Activity",
         "start": "2025-07-14 12:00 AM",
         "end": "2025-07-14 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-14T04:54:41.957Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905204-occurrence-7104850",
-        "title": "2905204 - Girls Varsity Lacrosse",
-        "type": "Athletics - Home",
-        "start": "2025-07-13 6:00 PM",
-        "end": "2025-07-13 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-2867978-occurrence-6969486",
-        "title": "2867978 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-13 12:00 AM",
-        "end": "2025-07-13 7:59 PM"
       }
     ],
     "edited": []
