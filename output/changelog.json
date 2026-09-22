@@ -1,5 +1,72 @@
 [
   {
+    "timestamp": "2026-09-22T19:29:41.023Z",
+    "added": [
+      {
+        "uid": "schedule-request-4031679-occurrence-9317172",
+        "title": "4031679 - Swimming (Coed V) @ YSU",
+        "type": "Athletics - Away",
+        "start": "2027-01-02 8:30 AM",
+        "end": "2027-01-02 10:30 AM"
+      },
+      {
+        "uid": "schedule-request-4031677-occurrence-9317169",
+        "title": "4031677 - Swimming (Coed V) vs Canfield High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-11 5:30 PM",
+        "end": "2027-01-11 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4031682-occurrence-9317175",
+        "title": "4031682 - Swimming (Coed V) vs Howland High School",
+        "type": "Athletics - Home",
+        "start": "2027-01-07 5:30 PM",
+        "end": "2027-01-07 7:30 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3998243-occurrence-9244863",
+        "title": "3998243 - Women's Get Together @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-09-22 2:00 PM",
+        "end": "2026-09-22 3:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3858216-occurrence-8952739",
+        "title": "3858216 - Soccer (Girls V) @ West Branch High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-26 11:30 AM",
+        "end": "2026-09-26 1:30 PM",
+        "changes": {
+          "start": {
+            "from": "2026-09-26 12:00 PM",
+            "to": "2026-09-26 11:30 AM"
+          },
+          "end": {
+            "from": "2026-09-26 2:00 PM",
+            "to": "2026-09-26 1:30 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-4030323-occurrence-9315591",
+        "title": "4030323 - Swimming (Coed V) vs Ursuline High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-16 5:30 PM",
+        "end": "2026-12-16 7:30 PM",
+        "changes": {
+          "location": {
+            "from": "Poland Seminary High School",
+            "to": "3199 Dobbins Rd. Poland, Ohio 44514"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-22T15:21:14.614Z",
     "added": [
       {
@@ -79654,20 +79721,6 @@
         "type": "School Activity",
         "start": "2025-07-16 12:00 AM",
         "end": "2025-07-16 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-16T05:34:43.173Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2867980-occurrence-6969488",
-        "title": "2867980 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-15 12:00 AM",
-        "end": "2025-07-15 7:59 PM"
       }
     ],
     "edited": []

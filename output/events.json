@@ -1314,8 +1314,8 @@
     "summary": "3858216 - Soccer (Girls V) @ West Branch High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-09-26 12:00 PM",
-    "end": "2026-09-26 2:00 PM",
+    "start": "2026-09-26 11:30 AM",
+    "end": "2026-09-26 1:30 PM",
     "location": "West Branch High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858216/occurrences/8952739"
   },
@@ -1483,6 +1483,17 @@
     "end": "2026-12-11 9:00 PM",
     "location": "Salem Community Center",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4030329/occurrences/9315597"
+  },
+  {
+    "uid": "schedule-request-4031679-occurrence-9317172",
+    "title": "4031679 - Swimming (Coed V) @ YSU",
+    "summary": "4031679 - Swimming (Coed V) @ YSU",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-02 8:30 AM",
+    "end": "2027-01-02 10:30 AM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4031679/occurrences/9317172"
   },
   {
     "uid": "schedule-request-3857770-occurrence-8952178",
@@ -3032,8 +3043,30 @@
     "color": "#131cf0",
     "start": "2026-12-16 5:30 PM",
     "end": "2026-12-16 7:30 PM",
-    "location": "Poland Seminary High School",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4030323/occurrences/9315591"
+  },
+  {
+    "uid": "schedule-request-4031677-occurrence-9317169",
+    "title": "4031677 - Swimming (Coed V) vs Canfield High School",
+    "summary": "4031677 - Swimming (Coed V) vs Canfield High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-01-11 5:30 PM",
+    "end": "2027-01-11 7:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4031677/occurrences/9317169"
+  },
+  {
+    "uid": "schedule-request-4031682-occurrence-9317175",
+    "title": "4031682 - Swimming (Coed V) vs Howland High School",
+    "summary": "4031682 - Swimming (Coed V) vs Howland High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-01-07 5:30 PM",
+    "end": "2027-01-07 7:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4031682/occurrences/9317175"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094723",
@@ -4288,17 +4321,6 @@
     "end": "2027-05-19 2:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3997773/occurrences/9242590"
-  },
-  {
-    "uid": "schedule-request-3998243-occurrence-9244863",
-    "title": "3998243 - Women's Get Together @ PSHS Fieldhouse Lobby",
-    "summary": "3998243 - Women's Get Together @ PSHS Fieldhouse Lobby",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-22 2:00 PM",
-    "end": "2026-09-22 3:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3998243/occurrences/9244863"
   },
   {
     "uid": "schedule-request-3999360-occurrence-9249719",
