@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-09-23T01:09:57.814Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858001-occurrence-8952409",
+        "title": "3858001 - Cross Country (Coed V) @ Canfield Fairgrounds",
+        "type": "Athletics - Away",
+        "start": "2026-09-22 4:45 PM",
+        "end": "2026-09-22 6:45 PM"
+      },
+      {
+        "uid": "schedule-request-3858126-occurrence-8952649",
+        "title": "3858126 - Volleyball (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-22 7:00 PM",
+        "end": "2026-09-22 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858180-occurrence-8952703",
+        "title": "3858180 - Cross Country (Coed MS) @ Canfield Fairgrounds",
+        "type": "Athletics - Away",
+        "start": "2026-09-22 5:50 PM",
+        "end": "2026-09-22 7:50 PM"
+      },
+      {
+        "uid": "schedule-request-3858186-occurrence-8952709",
+        "title": "3858186 - Volleyball (Girls JV) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-22 5:30 PM",
+        "end": "2026-09-22 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858257-occurrence-8952791",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-22 6:00 PM",
+        "end": "2026-09-22 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-22T22:38:41.448Z",
     "added": [],
     "removed": [
@@ -79686,27 +79728,6 @@
         "type": "School Activity",
         "start": "2025-07-18 12:00 AM",
         "end": "2025-07-18 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-18T04:51:12.440Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2957664-occurrence-7200280",
-        "title": "2957664 - Poland All Sports Booster Club Meeting",
-        "type": "Other",
-        "start": "2025-07-17 6:00 PM",
-        "end": "2025-07-17 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-2867982-occurrence-6969490",
-        "title": "2867982 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-17 12:00 AM",
-        "end": "2025-07-17 7:59 PM"
       }
     ],
     "edited": []

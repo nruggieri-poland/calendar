@@ -176,17 +176,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857999/occurrences/8952407"
   },
   {
-    "uid": "schedule-request-3858001-occurrence-8952409",
-    "title": "3858001 - Cross Country (Coed V) @ Canfield Fairgrounds",
-    "summary": "3858001 - Cross Country (Coed V) @ Canfield Fairgrounds",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-22 4:45 PM",
-    "end": "2026-09-22 6:45 PM",
-    "location": "Canfield Fairgrounds",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858001/occurrences/8952409"
-  },
-  {
     "uid": "schedule-request-3858002-occurrence-8952410",
     "title": "3858002 - Basketball (Girls V) @ Girard Sr High School",
     "summary": "3858002 - Basketball (Girls V) @ Girard Sr High School",
@@ -726,17 +715,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858125/occurrences/8952648"
   },
   {
-    "uid": "schedule-request-3858126-occurrence-8952649",
-    "title": "3858126 - Volleyball (Girls V) @ South Range High School",
-    "summary": "3858126 - Volleyball (Girls V) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-22 7:00 PM",
-    "end": "2026-09-22 9:00 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858126/occurrences/8952649"
-  },
-  {
     "uid": "schedule-request-3858127-occurrence-8952650",
     "title": "3858127 - Volleyball (Girls V) @ Columbiana High School",
     "summary": "3858127 - Volleyball (Girls V) @ Columbiana High School",
@@ -1089,17 +1067,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858177/occurrences/8952700"
   },
   {
-    "uid": "schedule-request-3858180-occurrence-8952703",
-    "title": "3858180 - Cross Country (Coed MS) @ Canfield Fairgrounds",
-    "summary": "3858180 - Cross Country (Coed MS) @ Canfield Fairgrounds",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-22 5:50 PM",
-    "end": "2026-09-22 7:50 PM",
-    "location": "Canfield Fairgrounds",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858180/occurrences/8952703"
-  },
-  {
     "uid": "schedule-request-3858181-occurrence-8952704",
     "title": "3858181 - Basketball (Girls V) @ Canfield High School",
     "summary": "3858181 - Basketball (Girls V) @ Canfield High School",
@@ -1131,17 +1098,6 @@
     "end": "2026-12-21 7:00 PM",
     "location": "Niles McKinley High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858185/occurrences/8952708"
-  },
-  {
-    "uid": "schedule-request-3858186-occurrence-8952709",
-    "title": "3858186 - Volleyball (Girls JV) @ South Range High School",
-    "summary": "3858186 - Volleyball (Girls JV) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-22 5:30 PM",
-    "end": "2026-09-22 7:30 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858186/occurrences/8952709"
   },
   {
     "uid": "schedule-request-3858187-occurrence-8952710",
@@ -3760,17 +3716,6 @@
     "end": "2026-10-18 2:00 PM",
     "location": "Baird Mitchell",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952788"
-  },
-  {
-    "uid": "schedule-request-3858257-occurrence-8952791",
-    "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-22 6:00 PM",
-    "end": "2026-09-22 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952791"
   },
   {
     "uid": "schedule-request-3858257-occurrence-8952792",
