@@ -594,17 +594,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858107/occurrences/8952630"
   },
   {
-    "uid": "schedule-request-3858108-occurrence-8952631",
-    "title": "3858108 - Tennis (Girls V) @ Girard Sr High School",
-    "summary": "3858108 - Tennis (Girls V) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-24 4:00 PM",
-    "end": "2026-09-24 6:00 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858108/occurrences/8952631"
-  },
-  {
     "uid": "schedule-request-3858109-occurrence-8952632",
     "title": "3858109 - Basketball (Girls JV) @ Struthers High School",
     "summary": "3858109 - Basketball (Girls JV) @ Struthers High School",
@@ -3815,17 +3804,6 @@
     "end": "2026-11-14 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952808"
-  },
-  {
-    "uid": "schedule-request-3858259-occurrence-8952811",
-    "title": "3858259 - Poland Players Rehearsal @ TBD",
-    "summary": "3858259 - Poland Players Rehearsal @ TBD",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-24 2:30 PM",
-    "end": "2026-09-24 5:00 PM",
-    "location": "TBD",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858259/occurrences/8952811"
   },
   {
     "uid": "schedule-request-3858259-occurrence-8952812",

@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-09-24T22:56:20.290Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858108-occurrence-8952631",
+        "title": "3858108 - Tennis (Girls V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 4:00 PM",
+        "end": "2026-09-24 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858259-occurrence-8952811",
+        "title": "3858259 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2026-09-24 2:30 PM",
+        "end": "2026-09-24 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-24T19:43:50.793Z",
     "added": [
       {
@@ -79841,27 +79862,6 @@
         "type": "School Activity",
         "start": "2025-07-25 12:00 AM",
         "end": "2025-07-25 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-24T05:45:07.973Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2969541-occurrence-7231004",
-        "title": "2969541 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2025-07-23 5:00 PM",
-        "end": "2025-07-23 6:00 PM"
-      },
-      {
-        "uid": "schedule-request-2868101-occurrence-6969870",
-        "title": "2868101 - Girls 8th Volleyball (MS Volleyball Open Gym)",
-        "type": "Other",
-        "start": "2025-07-23 12:00 PM",
-        "end": "2025-07-23 2:00 PM"
       }
     ],
     "edited": []
