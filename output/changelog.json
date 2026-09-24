@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-09-24T19:43:50.793Z",
+    "added": [
+      {
+        "uid": "schedule-request-4044554-occurrence-9356584",
+        "title": "4044554 - Baseball (Boys V) vs McDonald High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-16 5:00 PM",
+        "end": "2027-04-16 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4044548-occurrence-9356511",
+        "title": "4044548 - PTO Spirit Wear",
+        "type": "PTO Meeting",
+        "start": "2026-09-29 12:00 AM",
+        "end": "2026-09-29 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-4044548-occurrence-9356512",
+        "title": "4044548 - PTO Spirit Wear",
+        "type": "PTO Meeting",
+        "start": "2026-09-30 12:00 AM",
+        "end": "2026-09-30 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-4044548-occurrence-9356513",
+        "title": "4044548 - PTO Spirit Wear",
+        "type": "PTO Meeting",
+        "start": "2026-10-01 12:00 AM",
+        "end": "2026-10-01 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-4044548-occurrence-9356514",
+        "title": "4044548 - PTO Spirit Wear",
+        "type": "PTO Meeting",
+        "start": "2026-10-02 12:00 AM",
+        "end": "2026-10-02 7:59 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-24T15:43:26.660Z",
     "added": [
       {
@@ -79820,20 +79862,6 @@
         "type": "Other",
         "start": "2025-07-23 12:00 PM",
         "end": "2025-07-23 2:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-23T05:49:05.216Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2942218-occurrence-7168539",
-        "title": "2942218 - Girls Varsity Volleyball (Open Gym)",
-        "type": "Athletics - Home",
-        "start": "2025-07-22 8:00 AM",
-        "end": "2025-07-22 10:00 AM"
       }
     ],
     "edited": []

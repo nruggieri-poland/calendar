@@ -2948,6 +2948,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4031682/occurrences/9317175"
   },
   {
+    "uid": "schedule-request-4044554-occurrence-9356584",
+    "title": "4044554 - Baseball (Boys V) vs McDonald High School",
+    "summary": "4044554 - Baseball (Boys V) vs McDonald High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-16 5:00 PM",
+    "end": "2027-04-16 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4044554/occurrences/9356584"
+  },
+  {
     "uid": "schedule-request-3428269-occurrence-8094724",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -4453,6 +4464,50 @@
     "end": "2027-05-12 11:30 AM",
     "location": "3030 Dobbins Road",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3998414/occurrences/9245814"
+  },
+  {
+    "uid": "schedule-request-4044548-occurrence-9356511",
+    "title": "4044548 - PTO Spirit Wear",
+    "summary": "4044548 - PTO Spirit Wear",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-09-29 12:00 AM",
+    "end": "2026-09-29 7:59 PM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356511"
+  },
+  {
+    "uid": "schedule-request-4044548-occurrence-9356512",
+    "title": "4044548 - PTO Spirit Wear",
+    "summary": "4044548 - PTO Spirit Wear",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-09-30 12:00 AM",
+    "end": "2026-09-30 7:59 PM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356512"
+  },
+  {
+    "uid": "schedule-request-4044548-occurrence-9356513",
+    "title": "4044548 - PTO Spirit Wear",
+    "summary": "4044548 - PTO Spirit Wear",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-10-01 12:00 AM",
+    "end": "2026-10-01 7:59 PM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356513"
+  },
+  {
+    "uid": "schedule-request-4044548-occurrence-9356514",
+    "title": "4044548 - PTO Spirit Wear",
+    "summary": "4044548 - PTO Spirit Wear",
+    "type": "PTO Meeting",
+    "color": "#cd69fc",
+    "start": "2026-10-02 12:00 AM",
+    "end": "2026-10-02 7:59 PM",
+    "location": "3030 Dobbins Road",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356514"
   },
   {
     "uid": "schedule-request-3888169-occurrence-9035159",
