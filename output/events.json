@@ -418,17 +418,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858045/occurrences/8952458"
   },
   {
-    "uid": "schedule-request-3858046-occurrence-8952459",
-    "title": "3858046 - Volleyball (Girls 7) @ Girard Sr High School",
-    "summary": "3858046 - Volleyball (Girls 7) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-23 5:00 PM",
-    "end": "2026-09-23 6:00 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858046/occurrences/8952459"
-  },
-  {
     "uid": "schedule-request-3858048-occurrence-8952461",
     "title": "3858048 - Basketball (Girls V) @ Boardman High School",
     "summary": "3858048 - Basketball (Girls V) @ Boardman High School",
@@ -990,17 +979,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858166/occurrences/8952689"
   },
   {
-    "uid": "schedule-request-3858167-occurrence-8952690",
-    "title": "3858167 - Volleyball (Girls 8) @ Girard Sr High School",
-    "summary": "3858167 - Volleyball (Girls 8) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-23 6:00 PM",
-    "end": "2026-09-23 7:00 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858167/occurrences/8952690"
-  },
-  {
     "uid": "schedule-request-3858169-occurrence-8952692",
     "title": "3858169 - Basketball (Boys V) @ Lakeview High School",
     "summary": "3858169 - Basketball (Boys V) @ Lakeview High School",
@@ -1551,17 +1529,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857784/occurrences/8952192"
   },
   {
-    "uid": "schedule-request-3857785-occurrence-8952193",
-    "title": "3857785 - Football (Boys 7) vs South Range Middle School",
-    "summary": "3857785 - Football (Boys 7) vs South Range Middle School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-23 4:30 PM",
-    "end": "2026-09-23 6:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857785/occurrences/8952193"
-  },
-  {
     "uid": "schedule-request-3857787-occurrence-8952195",
     "title": "3857787 - Cross Country (Coed MS) vs TBD",
     "summary": "3857787 - Cross Country (Coed MS) vs TBD",
@@ -2068,17 +2035,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857849/occurrences/8952257"
   },
   {
-    "uid": "schedule-request-3857850-occurrence-8952258",
-    "title": "3857850 - Tennis (Girls V) vs Struthers High School",
-    "summary": "3857850 - Tennis (Girls V) vs Struthers High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-23 4:00 PM",
-    "end": "2026-09-23 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857850/occurrences/8952258"
-  },
-  {
     "uid": "schedule-request-3857852-occurrence-8952260",
     "title": "3857852 - Basketball (Boys 8) vs Boardman Center Intermediate",
     "summary": "3857852 - Basketball (Boys 8) vs Boardman Center Intermediate",
@@ -2330,17 +2286,6 @@
     "end": "2027-01-06 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857893/occurrences/8952301"
-  },
-  {
-    "uid": "schedule-request-3857894-occurrence-8952302",
-    "title": "3857894 - Football (Boys 8) vs South Range Middle School",
-    "summary": "3857894 - Football (Boys 8) vs South Range Middle School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-23 6:00 PM",
-    "end": "2026-09-23 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857894/occurrences/8952302"
   },
   {
     "uid": "schedule-request-3857896-occurrence-8952304",
@@ -3012,17 +2957,6 @@
     "end": "2027-01-07 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4031682/occurrences/9317175"
-  },
-  {
-    "uid": "schedule-request-3428269-occurrence-8094723",
-    "title": "3428269 - PLSD - Board of Education Meeting",
-    "summary": "3428269 - PLSD - Board of Education Meeting",
-    "type": "Board Meeting",
-    "color": "#00328f",
-    "start": "2026-09-23 6:00 PM",
-    "end": "2026-09-23 8:00 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094723"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094724",
@@ -4123,17 +4057,6 @@
     "end": "2027-05-03 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3907293/occurrences/9093841"
-  },
-  {
-    "uid": "schedule-request-3907294-occurrence-9093842",
-    "title": "3907294 - Speech and Debate Parent Meeting @ PSHS Cafeteria",
-    "summary": "3907294 - Speech and Debate Parent Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-23 6:00 PM",
-    "end": "2026-09-23 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3907294/occurrences/9093842"
   },
   {
     "uid": "schedule-request-3972264-occurrence-9186964",

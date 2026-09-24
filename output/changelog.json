@@ -1,5 +1,61 @@
 [
   {
+    "timestamp": "2026-09-24T00:17:12.336Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858046-occurrence-8952459",
+        "title": "3858046 - Volleyball (Girls 7) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-23 5:00 PM",
+        "end": "2026-09-23 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858167-occurrence-8952690",
+        "title": "3858167 - Volleyball (Girls 8) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857785-occurrence-8952193",
+        "title": "3857785 - Football (Boys 7) vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 4:30 PM",
+        "end": "2026-09-23 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857850-occurrence-8952258",
+        "title": "3857850 - Tennis (Girls V) vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 4:00 PM",
+        "end": "2026-09-23 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857894-occurrence-8952302",
+        "title": "3857894 - Football (Boys 8) vs South Range Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094723",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3907294-occurrence-9093842",
+        "title": "3907294 - Speech and Debate Parent Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-09-23 6:00 PM",
+        "end": "2026-09-23 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-23T21:57:59.456Z",
     "added": [],
     "removed": [
@@ -79707,27 +79763,6 @@
         "type": "School Activity",
         "start": "2025-07-20 12:00 AM",
         "end": "2025-07-20 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-20T06:11:41.206Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2942217-occurrence-7168538",
-        "title": "2942217 - Girls Varsity Volleyball (Open Gym)",
-        "type": "Athletics - Home",
-        "start": "2025-07-19 8:00 AM",
-        "end": "2025-07-19 10:00 AM"
-      },
-      {
-        "uid": "schedule-request-2867984-occurrence-6969492",
-        "title": "2867984 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-19 12:00 AM",
-        "end": "2025-07-19 7:59 PM"
       }
     ],
     "edited": []
