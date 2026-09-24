@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-24T05:46:22.682Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857889-occurrence-8952297",
+        "title": "3857889 - Football (Boys F) vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-23 7:30 PM",
+        "end": "2026-09-23 9:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-24T00:17:12.336Z",
     "added": [],
     "removed": [
@@ -79742,27 +79756,6 @@
         "type": "School Activity",
         "start": "2025-07-21 12:00 AM",
         "end": "2025-07-21 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-21T05:44:46.891Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905205-occurrence-7104851",
-        "title": "2905205 - Girls Varsity Lacrosse",
-        "type": "Athletics - Home",
-        "start": "2025-07-20 6:00 PM",
-        "end": "2025-07-20 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-2867985-occurrence-6969493",
-        "title": "2867985 - Time: TBA - MS Gym Closed",
-        "type": "School Activity",
-        "start": "2025-07-20 12:00 AM",
-        "end": "2025-07-20 7:59 PM"
       }
     ],
     "edited": []
