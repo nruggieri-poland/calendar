@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-25T18:10:36.068Z",
+    "added": [
+      {
+        "uid": "schedule-request-4045403-occurrence-9358471",
+        "title": "4045403 - Vaping Assembly @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-14 7:00 AM",
+        "end": "2026-10-14 12:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "akron university,pshs stadium parking lot",
+            "to": "pshs stadium parking lot,akron university"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-25T01:08:02.891Z",
     "added": [],
     "removed": [
@@ -79890,20 +79918,6 @@
         "type": "Athletics - Home",
         "start": "2025-07-27 6:00 PM",
         "end": "2025-07-27 8:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-27T06:23:42.720Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2942220-occurrence-7168541",
-        "title": "2942220 - Girls Varsity Volleyball (Open Gym)",
-        "type": "Athletics - Home",
-        "start": "2025-07-26 8:00 AM",
-        "end": "2025-07-26 10:00 AM"
       }
     ],
     "edited": []

@@ -4088,7 +4088,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "akron university,pshs stadium parking lot",
+    "location": "pshs stadium parking lot,akron university",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
@@ -4332,6 +4332,17 @@
     "end": "2027-03-18 10:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4042513/occurrences/9353516"
+  },
+  {
+    "uid": "schedule-request-4045403-occurrence-9358471",
+    "title": "4045403 - Vaping Assembly @ PSHS Auditorium",
+    "summary": "4045403 - Vaping Assembly @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-14 7:00 AM",
+    "end": "2026-10-14 12:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4045403/occurrences/9358471"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",
