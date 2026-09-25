@@ -638,17 +638,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858113/occurrences/8952636"
   },
   {
-    "uid": "schedule-request-3858119-occurrence-8952642",
-    "title": "3858119 - Volleyball (Girls V) @ Girard Sr High School",
-    "summary": "3858119 - Volleyball (Girls V) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-24 7:00 PM",
-    "end": "2026-09-24 9:00 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858119/occurrences/8952642"
-  },
-  {
     "uid": "schedule-request-3858121-occurrence-8952644",
     "title": "3858121 - Football (Boys F) @ Niles McKinley High School",
     "summary": "3858121 - Football (Boys F) @ Niles McKinley High School",
@@ -1012,17 +1001,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858172/occurrences/8952695"
   },
   {
-    "uid": "schedule-request-3858176-occurrence-8952699",
-    "title": "3858176 - Soccer (Girls V) @ Struthers High School",
-    "summary": "3858176 - Soccer (Girls V) @ Struthers High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-24 5:00 PM",
-    "end": "2026-09-24 7:00 PM",
-    "location": "Struthers High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858176/occurrences/8952699"
-  },
-  {
     "uid": "schedule-request-3858177-occurrence-8952700",
     "title": "3858177 - Basketball (Boys 7) @ Girard Sr High School",
     "summary": "3858177 - Basketball (Boys 7) @ Girard Sr High School",
@@ -1153,17 +1131,6 @@
     "end": "2026-10-05 7:00 PM",
     "location": "STRUTHERS MIDDLE SCHOOL",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858198/occurrences/8952721"
-  },
-  {
-    "uid": "schedule-request-3858206-occurrence-8952729",
-    "title": "3858206 - Volleyball (Girls JV) @ Girard Sr High School",
-    "summary": "3858206 - Volleyball (Girls JV) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-24 5:30 PM",
-    "end": "2026-09-24 7:30 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858206/occurrences/8952729"
   },
   {
     "uid": "schedule-request-3858208-occurrence-8952731",
@@ -1430,17 +1397,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857770/occurrences/8952178"
   },
   {
-    "uid": "schedule-request-3857773-occurrence-8952181",
-    "title": "3857773 - Soccer (Boys V) vs Salem High School",
-    "summary": "3857773 - Soccer (Boys V) vs Salem High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-24 7:00 PM",
-    "end": "2026-09-24 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857773/occurrences/8952181"
-  },
-  {
     "uid": "schedule-request-3857775-occurrence-8952183",
     "title": "3857775 - Basketball (Girls V) vs Hubbard High School",
     "summary": "3857775 - Basketball (Girls V) vs Hubbard High School",
@@ -1560,17 +1516,6 @@
     "end": "2026-10-07 7:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857792/occurrences/8952200"
-  },
-  {
-    "uid": "schedule-request-3857793-occurrence-8952201",
-    "title": "3857793 - Soccer (Boys JV) vs Salem High School",
-    "summary": "3857793 - Soccer (Boys JV) vs Salem High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-24 5:00 PM",
-    "end": "2026-09-24 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857793/occurrences/8952201"
   },
   {
     "uid": "schedule-request-3857794-occurrence-8952202",
@@ -4143,7 +4088,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "pshs stadium parking lot,akron university",
+    "location": "akron university,pshs stadium parking lot",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {

@@ -1,5 +1,61 @@
 [
   {
+    "timestamp": "2026-09-25T01:08:02.891Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858119-occurrence-8952642",
+        "title": "3858119 - Volleyball (Girls V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 7:00 PM",
+        "end": "2026-09-24 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858176-occurrence-8952699",
+        "title": "3858176 - Soccer (Girls V) @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 5:00 PM",
+        "end": "2026-09-24 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858206-occurrence-8952729",
+        "title": "3858206 - Volleyball (Girls JV) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-24 5:30 PM",
+        "end": "2026-09-24 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857773-occurrence-8952181",
+        "title": "3857773 - Soccer (Boys V) vs Salem High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-24 7:00 PM",
+        "end": "2026-09-24 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857793-occurrence-8952201",
+        "title": "3857793 - Soccer (Boys JV) vs Salem High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-24 5:00 PM",
+        "end": "2026-09-24 7:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "pshs stadium parking lot,akron university",
+            "to": "akron university,pshs stadium parking lot"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-24T22:56:20.290Z",
     "added": [],
     "removed": [
@@ -79848,20 +79904,6 @@
         "type": "Athletics - Home",
         "start": "2025-07-26 8:00 AM",
         "end": "2025-07-26 10:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-26T05:55:18.948Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2870146-occurrence-6974588",
-        "title": "2870146 - Time: TBA - Stadium Training Day",
-        "type": "School Activity",
-        "start": "2025-07-25 12:00 AM",
-        "end": "2025-07-25 7:59 PM"
       }
     ],
     "edited": []
