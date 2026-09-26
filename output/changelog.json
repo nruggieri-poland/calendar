@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-09-26T00:20:59.761Z",
+    "added": [],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "pshs stadium parking lot,akron university",
+            "to": "akron university,pshs stadium parking lot"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-25T18:10:36.068Z",
     "added": [
       {
@@ -79904,20 +79924,6 @@
         "type": "Athletics - Home",
         "start": "2025-07-28 8:00 AM",
         "end": "2025-07-28 10:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-28T05:41:49.062Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2905206-occurrence-7104852",
-        "title": "2905206 - Girls Varsity Lacrosse",
-        "type": "Athletics - Home",
-        "start": "2025-07-27 6:00 PM",
-        "end": "2025-07-27 8:00 PM"
       }
     ],
     "edited": []
