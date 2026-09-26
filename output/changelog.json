@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-09-26T05:45:30.368Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858160-occurrence-8952683",
+        "title": "3858160 - Football (Boys V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-25 7:00 PM",
+        "end": "2026-09-25 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-26T00:20:59.761Z",
     "added": [],
     "removed": [],
@@ -79910,20 +79924,6 @@
         "type": "Athletics - Home",
         "start": "2025-07-30 8:00 AM",
         "end": "2025-07-30 10:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-07-29T05:46:04.101Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2903756-occurrence-7099367",
-        "title": "2903756 - Girls Varsity Golf vs Hubbard High School",
-        "type": "Athletics - Home",
-        "start": "2025-07-28 8:00 AM",
-        "end": "2025-07-28 10:00 AM"
       }
     ],
     "edited": []
