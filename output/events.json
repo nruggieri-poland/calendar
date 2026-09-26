@@ -484,17 +484,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858057/occurrences/8952470"
   },
   {
-    "uid": "schedule-request-3858058-occurrence-8952471",
-    "title": "3858058 - Cross Country (Coed V) @ Buhl Park",
-    "summary": "3858058 - Cross Country (Coed V) @ Buhl Park",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-26 9:15 AM",
-    "end": "2026-09-26 11:15 AM",
-    "location": "Buhl Park",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858058/occurrences/8952471"
-  },
-  {
     "uid": "schedule-request-3858060-occurrence-8952473",
     "title": "3858060 - Volleyball (Girls V) @ Struthers High School",
     "summary": "3858060 - Volleyball (Girls V) @ Struthers High School",
@@ -1188,17 +1177,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858214/occurrences/8952737"
   },
   {
-    "uid": "schedule-request-3858216-occurrence-8952739",
-    "title": "3858216 - Soccer (Girls V) @ West Branch High School",
-    "summary": "3858216 - Soccer (Girls V) @ West Branch High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-26 11:30 AM",
-    "end": "2026-09-26 1:30 PM",
-    "location": "West Branch High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858216/occurrences/8952739"
-  },
-  {
     "uid": "schedule-request-3858217-occurrence-8952740",
     "title": "3858217 - Basketball (Boys JV) @ Niles McKinley High School",
     "summary": "3858217 - Basketball (Boys JV) @ Niles McKinley High School",
@@ -1208,17 +1186,6 @@
     "end": "2026-12-18 7:30 PM",
     "location": "Niles McKinley High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858217/occurrences/8952740"
-  },
-  {
-    "uid": "schedule-request-3858219-occurrence-8952742",
-    "title": "3858219 - Soccer (Girls JV) @ West Branch High School",
-    "summary": "3858219 - Soccer (Girls JV) @ West Branch High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-26 10:00 AM",
-    "end": "2026-09-26 12:00 PM",
-    "location": "West Branch High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858219/occurrences/8952742"
   },
   {
     "uid": "schedule-request-3858222-occurrence-8952745",
@@ -2176,17 +2143,6 @@
     "end": "2027-01-30 10:00 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857888/occurrences/8952296"
-  },
-  {
-    "uid": "schedule-request-3857892-occurrence-8952300",
-    "title": "3857892 - Football (Boys JV) vs South Range High School",
-    "summary": "3857892 - Football (Boys JV) vs South Range High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-26 10:00 AM",
-    "end": "2026-09-26 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857892/occurrences/8952300"
   },
   {
     "uid": "schedule-request-3857893-occurrence-8952301",
