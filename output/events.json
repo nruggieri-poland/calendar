@@ -3608,17 +3608,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952798"
   },
   {
-    "uid": "schedule-request-3858258-occurrence-8952801",
-    "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
-    "summary": "3858258 - Poland Players Set Building @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-26 9:30 AM",
-    "end": "2026-09-26 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952801"
-  },
-  {
     "uid": "schedule-request-3858258-occurrence-8952802",
     "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
     "summary": "3858258 - Poland Players Set Building @ PSHS Auditorium",
@@ -4033,7 +4022,7 @@
     "color": "#828282",
     "start": "2026-10-26 5:00 PM",
     "end": "2026-10-26 7:00 PM",
-    "location": "akron university,pshs stadium parking lot",
+    "location": "pshs stadium parking lot,akron university",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {

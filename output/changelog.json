@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-26T21:44:56.613Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858258-occurrence-8952801",
+        "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-26 9:30 AM",
+        "end": "2026-09-26 5:00 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM",
+        "changes": {
+          "location": {
+            "from": "akron university,pshs stadium parking lot",
+            "to": "pshs stadium parking lot,akron university"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-26T18:13:33.105Z",
     "added": [],
     "removed": [
@@ -79917,27 +79945,6 @@
         "type": "School Activity",
         "start": "2026-06-05 12:00 PM",
         "end": "2026-06-05 2:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-01T05:50:25.321Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2903758-occurrence-7099369",
-        "title": "2903758 - Girls Varsity Golf @ Hubbard High School",
-        "type": "Athletics - Away",
-        "start": "2025-07-31 3:00 PM",
-        "end": "2025-07-31 5:00 PM"
-      },
-      {
-        "uid": "schedule-request-2939773-occurrence-7157705",
-        "title": "2939773 - Boys Varsity Golf vs Springfield Local High School",
-        "type": "Athletics - Home",
-        "start": "2025-07-31 8:00 AM",
-        "end": "2025-07-31 10:00 AM"
       }
     ],
     "edited": []
