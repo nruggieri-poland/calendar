@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-29T03:48:09.176Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858152-occurrence-8952675",
+        "title": "3858152 - Volleyball (Girls V) @ Champion High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-28 6:45 PM",
+        "end": "2026-09-28 8:45 PM"
+      },
+      {
+        "uid": "schedule-request-3857801-occurrence-8952209",
+        "title": "3857801 - Soccer (Girls V) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-28 7:00 PM",
+        "end": "2026-09-28 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858262-occurrence-8952827",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-28 6:00 PM",
+        "end": "2026-09-28 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-28T23:37:16.271Z",
     "added": [
       {
@@ -64407,27 +64435,6 @@
         "end": "2025-08-04 12:00 PM"
       }
     ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-04T17:40:05.762Z",
-    "added": [
-      {
-        "uid": "schedule-request-3860560-occurrence-8959200",
-        "title": "3860560 - Baseball (Boys V) @ Salem High School",
-        "type": "Athletics - Away",
-        "start": "2027-05-14 7:00 PM",
-        "end": "2027-05-14 9:00 PM"
-      },
-      {
-        "uid": "schedule-request-3860558-occurrence-8959198",
-        "title": "3860558 - Baseball (Boys JV) vs Salem High School",
-        "type": "Athletics - Home",
-        "start": "2027-05-14 7:00 PM",
-        "end": "2027-05-14 9:00 PM"
-      }
-    ],
-    "removed": [],
     "edited": []
   }
 ]
