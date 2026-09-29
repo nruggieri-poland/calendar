@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-09-29T21:12:24.611Z",
+    "added": [
+      {
+        "uid": "schedule-request-4050114-occurrence-9371529",
+        "title": "4050114 - Girls Tennis Banquet @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-21 6:30 PM",
+        "end": "2026-10-21 7:30 PM"
+      }
+    ],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3857857-occurrence-8952265",
+        "title": "3857857 - Soccer (Boys JV) vs Warren G Harding High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-10 12:00 PM",
+        "end": "2026-10-10 2:00 PM",
+        "changes": {
+          "title": {
+            "from": "3857857 - Soccer (Boys JV) vs Conneaut High School",
+            "to": "3857857 - Soccer (Boys JV) vs Warren G Harding High School"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-29T16:43:41.575Z",
     "added": [
       {
@@ -64429,20 +64457,6 @@
         "end": "2026-09-08 5:30 PM"
       }
     ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-05T13:54:46.052Z",
-    "added": [
-      {
-        "uid": "schedule-request-3862320-occurrence-8964434",
-        "title": "3862320 - Football picnic @ Dave Pavlansky Field",
-        "type": "Other",
-        "start": "2026-08-08 4:00 PM",
-        "end": "2026-08-08 8:00 PM"
-      }
-    ],
-    "removed": [],
     "edited": []
   }
 ]

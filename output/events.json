@@ -1926,8 +1926,8 @@
   },
   {
     "uid": "schedule-request-3857857-occurrence-8952265",
-    "title": "3857857 - Soccer (Boys JV) vs Conneaut High School",
-    "summary": "3857857 - Soccer (Boys JV) vs Conneaut High School",
+    "title": "3857857 - Soccer (Boys JV) vs Warren G Harding High School",
+    "summary": "3857857 - Soccer (Boys JV) vs Warren G Harding High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
     "start": "2026-10-10 12:00 PM",
@@ -4189,6 +4189,17 @@
     "end": "2026-10-07 4:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4049372/occurrences/9368215"
+  },
+  {
+    "uid": "schedule-request-4050114-occurrence-9371529",
+    "title": "4050114 - Girls Tennis Banquet @ PSHS Cafeteria",
+    "summary": "4050114 - Girls Tennis Banquet @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-21 6:30 PM",
+    "end": "2026-10-21 7:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4050114/occurrences/9371529"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",
