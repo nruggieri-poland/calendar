@@ -3609,8 +3609,8 @@
   },
   {
     "uid": "schedule-request-3858259-occurrence-8952813",
-    "title": "3858259 - Poland Players Rehearsal @ TBD",
-    "summary": "3858259 - Poland Players Rehearsal @ TBD",
+    "title": "Canceled: 3858259 - Poland Players Rehearsal @ TBD",
+    "summary": "Canceled: 3858259 - Poland Players Rehearsal @ TBD",
     "type": "Other",
     "color": "#828282",
     "start": "2026-10-08 2:30 PM",
@@ -4169,17 +4169,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4045403/occurrences/9358471"
   },
   {
-    "uid": "schedule-request-4048435-occurrence-9366025",
-    "title": "4048435 - OU College Visit @ PSHS Auditorium",
-    "summary": "4048435 - OU College Visit @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-29 10:00 AM",
-    "end": "2026-09-29 11:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4048435/occurrences/9366025"
-  },
-  {
     "uid": "schedule-request-4048569-occurrence-9366323",
     "title": "4048569 - All Sports Booster Meeting @ PSHS Cafeteria",
     "summary": "4048569 - All Sports Booster Meeting @ PSHS Cafeteria",
@@ -4189,6 +4178,17 @@
     "end": "2026-10-07 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4048569/occurrences/9366323"
+  },
+  {
+    "uid": "schedule-request-4049372-occurrence-9368215",
+    "title": "4049372 - Pickelball Tournament @ PSHS Tennis Courts",
+    "summary": "4049372 - Pickelball Tournament @ PSHS Tennis Courts",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-07 2:30 PM",
+    "end": "2026-10-07 4:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4049372/occurrences/9368215"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",

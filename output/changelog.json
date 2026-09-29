@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": "2026-09-29T16:43:41.575Z",
+    "added": [
+      {
+        "uid": "schedule-request-4049372-occurrence-9368215",
+        "title": "4049372 - Pickelball Tournament @ PSHS Tennis Courts",
+        "type": "Other",
+        "start": "2026-10-07 2:30 PM",
+        "end": "2026-10-07 4:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-4048435-occurrence-9366025",
+        "title": "4048435 - OU College Visit @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-29 10:00 AM",
+        "end": "2026-09-29 11:00 AM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3858259-occurrence-8952813",
+        "title": "Canceled: 3858259 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2026-10-08 2:30 PM",
+        "end": "2026-10-08 5:00 PM",
+        "changes": {
+          "title": {
+            "from": "3858259 - Poland Players Rehearsal @ TBD",
+            "to": "Canceled: 3858259 - Poland Players Rehearsal @ TBD"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-29T03:48:09.176Z",
     "added": [],
     "removed": [
@@ -64407,34 +64443,6 @@
       }
     ],
     "removed": [],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-05T06:23:35.115Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2719952-occurrence-6608203",
-        "title": "2719952 - Girls Junior Varsity Soccer @ Warren G Harding HS (Scrimmage)",
-        "type": "Athletics - Away",
-        "start": "2025-08-04 6:00 PM",
-        "end": "2025-08-04 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-2719953-occurrence-6608204",
-        "title": "2719953 - Girls Varsity Soccer @ Warren G Harding HS (Scrimmage)",
-        "type": "Athletics - Away",
-        "start": "2025-08-04 8:00 PM",
-        "end": "2025-08-04 10:00 PM"
-      },
-      {
-        "uid": "schedule-request-2939774-occurrence-7157706",
-        "title": "2939774 - Boys Varsity Golf @ OPEN (JFK Invitational)",
-        "type": "Athletics - Away",
-        "start": "2025-08-04 10:00 AM",
-        "end": "2025-08-04 12:00 PM"
-      }
-    ],
     "edited": []
   }
 ]
