@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-09-30T22:46:13.514Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858156-occurrence-8952679",
+        "title": "3858156 - Cross Country (Coed V) @ Austintown Township Park",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 4:45 PM",
+        "end": "2026-09-30 6:45 PM"
+      },
+      {
+        "uid": "schedule-request-3857784-occurrence-8952192",
+        "title": "3857784 - Volleyball (Girls 7) vs GLENWOOD MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 5:00 PM",
+        "end": "2026-09-30 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858260-occurrence-8952817",
+        "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-09-30 2:30 PM",
+        "end": "2026-09-30 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-3907292-occurrence-9093840",
+        "title": "3907292 - Speech and Debate All Team Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-09-30 4:00 PM",
+        "end": "2026-09-30 6:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-30T18:45:44.364Z",
     "added": [
       {
@@ -49031,26 +49066,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-06T13:52:13.072Z",
-    "added": [
-      {
-        "uid": "schedule-request-3866266-occurrence-8973997",
-        "title": "3866266 - Holiday Shoppe @ PE Gym",
-        "type": "Other",
-        "start": "2026-11-07 9:00 AM",
-        "end": "2026-11-07 4:00 PM"
-      },
-      {
-        "uid": "schedule-request-3866267-occurrence-8973998",
-        "title": "3866267 - Holiday Shoppe Set Up @ PE Gym",
-        "type": "Other",
-        "start": "2026-11-06 9:00 AM",
-        "end": "2026-11-06 6:00 PM"
-      }
-    ],
-    "removed": [],
-    "edited": []
   }
 ]

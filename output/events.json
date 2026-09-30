@@ -825,17 +825,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858154/occurrences/8952677"
   },
   {
-    "uid": "schedule-request-3858156-occurrence-8952679",
-    "title": "3858156 - Cross Country (Coed V) @ Austintown Township Park",
-    "summary": "3858156 - Cross Country (Coed V) @ Austintown Township Park",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-30 4:45 PM",
-    "end": "2026-09-30 6:45 PM",
-    "location": "Austintown Township Park",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858156/occurrences/8952679"
-  },
-  {
     "uid": "schedule-request-3858158-occurrence-8952681",
     "title": "3858158 - Basketball (Girls 8) @ GLENWOOD MIDDLE SCHOOL",
     "summary": "3858158 - Basketball (Girls 8) @ GLENWOOD MIDDLE SCHOOL",
@@ -1395,17 +1384,6 @@
     "end": "2027-01-19 9:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857783/occurrences/8952191"
-  },
-  {
-    "uid": "schedule-request-3857784-occurrence-8952192",
-    "title": "3857784 - Volleyball (Girls 7) vs GLENWOOD MIDDLE SCHOOL",
-    "summary": "3857784 - Volleyball (Girls 7) vs GLENWOOD MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-30 5:00 PM",
-    "end": "2026-09-30 6:00 PM",
-    "location": "47 College St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857784/occurrences/8952192"
   },
   {
     "uid": "schedule-request-3857787-occurrence-8952195",
@@ -3586,17 +3564,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858259/occurrences/8952813"
   },
   {
-    "uid": "schedule-request-3858260-occurrence-8952817",
-    "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-30 2:30 PM",
-    "end": "2026-09-30 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952817"
-  },
-  {
     "uid": "schedule-request-3858260-occurrence-8952818",
     "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -3749,17 +3716,6 @@
     "end": "2026-10-24 6:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3878857/occurrences/9012545"
-  },
-  {
-    "uid": "schedule-request-3907292-occurrence-9093840",
-    "title": "3907292 - Speech and Debate All Team Meeting @ PSHS Cafeteria",
-    "summary": "3907292 - Speech and Debate All Team Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-30 4:00 PM",
-    "end": "2026-09-30 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3907292/occurrences/9093840"
   },
   {
     "uid": "schedule-request-3907293-occurrence-9093841",
