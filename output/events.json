@@ -1991,17 +1991,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857868/occurrences/8952276"
   },
   {
-    "uid": "schedule-request-3857869-occurrence-8952277",
-    "title": "3857869 - Volleyball (Girls JV) vs Hubbard High School",
-    "summary": "3857869 - Volleyball (Girls JV) vs Hubbard High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-29 5:30 PM",
-    "end": "2026-09-29 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857869/occurrences/8952277"
-  },
-  {
     "uid": "schedule-request-3857873-occurrence-8952281",
     "title": "3857873 - Basketball (Boys V) vs Howland High School",
     "summary": "3857873 - Basketball (Boys V) vs Howland High School",
@@ -3443,17 +3432,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952788"
   },
   {
-    "uid": "schedule-request-3858257-occurrence-8952792",
-    "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-29 6:00 PM",
-    "end": "2026-09-29 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952792"
-  },
-  {
     "uid": "schedule-request-3858257-occurrence-8952793",
     "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -3925,17 +3903,6 @@
     "end": "2026-10-08 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4003948/occurrences/9259858"
-  },
-  {
-    "uid": "schedule-request-4010041-occurrence-9277710",
-    "title": "4010041 - Boys Lacrosse Meeting @ PSHS Library",
-    "summary": "4010041 - Boys Lacrosse Meeting @ PSHS Library",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-09-29 7:00 PM",
-    "end": "2026-09-29 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4010041/occurrences/9277710"
   },
   {
     "uid": "schedule-request-4010042-occurrence-9277712",
