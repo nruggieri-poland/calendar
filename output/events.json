@@ -2376,17 +2376,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857932/occurrences/8952340"
   },
   {
-    "uid": "schedule-request-3857933-occurrence-8952341",
-    "title": "3857933 - Volleyball (Girls V) vs Hubbard High School",
-    "summary": "3857933 - Volleyball (Girls V) vs Hubbard High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-29 7:00 PM",
-    "end": "2026-09-29 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857933/occurrences/8952341"
-  },
-  {
     "uid": "schedule-request-3857935-occurrence-8952343",
     "title": "3857935 - Soccer (Girls V) vs St. Vincent-St. Mary H.S.",
     "summary": "3857935 - Soccer (Girls V) vs St. Vincent-St. Mary H.S.",
@@ -4222,17 +4211,6 @@
     "end": "2027-05-12 11:30 AM",
     "location": "3030 Dobbins Road",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3998414/occurrences/9245814"
-  },
-  {
-    "uid": "schedule-request-4044548-occurrence-9356511",
-    "title": "4044548 - PTO Spirit Wear",
-    "summary": "4044548 - PTO Spirit Wear",
-    "type": "PTO Meeting",
-    "color": "#cd69fc",
-    "start": "2026-09-29 12:00 AM",
-    "end": "2026-09-29 7:59 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356511"
   },
   {
     "uid": "schedule-request-4044548-occurrence-9356512",
