@@ -1,5 +1,76 @@
 [
   {
+    "timestamp": "2026-09-30T18:45:44.364Z",
+    "added": [
+      {
+        "uid": "schedule-request-4050629-occurrence-9373159",
+        "title": "4050629 - NHS Senior Year Informational Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-01 2:15 PM",
+        "end": "2026-10-01 2:45 PM"
+      },
+      {
+        "uid": "schedule-request-4050723-occurrence-9373560",
+        "title": "4050723 - Speech and Debate Judge Training Meeting @ PSHS LIBRARY & CAFETERIA",
+        "type": "Other",
+        "start": "2026-10-14 6:00 PM",
+        "end": "2026-10-14 7:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-4044548-occurrence-9356513",
+        "title": "4044548 - PTO Spirit Wear",
+        "type": "PTO Meeting",
+        "start": "2026-10-01 12:00 AM",
+        "end": "2026-10-01 7:59 PM"
+      },
+      {
+        "uid": "schedule-request-4044548-occurrence-9356514",
+        "title": "4044548 - PTO Spirit Wear",
+        "type": "PTO Meeting",
+        "start": "2026-10-02 12:00 AM",
+        "end": "2026-10-02 7:59 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3858037-occurrence-8952450",
+        "title": "3858037 - Basketball (Boys JV) @ Springfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-09 10:30 AM",
+        "end": "2027-01-09 12:30 PM",
+        "changes": {
+          "start": {
+            "from": "2027-01-09 11:00 AM",
+            "to": "2027-01-09 10:30 AM"
+          },
+          "end": {
+            "from": "2027-01-09 1:00 PM",
+            "to": "2027-01-09 12:30 PM"
+          }
+        }
+      },
+      {
+        "uid": "schedule-request-3858184-occurrence-8952707",
+        "title": "3858184 - Basketball (Boys V) @ Springfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-01-09 12:00 PM",
+        "end": "2027-01-09 2:00 PM",
+        "changes": {
+          "start": {
+            "from": "2027-01-09 1:30 PM",
+            "to": "2027-01-09 12:00 PM"
+          },
+          "end": {
+            "from": "2027-01-09 3:30 PM",
+            "to": "2027-01-09 2:00 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-30T06:20:58.180Z",
     "added": [],
     "removed": [
@@ -48980,34 +49051,6 @@
       }
     ],
     "removed": [],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-06T05:42:40.189Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2903759-occurrence-7099370",
-        "title": "2903759 - Girls Varsity Golf @ OPEN (Tiger Invitational)",
-        "type": "Athletics - Away",
-        "start": "2025-08-05 9:00 AM",
-        "end": "2025-08-05 11:00 AM"
-      },
-      {
-        "uid": "schedule-request-2939775-occurrence-7157707",
-        "title": "2939775 - Time: TBA - Boys Varsity Golf @ South Range High School (and Lakeview)",
-        "type": "Athletics - Away",
-        "start": "2025-08-05 12:00 AM",
-        "end": "2025-08-05 7:59 PM"
-      },
-      {
-        "uid": "schedule-request-2842842-occurrence-6918980",
-        "title": "2842842 - Girls Varsity Volleyball vs Ursuline High School (Scrimmage)",
-        "type": "Athletics - Home",
-        "start": "2025-08-05 9:00 AM",
-        "end": "2025-08-05 11:00 AM"
-      }
-    ],
     "edited": []
   }
 ]

@@ -379,8 +379,8 @@
     "summary": "3858037 - Basketball (Boys JV) @ Springfield High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2027-01-09 11:00 AM",
-    "end": "2027-01-09 1:00 PM",
+    "start": "2027-01-09 10:30 AM",
+    "end": "2027-01-09 12:30 PM",
     "location": "Springfield High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858037/occurrences/8952450"
   },
@@ -984,8 +984,8 @@
     "summary": "3858184 - Basketball (Boys V) @ Springfield High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2027-01-09 1:30 PM",
-    "end": "2027-01-09 3:30 PM",
+    "start": "2027-01-09 12:00 PM",
+    "end": "2027-01-09 2:00 PM",
     "location": "Springfield High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858184/occurrences/8952707"
   },
@@ -4158,6 +4158,28 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4050114/occurrences/9371529"
   },
   {
+    "uid": "schedule-request-4050629-occurrence-9373159",
+    "title": "4050629 - NHS Senior Year Informational Meeting @ PSHS Cafeteria",
+    "summary": "4050629 - NHS Senior Year Informational Meeting @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-01 2:15 PM",
+    "end": "2026-10-01 2:45 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4050629/occurrences/9373159"
+  },
+  {
+    "uid": "schedule-request-4050723-occurrence-9373560",
+    "title": "4050723 - Speech and Debate Judge Training Meeting @ PSHS LIBRARY & CAFETERIA",
+    "summary": "4050723 - Speech and Debate Judge Training Meeting @ PSHS LIBRARY & CAFETERIA",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-14 6:00 PM",
+    "end": "2026-10-14 7:00 PM",
+    "location": "PSHS LIBRARY & CAFETERIA",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4050723/occurrences/9373560"
+  },
+  {
     "uid": "schedule-request-3998392-occurrence-9245645",
     "title": "3998392 - PTO Meeting",
     "summary": "3998392 - PTO Meeting",
@@ -4222,28 +4244,6 @@
     "end": "2026-09-30 7:59 PM",
     "location": "3030 Dobbins Road",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356512"
-  },
-  {
-    "uid": "schedule-request-4044548-occurrence-9356513",
-    "title": "4044548 - PTO Spirit Wear",
-    "summary": "4044548 - PTO Spirit Wear",
-    "type": "PTO Meeting",
-    "color": "#cd69fc",
-    "start": "2026-10-01 12:00 AM",
-    "end": "2026-10-01 7:59 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356513"
-  },
-  {
-    "uid": "schedule-request-4044548-occurrence-9356514",
-    "title": "4044548 - PTO Spirit Wear",
-    "summary": "4044548 - PTO Spirit Wear",
-    "type": "PTO Meeting",
-    "color": "#cd69fc",
-    "start": "2026-10-02 12:00 AM",
-    "end": "2026-10-02 7:59 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4044548/occurrences/9356514"
   },
   {
     "uid": "schedule-request-3888169-occurrence-9035159",
