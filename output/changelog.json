@@ -1,5 +1,37 @@
 [
   {
+    "timestamp": "2026-10-01T20:44:41.085Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4050629-occurrence-9373159",
+        "title": "4050629 - NHS Senior Year Informational Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-01 2:15 PM",
+        "end": "2026-10-01 2:45 PM"
+      }
+    ],
+    "edited": [
+      {
+        "uid": "schedule-request-3918052-occurrence-9115497",
+        "title": "3918052 - Football (Boys 7) @ Liberty High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-07 7:00 PM",
+        "end": "2026-10-07 9:00 PM",
+        "changes": {
+          "start": {
+            "from": "2026-10-07 5:00 PM",
+            "to": "2026-10-07 7:00 PM"
+          },
+          "end": {
+            "from": "2026-10-07 7:00 PM",
+            "to": "2026-10-07 9:00 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-01T08:10:37.718Z",
     "added": [],
     "removed": [
@@ -49030,27 +49062,6 @@
         "type": "Athletics - Home",
         "start": "2026-09-08 6:00 PM",
         "end": "2026-09-08 8:00 PM"
-      }
-    ],
-    "removed": [],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-07T14:08:39.876Z",
-    "added": [
-      {
-        "uid": "schedule-request-3868507-occurrence-8980836",
-        "title": "3868507 - Soccer (Girls JV) @ Austintown Fitch High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-13 5:30 PM",
-        "end": "2026-08-13 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-3868509-occurrence-8980838",
-        "title": "3868509 - Soccer (Girls V) @ Austintown Fitch High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-13 6:30 PM",
-        "end": "2026-08-13 8:30 PM"
       }
     ],
     "removed": [],

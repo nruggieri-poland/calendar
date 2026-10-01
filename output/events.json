@@ -1193,8 +1193,8 @@
     "summary": "3918052 - Football (Boys 7) @ Liberty High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-10-07 5:00 PM",
-    "end": "2026-10-07 7:00 PM",
+    "start": "2026-10-07 7:00 PM",
+    "end": "2026-10-07 9:00 PM",
     "location": "Liberty High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3918052/occurrences/9115497"
   },
@@ -4035,17 +4035,6 @@
     "end": "2026-10-21 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4050114/occurrences/9371529"
-  },
-  {
-    "uid": "schedule-request-4050629-occurrence-9373159",
-    "title": "4050629 - NHS Senior Year Informational Meeting @ PSHS Cafeteria",
-    "summary": "4050629 - NHS Senior Year Informational Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-01 2:15 PM",
-    "end": "2026-10-01 2:45 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4050629/occurrences/9373159"
   },
   {
     "uid": "schedule-request-4050723-occurrence-9373560",
