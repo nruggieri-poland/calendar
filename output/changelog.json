@@ -1,5 +1,61 @@
 [
   {
+    "timestamp": "2026-10-01T01:45:04.330Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858023-occurrence-8952431",
+        "title": "3858023 - Cross Country (Coed MS) @ Austintown Township Park",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 5:50 PM",
+        "end": "2026-09-30 7:50 PM"
+      },
+      {
+        "uid": "schedule-request-3858121-occurrence-8952644",
+        "title": "3858121 - Football (Boys F) @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 7:30 PM",
+        "end": "2026-09-30 9:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858166-occurrence-8952689",
+        "title": "3858166 - Football (Boys 8) @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 6:30 PM",
+        "end": "2026-09-30 8:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858171-occurrence-8952694",
+        "title": "3858171 - Football (Boys 7) @ Niles Middle School",
+        "type": "Athletics - Away",
+        "start": "2026-09-30 5:00 PM",
+        "end": "2026-09-30 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857781-occurrence-8952189",
+        "title": "3857781 - Soccer (Boys JV) vs Warren G Harding High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 7:00 PM",
+        "end": "2026-09-30 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857808-occurrence-8952216",
+        "title": "3857808 - Volleyball (Girls 8) vs GLENWOOD MIDDLE SCHOOL",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 6:00 PM",
+        "end": "2026-09-30 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857913-occurrence-8952321",
+        "title": "3857913 - Soccer (Girls JV) vs Cardinal Mooney High School",
+        "type": "Athletics - Home",
+        "start": "2026-09-30 5:00 PM",
+        "end": "2026-09-30 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-09-30T22:46:13.514Z",
     "added": [],
     "removed": [
@@ -49027,44 +49083,5 @@
       }
     ],
     "edited": []
-  },
-  {
-    "timestamp": "2026-08-07T00:37:59.568Z",
-    "added": [
-      {
-        "uid": "schedule-request-3866408-occurrence-8974392",
-        "title": "3866408 - Golf (Boys V) @ Shenango High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-14 11:00 AM",
-        "end": "2026-08-14 1:00 PM"
-      },
-      {
-        "uid": "schedule-request-3866771-occurrence-8976236",
-        "title": "3866771 - Tennis (Girls V) @ Struthers High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-12 4:00 PM",
-        "end": "2026-08-12 6:00 PM"
-      }
-    ],
-    "removed": [],
-    "edited": [
-      {
-        "uid": "schedule-request-3858006-occurrence-8952414",
-        "title": "3858006 - Golf (Girls V) @ Boardman High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-13 12:00 PM",
-        "end": "2026-08-13 2:00 PM",
-        "changes": {
-          "start": {
-            "from": "2026-08-13 10:00 AM",
-            "to": "2026-08-13 12:00 PM"
-          },
-          "end": {
-            "from": "2026-08-13 12:00 PM",
-            "to": "2026-08-13 2:00 PM"
-          }
-        }
-      }
-    ]
   }
 ]

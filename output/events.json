@@ -297,17 +297,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858021/occurrences/8952429"
   },
   {
-    "uid": "schedule-request-3858023-occurrence-8952431",
-    "title": "3858023 - Cross Country (Coed MS) @ Austintown Township Park",
-    "summary": "3858023 - Cross Country (Coed MS) @ Austintown Township Park",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-30 5:50 PM",
-    "end": "2026-09-30 7:50 PM",
-    "location": "Austintown Township Park",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858023/occurrences/8952431"
-  },
-  {
     "uid": "schedule-request-3858026-occurrence-8952439",
     "title": "3858026 - Football (Boys 8) @ Girard Sr High School",
     "summary": "3858026 - Football (Boys 8) @ Girard Sr High School",
@@ -616,17 +605,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858113/occurrences/8952636"
   },
   {
-    "uid": "schedule-request-3858121-occurrence-8952644",
-    "title": "3858121 - Football (Boys F) @ Niles McKinley High School",
-    "summary": "3858121 - Football (Boys F) @ Niles McKinley High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-30 7:30 PM",
-    "end": "2026-09-30 9:30 PM",
-    "location": "Niles McKinley High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858121/occurrences/8952644"
-  },
-  {
     "uid": "schedule-request-3858123-occurrence-8952646",
     "title": "3858123 - Basketball (Girls JV) @ Hubbard High School",
     "summary": "3858123 - Basketball (Girls JV) @ Hubbard High School",
@@ -891,17 +869,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858165/occurrences/8952688"
   },
   {
-    "uid": "schedule-request-3858166-occurrence-8952689",
-    "title": "3858166 - Football (Boys 8) @ Niles Middle School",
-    "summary": "3858166 - Football (Boys 8) @ Niles Middle School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-30 6:30 PM",
-    "end": "2026-09-30 8:30 PM",
-    "location": "Niles Middle School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858166/occurrences/8952689"
-  },
-  {
     "uid": "schedule-request-3858169-occurrence-8952692",
     "title": "3858169 - Basketball (Boys V) @ Lakeview High School",
     "summary": "3858169 - Basketball (Boys V) @ Lakeview High School",
@@ -922,17 +889,6 @@
     "end": "2027-01-06 7:00 PM",
     "location": "Hubbard MS",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858170/occurrences/8952693"
-  },
-  {
-    "uid": "schedule-request-3858171-occurrence-8952694",
-    "title": "3858171 - Football (Boys 7) @ Niles Middle School",
-    "summary": "3858171 - Football (Boys 7) @ Niles Middle School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-09-30 5:00 PM",
-    "end": "2026-09-30 7:00 PM",
-    "location": "Niles Middle School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858171/occurrences/8952694"
   },
   {
     "uid": "schedule-request-3858172-occurrence-8952695",
@@ -1353,17 +1309,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857780/occurrences/8952188"
   },
   {
-    "uid": "schedule-request-3857781-occurrence-8952189",
-    "title": "3857781 - Soccer (Boys JV) vs Warren G Harding High School",
-    "summary": "3857781 - Soccer (Boys JV) vs Warren G Harding High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-30 7:00 PM",
-    "end": "2026-09-30 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857781/occurrences/8952189"
-  },
-  {
     "uid": "schedule-request-3857782-occurrence-8952190",
     "title": "3857782 - Football (Boys V) vs Niles McKinley High School",
     "summary": "3857782 - Football (Boys V) vs Niles McKinley High School",
@@ -1516,17 +1461,6 @@
     "end": "2027-02-03 7:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857807/occurrences/8952215"
-  },
-  {
-    "uid": "schedule-request-3857808-occurrence-8952216",
-    "title": "3857808 - Volleyball (Girls 8) vs GLENWOOD MIDDLE SCHOOL",
-    "summary": "3857808 - Volleyball (Girls 8) vs GLENWOOD MIDDLE SCHOOL",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-30 6:00 PM",
-    "end": "2026-09-30 7:00 PM",
-    "location": "47 College St. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857808/occurrences/8952216"
   },
   {
     "uid": "schedule-request-3857809-occurrence-8952217",
@@ -2209,17 +2143,6 @@
     "end": "2026-10-07 6:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857912/occurrences/8952320"
-  },
-  {
-    "uid": "schedule-request-3857913-occurrence-8952321",
-    "title": "3857913 - Soccer (Girls JV) vs Cardinal Mooney High School",
-    "summary": "3857913 - Soccer (Girls JV) vs Cardinal Mooney High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-09-30 5:00 PM",
-    "end": "2026-09-30 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857913/occurrences/8952321"
   },
   {
     "uid": "schedule-request-3857914-occurrence-8952322",
