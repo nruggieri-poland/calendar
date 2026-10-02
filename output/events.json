@@ -77,17 +77,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857983/occurrences/8952391"
   },
   {
-    "uid": "schedule-request-3857986-occurrence-8952394",
-    "title": "3857986 - Volleyball (Girls 8) @ Campbell Memorial High School",
-    "summary": "3857986 - Volleyball (Girls 8) @ Campbell Memorial High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-01 6:30 PM",
-    "end": "2026-10-01 7:30 PM",
-    "location": "Campbell Memorial High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857986/occurrences/8952394"
-  },
-  {
     "uid": "schedule-request-3857988-occurrence-8952396",
     "title": "3857988 - Basketball (Boys F) @ Struthers High School",
     "summary": "3857988 - Basketball (Boys F) @ Struthers High School",
@@ -968,17 +957,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858188/occurrences/8952711"
   },
   {
-    "uid": "schedule-request-3858191-occurrence-8952714",
-    "title": "3858191 - Volleyball (Girls 7) @ Campbell Memorial High School",
-    "summary": "3858191 - Volleyball (Girls 7) @ Campbell Memorial High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-01 5:30 PM",
-    "end": "2026-10-01 6:30 PM",
-    "location": "Campbell Memorial High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858191/occurrences/8952714"
-  },
-  {
     "uid": "schedule-request-3858192-occurrence-8952715",
     "title": "3858192 - Soccer (Boys V) @ South Range High School",
     "summary": "3858192 - Soccer (Boys V) @ South Range High School",
@@ -1428,17 +1406,6 @@
     "end": "2027-02-10 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857803/occurrences/8952211"
-  },
-  {
-    "uid": "schedule-request-3857804-occurrence-8952212",
-    "title": "3857804 - Soccer (Boys V) vs Champion High School",
-    "summary": "3857804 - Soccer (Boys V) vs Champion High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-01 5:00 PM",
-    "end": "2026-10-01 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857804/occurrences/8952212"
   },
   {
     "uid": "schedule-request-3857805-occurrence-8952213",
@@ -3463,17 +3430,6 @@
     "end": "2026-11-14 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952808"
-  },
-  {
-    "uid": "schedule-request-3858259-occurrence-8952812",
-    "title": "3858259 - Poland Players Rehearsal @ TBD",
-    "summary": "3858259 - Poland Players Rehearsal @ TBD",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-01 2:30 PM",
-    "end": "2026-10-01 5:00 PM",
-    "location": "TBD",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858259/occurrences/8952812"
   },
   {
     "uid": "schedule-request-3858259-occurrence-8952813",

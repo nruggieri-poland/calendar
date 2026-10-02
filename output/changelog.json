@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-10-02T00:26:36.432Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857986-occurrence-8952394",
+        "title": "3857986 - Volleyball (Girls 8) @ Campbell Memorial High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-01 6:30 PM",
+        "end": "2026-10-01 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858191-occurrence-8952714",
+        "title": "3858191 - Volleyball (Girls 7) @ Campbell Memorial High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-01 5:30 PM",
+        "end": "2026-10-01 6:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857804-occurrence-8952212",
+        "title": "3857804 - Soccer (Boys V) vs Champion High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-01 5:00 PM",
+        "end": "2026-10-01 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858259-occurrence-8952812",
+        "title": "3858259 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2026-10-01 2:30 PM",
+        "end": "2026-10-01 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-01T20:44:41.085Z",
     "added": [],
     "removed": [
@@ -49041,27 +49076,6 @@
         "type": "Athletics - Away",
         "start": "2026-09-19 9:00 AM",
         "end": "2026-09-19 11:00 AM"
-      }
-    ],
-    "removed": [],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-07T16:47:30.503Z",
-    "added": [
-      {
-        "uid": "schedule-request-3869526-occurrence-8982572",
-        "title": "3869526 - Soccer (Boys JV) @ Louisville High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-31 6:30 PM",
-        "end": "2026-08-31 8:30 PM"
-      },
-      {
-        "uid": "schedule-request-3869525-occurrence-8982571",
-        "title": "3869525 - Soccer (Boys JV) vs Boardman High School",
-        "type": "Athletics - Home",
-        "start": "2026-09-08 6:00 PM",
-        "end": "2026-09-08 8:00 PM"
       }
     ],
     "removed": [],
