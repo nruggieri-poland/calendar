@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-02T06:34:54.735Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857935-occurrence-8952343",
+        "title": "3857935 - Soccer (Girls V) vs St. Vincent-St. Mary H.S.",
+        "type": "Athletics - Home",
+        "start": "2026-10-01 7:00 PM",
+        "end": "2026-10-01 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-02T00:26:36.432Z",
     "added": [],
     "removed": [
@@ -49058,27 +49072,6 @@
         "end": "2025-08-07 10:00 AM"
       }
     ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-07T21:33:17.856Z",
-    "added": [
-      {
-        "uid": "schedule-request-3869951-occurrence-8984200",
-        "title": "3869951 - Volleyball (Girls JV) @ Campbell Community Center",
-        "type": "Athletics - Away",
-        "start": "2026-09-26 9:00 AM",
-        "end": "2026-09-26 11:00 AM"
-      },
-      {
-        "uid": "schedule-request-3869952-occurrence-8984201",
-        "title": "3869952 - Volleyball (Girls JV) @ Campbell Community Center",
-        "type": "Athletics - Away",
-        "start": "2026-09-19 9:00 AM",
-        "end": "2026-09-19 11:00 AM"
-      }
-    ],
-    "removed": [],
     "edited": []
   }
 ]
