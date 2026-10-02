@@ -1243,6 +1243,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4031679/occurrences/9317172"
   },
   {
+    "uid": "schedule-request-4055578-occurrence-9385441",
+    "title": "4055578 - Baseball (Boys V) @ Hubbard High School",
+    "summary": "4055578 - Baseball (Boys V) @ Hubbard High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-05-12 5:00 PM",
+    "end": "2027-05-12 7:00 PM",
+    "location": "Hubbard High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4055578/occurrences/9385441"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -2594,6 +2605,17 @@
     "end": "2027-04-16 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4044554/occurrences/9356584"
+  },
+  {
+    "uid": "schedule-request-4055577-occurrence-9385440",
+    "title": "4055577 - Baseball (Boys V) vs Hubbard High School",
+    "summary": "4055577 - Baseball (Boys V) vs Hubbard High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-14 5:00 PM",
+    "end": "2027-04-14 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4055577/occurrences/9385440"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094724",
@@ -3991,6 +4013,17 @@
     "end": "2026-10-14 7:00 PM",
     "location": "PSHS LIBRARY & CAFETERIA",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4050723/occurrences/9373560"
+  },
+  {
+    "uid": "schedule-request-4055174-occurrence-9384444",
+    "title": "4055174 - Kent State college visit @ PSHS Auditorium",
+    "summary": "4055174 - Kent State college visit @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-06 9:00 AM",
+    "end": "2026-10-06 10:00 AM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4055174/occurrences/9384444"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",

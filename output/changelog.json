@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-02T18:54:04.551Z",
+    "added": [
+      {
+        "uid": "schedule-request-4055578-occurrence-9385441",
+        "title": "4055578 - Baseball (Boys V) @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-05-12 5:00 PM",
+        "end": "2027-05-12 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4055577-occurrence-9385440",
+        "title": "4055577 - Baseball (Boys V) vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-14 5:00 PM",
+        "end": "2027-04-14 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4055174-occurrence-9384444",
+        "title": "4055174 - Kent State college visit @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-06 9:00 AM",
+        "end": "2026-10-06 10:00 AM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-02T06:34:54.735Z",
     "added": [],
     "removed": [
@@ -49052,26 +49080,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-08T04:50:38.159Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2903760-occurrence-7099371",
-        "title": "2903760 - Girls Varsity Golf @ Lakeview High School",
-        "type": "Athletics - Away",
-        "start": "2025-08-07 1:00 PM",
-        "end": "2025-08-07 3:00 PM"
-      },
-      {
-        "uid": "schedule-request-2939986-occurrence-7158366",
-        "title": "2939986 - Boys Varsity Golf @ Ravenna High School (Ravenna Yank Heisler Invitational)",
-        "type": "Athletics - Away",
-        "start": "2025-08-07 8:00 AM",
-        "end": "2025-08-07 10:00 AM"
-      }
-    ],
-    "edited": []
   }
 ]
