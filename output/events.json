@@ -3949,6 +3949,39 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4055174/occurrences/9384444"
   },
   {
+    "uid": "schedule-request-4056719-occurrence-9389256",
+    "title": "4056719 - Football Banquet @ The Embassy",
+    "summary": "4056719 - Football Banquet @ The Embassy",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-09 6:00 PM",
+    "end": "2026-12-09 7:00 PM",
+    "location": "The Embassy",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4056719/occurrences/9389256"
+  },
+  {
+    "uid": "schedule-request-4056720-occurrence-9389257",
+    "title": "4056720 - Golf Banquet @ Reserve Run Golf Course",
+    "summary": "4056720 - Golf Banquet @ Reserve Run Golf Course",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-08 4:00 PM",
+    "end": "2026-11-08 7:00 PM",
+    "location": "Reserve Run Golf Course",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4056720/occurrences/9389257"
+  },
+  {
+    "uid": "schedule-request-4056722-occurrence-9389259",
+    "title": "4056722 - Girls Soccer Banquet @ TBD",
+    "summary": "4056722 - Girls Soccer Banquet @ TBD",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-24 6:00 PM",
+    "end": "2026-11-24 7:00 PM",
+    "location": "TBD",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4056722/occurrences/9389259"
+  },
+  {
     "uid": "schedule-request-3998392-occurrence-9245645",
     "title": "3998392 - PTO Meeting",
     "summary": "3998392 - PTO Meeting",
