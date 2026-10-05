@@ -308,17 +308,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858031/occurrences/8952444"
   },
   {
-    "uid": "schedule-request-3858032-occurrence-8952445",
-    "title": "3858032 - Soccer (Girls V) @ South Range High School",
-    "summary": "3858032 - Soccer (Girls V) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-05 5:00 PM",
-    "end": "2026-10-05 7:00 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858032/occurrences/8952445"
-  },
-  {
     "uid": "schedule-request-3858035-occurrence-8952448",
     "title": "3858035 - Basketball (Boys 8) @ Girard Sr High School",
     "summary": "3858035 - Basketball (Boys 8) @ Girard Sr High School",
@@ -946,17 +935,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858192/occurrences/8952715"
   },
   {
-    "uid": "schedule-request-3858193-occurrence-8952716",
-    "title": "3858193 - Volleyball (Girls 7) @ STRUTHERS MIDDLE SCHOOL",
-    "summary": "3858193 - Volleyball (Girls 7) @ STRUTHERS MIDDLE SCHOOL",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-05 5:00 PM",
-    "end": "2026-10-05 6:00 PM",
-    "location": "STRUTHERS MIDDLE SCHOOL",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858193/occurrences/8952716"
-  },
-  {
     "uid": "schedule-request-3858195-occurrence-8952718",
     "title": "3858195 - Basketball (Girls JV) @ South Range High School",
     "summary": "3858195 - Basketball (Girls JV) @ South Range High School",
@@ -977,17 +955,6 @@
     "end": "2027-02-02 9:00 PM",
     "location": "Struthers High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858196/occurrences/8952719"
-  },
-  {
-    "uid": "schedule-request-3858198-occurrence-8952721",
-    "title": "3858198 - Volleyball (Girls 8) @ STRUTHERS MIDDLE SCHOOL",
-    "summary": "3858198 - Volleyball (Girls 8) @ STRUTHERS MIDDLE SCHOOL",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-05 6:00 PM",
-    "end": "2026-10-05 7:00 PM",
-    "location": "STRUTHERS MIDDLE SCHOOL",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858198/occurrences/8952721"
   },
   {
     "uid": "schedule-request-3858208-occurrence-8952731",
@@ -1461,17 +1428,6 @@
     "end": "2026-12-21 7:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857813/occurrences/8952221"
-  },
-  {
-    "uid": "schedule-request-3857814-occurrence-8952222",
-    "title": "3857814 - Football (Boys F) vs Beaver Local High School",
-    "summary": "3857814 - Football (Boys F) vs Beaver Local High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-08 6:00 PM",
-    "end": "2026-10-08 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857814/occurrences/8952222"
   },
   {
     "uid": "schedule-request-3857815-occurrence-8952223",
@@ -1956,17 +1912,6 @@
     "end": "2027-01-27 6:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857896/occurrences/8952304"
-  },
-  {
-    "uid": "schedule-request-3857897-occurrence-8952305",
-    "title": "3857897 - Volleyball (Girls JV) vs Springfield High School",
-    "summary": "3857897 - Volleyball (Girls JV) vs Springfield High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-05 5:30 PM",
-    "end": "2026-10-05 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857897/occurrences/8952305"
   },
   {
     "uid": "schedule-request-3857898-occurrence-8952306",
@@ -2574,6 +2519,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4055577/occurrences/9385440"
   },
   {
+    "uid": "schedule-request-4057293-occurrence-9390830",
+    "title": "4057293 - Football (Boys F) vs St Edward High School",
+    "summary": "4057293 - Football (Boys F) vs St Edward High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-10-08 6:00 PM",
+    "end": "2026-10-08 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4057293/occurrences/9390830"
+  },
+  {
     "uid": "schedule-request-3428269-occurrence-8094724",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3122,17 +3078,6 @@
     "end": "2026-10-28 7:45 AM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858237/occurrences/8952760"
-  },
-  {
-    "uid": "schedule-request-3858238-occurrence-8952761",
-    "title": "3858238 - Youngstown Football Official Association @ PSHS Cafeteria",
-    "summary": "3858238 - Youngstown Football Official Association @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-05 6:00 PM",
-    "end": "2026-10-05 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858238/occurrences/8952761"
   },
   {
     "uid": "schedule-request-3858240-occurrence-8952763",

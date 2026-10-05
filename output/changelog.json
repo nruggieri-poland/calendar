@@ -1,5 +1,62 @@
 [
   {
+    "timestamp": "2026-10-05T23:36:45.691Z",
+    "added": [
+      {
+        "uid": "schedule-request-4057293-occurrence-9390830",
+        "title": "4057293 - Football (Boys F) vs St Edward High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-08 6:00 PM",
+        "end": "2026-10-08 8:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858032-occurrence-8952445",
+        "title": "3858032 - Soccer (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 5:00 PM",
+        "end": "2026-10-05 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858193-occurrence-8952716",
+        "title": "3858193 - Volleyball (Girls 7) @ STRUTHERS MIDDLE SCHOOL",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 5:00 PM",
+        "end": "2026-10-05 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858198-occurrence-8952721",
+        "title": "3858198 - Volleyball (Girls 8) @ STRUTHERS MIDDLE SCHOOL",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 6:00 PM",
+        "end": "2026-10-05 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857814-occurrence-8952222",
+        "title": "3857814 - Football (Boys F) vs Beaver Local High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-08 6:00 PM",
+        "end": "2026-10-08 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857897-occurrence-8952305",
+        "title": "3857897 - Volleyball (Girls JV) vs Springfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-05 5:30 PM",
+        "end": "2026-10-05 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858238-occurrence-8952761",
+        "title": "3858238 - Youngstown Football Official Association @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-05 6:00 PM",
+        "end": "2026-10-05 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-05T17:44:18.228Z",
     "added": [
       {
@@ -33562,20 +33619,6 @@
         "type": "Athletics - Away",
         "start": "2026-09-16 7:30 PM",
         "end": "2026-09-16 9:30 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-11T12:52:09.336Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858105-occurrence-8952628",
-        "title": "3858105 - Golf (Girls V) @ Girard Sr High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-11 8:30 AM",
-        "end": "2026-08-11 10:30 AM"
       }
     ],
     "edited": []
