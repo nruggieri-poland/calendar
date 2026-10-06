@@ -924,17 +924,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858188/occurrences/8952711"
   },
   {
-    "uid": "schedule-request-3858192-occurrence-8952715",
-    "title": "3858192 - Soccer (Boys V) @ South Range High School",
-    "summary": "3858192 - Soccer (Boys V) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-05 7:00 PM",
-    "end": "2026-10-05 9:00 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858192/occurrences/8952715"
-  },
-  {
     "uid": "schedule-request-3858195-occurrence-8952718",
     "title": "3858195 - Basketball (Girls JV) @ South Range High School",
     "summary": "3858195 - Basketball (Girls JV) @ South Range High School",
@@ -2299,17 +2288,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857957/occurrences/8952365"
   },
   {
-    "uid": "schedule-request-3857963-occurrence-8952371",
-    "title": "3857963 - Volleyball (Girls V) vs Springfield High School",
-    "summary": "3857963 - Volleyball (Girls V) vs Springfield High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-05 7:00 PM",
-    "end": "2026-10-05 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857963/occurrences/8952371"
-  },
-  {
     "uid": "schedule-request-3857965-occurrence-8952373",
     "title": "3857965 - Football (Boys V) vs Girard Sr High School",
     "summary": "3857965 - Football (Boys V) vs Girard Sr High School",
@@ -3375,17 +3353,6 @@
     "end": "2026-10-28 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952821"
-  },
-  {
-    "uid": "schedule-request-3858262-occurrence-8952828",
-    "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-05 6:00 PM",
-    "end": "2026-10-05 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858262/occurrences/8952828"
   },
   {
     "uid": "schedule-request-3858262-occurrence-8952829",

@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-06T04:26:14.509Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858192-occurrence-8952715",
+        "title": "3858192 - Soccer (Boys V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-05 7:00 PM",
+        "end": "2026-10-05 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857963-occurrence-8952371",
+        "title": "3857963 - Volleyball (Girls V) vs Springfield High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-05 7:00 PM",
+        "end": "2026-10-05 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858262-occurrence-8952828",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-05 6:00 PM",
+        "end": "2026-10-05 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-05T23:36:45.691Z",
     "added": [
       {
@@ -33593,34 +33621,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-11T14:15:54.396Z",
-    "added": [
-      {
-        "uid": "schedule-request-3874125-occurrence-8997984",
-        "title": "3874125 - Football (Boys F) @ Alliance High School",
-        "type": "Athletics - Away",
-        "start": "2026-09-17 6:00 PM",
-        "end": "2026-09-17 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3874129-occurrence-8997988",
-        "title": "3874129 - PLB Cheer Practice @ Dave Pavlansky Field",
-        "type": "Other",
-        "start": "2026-09-12 2:00 PM",
-        "end": "2026-09-12 3:00 PM"
-      }
-    ],
-    "removed": [
-      {
-        "uid": "schedule-request-3857975-occurrence-8952383",
-        "title": "3857975 - Football (Boys F) @ Hubbard High School",
-        "type": "Athletics - Away",
-        "start": "2026-09-16 7:30 PM",
-        "end": "2026-09-16 9:30 PM"
-      }
-    ],
-    "edited": []
   }
 ]
