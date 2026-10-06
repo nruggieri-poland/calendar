@@ -3850,17 +3850,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4050723/occurrences/9373560"
   },
   {
-    "uid": "schedule-request-4055174-occurrence-9384444",
-    "title": "4055174 - Kent State college visit @ PSHS Auditorium",
-    "summary": "4055174 - Kent State college visit @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-06 9:00 AM",
-    "end": "2026-10-06 10:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4055174/occurrences/9384444"
-  },
-  {
     "uid": "schedule-request-4056719-occurrence-9389256",
     "title": "4056719 - Football Banquet @ The Embassy",
     "summary": "4056719 - Football Banquet @ The Embassy",
@@ -3892,6 +3881,116 @@
     "end": "2026-11-24 7:00 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4056722/occurrences/9389259"
+  },
+  {
+    "uid": "schedule-request-4057546-occurrence-9391450",
+    "title": "4057546 - Winter Sports Parent Meeting @ PSHS Auditorium",
+    "summary": "4057546 - Winter Sports Parent Meeting @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-20 6:00 PM",
+    "end": "2026-10-20 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4057546/occurrences/9391450"
+  },
+  {
+    "uid": "schedule-request-4057547-occurrence-9391451",
+    "title": "4057547 - Pep Rally @ PSHS FieldHouse",
+    "summary": "4057547 - Pep Rally @ PSHS FieldHouse",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-23 1:00 PM",
+    "end": "2026-10-23 2:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4057547/occurrences/9391451"
+  },
+  {
+    "uid": "schedule-request-4058010-occurrence-9392734",
+    "title": "4058010 - Poland Players Performance @ PSHS Auditorium",
+    "summary": "4058010 - Poland Players Performance @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-19 7:00 PM",
+    "end": "2026-11-19 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058010/occurrences/9392734"
+  },
+  {
+    "uid": "schedule-request-4058012-occurrence-9392735",
+    "title": "4058012 - Tech Week @ PSHS Auditorium",
+    "summary": "4058012 - Tech Week @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-03-15 5:00 PM",
+    "end": "2027-03-15 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058012/occurrences/9392735"
+  },
+  {
+    "uid": "schedule-request-4058821-occurrence-9393697",
+    "title": "4058821 - Dress Rehearsal for Play @ PSHS Auditorium",
+    "summary": "4058821 - Dress Rehearsal for Play @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-03-17 6:00 PM",
+    "end": "2027-03-17 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058821/occurrences/9393697"
+  },
+  {
+    "uid": "schedule-request-4058822-occurrence-9393698",
+    "title": "4058822 - Tech Week @ PSHS Auditorium",
+    "summary": "4058822 - Tech Week @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-16 5:00 PM",
+    "end": "2026-11-16 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058822/occurrences/9393698"
+  },
+  {
+    "uid": "schedule-request-4058824-occurrence-9393700",
+    "title": "4058824 - Tech Week @ PSHS Auditorium",
+    "summary": "4058824 - Tech Week @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-03-16 5:00 PM",
+    "end": "2027-03-16 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058824/occurrences/9393700"
+  },
+  {
+    "uid": "schedule-request-4058826-occurrence-9393702",
+    "title": "4058826 - Tech Week @ PSHS Auditorium",
+    "summary": "4058826 - Tech Week @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-17 5:00 PM",
+    "end": "2026-11-17 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058826/occurrences/9393702"
+  },
+  {
+    "uid": "schedule-request-4058827-occurrence-9393703",
+    "title": "4058827 - Dress Rehearsal for Play @ PSHS Auditorium",
+    "summary": "4058827 - Dress Rehearsal for Play @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-18 3:00 PM",
+    "end": "2026-11-18 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4058827/occurrences/9393703"
+  },
+  {
+    "uid": "schedule-request-4060087-occurrence-9395092",
+    "title": "4060087 - Poland Players Performance @ PSHS Auditorium",
+    "summary": "4060087 - Poland Players Performance @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-20 7:00 PM",
+    "end": "2026-11-20 10:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4060087/occurrences/9395092"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245645",
