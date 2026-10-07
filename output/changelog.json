@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-10-07T01:59:13.995Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858020-occurrence-8952428",
+        "title": "3858020 - Volleyball (Girls JV) @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-06 5:30 PM",
+        "end": "2026-10-06 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858060-occurrence-8952473",
+        "title": "3858060 - Volleyball (Girls V) @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-06 7:00 PM",
+        "end": "2026-10-06 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858257-occurrence-8952793",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-06 6:00 PM",
+        "end": "2026-10-06 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4010045-occurrence-9277715",
+        "title": "4010045 - STEP Membership Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-06 6:30 PM",
+        "end": "2026-10-06 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-06T22:10:49.167Z",
     "added": [
       {
@@ -33616,27 +33651,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-12 4:00 PM",
         "end": "2026-08-12 6:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-12T04:01:48.157Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2903761-occurrence-7099372",
-        "title": "2903761 - Girls Varsity Golf vs Niles McKinley High School (and Girard)",
-        "type": "Athletics - Home",
-        "start": "2025-08-11 8:00 AM",
-        "end": "2025-08-11 10:00 AM"
-      },
-      {
-        "uid": "schedule-request-2980683-occurrence-7268139",
-        "title": "2980683 - All Sports Boosters Meeting",
-        "type": "School Activity",
-        "start": "2025-08-11 6:00 PM",
-        "end": "2025-08-11 8:00 PM"
       }
     ],
     "edited": []

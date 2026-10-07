@@ -253,17 +253,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858019/occurrences/8952427"
   },
   {
-    "uid": "schedule-request-3858020-occurrence-8952428",
-    "title": "3858020 - Volleyball (Girls JV) @ Struthers High School",
-    "summary": "3858020 - Volleyball (Girls JV) @ Struthers High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-06 5:30 PM",
-    "end": "2026-10-06 7:30 PM",
-    "location": "Struthers High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858020/occurrences/8952428"
-  },
-  {
     "uid": "schedule-request-3858026-occurrence-8952439",
     "title": "3858026 - Football (Boys 8) @ Girard Sr High School",
     "summary": "3858026 - Football (Boys 8) @ Girard Sr High School",
@@ -427,17 +416,6 @@
     "end": "2027-01-23 9:00 PM",
     "location": "West Branch High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858057/occurrences/8952470"
-  },
-  {
-    "uid": "schedule-request-3858060-occurrence-8952473",
-    "title": "3858060 - Volleyball (Girls V) @ Struthers High School",
-    "summary": "3858060 - Volleyball (Girls V) @ Struthers High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-06 7:00 PM",
-    "end": "2026-10-06 9:00 PM",
-    "location": "Struthers High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858060/occurrences/8952473"
   },
   {
     "uid": "schedule-request-3858061-occurrence-8952474",
@@ -3168,17 +3146,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952788"
   },
   {
-    "uid": "schedule-request-3858257-occurrence-8952793",
-    "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-06 6:00 PM",
-    "end": "2026-10-06 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952793"
-  },
-  {
     "uid": "schedule-request-3858257-occurrence-8952794",
     "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -3606,17 +3573,6 @@
     "end": "2027-02-20 6:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4010044/occurrences/9277714"
-  },
-  {
-    "uid": "schedule-request-4010045-occurrence-9277715",
-    "title": "4010045 - STEP Membership Meeting @ PSHS Cafeteria",
-    "summary": "4010045 - STEP Membership Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-06 6:30 PM",
-    "end": "2026-10-06 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4010045/occurrences/9277715"
   },
   {
     "uid": "schedule-request-4010046-occurrence-9277716",
