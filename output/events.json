@@ -1155,6 +1155,171 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4055578/occurrences/9385441"
   },
   {
+    "uid": "schedule-request-4063072-occurrence-9412209",
+    "title": "4063072 - Softball (Girls V) @ YSU Watts Center",
+    "summary": "4063072 - Softball (Girls V) @ YSU Watts Center",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-03-14 1:00 PM",
+    "end": "2027-03-14 3:00 PM",
+    "location": "YSU Watts Center",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063072/occurrences/9412209"
+  },
+  {
+    "uid": "schedule-request-4063325-occurrence-9412824",
+    "title": "4063325 - Softball (Girls V) @ Mohawk High School",
+    "summary": "4063325 - Softball (Girls V) @ Mohawk High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-23 5:00 PM",
+    "end": "2027-04-23 7:00 PM",
+    "location": "Mohawk High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063325/occurrences/9412824"
+  },
+  {
+    "uid": "schedule-request-4063327-occurrence-9412826",
+    "title": "4063327 - Softball (Girls V) @ Niles McKinley High School",
+    "summary": "4063327 - Softball (Girls V) @ Niles McKinley High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-19 5:00 PM",
+    "end": "2027-04-19 7:00 PM",
+    "location": "Niles McKinley High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063327/occurrences/9412826"
+  },
+  {
+    "uid": "schedule-request-4063328-occurrence-9412827",
+    "title": "4063328 - Softball (Girls V) @ Struthers High School",
+    "summary": "4063328 - Softball (Girls V) @ Struthers High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-20 5:00 PM",
+    "end": "2027-04-20 7:00 PM",
+    "location": "Struthers High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063328/occurrences/9412827"
+  },
+  {
+    "uid": "schedule-request-4063329-occurrence-9412828",
+    "title": "4063329 - Softball (Girls V) @ Hubbard High School",
+    "summary": "4063329 - Softball (Girls V) @ Hubbard High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-05-03 5:00 PM",
+    "end": "2027-05-03 7:00 PM",
+    "location": "Hubbard High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063329/occurrences/9412828"
+  },
+  {
+    "uid": "schedule-request-4063330-occurrence-9412829",
+    "title": "4063330 - Softball (Girls V) @ Columbiana High School",
+    "summary": "4063330 - Softball (Girls V) @ Columbiana High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-06 5:00 PM",
+    "end": "2027-04-06 7:00 PM",
+    "location": "Columbiana High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063330/occurrences/9412829"
+  },
+  {
+    "uid": "schedule-request-4063331-occurrence-9412830",
+    "title": "4063331 - Softball (Girls V) @ Springfield Local High School",
+    "summary": "4063331 - Softball (Girls V) @ Springfield Local High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-05-06 5:00 PM",
+    "end": "2027-05-06 7:00 PM",
+    "location": "Springfield Local High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063331/occurrences/9412830"
+  },
+  {
+    "uid": "schedule-request-4063332-occurrence-9412831",
+    "title": "4063332 - Softball (Girls V) @ South Range High School",
+    "summary": "4063332 - Softball (Girls V) @ South Range High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-27 5:00 PM",
+    "end": "2027-04-27 7:00 PM",
+    "location": "South Range High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063332/occurrences/9412831"
+  },
+  {
+    "uid": "schedule-request-4063333-occurrence-9412832",
+    "title": "4063333 - Softball (Girls V) @ Lakeview High School",
+    "summary": "4063333 - Softball (Girls V) @ Lakeview High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-03-23 5:00 PM",
+    "end": "2027-03-23 7:00 PM",
+    "location": "Lakeview High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063333/occurrences/9412832"
+  },
+  {
+    "uid": "schedule-request-4063334-occurrence-9412833",
+    "title": "4063334 - Softball (Girls V) @ YSU Watts Center",
+    "summary": "4063334 - Softball (Girls V) @ YSU Watts Center",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-03-21 1:00 PM",
+    "end": "2027-03-21 3:00 PM",
+    "location": "YSU Watts Center",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063334/occurrences/9412833"
+  },
+  {
+    "uid": "schedule-request-4063335-occurrence-9412834",
+    "title": "4063335 - Softball (Girls V) @ United High School",
+    "summary": "4063335 - Softball (Girls V) @ United High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-05-10 5:30 PM",
+    "end": "2027-05-10 7:30 PM",
+    "location": "United High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063335/occurrences/9412834"
+  },
+  {
+    "uid": "schedule-request-4063336-occurrence-9412835",
+    "title": "4063336 - Softball (Girls V) @ Labrae High School",
+    "summary": "4063336 - Softball (Girls V) @ Labrae High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-30 5:30 PM",
+    "end": "2027-04-30 7:30 PM",
+    "location": "Labrae High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063336/occurrences/9412835"
+  },
+  {
+    "uid": "schedule-request-4063337-occurrence-9412836",
+    "title": "4063337 - Softball (Girls V) @ Salem High School",
+    "summary": "4063337 - Softball (Girls V) @ Salem High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-26 5:30 PM",
+    "end": "2027-04-26 7:30 PM",
+    "location": "Salem High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063337/occurrences/9412836"
+  },
+  {
+    "uid": "schedule-request-4063338-occurrence-9412837",
+    "title": "4063338 - Softball (Girls V) @ Girard Sr High School",
+    "summary": "4063338 - Softball (Girls V) @ Girard Sr High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-05 5:00 PM",
+    "end": "2027-04-05 7:00 PM",
+    "location": "Girard Sr High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063338/occurrences/9412837"
+  },
+  {
+    "uid": "schedule-request-4063339-occurrence-9412838",
+    "title": "4063339 - Softball (Girls V) @ Canfield High School",
+    "summary": "4063339 - Softball (Girls V) @ Canfield High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-04-09 5:30 PM",
+    "end": "2027-04-09 7:30 PM",
+    "location": "Canfield High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063339/occurrences/9412838"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -2420,6 +2585,116 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4057293/occurrences/9390830"
   },
   {
+    "uid": "schedule-request-4063313-occurrence-9412812",
+    "title": "4063313 - Softball (Girls V) vs Struthers High School",
+    "summary": "4063313 - Softball (Girls V) vs Struthers High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-03-22 5:00 PM",
+    "end": "2027-03-22 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063313/occurrences/9412812"
+  },
+  {
+    "uid": "schedule-request-4063314-occurrence-9412813",
+    "title": "4063314 - Softball (Girls V) vs Mineral Ridge High School",
+    "summary": "4063314 - Softball (Girls V) vs Mineral Ridge High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-17 11:00 AM",
+    "end": "2027-04-17 1:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063314/occurrences/9412813"
+  },
+  {
+    "uid": "schedule-request-4063315-occurrence-9412814",
+    "title": "4063315 - Softball (Girls V) vs Crestview High School (Columbiana)",
+    "summary": "4063315 - Softball (Girls V) vs Crestview High School (Columbiana)",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-10 11:00 AM",
+    "end": "2027-04-10 1:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063315/occurrences/9412814"
+  },
+  {
+    "uid": "schedule-request-4063316-occurrence-9412815",
+    "title": "4063316 - Softball (Girls V) vs South Range High School",
+    "summary": "4063316 - Softball (Girls V) vs South Range High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-21 5:00 PM",
+    "end": "2027-04-21 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063316/occurrences/9412815"
+  },
+  {
+    "uid": "schedule-request-4063318-occurrence-9412817",
+    "title": "4063318 - Softball (Girls V) vs Hubbard High School",
+    "summary": "4063318 - Softball (Girls V) vs Hubbard High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-13 5:00 PM",
+    "end": "2027-04-13 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063318/occurrences/9412817"
+  },
+  {
+    "uid": "schedule-request-4063320-occurrence-9412819",
+    "title": "4063320 - Softball (Girls V) vs West Branch High School",
+    "summary": "4063320 - Softball (Girls V) vs West Branch High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-16 5:30 PM",
+    "end": "2027-04-16 7:30 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063320/occurrences/9412819"
+  },
+  {
+    "uid": "schedule-request-4063321-occurrence-9412820",
+    "title": "4063321 - Softball (Girls V) vs Lakeview High School",
+    "summary": "4063321 - Softball (Girls V) vs Lakeview High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-12 5:00 PM",
+    "end": "2027-04-12 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063321/occurrences/9412820"
+  },
+  {
+    "uid": "schedule-request-4063322-occurrence-9412821",
+    "title": "4063322 - Softball (Girls V) vs Girard Sr High School",
+    "summary": "4063322 - Softball (Girls V) vs Girard Sr High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-05-04 5:00 PM",
+    "end": "2027-05-04 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063322/occurrences/9412821"
+  },
+  {
+    "uid": "schedule-request-4063323-occurrence-9412822",
+    "title": "4063323 - Softball (Girls V) vs Boardman High School",
+    "summary": "4063323 - Softball (Girls V) vs Boardman High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-24 11:00 AM",
+    "end": "2027-04-24 1:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063323/occurrences/9412822"
+  },
+  {
+    "uid": "schedule-request-4063324-occurrence-9412823",
+    "title": "4063324 - Softball (Girls V) vs Niles McKinley High School",
+    "summary": "4063324 - Softball (Girls V) vs Niles McKinley High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-03-30 5:00 PM",
+    "end": "2027-03-30 7:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063324/occurrences/9412823"
+  },
+  {
     "uid": "schedule-request-3428269-occurrence-8094725",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3188,17 +3463,6 @@
     "end": "2026-11-14 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952808"
-  },
-  {
-    "uid": "schedule-request-3858259-occurrence-8952813",
-    "title": "Canceled: 3858259 - Poland Players Rehearsal @ TBD",
-    "summary": "Canceled: 3858259 - Poland Players Rehearsal @ TBD",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-08 2:30 PM",
-    "end": "2026-10-08 5:00 PM",
-    "location": "TBD",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858259/occurrences/8952813"
   },
   {
     "uid": "schedule-request-3858260-occurrence-8952819",

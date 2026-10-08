@@ -1,5 +1,195 @@
 [
   {
+    "timestamp": "2026-10-08T21:44:37.212Z",
+    "added": [
+      {
+        "uid": "schedule-request-4063072-occurrence-9412209",
+        "title": "4063072 - Softball (Girls V) @ YSU Watts Center",
+        "type": "Athletics - Away",
+        "start": "2027-03-14 1:00 PM",
+        "end": "2027-03-14 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063325-occurrence-9412824",
+        "title": "4063325 - Softball (Girls V) @ Mohawk High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-23 5:00 PM",
+        "end": "2027-04-23 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063327-occurrence-9412826",
+        "title": "4063327 - Softball (Girls V) @ Niles McKinley High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-19 5:00 PM",
+        "end": "2027-04-19 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063328-occurrence-9412827",
+        "title": "4063328 - Softball (Girls V) @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-20 5:00 PM",
+        "end": "2027-04-20 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063329-occurrence-9412828",
+        "title": "4063329 - Softball (Girls V) @ Hubbard High School",
+        "type": "Athletics - Away",
+        "start": "2027-05-03 5:00 PM",
+        "end": "2027-05-03 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063330-occurrence-9412829",
+        "title": "4063330 - Softball (Girls V) @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-06 5:00 PM",
+        "end": "2027-04-06 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063331-occurrence-9412830",
+        "title": "4063331 - Softball (Girls V) @ Springfield Local High School",
+        "type": "Athletics - Away",
+        "start": "2027-05-06 5:00 PM",
+        "end": "2027-05-06 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063332-occurrence-9412831",
+        "title": "4063332 - Softball (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-27 5:00 PM",
+        "end": "2027-04-27 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063333-occurrence-9412832",
+        "title": "4063333 - Softball (Girls V) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2027-03-23 5:00 PM",
+        "end": "2027-03-23 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063334-occurrence-9412833",
+        "title": "4063334 - Softball (Girls V) @ YSU Watts Center",
+        "type": "Athletics - Away",
+        "start": "2027-03-21 1:00 PM",
+        "end": "2027-03-21 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063335-occurrence-9412834",
+        "title": "4063335 - Softball (Girls V) @ United High School",
+        "type": "Athletics - Away",
+        "start": "2027-05-10 5:30 PM",
+        "end": "2027-05-10 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4063336-occurrence-9412835",
+        "title": "4063336 - Softball (Girls V) @ Labrae High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-30 5:30 PM",
+        "end": "2027-04-30 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4063337-occurrence-9412836",
+        "title": "4063337 - Softball (Girls V) @ Salem High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-26 5:30 PM",
+        "end": "2027-04-26 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4063338-occurrence-9412837",
+        "title": "4063338 - Softball (Girls V) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-05 5:00 PM",
+        "end": "2027-04-05 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063339-occurrence-9412838",
+        "title": "4063339 - Softball (Girls V) @ Canfield High School",
+        "type": "Athletics - Away",
+        "start": "2027-04-09 5:30 PM",
+        "end": "2027-04-09 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4063313-occurrence-9412812",
+        "title": "4063313 - Softball (Girls V) vs Struthers High School",
+        "type": "Athletics - Home",
+        "start": "2027-03-22 5:00 PM",
+        "end": "2027-03-22 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063314-occurrence-9412813",
+        "title": "4063314 - Softball (Girls V) vs Mineral Ridge High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-17 11:00 AM",
+        "end": "2027-04-17 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063315-occurrence-9412814",
+        "title": "4063315 - Softball (Girls V) vs Crestview High School (Columbiana)",
+        "type": "Athletics - Home",
+        "start": "2027-04-10 11:00 AM",
+        "end": "2027-04-10 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063316-occurrence-9412815",
+        "title": "4063316 - Softball (Girls V) vs South Range High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-21 5:00 PM",
+        "end": "2027-04-21 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063318-occurrence-9412817",
+        "title": "4063318 - Softball (Girls V) vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-13 5:00 PM",
+        "end": "2027-04-13 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063320-occurrence-9412819",
+        "title": "4063320 - Softball (Girls V) vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-16 5:30 PM",
+        "end": "2027-04-16 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-4063321-occurrence-9412820",
+        "title": "4063321 - Softball (Girls V) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-12 5:00 PM",
+        "end": "2027-04-12 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063322-occurrence-9412821",
+        "title": "4063322 - Softball (Girls V) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2027-05-04 5:00 PM",
+        "end": "2027-05-04 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063323-occurrence-9412822",
+        "title": "4063323 - Softball (Girls V) vs Boardman High School",
+        "type": "Athletics - Home",
+        "start": "2027-04-24 11:00 AM",
+        "end": "2027-04-24 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-4063324-occurrence-9412823",
+        "title": "4063324 - Softball (Girls V) vs Niles McKinley High School",
+        "type": "Athletics - Home",
+        "start": "2027-03-30 5:00 PM",
+        "end": "2027-03-30 7:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858259-occurrence-8952813",
+        "title": "Canceled: 3858259 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2026-10-08 2:30 PM",
+        "end": "2026-10-08 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-08T16:03:15.018Z",
     "added": [],
     "removed": [],
@@ -33197,251 +33387,6 @@
         "end": "2027-05-04 9:00 PM"
       }
     ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-13T16:50:47.588Z",
-    "added": [
-      {
-        "uid": "schedule-request-2697895-occurrence-6566236",
-        "title": "2697895 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-08-13 6:00 PM",
-        "end": "2025-08-13 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697896-occurrence-6566237",
-        "title": "2697896 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-09-10 6:00 PM",
-        "end": "2025-09-10 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697897-occurrence-6566238",
-        "title": "2697897 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-09-24 6:00 PM",
-        "end": "2025-09-24 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697898-occurrence-6566239",
-        "title": "2697898 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-10-08 6:00 PM",
-        "end": "2025-10-08 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697899-occurrence-6566240",
-        "title": "2697899 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-10-22 6:00 PM",
-        "end": "2025-10-22 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697900-occurrence-6566241",
-        "title": "2697900 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-11-05 6:00 PM",
-        "end": "2025-11-05 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697901-occurrence-6566242",
-        "title": "2697901 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-11-19 6:00 PM",
-        "end": "2025-11-19 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2697902-occurrence-6566243",
-        "title": "2697902 - Board Meeting - Poland BOE",
-        "type": "Board Meeting",
-        "start": "2025-12-11 6:00 PM",
-        "end": "2025-12-11 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-2994222-occurrence-7330404",
-        "title": "2994222 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2025-08-21 5:00 PM",
-        "end": "2025-08-21 6:30 PM"
-      },
-      {
-        "uid": "schedule-request-3316005-occurrence-7942222",
-        "title": "3316005 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2025-11-22 8:30 AM",
-        "end": "2025-11-22 10:00 AM"
-      },
-      {
-        "uid": "schedule-request-3381891-occurrence-8019368",
-        "title": "3381891 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2025-12-09 6:00 PM",
-        "end": "2025-12-09 7:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094710",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-01-21 6:00 PM",
-        "end": "2026-01-21 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094711",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-02-04 6:00 PM",
-        "end": "2026-02-04 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094712",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-02-25 6:00 PM",
-        "end": "2026-02-25 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094713",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-03-11 6:00 PM",
-        "end": "2026-03-11 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094714",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-03-25 6:00 PM",
-        "end": "2026-03-25 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094715",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-04-15 6:00 PM",
-        "end": "2026-04-15 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094716",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-04-29 6:00 PM",
-        "end": "2026-04-29 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094717",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-05-06 6:00 PM",
-        "end": "2026-05-06 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094718",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-05-20 6:00 PM",
-        "end": "2026-05-20 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094719",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-06-29 6:00 PM",
-        "end": "2026-06-29 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094720",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-07-23 6:00 PM",
-        "end": "2026-07-23 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094721",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-08-17 6:00 PM",
-        "end": "2026-08-17 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094722",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-09-09 6:00 PM",
-        "end": "2026-09-09 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094723",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-09-23 6:00 PM",
-        "end": "2026-09-23 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094724",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-10-07 6:00 PM",
-        "end": "2026-10-07 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094725",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-10-21 6:00 PM",
-        "end": "2026-10-21 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094726",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-11-04 6:00 PM",
-        "end": "2026-11-04 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094727",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-11-18 6:00 PM",
-        "end": "2026-11-18 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094728",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-12-09 6:00 PM",
-        "end": "2026-12-09 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3527231-occurrence-8318457",
-        "title": "3527231 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2026-03-02 5:00 PM",
-        "end": "2026-03-02 6:30 PM"
-      },
-      {
-        "uid": "schedule-request-3527231-occurrence-8318458",
-        "title": "3527231 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2026-03-03 5:00 PM",
-        "end": "2026-03-03 6:30 PM"
-      },
-      {
-        "uid": "schedule-request-3527232-occurrence-8318459",
-        "title": "3527232 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2026-03-09 7:00 PM",
-        "end": "2026-03-09 8:30 PM"
-      },
-      {
-        "uid": "schedule-request-3536871-occurrence-8336866",
-        "title": "3536871 - Special Board Meeting",
-        "type": "Board Meeting",
-        "start": "2026-03-06 3:00 PM",
-        "end": "2026-03-06 4:30 PM"
-      }
-    ],
-    "removed": [],
     "edited": []
   }
 ]
