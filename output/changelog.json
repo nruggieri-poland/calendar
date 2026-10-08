@@ -1,5 +1,61 @@
 [
   {
+    "timestamp": "2026-10-08T01:30:29.817Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3918052-occurrence-9115497",
+        "title": "3918052 - Football (Boys 7) @ Liberty High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-07 7:00 PM",
+        "end": "2026-10-07 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857792-occurrence-8952200",
+        "title": "3857792 - Volleyball (Girls 8) vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 6:00 PM",
+        "end": "2026-10-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857825-occurrence-8952233",
+        "title": "3857825 - Soccer (Boys V) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 7:00 PM",
+        "end": "2026-10-07 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857865-occurrence-8952273",
+        "title": "3857865 - Soccer (Girls V) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 5:00 PM",
+        "end": "2026-10-07 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857912-occurrence-8952320",
+        "title": "3857912 - Volleyball (Girls 7) vs Niles Middle School",
+        "type": "Athletics - Home",
+        "start": "2026-10-07 5:00 PM",
+        "end": "2026-10-07 6:00 PM"
+      },
+      {
+        "uid": "schedule-request-3428269-occurrence-8094724",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-10-07 6:00 PM",
+        "end": "2026-10-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4048569-occurrence-9366323",
+        "title": "4048569 - All Sports Booster Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-07 6:00 PM",
+        "end": "2026-10-07 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-07T21:43:39.794Z",
     "added": [],
     "removed": [
@@ -33609,27 +33665,6 @@
         "type": "Board Meeting",
         "start": "2026-03-06 3:00 PM",
         "end": "2026-03-06 4:30 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-13T04:05:25.855Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-2987601-occurrence-7293048",
-        "title": "2987601 - Girls Varsity Volleyball @ East Palestine HS",
-        "type": "Athletics - Away",
-        "start": "2025-08-12 5:00 PM",
-        "end": "2025-08-12 7:00 PM"
-      },
-      {
-        "uid": "schedule-request-2832997-occurrence-6892292",
-        "title": "2832997 - Boys Varsity Soccer vs United Local High School",
-        "type": "Athletics - Home",
-        "start": "2025-08-12 7:00 PM",
-        "end": "2025-08-12 9:00 PM"
       }
     ],
     "edited": []
