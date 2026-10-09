@@ -253,17 +253,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858019/occurrences/8952427"
   },
   {
-    "uid": "schedule-request-3858026-occurrence-8952439",
-    "title": "3858026 - Football (Boys 8) @ Girard Sr High School",
-    "summary": "3858026 - Football (Boys 8) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-08 6:30 PM",
-    "end": "2026-10-08 8:30 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858026/occurrences/8952439"
-  },
-  {
     "uid": "schedule-request-3858028-occurrence-8952441",
     "title": "3858028 - Basketball (Girls JV) @ Boardman High School",
     "summary": "3858028 - Basketball (Girls JV) @ Boardman High School",
@@ -1584,17 +1573,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857820/occurrences/8952228"
   },
   {
-    "uid": "schedule-request-3857821-occurrence-8952229",
-    "title": "3857821 - Volleyball (Girls V) vs Niles McKinley High School",
-    "summary": "3857821 - Volleyball (Girls V) vs Niles McKinley High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-08 7:00 PM",
-    "end": "2026-10-08 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857821/occurrences/8952229"
-  },
-  {
     "uid": "schedule-request-3857822-occurrence-8952230",
     "title": "3857822 - Basketball (Girls V) vs Springfield High School",
     "summary": "3857822 - Basketball (Girls V) vs Springfield High School",
@@ -2189,17 +2167,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857923/occurrences/8952331"
   },
   {
-    "uid": "schedule-request-3857925-occurrence-8952333",
-    "title": "3857925 - Volleyball (Girls JV) vs Niles McKinley High School",
-    "summary": "3857925 - Volleyball (Girls JV) vs Niles McKinley High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-08 5:30 PM",
-    "end": "2026-10-08 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857925/occurrences/8952333"
-  },
-  {
     "uid": "schedule-request-3857926-occurrence-8952334",
     "title": "3857926 - Basketball (Girls V) vs Girard Sr High School",
     "summary": "3857926 - Basketball (Girls V) vs Girard Sr High School",
@@ -2572,17 +2539,6 @@
     "end": "2027-04-14 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4055577/occurrences/9385440"
-  },
-  {
-    "uid": "schedule-request-4057293-occurrence-9390830",
-    "title": "4057293 - Football (Boys F) vs St Edward High School",
-    "summary": "4057293 - Football (Boys F) vs St Edward High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-08 6:00 PM",
-    "end": "2026-10-08 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4057293/occurrences/9390830"
   },
   {
     "uid": "schedule-request-4063313-occurrence-9412812",
@@ -3705,17 +3661,6 @@
     "end": "2026-10-26 7:00 PM",
     "location": "pshs stadium parking lot,akron university",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
-  },
-  {
-    "uid": "schedule-request-4003948-occurrence-9259858",
-    "title": "4003948 - Financial Aid Night @ PSHS Auditorium",
-    "summary": "4003948 - Financial Aid Night @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-08 7:00 PM",
-    "end": "2026-10-08 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4003948/occurrences/9259858"
   },
   {
     "uid": "schedule-request-4010042-occurrence-9277712",
