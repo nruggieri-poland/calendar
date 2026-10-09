@@ -1265,17 +1265,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063335/occurrences/9412834"
   },
   {
-    "uid": "schedule-request-4063336-occurrence-9412835",
-    "title": "4063336 - Softball (Girls V) @ Labrae High School",
-    "summary": "4063336 - Softball (Girls V) @ Labrae High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2027-04-30 5:30 PM",
-    "end": "2027-04-30 7:30 PM",
-    "location": "Labrae High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4063336/occurrences/9412835"
-  },
-  {
     "uid": "schedule-request-4063337-occurrence-9412836",
     "title": "4063337 - Softball (Girls V) @ Salem High School",
     "summary": "4063337 - Softball (Girls V) @ Salem High School",
@@ -2649,6 +2638,17 @@
     "end": "2027-03-30 7:00 PM",
     "location": "Poland Seminary High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063324/occurrences/9412823"
+  },
+  {
+    "uid": "schedule-request-4063336-occurrence-9412835",
+    "title": "4063336 - Softball (Girls V) vs Labrae High School",
+    "summary": "4063336 - Softball (Girls V) vs Labrae High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-04-30 5:30 PM",
+    "end": "2027-04-30 7:30 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4063336/occurrences/9412835"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094725",
