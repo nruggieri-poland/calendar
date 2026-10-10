@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2026-10-10T18:11:05.664Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858012-occurrence-8952420",
+        "title": "3858012 - Volleyball (Girls JV) @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 10:00 AM",
+        "end": "2026-10-10 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858042-occurrence-8952455",
+        "title": "3858042 - Volleyball (Girls 7) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 9:00 AM",
+        "end": "2026-10-10 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3858068-occurrence-8952481",
+        "title": "3858068 - Football (Boys JV) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 10:00 AM",
+        "end": "2026-10-10 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858127-occurrence-8952650",
+        "title": "3858127 - Volleyball (Girls V) @ Columbiana High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 11:30 AM",
+        "end": "2026-10-10 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-3858138-occurrence-8952661",
+        "title": "3858138 - Cross Country (Coed MS) @ Trumbull County Fairgrounds",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 9:30 AM",
+        "end": "2026-10-10 11:30 AM"
+      },
+      {
+        "uid": "schedule-request-3858208-occurrence-8952731",
+        "title": "3858208 - Volleyball (Girls 8) @ Girard Sr High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 9:00 AM",
+        "end": "2026-10-10 10:00 AM"
+      },
+      {
+        "uid": "schedule-request-3858210-occurrence-8952733",
+        "title": "3858210 - Cross Country (Coed V) @ Trumbull County Fairgrouds",
+        "type": "Athletics - Away",
+        "start": "2026-10-10 11:00 AM",
+        "end": "2026-10-10 1:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857857-occurrence-8952265",
+        "title": "3857857 - Soccer (Boys JV) vs Warren G Harding High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-10 12:00 PM",
+        "end": "2026-10-10 2:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857901-occurrence-8952309",
+        "title": "3857901 - Soccer (Girls JV) vs Cardinal Mooney High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-10 10:00 AM",
+        "end": "2026-10-10 12:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-10T06:37:12.605Z",
     "added": [],
     "removed": [
@@ -21496,20 +21566,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-15 1:00 PM",
         "end": "2026-08-15 3:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-15T17:15:57.232Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857980-occurrence-8952388",
-        "title": "3857980 - Soccer (Boys JV) @ Marlington High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-15 11:00 AM",
-        "end": "2026-08-15 1:00 PM"
       }
     ],
     "edited": []

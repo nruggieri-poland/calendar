@@ -209,17 +209,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858011/occurrences/8952419"
   },
   {
-    "uid": "schedule-request-3858012-occurrence-8952420",
-    "title": "3858012 - Volleyball (Girls JV) @ Columbiana High School",
-    "summary": "3858012 - Volleyball (Girls JV) @ Columbiana High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 10:00 AM",
-    "end": "2026-10-10 12:00 PM",
-    "location": "Columbiana High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858012/occurrences/8952420"
-  },
-  {
     "uid": "schedule-request-3858014-occurrence-8952422",
     "title": "3858014 - Basketball (Girls 8) @ LAKEVIEW MIDDLE SCHOOL",
     "summary": "3858014 - Basketball (Girls 8) @ LAKEVIEW MIDDLE SCHOOL",
@@ -317,17 +306,6 @@
     "end": "2026-12-21 9:00 PM",
     "location": "Crestview High School (Columbiana)",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858039/occurrences/8952452"
-  },
-  {
-    "uid": "schedule-request-3858042-occurrence-8952455",
-    "title": "3858042 - Volleyball (Girls 7) @ Girard Sr High School",
-    "summary": "3858042 - Volleyball (Girls 7) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 9:00 AM",
-    "end": "2026-10-10 10:00 AM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858042/occurrences/8952455"
   },
   {
     "uid": "schedule-request-3858045-occurrence-8952458",
@@ -473,17 +451,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858067/occurrences/8952480"
   },
   {
-    "uid": "schedule-request-3858068-occurrence-8952481",
-    "title": "3858068 - Football (Boys JV) @ Girard Sr High School",
-    "summary": "3858068 - Football (Boys JV) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 10:00 AM",
-    "end": "2026-10-10 12:00 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858068/occurrences/8952481"
-  },
-  {
     "uid": "schedule-request-3858107-occurrence-8952630",
     "title": "3858107 - Football (Boys V) @ Struthers High School",
     "summary": "3858107 - Football (Boys V) @ Struthers High School",
@@ -561,17 +528,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858125/occurrences/8952648"
   },
   {
-    "uid": "schedule-request-3858127-occurrence-8952650",
-    "title": "3858127 - Volleyball (Girls V) @ Columbiana High School",
-    "summary": "3858127 - Volleyball (Girls V) @ Columbiana High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 11:30 AM",
-    "end": "2026-10-10 1:30 PM",
-    "location": "Columbiana High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858127/occurrences/8952650"
-  },
-  {
     "uid": "schedule-request-3858128-occurrence-8952651",
     "title": "3858128 - Football (Boys V) @ Lakeview High School",
     "summary": "3858128 - Football (Boys V) @ Lakeview High School",
@@ -636,17 +592,6 @@
     "end": "2027-01-20 7:00 PM",
     "location": "Niles Middle School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858136/occurrences/8952659"
-  },
-  {
-    "uid": "schedule-request-3858138-occurrence-8952661",
-    "title": "3858138 - Cross Country (Coed MS) @ Trumbull County Fairgrounds",
-    "summary": "3858138 - Cross Country (Coed MS) @ Trumbull County Fairgrounds",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 9:30 AM",
-    "end": "2026-10-10 11:30 AM",
-    "location": "Trumbull County Fairgrounds",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858138/occurrences/8952661"
   },
   {
     "uid": "schedule-request-3858139-occurrence-8952662",
@@ -913,17 +858,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858196/occurrences/8952719"
   },
   {
-    "uid": "schedule-request-3858208-occurrence-8952731",
-    "title": "3858208 - Volleyball (Girls 8) @ Girard Sr High School",
-    "summary": "3858208 - Volleyball (Girls 8) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 9:00 AM",
-    "end": "2026-10-10 10:00 AM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858208/occurrences/8952731"
-  },
-  {
     "uid": "schedule-request-3858209-occurrence-8952732",
     "title": "3858209 - Basketball (Boys JV) @ Austintown Fitch High School",
     "summary": "3858209 - Basketball (Boys JV) @ Austintown Fitch High School",
@@ -933,17 +867,6 @@
     "end": "2026-12-04 7:30 PM",
     "location": "Austintown Fitch High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858209/occurrences/8952732"
-  },
-  {
-    "uid": "schedule-request-3858210-occurrence-8952733",
-    "title": "3858210 - Cross Country (Coed V) @ Trumbull County Fairgrouds",
-    "summary": "3858210 - Cross Country (Coed V) @ Trumbull County Fairgrouds",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-10 11:00 AM",
-    "end": "2026-10-10 1:00 PM",
-    "location": "Trumbull County Fairgrouds",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858210/occurrences/8952733"
   },
   {
     "uid": "schedule-request-3858212-occurrence-8952735",
@@ -1793,17 +1716,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857856/occurrences/8952264"
   },
   {
-    "uid": "schedule-request-3857857-occurrence-8952265",
-    "title": "3857857 - Soccer (Boys JV) vs Warren G Harding High School",
-    "summary": "3857857 - Soccer (Boys JV) vs Warren G Harding High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-10 12:00 PM",
-    "end": "2026-10-10 2:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857857/occurrences/8952265"
-  },
-  {
     "uid": "schedule-request-3857860-occurrence-8952268",
     "title": "3857860 - Basketball (Girls JV) vs Hubbard High School",
     "summary": "3857860 - Basketball (Girls JV) vs Hubbard High School",
@@ -1978,17 +1890,6 @@
     "end": "2027-02-04 6:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857900/occurrences/8952308"
-  },
-  {
-    "uid": "schedule-request-3857901-occurrence-8952309",
-    "title": "3857901 - Soccer (Girls JV) vs Cardinal Mooney High School",
-    "summary": "3857901 - Soccer (Girls JV) vs Cardinal Mooney High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-10 10:00 AM",
-    "end": "2026-10-10 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857901/occurrences/8952309"
   },
   {
     "uid": "schedule-request-3857902-occurrence-8952310",
