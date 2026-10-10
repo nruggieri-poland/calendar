@@ -2321,17 +2321,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857957/occurrences/8952365"
   },
   {
-    "uid": "schedule-request-3857965-occurrence-8952373",
-    "title": "3857965 - Football (Boys V) vs Girard Sr High School",
-    "summary": "3857965 - Football (Boys V) vs Girard Sr High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-09 7:00 PM",
-    "end": "2026-10-09 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857965/occurrences/8952373"
-  },
-  {
     "uid": "schedule-request-3857966-occurrence-8952374",
     "title": "3857966 - Basketball (Girls JV) vs South Range High School",
     "summary": "3857966 - Basketball (Girls JV) vs South Range High School",
@@ -2693,17 +2682,6 @@
     "end": "2026-12-09 8:00 PM",
     "location": "3030 Dobbins Road",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094728"
-  },
-  {
-    "uid": "schedule-request-3888166-occurrence-9035136",
-    "title": "3888166 - CLOSED - No Classes for Students",
-    "summary": "3888166 - CLOSED - No Classes for Students",
-    "type": "CLOSED",
-    "color": "#828282",
-    "start": "2026-10-09 12:00 AM",
-    "end": "2026-10-09 7:59 PM",
-    "location": "Central Office, McKinley Elementary School, Poland Middle School, and Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3888166/occurrences/9035136"
   },
   {
     "uid": "schedule-request-3888166-occurrence-9035137",

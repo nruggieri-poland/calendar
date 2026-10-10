@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-10T06:37:12.605Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857965-occurrence-8952373",
+        "title": "3857965 - Football (Boys V) vs Girard Sr High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-09 7:00 PM",
+        "end": "2026-10-09 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3888166-occurrence-9035136",
+        "title": "3888166 - CLOSED - No Classes for Students",
+        "type": "CLOSED",
+        "start": "2026-10-09 12:00 AM",
+        "end": "2026-10-09 7:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-09T15:45:22.478Z",
     "added": [],
     "removed": [],
@@ -21489,20 +21510,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-15 11:00 AM",
         "end": "2026-08-15 1:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-14T17:48:00.232Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3866408-occurrence-8974392",
-        "title": "3866408 - Golf (Boys V) @ Shenango High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-14 11:00 AM",
-        "end": "2026-08-14 1:00 PM"
       }
     ],
     "edited": []
