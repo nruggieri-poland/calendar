@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-10T22:10:16.522Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858258-occurrence-8952803",
+        "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-10 9:30 AM",
+        "end": "2026-10-10 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-10T18:11:05.664Z",
     "added": [],
     "removed": [
@@ -21552,20 +21566,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-15 4:00 PM",
         "end": "2026-08-15 6:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-15T19:17:35.492Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857991-occurrence-8952399",
-        "title": "3857991 - Soccer (Boys V) @ Marlington High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-15 1:00 PM",
-        "end": "2026-08-15 3:00 PM"
       }
     ],
     "edited": []
