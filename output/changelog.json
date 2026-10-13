@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-13T22:12:06.862Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4011953-occurrence-9283900",
+        "title": "4011953 - PSAT @ PSHS FieldHouse",
+        "type": "Other",
+        "start": "2026-10-13 7:00 AM",
+        "end": "2026-10-13 2:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-13T17:30:10.119Z",
     "added": [
       {
@@ -20362,20 +20376,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-17 1:00 PM",
         "end": "2026-08-17 3:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-17T14:21:10.398Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857961-occurrence-8952369",
-        "title": "3857961 - Golf (Girls V) vs South Range High School\\, Hubbard High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-17 8:00 AM",
-        "end": "2026-08-17 10:00 AM"
       }
     ],
     "edited": []
