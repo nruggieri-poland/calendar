@@ -1221,17 +1221,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063339/occurrences/9412838"
   },
   {
-    "uid": "schedule-request-4065509-occurrence-9418419",
-    "title": "4065509 - Volleyball (Girls 8) @ Girard Sr High School",
-    "summary": "4065509 - Volleyball (Girls 8) @ Girard Sr High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-12 5:30 PM",
-    "end": "2026-10-12 6:30 PM",
-    "location": "Girard Sr High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4065509/occurrences/9418419"
-  },
-  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -3135,17 +3124,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858245/occurrences/8952768"
   },
   {
-    "uid": "schedule-request-3858248-occurrence-8952771",
-    "title": "3858248 - Youngstown Football Official Association @ PSHS Cafeteria",
-    "summary": "3858248 - Youngstown Football Official Association @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-12 6:00 PM",
-    "end": "2026-10-12 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858248/occurrences/8952771"
-  },
-  {
     "uid": "schedule-request-3858254-occurrence-8952777",
     "title": "3858254 - 5/6 Holiday Band Concert @ PSHS Auditorium",
     "summary": "3858254 - 5/6 Holiday Band Concert @ PSHS Auditorium",
@@ -3309,17 +3287,6 @@
     "end": "2026-10-28 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952821"
-  },
-  {
-    "uid": "schedule-request-3858262-occurrence-8952829",
-    "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-12 6:00 PM",
-    "end": "2026-10-12 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858262/occurrences/8952829"
   },
   {
     "uid": "schedule-request-3858262-occurrence-8952830",
