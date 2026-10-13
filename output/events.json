@@ -3894,6 +3894,28 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4060860/occurrences/9396538"
   },
   {
+    "uid": "schedule-request-4066412-occurrence-9421622",
+    "title": "4066412 - Cross Country Awards Presentation @ PSHS Cafeteria",
+    "summary": "4066412 - Cross Country Awards Presentation @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-15 2:00 PM",
+    "end": "2026-11-15 5:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4066412/occurrences/9421622"
+  },
+  {
+    "uid": "schedule-request-4066413-occurrence-9421623",
+    "title": "4066413 - Speech and Debate Team Meeting @ PSHS Cafeteria",
+    "summary": "4066413 - Speech and Debate Team Meeting @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-04 4:00 PM",
+    "end": "2026-11-04 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4066413/occurrences/9421623"
+  },
+  {
     "uid": "schedule-request-3998392-occurrence-9245645",
     "title": "3998392 - PTO Meeting",
     "summary": "3998392 - PTO Meeting",
