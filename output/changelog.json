@@ -1,5 +1,90 @@
 [
   {
+    "timestamp": "2026-10-14T01:32:34.263Z",
+    "added": [
+      {
+        "uid": "schedule-request-4067052-occurrence-9423541",
+        "title": "4067052 - Soccer (Boys V) @ Avon Lake High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-31 7:00 PM",
+        "end": "2026-10-31 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067053-occurrence-9423542",
+        "title": "4067053 - Volleyball (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-27 7:00 PM",
+        "end": "2026-10-27 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067054-occurrence-9423543",
+        "title": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
+        "type": "Athletics - Away",
+        "start": "2026-10-31 2:00 PM",
+        "end": "2026-10-31 4:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067055-occurrence-9423544",
+        "title": "4067055 - Volleyball (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-22 5:00 PM",
+        "end": "2026-10-22 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067048-occurrence-9423537",
+        "title": "4067048 - Soccer (Girls V) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-27 7:00 PM",
+        "end": "2026-10-27 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067049-occurrence-9423538",
+        "title": "4067049 - Soccer (Boys V) vs The Andrews School",
+        "type": "Athletics - Home",
+        "start": "2026-10-29 7:00 PM",
+        "end": "2026-10-29 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067050-occurrence-9423539",
+        "title": "4067050 - Soccer (Boys V) vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-21 7:00 PM",
+        "end": "2026-10-21 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067051-occurrence-9423540",
+        "title": "4067051 - Soccer (Girls V) vs Shaw High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-22 7:00 PM",
+        "end": "2026-10-22 9:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3857887-occurrence-8952295",
+        "title": "3857887 - Soccer (Boys V) vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-13 7:00 PM",
+        "end": "2026-10-13 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857936-occurrence-8952344",
+        "title": "3857936 - Soccer (Boys JV) vs West Branch High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-13 5:00 PM",
+        "end": "2026-10-13 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858257-occurrence-8952794",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-13 6:00 PM",
+        "end": "2026-10-13 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-13T22:12:06.862Z",
     "added": [],
     "removed": [
@@ -20362,20 +20447,6 @@
         "type": "Athletics - Home",
         "start": "2026-08-17 4:00 PM",
         "end": "2026-08-17 6:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-17T19:22:33.023Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857987-occurrence-8952395",
-        "title": "3857987 - Golf (Boys V) @ Hubbard High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-17 1:00 PM",
-        "end": "2026-08-17 3:00 PM"
       }
     ],
     "edited": []

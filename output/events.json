@@ -1221,6 +1221,50 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063339/occurrences/9412838"
   },
   {
+    "uid": "schedule-request-4067052-occurrence-9423541",
+    "title": "4067052 - Soccer (Boys V) @ Avon Lake High School",
+    "summary": "4067052 - Soccer (Boys V) @ Avon Lake High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-10-31 7:00 PM",
+    "end": "2026-10-31 9:00 PM",
+    "location": "Avon Lake High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067052/occurrences/9423541"
+  },
+  {
+    "uid": "schedule-request-4067053-occurrence-9423542",
+    "title": "4067053 - Volleyball (Girls V) @ South Range High School",
+    "summary": "4067053 - Volleyball (Girls V) @ South Range High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-10-27 7:00 PM",
+    "end": "2026-10-27 9:00 PM",
+    "location": "South Range High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067053/occurrences/9423542"
+  },
+  {
+    "uid": "schedule-request-4067054-occurrence-9423543",
+    "title": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
+    "summary": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-10-31 2:00 PM",
+    "end": "2026-10-31 4:00 PM",
+    "location": "Notre Dame Cathedral Latin School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067054/occurrences/9423543"
+  },
+  {
+    "uid": "schedule-request-4067055-occurrence-9423544",
+    "title": "4067055 - Volleyball (Girls V) @ South Range High School",
+    "summary": "4067055 - Volleyball (Girls V) @ South Range High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-10-22 5:00 PM",
+    "end": "2026-10-22 7:00 PM",
+    "location": "South Range High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067055/occurrences/9423544"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -1826,17 +1870,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857886/occurrences/8952294"
   },
   {
-    "uid": "schedule-request-3857887-occurrence-8952295",
-    "title": "3857887 - Soccer (Boys V) vs West Branch High School",
-    "summary": "3857887 - Soccer (Boys V) vs West Branch High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-13 7:00 PM",
-    "end": "2026-10-13 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857887/occurrences/8952295"
-  },
-  {
     "uid": "schedule-request-3857888-occurrence-8952296",
     "title": "3857888 - Poland Seminary High School vs TBD",
     "summary": "3857888 - Poland Seminary High School vs TBD",
@@ -2088,17 +2121,6 @@
     "end": "2027-01-11 7:00 PM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857932/occurrences/8952340"
-  },
-  {
-    "uid": "schedule-request-3857936-occurrence-8952344",
-    "title": "3857936 - Soccer (Boys JV) vs West Branch High School",
-    "summary": "3857936 - Soccer (Boys JV) vs West Branch High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-13 5:00 PM",
-    "end": "2026-10-13 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857936/occurrences/8952344"
   },
   {
     "uid": "schedule-request-3857938-occurrence-8952346",
@@ -2539,6 +2561,50 @@
     "end": "2027-04-30 7:30 PM",
     "location": "Poland Seminary High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063336/occurrences/9412835"
+  },
+  {
+    "uid": "schedule-request-4067048-occurrence-9423537",
+    "title": "4067048 - Soccer (Girls V) vs Lakeview High School",
+    "summary": "4067048 - Soccer (Girls V) vs Lakeview High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-10-27 7:00 PM",
+    "end": "2026-10-27 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067048/occurrences/9423537"
+  },
+  {
+    "uid": "schedule-request-4067049-occurrence-9423538",
+    "title": "4067049 - Soccer (Boys V) vs The Andrews School",
+    "summary": "4067049 - Soccer (Boys V) vs The Andrews School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-10-29 7:00 PM",
+    "end": "2026-10-29 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067049/occurrences/9423538"
+  },
+  {
+    "uid": "schedule-request-4067050-occurrence-9423539",
+    "title": "4067050 - Soccer (Boys V) vs Hubbard High School",
+    "summary": "4067050 - Soccer (Boys V) vs Hubbard High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-10-21 7:00 PM",
+    "end": "2026-10-21 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067050/occurrences/9423539"
+  },
+  {
+    "uid": "schedule-request-4067051-occurrence-9423540",
+    "title": "4067051 - Soccer (Girls V) vs Shaw High School",
+    "summary": "4067051 - Soccer (Girls V) vs Shaw High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-10-22 7:00 PM",
+    "end": "2026-10-22 9:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4067051/occurrences/9423540"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094725",
@@ -3144,17 +3210,6 @@
     "end": "2026-10-18 2:00 PM",
     "location": "Baird Mitchell",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858256/occurrences/8952788"
-  },
-  {
-    "uid": "schedule-request-3858257-occurrence-8952794",
-    "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-13 6:00 PM",
-    "end": "2026-10-13 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952794"
   },
   {
     "uid": "schedule-request-3858257-occurrence-8952795",
