@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-15T00:25:14.176Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4050723-occurrence-9373560",
+        "title": "4050723 - Speech and Debate Judge Training Meeting @ PSHS LIBRARY & CAFETERIA",
+        "type": "Other",
+        "start": "2026-10-14 6:00 PM",
+        "end": "2026-10-14 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-14T22:00:14.629Z",
     "added": [],
     "removed": [
@@ -20452,27 +20466,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-17 7:00 PM",
         "end": "2026-08-17 9:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-18T00:54:37.635Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858017-occurrence-8952425",
-        "title": "3858017 - Volleyball (Girls 8) @ Columbiana Middle School",
-        "type": "Athletics - Away",
-        "start": "2026-08-17 6:30 PM",
-        "end": "2026-08-17 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-3428269-occurrence-8094721",
-        "title": "3428269 - PLSD - Board of Education Meeting",
-        "type": "Board Meeting",
-        "start": "2026-08-17 6:00 PM",
-        "end": "2026-08-17 8:00 PM"
       }
     ],
     "edited": []
