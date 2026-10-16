@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-16T15:07:27.691Z",
+    "added": [
+      {
+        "uid": "schedule-request-4069939-occurrence-9431678",
+        "title": "4069939 - Poland Players Performance @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-21 7:00 PM",
+        "end": "2026-11-21 8:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-16T00:57:28.787Z",
     "added": [],
     "removed": [
@@ -20476,19 +20490,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T04:29:46.749Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3888171-occurrence-9035169",
-        "title": "3888171 - Teacher In-Service Day",
-        "type": "Staff Event",
-        "start": "2026-08-17 12:00 AM",
-        "end": "2026-08-17 7:59 PM"
-      }
-    ],
-    "edited": []
   }
 ]
