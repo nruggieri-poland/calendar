@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-10-16T00:57:28.787Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858003-occurrence-8952411",
+        "title": "3858003 - Soccer (Boys JV) @ Howland High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-15 5:00 PM",
+        "end": "2026-10-15 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4024342-occurrence-9306078",
+        "title": "4024342 - Football (Boys 7) vs John F Kennedy High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-15 5:00 PM",
+        "end": "2026-10-15 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4024346-occurrence-9306086",
+        "title": "4024346 - Football (Boys F) vs Conneaut High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-15 6:00 PM",
+        "end": "2026-10-15 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4042502-occurrence-9353505",
+        "title": "4042502 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-15 6:00 PM",
+        "end": "2026-10-15 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-15T00:25:14.176Z",
     "added": [],
     "removed": [
@@ -20452,20 +20487,6 @@
         "type": "Staff Event",
         "start": "2026-08-17 12:00 AM",
         "end": "2026-08-17 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-18T02:12:42.777Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858122-occurrence-8952645",
-        "title": "3858122 - Soccer (Girls V) @ Howland High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-17 7:00 PM",
-        "end": "2026-08-17 9:00 PM"
       }
     ],
     "edited": []

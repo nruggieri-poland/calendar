@@ -165,17 +165,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858002/occurrences/8952410"
   },
   {
-    "uid": "schedule-request-3858003-occurrence-8952411",
-    "title": "3858003 - Soccer (Boys JV) @ Howland High School",
-    "summary": "3858003 - Soccer (Boys JV) @ Howland High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-15 5:00 PM",
-    "end": "2026-10-15 7:00 PM",
-    "location": "Howland High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858003/occurrences/8952411"
-  },
-  {
     "uid": "schedule-request-3858005-occurrence-8952413",
     "title": "3858005 - Basketball (Girls V) @ James A Garfield High School",
     "summary": "3858005 - Basketball (Girls V) @ James A Garfield High School",
@@ -2365,28 +2354,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4020299/occurrences/9300034"
   },
   {
-    "uid": "schedule-request-4024342-occurrence-9306078",
-    "title": "4024342 - Football (Boys 7) vs John F Kennedy High School",
-    "summary": "4024342 - Football (Boys 7) vs John F Kennedy High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-15 5:00 PM",
-    "end": "2026-10-15 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4024342/occurrences/9306078"
-  },
-  {
-    "uid": "schedule-request-4024346-occurrence-9306086",
-    "title": "4024346 - Football (Boys F) vs Conneaut High School",
-    "summary": "4024346 - Football (Boys F) vs Conneaut High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-15 6:00 PM",
-    "end": "2026-10-15 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4024346/occurrences/9306086"
-  },
-  {
     "uid": "schedule-request-4030323-occurrence-9315591",
     "title": "4030323 - Swimming (Coed V) vs Ursuline High School",
     "summary": "4030323 - Swimming (Coed V) vs Ursuline High School",
@@ -3639,17 +3606,6 @@
     "end": "2026-10-29 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4042497/occurrences/9353501"
-  },
-  {
-    "uid": "schedule-request-4042502-occurrence-9353505",
-    "title": "4042502 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "4042502 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-15 6:00 PM",
-    "end": "2026-10-15 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4042502/occurrences/9353505"
   },
   {
     "uid": "schedule-request-4042504-occurrence-9353507",
