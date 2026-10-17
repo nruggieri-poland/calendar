@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-17T05:23:16.637Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858128-occurrence-8952651",
+        "title": "3858128 - Football (Boys V) @ Lakeview High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-16 7:00 PM",
+        "end": "2026-10-16 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-16T19:13:00.640Z",
     "added": [
       {
@@ -20466,19 +20480,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-18T14:26:44.472Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857769-occurrence-8952177",
-        "title": "3857769 - Golf (Boys V) vs Niles McKinley High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-18 8:00 AM",
-        "end": "2026-08-18 10:00 AM"
-      }
-    ],
-    "edited": []
   }
 ]
