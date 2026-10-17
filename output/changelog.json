@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-17T17:42:12.016Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857787-occurrence-8952195",
+        "title": "3857787 - Cross Country (Coed MS) vs TBD",
+        "type": "Athletics - Home",
+        "start": "2026-10-17 11:30 AM",
+        "end": "2026-10-17 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857840-occurrence-8952248",
+        "title": "3857840 - Cross Country (Coed V) vs Hubbard High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-17 10:00 AM",
+        "end": "2026-10-17 12:00 PM"
+      },
+      {
+        "uid": "schedule-request-3857939-occurrence-8952347",
+        "title": "3857939 - Football (Boys JV) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-17 10:00 AM",
+        "end": "2026-10-17 12:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-17T05:23:16.637Z",
     "added": [],
     "removed": [
@@ -20439,46 +20467,5 @@
       }
     ],
     "edited": []
-  },
-  {
-    "timestamp": "2026-08-18T19:22:57.146Z",
-    "added": [],
-    "removed": [],
-    "edited": [
-      {
-        "uid": "schedule-request-3857774-occurrence-8952182",
-        "title": "3857774 - Soccer (Girls V) vs Niles McKinley High School",
-        "type": "Athletics - Home",
-        "start": "2026-09-21 7:00 PM",
-        "end": "2026-09-21 9:00 PM",
-        "changes": {
-          "start": {
-            "from": "2026-09-21 5:00 PM",
-            "to": "2026-09-21 7:00 PM"
-          },
-          "end": {
-            "from": "2026-09-21 7:00 PM",
-            "to": "2026-09-21 9:00 PM"
-          }
-        }
-      },
-      {
-        "uid": "schedule-request-3857851-occurrence-8952259",
-        "title": "3857851 - Soccer (Boys V) vs Niles McKinley High School",
-        "type": "Athletics - Home",
-        "start": "2026-09-21 5:00 PM",
-        "end": "2026-09-21 7:00 PM",
-        "changes": {
-          "start": {
-            "from": "2026-09-21 7:00 PM",
-            "to": "2026-09-21 5:00 PM"
-          },
-          "end": {
-            "from": "2026-09-21 9:00 PM",
-            "to": "2026-09-21 7:00 PM"
-          }
-        }
-      }
-    ]
   }
 ]

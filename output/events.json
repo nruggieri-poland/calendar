@@ -1298,17 +1298,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857783/occurrences/8952191"
   },
   {
-    "uid": "schedule-request-3857787-occurrence-8952195",
-    "title": "3857787 - Cross Country (Coed MS) vs TBD",
-    "summary": "3857787 - Cross Country (Coed MS) vs TBD",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-17 11:30 AM",
-    "end": "2026-10-17 1:30 PM",
-    "location": "Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857787/occurrences/8952195"
-  },
-  {
     "uid": "schedule-request-3857789-occurrence-8952197",
     "title": "3857789 - Basketball (Girls JV) vs Struthers High School",
     "summary": "3857789 - Basketball (Girls JV) vs Struthers High School",
@@ -1626,17 +1615,6 @@
     "end": "2026-12-22 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857839/occurrences/8952247"
-  },
-  {
-    "uid": "schedule-request-3857840-occurrence-8952248",
-    "title": "3857840 - Cross Country (Coed V) vs Hubbard High School",
-    "summary": "3857840 - Cross Country (Coed V) vs Hubbard High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-17 10:00 AM",
-    "end": "2026-10-17 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857840/occurrences/8952248"
   },
   {
     "uid": "schedule-request-3857841-occurrence-8952249",
@@ -2110,17 +2088,6 @@
     "end": "2027-01-30 10:00 AM",
     "location": "47 College St. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857938/occurrences/8952346"
-  },
-  {
-    "uid": "schedule-request-3857939-occurrence-8952347",
-    "title": "3857939 - Football (Boys JV) vs Lakeview High School",
-    "summary": "3857939 - Football (Boys JV) vs Lakeview High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-17 10:00 AM",
-    "end": "2026-10-17 12:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857939/occurrences/8952347"
   },
   {
     "uid": "schedule-request-3857940-occurrence-8952348",
