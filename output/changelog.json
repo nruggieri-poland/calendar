@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-18T17:43:35.104Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3973564-occurrence-9191739",
+        "title": "3973564 - Boys Lacrosse Clinic @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-10-18 11:00 AM",
+        "end": "2026-10-18 12:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-17T22:02:31.977Z",
     "added": [],
     "removed": [
@@ -20450,20 +20464,6 @@
         "type": "Staff Event",
         "start": "2026-08-18 12:00 AM",
         "end": "2026-08-18 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-19T02:15:41.525Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858118-occurrence-8952641",
-        "title": "3858118 - Soccer (Boys V) @ Boardman High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-18 7:15 PM",
-        "end": "2026-08-18 9:15 PM"
       }
     ],
     "edited": []
