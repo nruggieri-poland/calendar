@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-20T22:01:16.545Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4060736-occurrence-9395906",
+        "title": "4060736 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-20 2:30 PM",
+        "end": "2026-10-20 5:30 PM"
+      },
+      {
+        "uid": "schedule-request-4064429-occurrence-9415736",
+        "title": "4064429 - Math 24 Club Meeting",
+        "type": "School Activity",
+        "start": "2026-10-20 2:15 PM",
+        "end": "2026-10-20 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-20T18:15:12.413Z",
     "added": [
       {
@@ -20443,20 +20464,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-19 7:15 PM",
         "end": "2026-08-19 9:15 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-20T00:55:01.661Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857976-occurrence-8952384",
-        "title": "3857976 - Football (Boys 7) @ Boardman High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-19 6:00 PM",
-        "end": "2026-08-19 8:00 PM"
       }
     ],
     "edited": []
