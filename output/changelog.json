@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-20T18:15:12.413Z",
+    "added": [
+      {
+        "uid": "schedule-request-4073153-occurrence-9446550",
+        "title": "4073153 - Percussion Studio Recital @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-12 7:00 PM",
+        "end": "2027-01-12 8:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-20T13:13:13.554Z",
     "added": [
       {
@@ -20443,20 +20457,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-19 6:00 PM",
         "end": "2026-08-19 8:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-19T23:17:45.125Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858008-occurrence-8952416",
-        "title": "3858008 - Volleyball (Girls 8) @ East Palestine High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-19 6:00 PM",
-        "end": "2026-08-19 7:00 PM"
       }
     ],
     "edited": []
