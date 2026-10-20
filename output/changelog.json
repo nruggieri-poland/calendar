@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-20T01:27:47.629Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858262-occurrence-8952830",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-19 6:00 PM",
+        "end": "2026-10-19 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-18T19:58:12.827Z",
     "added": [],
     "removed": [
@@ -20450,20 +20464,6 @@
         "type": "Athletics - Home",
         "start": "2026-08-19 4:00 PM",
         "end": "2026-08-19 6:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-19T15:24:51.539Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858120-occurrence-8952643",
-        "title": "3858120 - Golf (Girls V) @ South Range High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-19 9:00 AM",
-        "end": "2026-08-19 11:00 AM"
       }
     ],
     "edited": []
