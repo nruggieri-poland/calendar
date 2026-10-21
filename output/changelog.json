@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-21T01:11:44.862Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858257-occurrence-8952795",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-20 6:00 PM",
+        "end": "2026-10-20 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4057546-occurrence-9391450",
+        "title": "4057546 - Winter Sports Parent Meeting @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-20 6:00 PM",
+        "end": "2026-10-20 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-20T22:01:16.545Z",
     "added": [],
     "removed": [
@@ -20450,20 +20471,6 @@
         "type": "Staff Event",
         "start": "2026-08-19 12:00 AM",
         "end": "2026-08-19 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-20T02:14:07.963Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858220-occurrence-8952743",
-        "title": "3858220 - Football (Boys 8) @ Boardman High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-19 7:15 PM",
-        "end": "2026-08-19 9:15 PM"
       }
     ],
     "edited": []
