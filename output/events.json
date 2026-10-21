@@ -1243,6 +1243,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4067055/occurrences/9423544"
   },
   {
+    "uid": "schedule-request-4074912-occurrence-9449874",
+    "title": "4074912 - Swimming (Coed V) @ Sprire Institute",
+    "summary": "4074912 - Swimming (Coed V) @ Sprire Institute",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-19 9:00 AM",
+    "end": "2026-12-19 11:00 AM",
+    "location": "Sprire Institute",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4074912/occurrences/9449874"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -3804,6 +3815,28 @@
     "end": "2027-01-12 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4073153/occurrences/9446550"
+  },
+  {
+    "uid": "schedule-request-4074187-occurrence-9448388",
+    "title": "4074187 - Mr. Cline's Science Class Activity @ PSHS Fieldhouse Lobby",
+    "summary": "4074187 - Mr. Cline's Science Class Activity @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-22 10:00 AM",
+    "end": "2026-10-22 1:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4074187/occurrences/9448388"
+  },
+  {
+    "uid": "schedule-request-4074304-occurrence-9448728",
+    "title": "4074304 - Girls Basketball Scrimmage @ PSHS FieldHouse",
+    "summary": "4074304 - Girls Basketball Scrimmage @ PSHS FieldHouse",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-19 5:00 PM",
+    "end": "2026-11-19 7:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4074304/occurrences/9448728"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245646",
