@@ -3201,17 +3201,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952808"
   },
   {
-    "uid": "schedule-request-3858260-occurrence-8952820",
-    "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-21 2:30 PM",
-    "end": "2026-10-21 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952820"
-  },
-  {
     "uid": "schedule-request-3858260-occurrence-8952821",
     "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -3837,6 +3826,17 @@
     "end": "2026-11-19 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4074304/occurrences/9448728"
+  },
+  {
+    "uid": "schedule-request-4075347-occurrence-9450900",
+    "title": "4075347 - Band Mattress Fundraiser @ PE Gym",
+    "summary": "4075347 - Band Mattress Fundraiser @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-24 10:00 AM",
+    "end": "2026-10-24 4:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4075347/occurrences/9450900"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245646",

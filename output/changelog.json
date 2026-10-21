@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-10-21T21:07:41.881Z",
+    "added": [
+      {
+        "uid": "schedule-request-4075347-occurrence-9450900",
+        "title": "4075347 - Band Mattress Fundraiser @ PE Gym",
+        "type": "Other",
+        "start": "2026-10-24 10:00 AM",
+        "end": "2026-10-24 4:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-3858260-occurrence-8952820",
+        "title": "3858260 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-21 2:30 PM",
+        "end": "2026-10-21 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-21T17:49:36.042Z",
     "added": [
       {
@@ -20471,20 +20493,6 @@
         "type": "School Activity",
         "start": "2026-08-20 9:30 AM",
         "end": "2026-08-20 10:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-20T13:41:11.650Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3888191-occurrence-9035365",
-        "title": "3888191 - Grade 1 Meet & Greet",
-        "type": "School Activity",
-        "start": "2026-08-20 8:30 AM",
-        "end": "2026-08-20 9:00 AM"
       }
     ],
     "edited": []
