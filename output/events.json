@@ -2530,17 +2530,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4067051/occurrences/9423540"
   },
   {
-    "uid": "schedule-request-3428269-occurrence-8094725",
-    "title": "3428269 - PLSD - Board of Education Meeting",
-    "summary": "3428269 - PLSD - Board of Education Meeting",
-    "type": "Board Meeting",
-    "color": "#00328f",
-    "start": "2026-10-21 6:00 PM",
-    "end": "2026-10-21 8:00 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094725"
-  },
-  {
     "uid": "schedule-request-3428269-occurrence-8094726",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3573,17 +3562,6 @@
     "end": "2027-03-18 10:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4042513/occurrences/9353516"
-  },
-  {
-    "uid": "schedule-request-4050114-occurrence-9371529",
-    "title": "4050114 - Girls Tennis Banquet @ PSHS Cafeteria",
-    "summary": "4050114 - Girls Tennis Banquet @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-21 6:30 PM",
-    "end": "2026-10-21 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4050114/occurrences/9371529"
   },
   {
     "uid": "schedule-request-4056719-occurrence-9389256",

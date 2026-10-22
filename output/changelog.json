@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-22T00:21:36.317Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3428269-occurrence-8094725",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-10-21 6:00 PM",
+        "end": "2026-10-21 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4050114-occurrence-9371529",
+        "title": "4050114 - Girls Tennis Banquet @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-21 6:30 PM",
+        "end": "2026-10-21 7:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-21T21:07:41.881Z",
     "added": [
       {
@@ -20472,27 +20493,6 @@
         "type": "School Activity",
         "start": "2026-08-20 10:00 AM",
         "end": "2026-08-20 11:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-20T14:30:10.281Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857866-occurrence-8952274",
-        "title": "3857866 - Golf (Boys V) vs South Range High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-20 8:00 AM",
-        "end": "2026-08-20 10:00 AM"
-      },
-      {
-        "uid": "schedule-request-3888192-occurrence-9035366",
-        "title": "3888192 - Grade 2 Meet & Greet",
-        "type": "School Activity",
-        "start": "2026-08-20 9:30 AM",
-        "end": "2026-08-20 10:00 AM"
       }
     ],
     "edited": []
