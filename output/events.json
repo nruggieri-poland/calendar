@@ -1254,6 +1254,50 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4074912/occurrences/9449874"
   },
   {
+    "uid": "schedule-request-4076192-occurrence-9453054",
+    "title": "4076192 - Wrestling (Boys V) @ Beaver Local High School",
+    "summary": "4076192 - Wrestling (Boys V) @ Beaver Local High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-19 9:00 AM",
+    "end": "2026-12-19 11:00 AM",
+    "location": "Beaver Local High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076192/occurrences/9453054"
+  },
+  {
+    "uid": "schedule-request-4076308-occurrence-9453303",
+    "title": "4076308 - Wrestling (Boys V) @ Jackson-Milton High School",
+    "summary": "4076308 - Wrestling (Boys V) @ Jackson-Milton High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-09 9:00 AM",
+    "end": "2027-01-09 11:00 AM",
+    "location": "Jackson-Milton High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076308/occurrences/9453303"
+  },
+  {
+    "uid": "schedule-request-4076430-occurrence-9453577",
+    "title": "4076430 - Wrestling (Boys V) @ Jackson-Milton High School",
+    "summary": "4076430 - Wrestling (Boys V) @ Jackson-Milton High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-20 7:00 PM",
+    "end": "2027-01-20 9:00 PM",
+    "location": "Jackson-Milton High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076430/occurrences/9453577"
+  },
+  {
+    "uid": "schedule-request-4076431-occurrence-9453578",
+    "title": "4076431 - Wrestling (Boys V) @ Berkshire High School",
+    "summary": "4076431 - Wrestling (Boys V) @ Berkshire High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-16 9:00 AM",
+    "end": "2027-01-16 11:00 AM",
+    "location": "Berkshire High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076431/occurrences/9453578"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -2519,6 +2563,28 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4067051/occurrences/9423540"
   },
   {
+    "uid": "schedule-request-4076191-occurrence-9453053",
+    "title": "4076191 - Wrestling (Boys V) vs TBD",
+    "summary": "4076191 - Wrestling (Boys V) vs TBD",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-12-01 1:00 PM",
+    "end": "2026-12-01 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076191/occurrences/9453053"
+  },
+  {
+    "uid": "schedule-request-4076307-occurrence-9453302",
+    "title": "4076307 - Wrestling (Boys V) vs TBD",
+    "summary": "4076307 - Wrestling (Boys V) vs TBD",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-01-13 6:00 PM",
+    "end": "2027-01-13 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076307/occurrences/9453302"
+  },
+  {
     "uid": "schedule-request-3428269-occurrence-8094726",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3740,17 +3806,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4069939/occurrences/9431678"
   },
   {
-    "uid": "schedule-request-4070607-occurrence-9434185",
-    "title": "4070607 - Interact Club Meeting @ PSHS Cafeteria",
-    "summary": "4070607 - Interact Club Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-22 2:15 PM",
-    "end": "2026-10-22 3:15 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4070607/occurrences/9434185"
-  },
-  {
     "uid": "schedule-request-4072752-occurrence-9445144",
     "title": "4072752 - Signing Day @ PSHS FieldHouse",
     "summary": "4072752 - Signing Day @ PSHS FieldHouse",
@@ -3773,17 +3828,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4073153/occurrences/9446550"
   },
   {
-    "uid": "schedule-request-4074187-occurrence-9448388",
-    "title": "4074187 - Mr. Cline's Science Class Activity @ PSHS Fieldhouse Lobby",
-    "summary": "4074187 - Mr. Cline's Science Class Activity @ PSHS Fieldhouse Lobby",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-22 10:00 AM",
-    "end": "2026-10-22 1:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4074187/occurrences/9448388"
-  },
-  {
     "uid": "schedule-request-4074304-occurrence-9448728",
     "title": "4074304 - Girls Basketball Scrimmage @ PSHS FieldHouse",
     "summary": "4074304 - Girls Basketball Scrimmage @ PSHS FieldHouse",
@@ -3804,6 +3848,17 @@
     "end": "2026-10-24 4:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4075347/occurrences/9450900"
+  },
+  {
+    "uid": "schedule-request-4076549-occurrence-9454229",
+    "title": "4076549 - MS Football Pizza Party @ PSHS Cafeteria",
+    "summary": "4076549 - MS Football Pizza Party @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-10-27 2:15 PM",
+    "end": "2026-10-27 4:15 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076549/occurrences/9454229"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245646",
