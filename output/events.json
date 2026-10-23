@@ -1287,6 +1287,105 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4076431/occurrences/9453578"
   },
   {
+    "uid": "schedule-request-4076983-occurrence-9455664",
+    "title": "4076983 - Swimming (Coed V) @ Hubbard Community Pool",
+    "summary": "4076983 - Swimming (Coed V) @ Hubbard Community Pool",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-12 2:30 PM",
+    "end": "2026-12-12 4:30 PM",
+    "location": "Hubbard Community Pool",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4076983/occurrences/9455664"
+  },
+  {
+    "uid": "schedule-request-4077161-occurrence-9456445",
+    "title": "4077161 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "summary": "4077161 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-22 9:00 AM",
+    "end": "2027-01-22 11:00 AM",
+    "location": "Austintown Fitch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077161/occurrences/9456445"
+  },
+  {
+    "uid": "schedule-request-4077249-occurrence-9456702",
+    "title": "4077249 - Wrestling (Boys V) @ Alliance High School",
+    "summary": "4077249 - Wrestling (Boys V) @ Alliance High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-11 7:00 PM",
+    "end": "2027-02-11 9:00 PM",
+    "location": "Alliance High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077249/occurrences/9456702"
+  },
+  {
+    "uid": "schedule-request-4077250-occurrence-9456703",
+    "title": "4077250 - Wrestling (Boys V) @ West Branch High School",
+    "summary": "4077250 - Wrestling (Boys V) @ West Branch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-17 7:00 PM",
+    "end": "2027-02-17 9:00 PM",
+    "location": "West Branch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077250/occurrences/9456703"
+  },
+  {
+    "uid": "schedule-request-4077251-occurrence-9456704",
+    "title": "4077251 - Wrestling (Boys V) @ Shaw High School",
+    "summary": "4077251 - Wrestling (Boys V) @ Shaw High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-06 10:00 AM",
+    "end": "2027-02-06 12:00 PM",
+    "location": "Shaw High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077251/occurrences/9456704"
+  },
+  {
+    "uid": "schedule-request-4077252-occurrence-9456705",
+    "title": "4077252 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "summary": "4077252 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-23 9:00 AM",
+    "end": "2027-01-23 11:00 AM",
+    "location": "Austintown Fitch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077252/occurrences/9456705"
+  },
+  {
+    "uid": "schedule-request-4077253-occurrence-9456706",
+    "title": "4077253 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "summary": "4077253 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-29 3:30 PM",
+    "end": "2027-01-29 5:30 PM",
+    "location": "Austintown Fitch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077253/occurrences/9456706"
+  },
+  {
+    "uid": "schedule-request-4077254-occurrence-9456707",
+    "title": "4077254 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "summary": "4077254 - Wrestling (Boys V) @ Austintown Fitch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-30 10:00 AM",
+    "end": "2027-01-30 12:00 PM",
+    "location": "Austintown Fitch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077254/occurrences/9456707"
+  },
+  {
+    "uid": "schedule-request-4077256-occurrence-9456719",
+    "title": "4077256 - Wrestling (Boys V) @ Girard Sr High School",
+    "summary": "4077256 - Wrestling (Boys V) @ Girard Sr High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-13 10:00 AM",
+    "end": "2027-02-13 12:00 PM",
+    "location": "Girard Sr High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4077256/occurrences/9456719"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
