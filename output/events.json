@@ -1232,17 +1232,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4067054/occurrences/9423543"
   },
   {
-    "uid": "schedule-request-4067055-occurrence-9423544",
-    "title": "4067055 - Volleyball (Girls V) @ South Range High School",
-    "summary": "4067055 - Volleyball (Girls V) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-22 5:00 PM",
-    "end": "2026-10-22 7:00 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067055/occurrences/9423544"
-  },
-  {
     "uid": "schedule-request-4074912-occurrence-9449874",
     "title": "4074912 - Swimming (Coed V) @ Sprire Institute",
     "summary": "4074912 - Swimming (Coed V) @ Sprire Institute",
@@ -2552,17 +2541,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4067049/occurrences/9423538"
   },
   {
-    "uid": "schedule-request-4067051-occurrence-9423540",
-    "title": "4067051 - Soccer (Girls V) vs Shaw High School",
-    "summary": "4067051 - Soccer (Girls V) vs Shaw High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-22 7:00 PM",
-    "end": "2026-10-22 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067051/occurrences/9423540"
-  },
-  {
     "uid": "schedule-request-4076191-occurrence-9453053",
     "title": "4076191 - Wrestling (Boys V) vs TBD",
     "summary": "4076191 - Wrestling (Boys V) vs TBD",
@@ -3595,17 +3573,6 @@
     "end": "2027-03-19 10:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4042511/occurrences/9353514"
-  },
-  {
-    "uid": "schedule-request-4042512-occurrence-9353515",
-    "title": "4042512 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "4042512 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-22 6:00 PM",
-    "end": "2026-10-22 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4042512/occurrences/9353515"
   },
   {
     "uid": "schedule-request-4042513-occurrence-9353516",
