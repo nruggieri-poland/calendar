@@ -1002,13 +1002,13 @@
   },
   {
     "uid": "schedule-request-4030324-occurrence-9315593",
-    "title": "4030324 - Swimming (Coed V) @ OPEN",
-    "summary": "4030324 - Swimming (Coed V) @ OPEN",
+    "title": "4030324 - Swimming (Coed V) @ Downtown YMCA",
+    "summary": "4030324 - Swimming (Coed V) @ Downtown YMCA",
     "type": "Athletics - Away",
     "color": "#de0720",
     "start": "2026-11-28 9:30 AM",
     "end": "2026-11-28 11:30 AM",
-    "location": "OPEN",
+    "location": "Downtown YMCA",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4030324/occurrences/9315593"
   },
   {
@@ -1303,8 +1303,8 @@
     "summary": "4077161 - Wrestling (Boys V) @ Austintown Fitch High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2027-01-22 9:00 AM",
-    "end": "2027-01-22 11:00 AM",
+    "start": "2027-01-22 12:00 PM",
+    "end": "2027-01-22 2:00 PM",
     "location": "Austintown Fitch High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4077161/occurrences/9456445"
   },
@@ -2645,8 +2645,8 @@
     "summary": "4076191 - Wrestling (Boys V) vs TBD",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-12-01 1:00 PM",
-    "end": "2026-12-01 3:00 PM",
+    "start": "2026-12-05 10:00 AM",
+    "end": "2026-12-05 12:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4076191/occurrences/9453053"
   },
@@ -3716,17 +3716,6 @@
     "end": "2026-11-18 7:00 PM",
     "location": "TBD",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4056722/occurrences/9389259"
-  },
-  {
-    "uid": "schedule-request-4057547-occurrence-9391451",
-    "title": "4057547 - Pep Rally @ PSHS FieldHouse",
-    "summary": "4057547 - Pep Rally @ PSHS FieldHouse",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-23 1:00 PM",
-    "end": "2026-10-23 2:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4057547/occurrences/9391451"
   },
   {
     "uid": "schedule-request-4058010-occurrence-9392734",
