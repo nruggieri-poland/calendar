@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-24T02:57:12.560Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858107-occurrence-8952630",
+        "title": "3858107 - Football (Boys V) @ Struthers High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-23 7:00 PM",
+        "end": "2026-10-23 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-23T20:53:15.861Z",
     "added": [],
     "removed": [
@@ -20609,20 +20623,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-20 5:00 PM",
         "end": "2026-08-20 7:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-20T22:21:00.792Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858143-occurrence-8952666",
-        "title": "3858143 - Golf (Girls V) @ Niles McKinley High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-20 3:30 PM",
-        "end": "2026-08-20 5:30 PM"
       }
     ],
     "edited": []
