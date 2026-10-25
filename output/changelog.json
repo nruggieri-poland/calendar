@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-25T21:20:45.995Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858242-occurrence-8952765",
+        "title": "3858242 - Poland Flag Football Superbowl @ Dave Pavlansky Field",
+        "type": "Other",
+        "start": "2026-10-25 10:00 AM",
+        "end": "2026-10-25 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-24T22:11:58.320Z",
     "added": [],
     "removed": [
@@ -20623,20 +20637,6 @@
         "type": "Staff Event",
         "start": "2026-08-20 12:00 AM",
         "end": "2026-08-20 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-21T02:24:15.816Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858211-occurrence-8952734",
-        "title": "3858211 - Soccer (Girls V) @ Hubbard High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-20 7:00 PM",
-        "end": "2026-08-20 9:00 PM"
       }
     ],
     "edited": []
