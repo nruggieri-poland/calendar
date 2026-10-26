@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-26T20:50:26.556Z",
+    "added": [
+      {
+        "uid": "schedule-request-4079431-occurrence-9462739",
+        "title": "4079431 - Mr. Cline's Science class activity @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-10-28 10:00 AM",
+        "end": "2026-10-28 1:30 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-25T21:20:45.995Z",
     "added": [],
     "removed": [
@@ -20626,19 +20640,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-21T04:31:54.276Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3888171-occurrence-9035172",
-        "title": "3888171 - Teacher In-Service Day",
-        "type": "Staff Event",
-        "start": "2026-08-20 12:00 AM",
-        "end": "2026-08-20 7:59 PM"
-      }
-    ],
-    "edited": []
   }
 ]
