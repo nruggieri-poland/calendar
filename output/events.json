@@ -1364,6 +1364,94 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4077256/occurrences/9456719"
   },
   {
+    "uid": "schedule-request-4081135-occurrence-9466208",
+    "title": "4081135 - Wrestling (Boys MS) @ Austintown Fitch High School",
+    "summary": "4081135 - Wrestling (Boys MS) @ Austintown Fitch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-09 9:00 AM",
+    "end": "2027-01-09 11:00 AM",
+    "location": "Austintown Fitch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081135/occurrences/9466208"
+  },
+  {
+    "uid": "schedule-request-4081138-occurrence-9466211",
+    "title": "4081138 - Wrestling (Boys MS) @ Mineral Ridge High School",
+    "summary": "4081138 - Wrestling (Boys MS) @ Mineral Ridge High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-05 10:00 AM",
+    "end": "2026-12-05 12:00 PM",
+    "location": "Mineral Ridge High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081138/occurrences/9466211"
+  },
+  {
+    "uid": "schedule-request-4081139-occurrence-9466212",
+    "title": "4081139 - Wrestling (Boys MS) @ Hubbard High School",
+    "summary": "4081139 - Wrestling (Boys MS) @ Hubbard High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-19 10:00 AM",
+    "end": "2026-12-19 12:00 PM",
+    "location": "Hubbard High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081139/occurrences/9466212"
+  },
+  {
+    "uid": "schedule-request-4081141-occurrence-9466214",
+    "title": "4081141 - Wrestling (Boys MS) @ Girard Sr High School",
+    "summary": "4081141 - Wrestling (Boys MS) @ Girard Sr High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-06 6:00 PM",
+    "end": "2027-01-06 8:00 PM",
+    "location": "Girard Sr High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081141/occurrences/9466214"
+  },
+  {
+    "uid": "schedule-request-4081143-occurrence-9466215",
+    "title": "4081143 - Wrestling (Boys MS) @ Jackson-Milton High School",
+    "summary": "4081143 - Wrestling (Boys MS) @ Jackson-Milton High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-20 7:00 PM",
+    "end": "2027-01-20 9:00 PM",
+    "location": "Jackson-Milton High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081143/occurrences/9466215"
+  },
+  {
+    "uid": "schedule-request-4081398-occurrence-9466712",
+    "title": "4081398 - Wrestling (Boys MS) @ Liberty High School",
+    "summary": "4081398 - Wrestling (Boys MS) @ Liberty High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-06 10:00 AM",
+    "end": "2027-02-06 12:00 PM",
+    "location": "Liberty High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081398/occurrences/9466712"
+  },
+  {
+    "uid": "schedule-request-4081399-occurrence-9466713",
+    "title": "4081399 - Wrestling (Boys MS) @ Canfield High School",
+    "summary": "4081399 - Wrestling (Boys MS) @ Canfield High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-23 9:00 AM",
+    "end": "2027-01-23 11:00 AM",
+    "location": "Canfield High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081399/occurrences/9466713"
+  },
+  {
+    "uid": "schedule-request-4081400-occurrence-9466714",
+    "title": "4081400 - Wrestling (Boys MS) @ Liberty High School",
+    "summary": "4081400 - Wrestling (Boys MS) @ Liberty High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-05 4:00 PM",
+    "end": "2027-02-05 6:00 PM",
+    "location": "Liberty High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081400/occurrences/9466714"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
