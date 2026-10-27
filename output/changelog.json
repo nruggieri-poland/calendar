@@ -1,5 +1,34 @@
 [
   {
+    "timestamp": "2026-10-27T21:43:29.245Z",
+    "added": [
+      {
+        "uid": "schedule-request-4081939-occurrence-9468309",
+        "title": "4081939 - Wrestling (Girls V) @ Brush High School",
+        "type": "Athletics - Away",
+        "start": "2026-12-06 9:00 AM",
+        "end": "2026-12-06 11:00 AM"
+      },
+      {
+        "uid": "schedule-request-4081938-occurrence-9468308",
+        "title": "4081938 - Wrestling (Boys MS) vs TBD",
+        "type": "Athletics - Home",
+        "start": "2027-01-13 6:00 PM",
+        "end": "2027-01-13 8:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-4076549-occurrence-9454229",
+        "title": "4076549 - MS Football Pizza Party @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-10-27 2:15 PM",
+        "end": "2026-10-27 4:15 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-27T17:16:30.383Z",
     "added": [
       {
@@ -20661,20 +20690,6 @@
         "type": "Staff Event",
         "start": "2026-08-21 12:00 AM",
         "end": "2026-08-21 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-22T02:13:14.182Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857937-occurrence-8952345",
-        "title": "3857937 - Football (Boys V) vs Salem High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-21 7:00 PM",
-        "end": "2026-08-21 9:00 PM"
       }
     ],
     "edited": []

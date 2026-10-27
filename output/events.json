@@ -1452,6 +1452,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4081400/occurrences/9466714"
   },
   {
+    "uid": "schedule-request-4081939-occurrence-9468309",
+    "title": "4081939 - Wrestling (Girls V) @ Brush High School",
+    "summary": "4081939 - Wrestling (Girls V) @ Brush High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-06 9:00 AM",
+    "end": "2026-12-06 11:00 AM",
+    "location": "Brush High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081939/occurrences/9468309"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -2728,6 +2739,17 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4076307/occurrences/9453302"
   },
   {
+    "uid": "schedule-request-4081938-occurrence-9468308",
+    "title": "4081938 - Wrestling (Boys MS) vs TBD",
+    "summary": "4081938 - Wrestling (Boys MS) vs TBD",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2027-01-13 6:00 PM",
+    "end": "2027-01-13 8:00 PM",
+    "location": "Poland Seminary High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4081938/occurrences/9468308"
+  },
+  {
     "uid": "schedule-request-3428269-occurrence-8094726",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3903,17 +3925,6 @@
     "end": "2026-11-19 7:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4074304/occurrences/9448728"
-  },
-  {
-    "uid": "schedule-request-4076549-occurrence-9454229",
-    "title": "4076549 - MS Football Pizza Party @ PSHS Cafeteria",
-    "summary": "4076549 - MS Football Pizza Party @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-27 2:15 PM",
-    "end": "2026-10-27 4:15 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4076549/occurrences/9454229"
   },
   {
     "uid": "schedule-request-4079431-occurrence-9462739",
