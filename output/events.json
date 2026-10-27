@@ -3289,17 +3289,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858260/occurrences/8952821"
   },
   {
-    "uid": "schedule-request-3858262-occurrence-8952831",
-    "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-26 6:00 PM",
-    "end": "2026-10-26 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858262/occurrences/8952831"
-  },
-  {
     "uid": "schedule-request-3858262-occurrence-8952832",
     "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -3441,17 +3430,6 @@
     "end": "2027-05-19 2:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3997773/occurrences/9242590"
-  },
-  {
-    "uid": "schedule-request-3999360-occurrence-9249719",
-    "title": "3999360 - Trunk or Treat @ TBD",
-    "summary": "3999360 - Trunk or Treat @ TBD",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-26 5:00 PM",
-    "end": "2026-10-26 7:00 PM",
-    "location": "pshs stadium parking lot,akron university",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3999360/occurrences/9249719"
   },
   {
     "uid": "schedule-request-4010042-occurrence-9277712",

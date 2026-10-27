@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-27T00:10:55.046Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858262-occurrence-8952831",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-26 6:00 PM",
+        "end": "2026-10-26 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-3999360-occurrence-9249719",
+        "title": "3999360 - Trunk or Treat @ TBD",
+        "type": "Other",
+        "start": "2026-10-26 5:00 PM",
+        "end": "2026-10-26 7:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-26T20:50:26.556Z",
     "added": [
       {
@@ -20608,37 +20629,5 @@
     ],
     "removed": [],
     "edited": []
-  },
-  {
-    "timestamp": "2026-08-21T15:27:02.829Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3888190-occurrence-9035364",
-        "title": "3888190 - Kindergarten Orientation",
-        "type": "School Activity",
-        "start": "2026-08-21 10:00 AM",
-        "end": "2026-08-21 11:00 AM"
-      }
-    ],
-    "edited": [
-      {
-        "uid": "schedule-request-3858150-occurrence-8952673",
-        "title": "3858150 - Soccer (Girls JV) @ Boardman High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-22 3:30 PM",
-        "end": "2026-08-22 5:30 PM",
-        "changes": {
-          "start": {
-            "from": "2026-08-22 3:00 PM",
-            "to": "2026-08-22 3:30 PM"
-          },
-          "end": {
-            "from": "2026-08-22 5:00 PM",
-            "to": "2026-08-22 5:30 PM"
-          }
-        }
-      }
-    ]
   }
 ]
