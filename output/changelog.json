@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-28T13:44:43.920Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858237-occurrence-8952760",
+        "title": "3858237 - Senior Group Photo @ PSHS FieldHouse",
+        "type": "Other",
+        "start": "2026-10-28 7:00 AM",
+        "end": "2026-10-28 7:45 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-28T06:32:37.675Z",
     "added": [],
     "removed": [
@@ -20683,20 +20697,6 @@
         "type": "Other",
         "start": "2026-08-23 10:00 AM",
         "end": "2026-08-23 6:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-22T22:15:32.648Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858150-occurrence-8952673",
-        "title": "3858150 - Soccer (Girls JV) @ Boardman High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-22 3:30 PM",
-        "end": "2026-08-22 5:30 PM"
       }
     ],
     "edited": []
