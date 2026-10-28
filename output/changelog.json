@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-28T19:15:33.484Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4079431-occurrence-9462739",
+        "title": "4079431 - Mr. Cline's Science class activity @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-10-28 10:00 AM",
+        "end": "2026-10-28 1:30 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-28T13:44:43.920Z",
     "added": [],
     "removed": [
@@ -20683,20 +20697,6 @@
         "type": "Athletics - Home",
         "start": "2026-08-24 8:00 AM",
         "end": "2026-08-24 10:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-23T22:15:24.359Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3878858-occurrence-9012546",
-        "title": "3878858 - Poland Little Bulldogs football games @ Dave Pavlansky Field",
-        "type": "Other",
-        "start": "2026-08-23 10:00 AM",
-        "end": "2026-08-23 6:00 PM"
       }
     ],
     "edited": []
