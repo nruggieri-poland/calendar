@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-28T00:53:58.799Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858257-occurrence-8952796",
+        "title": "3858257 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-27 6:00 PM",
+        "end": "2026-10-27 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-27T21:43:29.245Z",
     "added": [
       {
@@ -20676,20 +20690,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-22 10:00 AM",
         "end": "2026-08-22 12:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-22T04:26:40.193Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3888171-occurrence-9035173",
-        "title": "3888171 - Teacher In-Service Day",
-        "type": "Staff Event",
-        "start": "2026-08-21 12:00 AM",
-        "end": "2026-08-21 7:59 PM"
       }
     ],
     "edited": []
