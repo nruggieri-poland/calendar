@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-28T06:32:37.675Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4067053-occurrence-9423542",
+        "title": "4067053 - Volleyball (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-27 7:00 PM",
+        "end": "2026-10-27 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067048-occurrence-9423537",
+        "title": "4067048 - Soccer (Girls V) vs Lakeview High School",
+        "type": "Athletics - Home",
+        "start": "2026-10-27 7:00 PM",
+        "end": "2026-10-27 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-28T00:53:58.799Z",
     "added": [],
     "removed": [
@@ -20676,20 +20697,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-22 3:30 PM",
         "end": "2026-08-22 5:30 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-22T16:16:43.003Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858155-occurrence-8952678",
-        "title": "3858155 - Football (Boys JV) @ Salem High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-22 10:00 AM",
-        "end": "2026-08-22 12:00 PM"
       }
     ],
     "edited": []

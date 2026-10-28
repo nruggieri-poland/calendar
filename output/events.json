@@ -1188,17 +1188,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4067052/occurrences/9423541"
   },
   {
-    "uid": "schedule-request-4067053-occurrence-9423542",
-    "title": "4067053 - Volleyball (Girls V) @ South Range High School",
-    "summary": "4067053 - Volleyball (Girls V) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-27 7:00 PM",
-    "end": "2026-10-27 9:00 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067053/occurrences/9423542"
-  },
-  {
     "uid": "schedule-request-4067054-occurrence-9423543",
     "title": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
     "summary": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
@@ -2693,17 +2682,6 @@
     "end": "2027-04-30 7:30 PM",
     "location": "Poland Seminary High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063336/occurrences/9412835"
-  },
-  {
-    "uid": "schedule-request-4067048-occurrence-9423537",
-    "title": "4067048 - Soccer (Girls V) vs Lakeview High School",
-    "summary": "4067048 - Soccer (Girls V) vs Lakeview High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-27 7:00 PM",
-    "end": "2026-10-27 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067048/occurrences/9423537"
   },
   {
     "uid": "schedule-request-4067049-occurrence-9423538",
