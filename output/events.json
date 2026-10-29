@@ -1452,6 +1452,72 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4081939/occurrences/9468309"
   },
   {
+    "uid": "schedule-request-4085132-occurrence-9474600",
+    "title": "4085132 - Wrestling (Girls V) @ Hubbard High School",
+    "summary": "4085132 - Wrestling (Girls V) @ Hubbard High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-20 10:00 AM",
+    "end": "2026-12-20 12:00 PM",
+    "location": "Hubbard High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4085132/occurrences/9474600"
+  },
+  {
+    "uid": "schedule-request-4085133-occurrence-9474601",
+    "title": "4085133 - Wrestling (Girls V) @ Alliance High School",
+    "summary": "4085133 - Wrestling (Girls V) @ Alliance High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-17 9:00 AM",
+    "end": "2027-01-17 11:00 AM",
+    "location": "Alliance High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4085133/occurrences/9474601"
+  },
+  {
+    "uid": "schedule-request-4085134-occurrence-9474602",
+    "title": "4085134 - Wrestling (Girls V) @ Nordonia High School",
+    "summary": "4085134 - Wrestling (Girls V) @ Nordonia High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-08 9:30 AM",
+    "end": "2027-02-08 11:30 AM",
+    "location": "Nordonia High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4085134/occurrences/9474602"
+  },
+  {
+    "uid": "schedule-request-4085135-occurrence-9474603",
+    "title": "4085135 - Wrestling (Girls V) @ Austintown Fitch High School",
+    "summary": "4085135 - Wrestling (Girls V) @ Austintown Fitch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-02 2:00 PM",
+    "end": "2027-01-02 4:00 PM",
+    "location": "Austintown Fitch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4085135/occurrences/9474603"
+  },
+  {
+    "uid": "schedule-request-4085136-occurrence-9474604",
+    "title": "4085136 - Wrestling (Girls V) @ East Liverpool High School",
+    "summary": "4085136 - Wrestling (Girls V) @ East Liverpool High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-27 9:00 AM",
+    "end": "2026-12-27 11:00 AM",
+    "location": "East Liverpool High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4085136/occurrences/9474604"
+  },
+  {
+    "uid": "schedule-request-4085137-occurrence-9474605",
+    "title": "4085137 - Wrestling (Girls V) @ Carrollton High School",
+    "summary": "4085137 - Wrestling (Girls V) @ Carrollton High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-02-20 9:00 AM",
+    "end": "2027-02-20 11:00 AM",
+    "location": "Carrollton High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4085137/occurrences/9474605"
+  },
+  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
