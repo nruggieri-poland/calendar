@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-10-30T02:20:39.136Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4067049-occurrence-9423538",
+        "title": "4067049 - Soccer (Boys V) vs The Andrews School",
+        "type": "Athletics - Home",
+        "start": "2026-10-29 7:00 PM",
+        "end": "2026-10-29 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4042497-occurrence-9353501",
+        "title": "4042497 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-29 6:00 PM",
+        "end": "2026-10-29 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-29T17:16:05.329Z",
     "added": [
       {
@@ -20701,27 +20722,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-24 6:00 PM",
         "end": "2026-08-24 7:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-24T22:19:47.365Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858010-occurrence-8952418",
-        "title": "3858010 - Volleyball (Girls 7) @ LAKEVIEW MIDDLE SCHOOL",
-        "type": "Athletics - Away",
-        "start": "2026-08-24 5:00 PM",
-        "end": "2026-08-24 6:00 PM"
-      },
-      {
-        "uid": "schedule-request-3858215-occurrence-8952738",
-        "title": "3858215 - Golf (Girls V) @ Lakeview High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-24 4:00 PM",
-        "end": "2026-08-24 6:00 PM"
       }
     ],
     "edited": []

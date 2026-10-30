@@ -2750,17 +2750,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063336/occurrences/9412835"
   },
   {
-    "uid": "schedule-request-4067049-occurrence-9423538",
-    "title": "4067049 - Soccer (Boys V) vs The Andrews School",
-    "summary": "4067049 - Soccer (Boys V) vs The Andrews School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-10-29 7:00 PM",
-    "end": "2026-10-29 9:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067049/occurrences/9423538"
-  },
-  {
     "uid": "schedule-request-4076191-occurrence-9453053",
     "title": "4076191 - Wrestling (Boys V) vs TBD",
     "summary": "4076191 - Wrestling (Boys V) vs TBD",
@@ -3650,17 +3639,6 @@
     "end": "2026-11-12 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4042496/occurrences/9353499"
-  },
-  {
-    "uid": "schedule-request-4042497-occurrence-9353501",
-    "title": "4042497 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "4042497 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-29 6:00 PM",
-    "end": "2026-10-29 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4042497/occurrences/9353501"
   },
   {
     "uid": "schedule-request-4042504-occurrence-9353507",
