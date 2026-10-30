@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-30T21:19:04.838Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4016423-occurrence-9294119",
+        "title": "4016423 - Sources of Strength Student Leader Training @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-10-30 7:00 AM",
+        "end": "2026-10-30 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-30T02:20:39.136Z",
     "added": [],
     "removed": [
@@ -20701,27 +20715,6 @@
         "type": "Other",
         "start": "2026-08-24 7:00 PM",
         "end": "2026-08-24 8:30 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-24T23:17:37.183Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858059-occurrence-8952472",
-        "title": "3858059 - Soccer (Boys V) @ Niles McKinley High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-24 5:00 PM",
-        "end": "2026-08-24 7:00 PM"
-      },
-      {
-        "uid": "schedule-request-3858189-occurrence-8952712",
-        "title": "3858189 - Volleyball (Girls 8) @ LAKEVIEW MIDDLE SCHOOL",
-        "type": "Athletics - Away",
-        "start": "2026-08-24 6:00 PM",
-        "end": "2026-08-24 7:00 PM"
       }
     ],
     "edited": []
