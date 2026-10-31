@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-10-31T19:00:01.881Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858139-occurrence-8952662",
+        "title": "3858139 - Cross Country (Coed V) @ Boardman High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-31 11:50 AM",
+        "end": "2026-10-31 1:50 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-30T21:19:04.838Z",
     "added": [],
     "removed": [
@@ -20694,27 +20708,6 @@
         "type": "Athletics - Home",
         "start": "2026-08-24 7:00 PM",
         "end": "2026-08-24 9:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-25T00:57:02.971Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857870-occurrence-8952278",
-        "title": "3857870 - Volleyball (Girls JV) vs Campbell Memorial High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-24 5:30 PM",
-        "end": "2026-08-24 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-3858251-occurrence-8952774",
-        "title": "3858251 - Youngstown Football Official Association @ PSHS Cafeteria",
-        "type": "Other",
-        "start": "2026-08-24 7:00 PM",
-        "end": "2026-08-24 8:30 PM"
       }
     ],
     "edited": []
