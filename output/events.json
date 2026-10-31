@@ -1166,28 +1166,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4063339/occurrences/9412838"
   },
   {
-    "uid": "schedule-request-4067052-occurrence-9423541",
-    "title": "4067052 - Soccer (Boys V) @ Avon Lake High School",
-    "summary": "4067052 - Soccer (Boys V) @ Avon Lake High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-31 7:00 PM",
-    "end": "2026-10-31 9:00 PM",
-    "location": "Avon Lake High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067052/occurrences/9423541"
-  },
-  {
-    "uid": "schedule-request-4067054-occurrence-9423543",
-    "title": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
-    "summary": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-10-31 2:00 PM",
-    "end": "2026-10-31 4:00 PM",
-    "location": "Notre Dame Cathedral Latin School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4067054/occurrences/9423543"
-  },
-  {
     "uid": "schedule-request-4074912-occurrence-9449874",
     "title": "4074912 - Swimming (Coed V) @ Sprire Institute",
     "summary": "4074912 - Swimming (Coed V) @ Sprire Institute",
@@ -3353,17 +3331,6 @@
     "end": "2026-11-10 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858257/occurrences/8952798"
-  },
-  {
-    "uid": "schedule-request-3858258-occurrence-8952806",
-    "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
-    "summary": "3858258 - Poland Players Set Building @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-10-31 9:30 AM",
-    "end": "2026-10-31 5:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858258/occurrences/8952806"
   },
   {
     "uid": "schedule-request-3858258-occurrence-8952807",

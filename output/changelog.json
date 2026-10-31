@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-10-31T22:23:41.221Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4067052-occurrence-9423541",
+        "title": "4067052 - Soccer (Boys V) @ Avon Lake High School",
+        "type": "Athletics - Away",
+        "start": "2026-10-31 7:00 PM",
+        "end": "2026-10-31 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4067054-occurrence-9423543",
+        "title": "4067054 - Soccer (Girls V) @ Notre Dame Cathedral Latin School",
+        "type": "Athletics - Away",
+        "start": "2026-10-31 2:00 PM",
+        "end": "2026-10-31 4:00 PM"
+      },
+      {
+        "uid": "schedule-request-3858258-occurrence-8952806",
+        "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-10-31 9:30 AM",
+        "end": "2026-10-31 5:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-10-31T19:00:01.881Z",
     "added": [],
     "removed": [
@@ -20687,27 +20715,6 @@
         "type": "Staff Event",
         "start": "2026-08-24 12:00 AM",
         "end": "2026-08-24 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-25T02:17:18.823Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858146-occurrence-8952669",
-        "title": "3858146 - Soccer (Girls V) @ Niles McKinley High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-24 7:00 PM",
-        "end": "2026-08-24 9:00 PM"
-      },
-      {
-        "uid": "schedule-request-3857768-occurrence-8952176",
-        "title": "3857768 - Volleyball (Girls V) vs Campbell Memorial High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-24 7:00 PM",
-        "end": "2026-08-24 9:00 PM"
       }
     ],
     "edited": []
