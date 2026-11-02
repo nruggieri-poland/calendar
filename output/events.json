@@ -330,17 +330,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858052/occurrences/8952465"
   },
   {
-    "uid": "schedule-request-3858055-occurrence-8952468",
-    "title": "3858055 - Cross Country (Coed V) @ Fortress Obetz",
-    "summary": "3858055 - Cross Country (Coed V) @ Fortress Obetz",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-11-07 11:50 AM",
-    "end": "2026-11-07 1:50 PM",
-    "location": "Fortress Obetz",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858055/occurrences/8952468"
-  },
-  {
     "uid": "schedule-request-3858056-occurrence-8952469",
     "title": "3858056 - Basketball (Girls V) @ South Range High School",
     "summary": "3858056 - Basketball (Girls V) @ South Range High School",
@@ -1483,6 +1472,28 @@
     "end": "2027-02-20 11:00 AM",
     "location": "Carrollton High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4085137/occurrences/9474605"
+  },
+  {
+    "uid": "schedule-request-4087219-occurrence-9481256",
+    "title": "4087219 - Soccer (Girls V) @ South Range High School",
+    "summary": "4087219 - Soccer (Girls V) @ South Range High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-11-03 7:00 PM",
+    "end": "2026-11-03 9:00 PM",
+    "location": "South Range High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4087219/occurrences/9481256"
+  },
+  {
+    "uid": "schedule-request-4087220-occurrence-9481257",
+    "title": "4087220 - Football (Boys V) @ West Branch High School",
+    "summary": "4087220 - Football (Boys V) @ West Branch High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-11-06 7:00 PM",
+    "end": "2026-11-06 9:00 PM",
+    "location": "West Branch High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4087220/occurrences/9481257"
   },
   {
     "uid": "schedule-request-3857770-occurrence-8952178",
