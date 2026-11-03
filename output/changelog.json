@@ -1,5 +1,152 @@
 [
   {
+    "timestamp": "2026-11-03T00:21:19.200Z",
+    "added": [
+      {
+        "uid": "schedule-request-4087858-occurrence-9484076",
+        "title": "4087858 - Spring Musical Tryouts @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-12-05 12:00 PM",
+        "end": "2026-12-05 3:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087859-occurrence-9484077",
+        "title": "4087859 - Musical Workshop #2 @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-12-01 6:00 PM",
+        "end": "2026-12-01 9:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087860-occurrence-9484078",
+        "title": "4087860 - Musical Workshop #1 @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-30 6:00 PM",
+        "end": "2026-11-30 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087862-occurrence-9484081",
+        "title": "4087862 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-08 6:00 PM",
+        "end": "2027-01-08 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087864-occurrence-9484083",
+        "title": "4087864 - Poland Players @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-06 2:30 PM",
+        "end": "2027-01-06 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087864-occurrence-9484084",
+        "title": "4087864 - Poland Players @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-07 2:30 PM",
+        "end": "2027-01-07 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087865-occurrence-9484085",
+        "title": "4087865 - Set Strike @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-23 6:00 PM",
+        "end": "2026-11-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087865-occurrence-9484086",
+        "title": "4087865 - Set Strike @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-24 6:00 PM",
+        "end": "2026-11-24 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087866-occurrence-9484087",
+        "title": "4087866 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2027-01-04 6:00 PM",
+        "end": "2027-01-04 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087866-occurrence-9484088",
+        "title": "4087866 - Poland Players Rehearsal @ TBD",
+        "type": "Other",
+        "start": "2027-01-05 6:00 PM",
+        "end": "2027-01-05 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484450",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-09 9:30 AM",
+        "end": "2027-01-09 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484451",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-16 9:30 AM",
+        "end": "2027-01-16 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484452",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-23 9:30 AM",
+        "end": "2027-01-23 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484453",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-01-30 9:30 AM",
+        "end": "2027-01-30 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484454",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-02-06 9:30 AM",
+        "end": "2027-02-06 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484455",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-02-13 9:30 AM",
+        "end": "2027-02-13 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484456",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-02-20 9:30 AM",
+        "end": "2027-02-20 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484457",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-02-27 9:30 AM",
+        "end": "2027-02-27 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484458",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-03-06 9:30 AM",
+        "end": "2027-03-06 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087961-occurrence-9484459",
+        "title": "4087961 - Poland Players Set Buidling @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2027-03-13 9:30 AM",
+        "end": "2027-03-13 5:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-02T17:41:59.301Z",
     "added": [
       {
@@ -20694,41 +20841,6 @@
         "type": "Staff Event",
         "start": "2026-09-02 9:00 AM",
         "end": "2026-09-02 2:00 PM"
-      }
-    ],
-    "removed": [],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-25T14:38:36.944Z",
-    "added": [
-      {
-        "uid": "schedule-request-3907291-occurrence-9093839",
-        "title": "3907291 - NHS Application Meeting @ PSHS Auditorium",
-        "type": "Other",
-        "start": "2026-09-15 12:30 PM",
-        "end": "2026-09-15 1:00 PM"
-      },
-      {
-        "uid": "schedule-request-3907292-occurrence-9093840",
-        "title": "3907292 - Speech and Debate All Team Meeting @ PSHS Cafeteria",
-        "type": "Other",
-        "start": "2026-09-30 4:00 PM",
-        "end": "2026-09-30 6:00 PM"
-      },
-      {
-        "uid": "schedule-request-3907293-occurrence-9093841",
-        "title": "3907293 - DC Parent Pre-Departure Meeting @ PSHS Auditorium",
-        "type": "Other",
-        "start": "2027-05-03 7:00 PM",
-        "end": "2027-05-03 8:00 PM"
-      },
-      {
-        "uid": "schedule-request-3907294-occurrence-9093842",
-        "title": "3907294 - Speech and Debate Parent Meeting @ PSHS Auditorium",
-        "type": "Other",
-        "start": "2026-09-23 6:00 PM",
-        "end": "2026-09-23 7:30 PM"
       }
     ],
     "removed": [],
