@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-11-03T07:28:43.231Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858262-occurrence-8952832",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-02 6:00 PM",
+        "end": "2026-11-02 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-03T00:21:19.200Z",
     "added": [
       {
@@ -20830,20 +20844,6 @@
         "end": "2026-09-02 2:00 PM"
       }
     ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-25T16:29:38.053Z",
-    "added": [
-      {
-        "uid": "schedule-request-3909324-occurrence-9099089",
-        "title": "3909324 - Legal Update",
-        "type": "Staff Event",
-        "start": "2026-09-02 9:00 AM",
-        "end": "2026-09-02 2:00 PM"
-      }
-    ],
-    "removed": [],
     "edited": []
   }
 ]
