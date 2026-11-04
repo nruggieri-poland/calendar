@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-11-04T08:28:42.036Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4087219-occurrence-9481256",
+        "title": "4087219 - Soccer (Girls V) @ South Range High School",
+        "type": "Athletics - Away",
+        "start": "2026-11-03 7:00 PM",
+        "end": "2026-11-03 9:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-04T01:49:45.398Z",
     "added": [],
     "removed": [
@@ -20846,20 +20860,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-25 7:00 PM",
         "end": "2026-08-25 9:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-26T00:58:02.740Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858174-occurrence-8952697",
-        "title": "3858174 - Volleyball (Girls JV) @ Lakeview High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-25 5:30 PM",
-        "end": "2026-08-25 7:30 PM"
       }
     ],
     "edited": []
