@@ -4059,6 +4059,39 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4087961/occurrences/9484459"
   },
   {
+    "uid": "schedule-request-4092249-occurrence-9492793",
+    "title": "4092249 - Little Dribblers Basketball Camp @ PE Gym",
+    "summary": "4092249 - Little Dribblers Basketball Camp @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-23 3:00 PM",
+    "end": "2026-12-23 4:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4092249/occurrences/9492793"
+  },
+  {
+    "uid": "schedule-request-4092251-occurrence-9492795",
+    "title": "4092251 - Little Dribblers Basketball Camp @ TBD",
+    "summary": "4092251 - Little Dribblers Basketball Camp @ TBD",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-01-02 3:00 PM",
+    "end": "2027-01-02 4:30 PM",
+    "location": "TBD",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4092251/occurrences/9492795"
+  },
+  {
+    "uid": "schedule-request-4092252-occurrence-9492796",
+    "title": "4092252 - Little Dribblers Basketball Camp @ PE Gym",
+    "summary": "4092252 - Little Dribblers Basketball Camp @ PE Gym",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-30 3:00 PM",
+    "end": "2026-12-30 4:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4092252/occurrences/9492796"
+  },
+  {
     "uid": "schedule-request-3998392-occurrence-9245646",
     "title": "3998392 - PTO Meeting",
     "summary": "3998392 - PTO Meeting",
