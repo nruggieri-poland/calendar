@@ -2750,17 +2750,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4081938/occurrences/9468308"
   },
   {
-    "uid": "schedule-request-3428269-occurrence-8094726",
-    "title": "3428269 - PLSD - Board of Education Meeting",
-    "summary": "3428269 - PLSD - Board of Education Meeting",
-    "type": "Board Meeting",
-    "color": "#00328f",
-    "start": "2026-11-04 6:00 PM",
-    "end": "2026-11-04 8:00 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094726"
-  },
-  {
     "uid": "schedule-request-3428269-occurrence-8094727",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3586,17 +3575,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4042506/occurrences/9353509"
   },
   {
-    "uid": "schedule-request-4042508-occurrence-9353511",
-    "title": "4042508 - Poland Players Rehearsal @ PSHS Auditorium",
-    "summary": "4042508 - Poland Players Rehearsal @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-11-04 6:00 PM",
-    "end": "2026-11-04 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4042508/occurrences/9353511"
-  },
-  {
     "uid": "schedule-request-4042510-occurrence-9353513",
     "title": "4042510 - Poland Players Rehearsal @ PSHS Auditorium",
     "summary": "4042510 - Poland Players Rehearsal @ PSHS Auditorium",
@@ -3771,17 +3749,6 @@
     "end": "2026-11-15 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4066412/occurrences/9421622"
-  },
-  {
-    "uid": "schedule-request-4066413-occurrence-9421623",
-    "title": "4066413 - Speech and Debate Team Meeting @ PSHS Cafeteria",
-    "summary": "4066413 - Speech and Debate Team Meeting @ PSHS Cafeteria",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-11-04 4:00 PM",
-    "end": "2026-11-04 6:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4066413/occurrences/9421623"
   },
   {
     "uid": "schedule-request-4067727-occurrence-9426150",
