@@ -3729,17 +3729,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4060087/occurrences/9395092"
   },
   {
-    "uid": "schedule-request-4060860-occurrence-9396538",
-    "title": "4060860 - Underclassmen Make Up Pictures/Organizational Picture Day @ PSHS FieldHouse",
-    "summary": "4060860 - Underclassmen Make Up Pictures/Organizational Picture Day @ PSHS FieldHouse",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-11-05 7:00 AM",
-    "end": "2026-11-05 11:00 AM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4060860/occurrences/9396538"
-  },
-  {
     "uid": "schedule-request-4066412-occurrence-9421622",
     "title": "4066412 - Cross Country Awards Presentation @ PSHS Cafeteria",
     "summary": "4066412 - Cross Country Awards Presentation @ PSHS Cafeteria",
@@ -4057,6 +4046,17 @@
     "end": "2026-12-30 4:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4092252/occurrences/9492796"
+  },
+  {
+    "uid": "schedule-request-4096560-occurrence-9505160",
+    "title": "4096560 - Boys Soccer Banquet @ TBD",
+    "summary": "4096560 - Boys Soccer Banquet @ TBD",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-22 5:00 PM",
+    "end": "2026-11-22 6:00 PM",
+    "location": "TBD",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4096560/occurrences/9505160"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245646",

@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-11-05T19:22:41.160Z",
+    "added": [
+      {
+        "uid": "schedule-request-4096560-occurrence-9505160",
+        "title": "4096560 - Boys Soccer Banquet @ TBD",
+        "type": "Other",
+        "start": "2026-11-22 5:00 PM",
+        "end": "2026-11-22 6:00 PM"
+      }
+    ],
+    "removed": [
+      {
+        "uid": "schedule-request-4060860-occurrence-9396538",
+        "title": "4060860 - Underclassmen Make Up Pictures/Organizational Picture Day @ PSHS FieldHouse",
+        "type": "Other",
+        "start": "2026-11-05 7:00 AM",
+        "end": "2026-11-05 11:00 AM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-05T03:01:44.486Z",
     "added": [],
     "removed": [
@@ -18193,19 +18215,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-26T14:38:27.755Z",
-    "added": [
-      {
-        "uid": "schedule-request-3917320-occurrence-9112880",
-        "title": "3917320 - DC Parent Meeting @ PSHS Auditorium",
-        "type": "Other",
-        "start": "2026-09-17 7:00 PM",
-        "end": "2026-09-17 8:00 PM"
-      }
-    ],
-    "removed": [],
-    "edited": []
   }
 ]
