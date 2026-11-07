@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-11-07T23:20:20.055Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858258-occurrence-8952807",
+        "title": "3858258 - Poland Players Set Building @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-07 9:30 AM",
+        "end": "2026-11-07 5:00 PM"
+      },
+      {
+        "uid": "schedule-request-3866266-occurrence-8973997",
+        "title": "3866266 - Holiday Shoppe @ PE Gym",
+        "type": "Other",
+        "start": "2026-11-07 9:00 AM",
+        "end": "2026-11-07 4:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-07T08:10:27.765Z",
     "added": [
       {
@@ -20331,42 +20352,6 @@
         "type": "Athletics - Home",
         "start": "2026-08-27 5:30 PM",
         "end": "2026-08-27 7:30 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-27T23:28:56.142Z",
-    "added": [
-      {
-        "uid": "schedule-request-3919719-occurrence-9121831",
-        "title": "3919719 - Baseball (Boys V) vs Mineral Ridge High School",
-        "type": "Athletics - Home",
-        "start": "2027-04-10 12:00 PM",
-        "end": "2027-04-10 2:00 PM"
-      }
-    ],
-    "removed": [
-      {
-        "uid": "schedule-request-3858175-occurrence-8952698",
-        "title": "3858175 - Golf (Boys V) @ Niles McKinley High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-27 4:00 PM",
-        "end": "2026-08-27 6:00 PM"
-      },
-      {
-        "uid": "schedule-request-3857964-occurrence-8952372",
-        "title": "3857964 - Soccer (Boys V) vs Crestview High School (Columbiana)",
-        "type": "Athletics - Home",
-        "start": "2026-08-27 5:00 PM",
-        "end": "2026-08-27 7:00 PM"
-      },
-      {
-        "uid": "schedule-request-3858249-occurrence-8952772",
-        "title": "3858249 - Poland Players Informational Meeting @ PSHS Auditorium",
-        "type": "Other",
-        "start": "2026-08-27 6:00 PM",
-        "end": "2026-08-27 7:00 PM"
       }
     ],
     "edited": []
