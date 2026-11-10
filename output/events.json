@@ -280,8 +280,8 @@
     "summary": "3858039 - Basketball (Girls V) @ Crestview High School (Columbiana)",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-12-21 7:00 PM",
-    "end": "2026-12-21 9:00 PM",
+    "start": "2026-12-21 6:15 PM",
+    "end": "2026-12-21 8:15 PM",
     "location": "Crestview High School (Columbiana)",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858039/occurrences/8952452"
   },
@@ -418,17 +418,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858067/occurrences/8952480"
   },
   {
-    "uid": "schedule-request-3858109-occurrence-8952632",
-    "title": "3858109 - Basketball (Girls JV) @ Struthers High School",
-    "summary": "3858109 - Basketball (Girls JV) @ Struthers High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2027-01-07 5:30 PM",
-    "end": "2027-01-07 7:30 PM",
-    "location": "Struthers High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858109/occurrences/8952632"
-  },
-  {
     "uid": "schedule-request-3858110-occurrence-8952633",
     "title": "3858110 - Basketball (Girls JV) @ Niles McKinley High School",
     "summary": "3858110 - Basketball (Girls JV) @ Niles McKinley High School",
@@ -559,17 +548,6 @@
     "end": "2026-12-15 7:30 PM",
     "location": "Lakeview High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858144/occurrences/8952667"
-  },
-  {
-    "uid": "schedule-request-3858147-occurrence-8952670",
-    "title": "3858147 - Basketball (Girls JV) @ Lakeview High School",
-    "summary": "3858147 - Basketball (Girls JV) @ Lakeview High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2027-01-21 5:30 PM",
-    "end": "2027-01-21 7:30 PM",
-    "location": "Lakeview High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858147/occurrences/8952670"
   },
   {
     "uid": "schedule-request-3858148-occurrence-8952671",
@@ -1472,6 +1450,39 @@
     "end": "2027-02-20 11:00 AM",
     "location": "Carrollton High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4085137/occurrences/9474605"
+  },
+  {
+    "uid": "schedule-request-4100878-occurrence-9516493",
+    "title": "4100878 - Basketball (Boys 7) @ Niles Middle School",
+    "summary": "4100878 - Basketball (Boys 7) @ Niles Middle School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-12-14 5:00 PM",
+    "end": "2026-12-14 6:00 PM",
+    "location": "Niles Middle School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4100878/occurrences/9516493"
+  },
+  {
+    "uid": "schedule-request-4101157-occurrence-9517188",
+    "title": "4101157 - Basketball (Girls JV) @ Liberty High School",
+    "summary": "4101157 - Basketball (Girls JV) @ Liberty High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2027-01-20 5:30 PM",
+    "end": "2027-01-20 7:30 PM",
+    "location": "Liberty High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4101157/occurrences/9517188"
+  },
+  {
+    "uid": "schedule-request-4101402-occurrence-9518192",
+    "title": "4101402 - Basketball (Girls F) @ South Range High School",
+    "summary": "4101402 - Basketball (Girls F) @ South Range High School",
+    "type": "Athletics - Away",
+    "color": "#de0720",
+    "start": "2026-11-24 5:30 PM",
+    "end": "2026-11-24 6:30 PM",
+    "location": "South Range High School",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4101402/occurrences/9518192"
   },
   {
     "uid": "schedule-request-3857770-occurrence-8952178",
@@ -2737,6 +2748,17 @@
     "end": "2027-01-13 8:00 PM",
     "location": "Poland Seminary High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4081938/occurrences/9468308"
+  },
+  {
+    "uid": "schedule-request-4101401-occurrence-9518191",
+    "title": "4101401 - Basketball (Girls F) vs South Range High School",
+    "summary": "4101401 - Basketball (Girls F) vs South Range High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-12-16 6:00 PM",
+    "end": "2026-12-16 7:00 PM",
+    "location": "pshs pe gym",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4101401/occurrences/9518191"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094727",
