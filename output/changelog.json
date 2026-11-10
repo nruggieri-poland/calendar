@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-11-10T23:51:27.004Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4064429-occurrence-9415737",
+        "title": "4064429 - Math 24 Club Meeting",
+        "type": "School Activity",
+        "start": "2026-11-10 2:15 PM",
+        "end": "2026-11-10 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-10T18:24:37.830Z",
     "added": [
       {
@@ -20355,27 +20369,6 @@
         "type": "Athletics - Away",
         "start": "2026-09-19 9:00 AM",
         "end": "2026-09-19 11:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-29T19:05:05.022Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858013-occurrence-8952421",
-        "title": "3858013 - Football (Boys JV) @ Kirtland High School",
-        "type": "Athletics - Away",
-        "start": "2026-08-29 10:00 AM",
-        "end": "2026-08-29 12:00 PM"
-      },
-      {
-        "uid": "schedule-request-3858112-occurrence-8952635",
-        "title": "3858112 - Cross Country (Coed V) @ Waterworth Memorial Park",
-        "type": "Athletics - Away",
-        "start": "2026-08-29 10:30 AM",
-        "end": "2026-08-29 12:30 PM"
       }
     ],
     "edited": []
