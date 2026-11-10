@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-11-10T02:29:16.683Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3858262-occurrence-8952833",
+        "title": "3858262 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-09 6:00 PM",
+        "end": "2026-11-09 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-09T19:35:01.572Z",
     "added": [],
     "removed": [],
@@ -20308,20 +20322,6 @@
         "type": "Athletics - Away",
         "start": "2026-08-29 9:00 AM",
         "end": "2026-08-29 11:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-08-29T03:00:51.573Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857802-occurrence-8952210",
-        "title": "3857802 - Football (Boys V) vs Kirtland High School",
-        "type": "Athletics - Home",
-        "start": "2026-08-28 7:00 PM",
-        "end": "2026-08-28 9:00 PM"
       }
     ],
     "edited": []
