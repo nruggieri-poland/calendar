@@ -3993,6 +3993,72 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4096560/occurrences/9505160"
   },
   {
+    "uid": "schedule-request-4102182-occurrence-9520309",
+    "title": "4102182 - Christmas Party for Mrs. Vagas' class @ PSHS Fieldhouse Lobby",
+    "summary": "4102182 - Christmas Party for Mrs. Vagas' class @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-17 11:00 AM",
+    "end": "2026-12-17 1:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4102182/occurrences/9520309"
+  },
+  {
+    "uid": "schedule-request-4102183-occurrence-9520310",
+    "title": "4102183 - 8th Annual Exceptional Art Show @ PSHS Fieldhouse Lobby and Cafeteria",
+    "summary": "4102183 - 8th Annual Exceptional Art Show @ PSHS Fieldhouse Lobby and Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-07 5:00 PM",
+    "end": "2027-04-07 8:00 PM",
+    "location": "PSHS Fieldhouse Lobby and Cafeteria",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4102183/occurrences/9520310"
+  },
+  {
+    "uid": "schedule-request-4102184-occurrence-9520311",
+    "title": "4102184 - Tear down for Exceptional Art Show @ TBD",
+    "summary": "4102184 - Tear down for Exceptional Art Show @ TBD",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-08 7:30 AM",
+    "end": "2027-04-08 3:30 PM",
+    "location": "TBD",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4102184/occurrences/9520311"
+  },
+  {
+    "uid": "schedule-request-4102184-occurrence-9520312",
+    "title": "4102184 - Tear down for Exceptional Art Show @ TBD",
+    "summary": "4102184 - Tear down for Exceptional Art Show @ TBD",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-09 7:30 AM",
+    "end": "2027-04-09 3:30 PM",
+    "location": "TBD",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4102184/occurrences/9520312"
+  },
+  {
+    "uid": "schedule-request-4102185-occurrence-9520313",
+    "title": "4102185 - Set up for Exceptional Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4102185 - Set up for Exceptional Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-05 7:30 AM",
+    "end": "2027-04-05 3:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4102185/occurrences/9520313"
+  },
+  {
+    "uid": "schedule-request-4102185-occurrence-9520314",
+    "title": "4102185 - Set up for Exceptional Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4102185 - Set up for Exceptional Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-06 7:30 AM",
+    "end": "2027-04-06 3:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4102185/occurrences/9520314"
+  },
+  {
     "uid": "schedule-request-3998392-occurrence-9245646",
     "title": "3998392 - PTO Meeting",
     "summary": "3998392 - PTO Meeting",

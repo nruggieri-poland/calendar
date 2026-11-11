@@ -1,5 +1,54 @@
 [
   {
+    "timestamp": "2026-11-11T19:57:26.924Z",
+    "added": [
+      {
+        "uid": "schedule-request-4102182-occurrence-9520309",
+        "title": "4102182 - Christmas Party for Mrs. Vagas' class @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2026-12-17 11:00 AM",
+        "end": "2026-12-17 1:30 PM"
+      },
+      {
+        "uid": "schedule-request-4102183-occurrence-9520310",
+        "title": "4102183 - 8th Annual Exceptional Art Show @ PSHS Fieldhouse Lobby and Cafeteria",
+        "type": "Other",
+        "start": "2027-04-07 5:00 PM",
+        "end": "2027-04-07 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4102184-occurrence-9520311",
+        "title": "4102184 - Tear down for Exceptional Art Show @ TBD",
+        "type": "Other",
+        "start": "2027-04-08 7:30 AM",
+        "end": "2027-04-08 3:30 PM"
+      },
+      {
+        "uid": "schedule-request-4102184-occurrence-9520312",
+        "title": "4102184 - Tear down for Exceptional Art Show @ TBD",
+        "type": "Other",
+        "start": "2027-04-09 7:30 AM",
+        "end": "2027-04-09 3:30 PM"
+      },
+      {
+        "uid": "schedule-request-4102185-occurrence-9520313",
+        "title": "4102185 - Set up for Exceptional Art Show @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2027-04-05 7:30 AM",
+        "end": "2027-04-05 3:30 PM"
+      },
+      {
+        "uid": "schedule-request-4102185-occurrence-9520314",
+        "title": "4102185 - Set up for Exceptional Art Show @ PSHS Fieldhouse Lobby",
+        "type": "Other",
+        "start": "2027-04-06 7:30 AM",
+        "end": "2027-04-06 3:30 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-11T04:15:51.592Z",
     "added": [],
     "removed": [
@@ -20351,19 +20400,5 @@
         }
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-30T23:03:48.127Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857855-occurrence-8952263",
-        "title": "3857855 - Golf (Boys V) vs TBD",
-        "type": "Athletics - Home",
-        "start": "2026-08-30 5:00 PM",
-        "end": "2026-08-30 7:00 PM"
-      }
-    ],
-    "edited": []
   }
 ]
