@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-11-12T01:48:41.378Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4042510-occurrence-9353513",
+        "title": "4042510 - Poland Players Rehearsal @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-11 6:00 PM",
+        "end": "2026-11-11 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4072752-occurrence-9445144",
+        "title": "4072752 - Signing Day @ PSHS FieldHouse",
+        "type": "Other",
+        "start": "2026-11-11 2:00 PM",
+        "end": "2026-11-11 3:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-11T19:57:26.924Z",
     "added": [
       {
@@ -20372,30 +20393,6 @@
           "end": {
             "from": "2026-10-03 12:00 PM",
             "to": "2026-10-17 2:30 PM"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-31T03:02:48.083Z",
-    "added": [],
-    "removed": [],
-    "edited": [
-      {
-        "uid": "schedule-request-3857878-occurrence-8952286",
-        "title": "3857878 - Soccer (Girls V) vs Canfield High School",
-        "type": "Athletics - Home",
-        "start": "2026-09-02 6:00 PM",
-        "end": "2026-09-02 8:00 PM",
-        "changes": {
-          "start": {
-            "from": "2026-09-02 7:00 PM",
-            "to": "2026-09-02 6:00 PM"
-          },
-          "end": {
-            "from": "2026-09-02 9:00 PM",
-            "to": "2026-09-02 8:00 PM"
           }
         }
       }
