@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-11-14T15:28:29.674Z",
+    "added": [
+      {
+        "uid": "schedule-request-3428269-occurrence-9528873",
+        "title": "3428269 - PLSD - Board of Education Meeting",
+        "type": "Board Meeting",
+        "start": "2026-11-17 6:00 PM",
+        "end": "2026-11-17 8:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-13T20:14:33.967Z",
     "added": [
       {
@@ -20283,20 +20297,6 @@
         "end": "2026-09-01 3:00 PM"
       }
     ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-09-01T17:13:44.699Z",
-    "added": [
-      {
-        "uid": "schedule-request-3973564-occurrence-9191739",
-        "title": "3973564 - Boys Lacrosse Clinic @ Dave Pavlansky Field",
-        "type": "Other",
-        "start": "2026-10-18 11:00 AM",
-        "end": "2026-10-18 12:30 PM"
-      }
-    ],
-    "removed": [],
     "edited": []
   }
 ]
