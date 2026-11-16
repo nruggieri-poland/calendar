@@ -2761,6 +2761,28 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4101401/occurrences/9518191"
   },
   {
+    "uid": "schedule-request-4105669-occurrence-9529843",
+    "title": "4105669 - Basketball (Boys V) vs Cardinal Mooney High School",
+    "summary": "4105669 - Basketball (Boys V) vs Cardinal Mooney High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-11-17 5:30 PM",
+    "end": "2026-11-17 7:30 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4105669/occurrences/9529843"
+  },
+  {
+    "uid": "schedule-request-4105670-occurrence-9529844",
+    "title": "4105670 - Basketball (Boys V) vs Columbiana High School",
+    "summary": "4105670 - Basketball (Boys V) vs Columbiana High School",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-11-25 10:00 AM",
+    "end": "2026-11-25 12:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4105670/occurrences/9529844"
+  },
+  {
     "uid": "schedule-request-3428269-occurrence-8094727",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
