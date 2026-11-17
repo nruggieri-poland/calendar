@@ -1507,17 +1507,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857775/occurrences/8952183"
   },
   {
-    "uid": "schedule-request-3857776-occurrence-8952184",
-    "title": "3857776 - Basketball (Boys F) vs Canfield High School",
-    "summary": "3857776 - Basketball (Boys F) vs Canfield High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-12-10 5:00 PM",
-    "end": "2026-12-10 7:00 PM",
-    "location": "Poland Seminary High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857776/occurrences/8952184"
-  },
-  {
     "uid": "schedule-request-3857780-occurrence-8952188",
     "title": "3857780 - Basketball (Girls V) vs Lakeview High School",
     "summary": "3857780 - Basketball (Girls V) vs Lakeview High School",
@@ -2392,8 +2381,8 @@
     "summary": "3857954 - Basketball (Girls V) vs Labrae High School",
     "type": "Athletics - Home",
     "color": "#131cf0",
-    "start": "2026-11-23 7:00 PM",
-    "end": "2026-11-23 9:00 PM",
+    "start": "2026-11-23 6:00 PM",
+    "end": "2026-11-23 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857954/occurrences/8952362"
   },
@@ -2506,17 +2495,6 @@
     "end": "2027-04-10 2:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3919719/occurrences/9121831"
-  },
-  {
-    "uid": "schedule-request-3992775-occurrence-9233773",
-    "title": "3992775 - Basketball (Boys F) vs Boardman High School",
-    "summary": "3992775 - Basketball (Boys F) vs Boardman High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-12-01 5:00 PM",
-    "end": "2026-12-01 7:00 PM",
-    "location": "pshs pe gym",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3992775/occurrences/9233773"
   },
   {
     "uid": "schedule-request-4020084-occurrence-9299525",
@@ -4035,6 +4013,17 @@
     "end": "2027-01-11 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4105085/occurrences/9528234"
+  },
+  {
+    "uid": "schedule-request-4107922-occurrence-9537518",
+    "title": "4107922 - School Day Meeting @ PSHS Cafeteria",
+    "summary": "4107922 - School Day Meeting @ PSHS Cafeteria",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-11-19 2:15 PM",
+    "end": "2026-11-19 3:15 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4107922/occurrences/9537518"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245646",
