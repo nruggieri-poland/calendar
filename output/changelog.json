@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-18T09:58:26.060Z",
+    "added": [],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-3857789-occurrence-8952197",
+        "title": "3857789 - Basketball (Girls JV) vs Champion High School",
+        "type": "Athletics - Home",
+        "start": "2026-12-03 5:30 PM",
+        "end": "2026-12-03 7:30 PM",
+        "changes": {
+          "title": {
+            "from": "3857789 - Basketball (Girls JV) vs Struthers High School",
+            "to": "3857789 - Basketball (Girls JV) vs Champion High School"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-18T01:59:41.082Z",
     "added": [],
     "removed": [
@@ -13684,20 +13704,6 @@
         "type": "Staff Event",
         "start": "2026-09-02 12:00 AM",
         "end": "2026-09-02 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-09-03T02:35:14.397Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857878-occurrence-8952286",
-        "title": "3857878 - Soccer (Girls V) vs Canfield High School",
-        "type": "Athletics - Home",
-        "start": "2026-09-02 6:00 PM",
-        "end": "2026-09-02 8:00 PM"
       }
     ],
     "edited": []
