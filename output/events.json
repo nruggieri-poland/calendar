@@ -2750,17 +2750,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4105670/occurrences/9529844"
   },
   {
-    "uid": "schedule-request-3428269-occurrence-8094727",
-    "title": "3428269 - PLSD - Board of Education Meeting",
-    "summary": "3428269 - PLSD - Board of Education Meeting",
-    "type": "Board Meeting",
-    "color": "#00328f",
-    "start": "2026-11-18 6:00 PM",
-    "end": "2026-11-18 8:00 PM",
-    "location": "3030 Dobbins Road",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3428269/occurrences/8094727"
-  },
-  {
     "uid": "schedule-request-3428269-occurrence-8094728",
     "title": "3428269 - PLSD - Board of Education Meeting",
     "summary": "3428269 - PLSD - Board of Education Meeting",
@@ -3562,17 +3551,6 @@
     "end": "2027-03-16 10:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4058824/occurrences/9393700"
-  },
-  {
-    "uid": "schedule-request-4058827-occurrence-9393703",
-    "title": "4058827 - Dress Rehearsal for Play @ PSHS Auditorium",
-    "summary": "4058827 - Dress Rehearsal for Play @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-11-18 3:00 PM",
-    "end": "2026-11-18 10:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4058827/occurrences/9393703"
   },
   {
     "uid": "schedule-request-4060087-occurrence-9395092",
