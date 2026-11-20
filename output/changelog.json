@@ -1,5 +1,26 @@
 [
   {
+    "timestamp": "2026-11-20T00:11:15.658Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-4074304-occurrence-9448728",
+        "title": "4074304 - Girls Basketball Scrimmage @ PSHS FieldHouse",
+        "type": "Other",
+        "start": "2026-11-19 5:00 PM",
+        "end": "2026-11-19 7:00 PM"
+      },
+      {
+        "uid": "schedule-request-4107922-occurrence-9537518",
+        "title": "4107922 - School Day Meeting @ PSHS Cafeteria",
+        "type": "Other",
+        "start": "2026-11-19 2:15 PM",
+        "end": "2026-11-19 3:15 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-19T17:55:09.243Z",
     "added": [
       {
@@ -13879,41 +13900,6 @@
         "type": "CLOSED",
         "start": "2026-09-03 12:00 AM",
         "end": "2026-09-03 7:59 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-09-04T00:38:40.660Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858137-occurrence-8952660",
-        "title": "3858137 - Soccer (Boys JV) @ Canfield High School",
-        "type": "Athletics - Away",
-        "start": "2026-09-03 5:30 PM",
-        "end": "2026-09-03 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-3858179-occurrence-8952702",
-        "title": "3858179 - Volleyball (Girls JV) @ Hubbard High School",
-        "type": "Athletics - Away",
-        "start": "2026-09-03 5:30 PM",
-        "end": "2026-09-03 7:30 PM"
-      },
-      {
-        "uid": "schedule-request-3857800-occurrence-8952208",
-        "title": "3857800 - Football (Boys 7) vs LAKEVIEW MIDDLE SCHOOL",
-        "type": "Athletics - Home",
-        "start": "2026-09-03 4:45 PM",
-        "end": "2026-09-03 6:45 PM"
-      },
-      {
-        "uid": "schedule-request-3857967-occurrence-8952375",
-        "title": "3857967 - Football (Boys 8) vs STRUTHERS MIDDLE SCHOOL",
-        "type": "Athletics - Home",
-        "start": "2026-09-03 6:00 PM",
-        "end": "2026-09-03 8:00 PM"
       }
     ],
     "edited": []
