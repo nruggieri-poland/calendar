@@ -115,8 +115,8 @@
     "summary": "3857996 - Basketball (Boys F) @ South Range High School",
     "type": "Athletics - Away",
     "color": "#de0720",
-    "start": "2026-12-14 5:00 PM",
-    "end": "2026-12-14 7:00 PM",
+    "start": "2027-02-03 6:00 PM",
+    "end": "2027-02-03 8:00 PM",
     "location": "South Range High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857996/occurrences/8952404"
   },
@@ -561,17 +561,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858148/occurrences/8952671"
   },
   {
-    "uid": "schedule-request-3858153-occurrence-8952676",
-    "title": "3858153 - Basketball (Boys F) @ Canfield High School",
-    "summary": "3858153 - Basketball (Boys F) @ Canfield High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2027-01-13 5:30 PM",
-    "end": "2027-01-13 7:30 PM",
-    "location": "Canfield High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858153/occurrences/8952676"
-  },
-  {
     "uid": "schedule-request-3858154-occurrence-8952677",
     "title": "3858154 - Basketball (Girls 7) @ Niles Middle School",
     "summary": "3858154 - Basketball (Girls 7) @ Niles Middle School",
@@ -592,17 +581,6 @@
     "end": "2026-12-23 7:00 PM",
     "location": "GLENWOOD MIDDLE SCHOOL",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3858158/occurrences/8952681"
-  },
-  {
-    "uid": "schedule-request-3858159-occurrence-8952682",
-    "title": "3858159 - Basketball (Boys F) @ Lakeview High School",
-    "summary": "3858159 - Basketball (Boys F) @ Lakeview High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2027-02-03 5:00 PM",
-    "end": "2027-02-03 7:00 PM",
-    "location": "Lakeview High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3858159/occurrences/8952682"
   },
   {
     "uid": "schedule-request-3858161-occurrence-8952684",
@@ -911,17 +889,6 @@
     "end": "2027-03-24 6:30 PM",
     "location": "Mohawk High School",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3974925/occurrences/9198416"
-  },
-  {
-    "uid": "schedule-request-3992780-occurrence-9233778",
-    "title": "3992780 - Basketball (Boys F) @ Boardman High School",
-    "summary": "3992780 - Basketball (Boys F) @ Boardman High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-12-28 11:00 AM",
-    "end": "2026-12-28 1:00 PM",
-    "location": "Boardman High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3992780/occurrences/9233778"
   },
   {
     "uid": "schedule-request-4020082-occurrence-9299523",
@@ -2057,17 +2024,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857888/occurrences/8952296"
   },
   {
-    "uid": "schedule-request-3857893-occurrence-8952301",
-    "title": "3857893 - Basketball (Boys F) vs Lakeview High School",
-    "summary": "3857893 - Basketball (Boys F) vs Lakeview High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2027-01-06 5:00 PM",
-    "end": "2027-01-06 7:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857893/occurrences/8952301"
-  },
-  {
     "uid": "schedule-request-3857896-occurrence-8952304",
     "title": "3857896 - Basketball (Boys 7) vs Girard Sr High School",
     "summary": "3857896 - Basketball (Boys 7) vs Girard Sr High School",
@@ -2726,6 +2682,17 @@
     "end": "2026-11-25 12:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4105670/occurrences/9529844"
+  },
+  {
+    "uid": "schedule-request-4113410-occurrence-9554354",
+    "title": "4113410 - Wrestling (Boys MS) vs TBD",
+    "summary": "4113410 - Wrestling (Boys MS) vs TBD",
+    "type": "Athletics - Home",
+    "color": "#131cf0",
+    "start": "2026-12-23 10:00 AM",
+    "end": "2026-12-23 12:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113410/occurrences/9554354"
   },
   {
     "uid": "schedule-request-3428269-occurrence-8094728",
@@ -4211,6 +4178,138 @@
     "end": "2027-02-10 8:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4110096/occurrences/9545891"
+  },
+  {
+    "uid": "schedule-request-4113411-occurrence-9554355",
+    "title": "4113411 - Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113411 - Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-21 4:00 PM",
+    "end": "2027-04-21 5:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113411/occurrences/9554355"
+  },
+  {
+    "uid": "schedule-request-4113412-occurrence-9554356",
+    "title": "4113412 - Staff Christmas Party @ PSHS Fieldhouse Lobby",
+    "summary": "4113412 - Staff Christmas Party @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-18 6:30 AM",
+    "end": "2026-12-18 7:30 AM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113412/occurrences/9554356"
+  },
+  {
+    "uid": "schedule-request-4113413-occurrence-9554357",
+    "title": "4113413 - Algebra I/Foreign Language Parent Meeting @ PSHS Auditorium",
+    "summary": "4113413 - Algebra I/Foreign Language Parent Meeting @ PSHS Auditorium",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-02-25 7:00 PM",
+    "end": "2027-02-25 8:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113413/occurrences/9554357"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554358",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-12 7:00 AM",
+    "end": "2027-04-12 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554358"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554359",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-13 7:00 AM",
+    "end": "2027-04-13 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554359"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554360",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-14 7:00 AM",
+    "end": "2027-04-14 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554360"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554361",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-15 7:00 AM",
+    "end": "2027-04-15 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554361"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554362",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-16 7:00 AM",
+    "end": "2027-04-16 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554362"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554363",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-17 7:00 AM",
+    "end": "2027-04-17 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554363"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554364",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-18 7:00 AM",
+    "end": "2027-04-18 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554364"
+  },
+  {
+    "uid": "schedule-request-4113414-occurrence-9554365",
+    "title": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "summary": "4113414 - Set up for Annual Art Show @ PSHS Fieldhouse Lobby",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2027-04-19 7:00 AM",
+    "end": "2027-04-19 3:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113414/occurrences/9554365"
+  },
+  {
+    "uid": "schedule-request-4113586-occurrence-9554770",
+    "title": "4113586 - Speech and Debate All Team Meeting @ PSHS Cafeteria\\, PSHS Library",
+    "summary": "4113586 - Speech and Debate All Team Meeting @ PSHS Cafeteria\\, PSHS Library",
+    "type": "Other",
+    "color": "#828282",
+    "start": "2026-12-09 4:00 PM",
+    "end": "2026-12-09 6:00 PM",
+    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
+    "link": "https://polandschools.gofmx.com/scheduling/requests/4113586/occurrences/9554770"
   },
   {
     "uid": "schedule-request-3998392-occurrence-9245646",
