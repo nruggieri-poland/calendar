@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-11-24T06:41:05.595Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3857818-occurrence-8952226",
+        "title": "3857818 - Basketball (Girls JV) vs Labrae High School",
+        "type": "Athletics - Home",
+        "start": "2026-11-23 5:30 PM",
+        "end": "2026-11-23 7:30 PM"
+      },
+      {
+        "uid": "schedule-request-3857954-occurrence-8952362",
+        "title": "3857954 - Basketball (Girls V) vs Labrae High School",
+        "type": "Athletics - Home",
+        "start": "2026-11-23 6:00 PM",
+        "end": "2026-11-23 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4087865-occurrence-9484085",
+        "title": "4087865 - Set Strike @ PSHS Auditorium",
+        "type": "Other",
+        "start": "2026-11-23 6:00 PM",
+        "end": "2026-11-23 8:00 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-23T01:20:33.167Z",
     "added": [],
     "removed": [
@@ -11320,27 +11348,6 @@
         "type": "Athletics - Home",
         "start": "2026-09-05 8:00 AM",
         "end": "2026-09-05 10:00 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-09-05T05:11:24.864Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3858204-occurrence-8952727",
-        "title": "3858204 - Football (Boys V) @ Field High School",
-        "type": "Athletics - Away",
-        "start": "2026-09-04 7:00 PM",
-        "end": "2026-09-04 9:00 PM"
-      },
-      {
-        "uid": "schedule-request-3888166-occurrence-9035133",
-        "title": "3888166 - CLOSED - No Classes for Students",
-        "type": "CLOSED",
-        "start": "2026-09-04 12:00 AM",
-        "end": "2026-09-04 7:59 PM"
       }
     ],
     "edited": []

@@ -1694,17 +1694,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857815/occurrences/8952223"
   },
   {
-    "uid": "schedule-request-3857818-occurrence-8952226",
-    "title": "3857818 - Basketball (Girls JV) vs Labrae High School",
-    "summary": "3857818 - Basketball (Girls JV) vs Labrae High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-11-23 5:30 PM",
-    "end": "2026-11-23 7:30 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857818/occurrences/8952226"
-  },
-  {
     "uid": "schedule-request-3857819-occurrence-8952227",
     "title": "3857819 - Poland Seminary High School vs TBD",
     "summary": "3857819 - Poland Seminary High School vs TBD",
@@ -2374,17 +2363,6 @@
     "end": "2027-01-22 7:30 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/3857953/occurrences/8952361"
-  },
-  {
-    "uid": "schedule-request-3857954-occurrence-8952362",
-    "title": "3857954 - Basketball (Girls V) vs Labrae High School",
-    "summary": "3857954 - Basketball (Girls V) vs Labrae High School",
-    "type": "Athletics - Home",
-    "color": "#131cf0",
-    "start": "2026-11-23 6:00 PM",
-    "end": "2026-11-23 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/3857954/occurrences/8952362"
   },
   {
     "uid": "schedule-request-3857955-occurrence-8952363",
@@ -3617,17 +3595,6 @@
     "end": "2027-01-07 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4087864/occurrences/9484084"
-  },
-  {
-    "uid": "schedule-request-4087865-occurrence-9484085",
-    "title": "4087865 - Set Strike @ PSHS Auditorium",
-    "summary": "4087865 - Set Strike @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-11-23 6:00 PM",
-    "end": "2026-11-23 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4087865/occurrences/9484085"
   },
   {
     "uid": "schedule-request-4087865-occurrence-9484086",
