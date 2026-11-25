@@ -1441,17 +1441,6 @@
     "link": "https://polandschools.gofmx.com/scheduling/requests/4101157/occurrences/9517188"
   },
   {
-    "uid": "schedule-request-4101402-occurrence-9518192",
-    "title": "4101402 - Basketball (Girls F) @ South Range High School",
-    "summary": "4101402 - Basketball (Girls F) @ South Range High School",
-    "type": "Athletics - Away",
-    "color": "#de0720",
-    "start": "2026-11-24 5:30 PM",
-    "end": "2026-11-24 6:30 PM",
-    "location": "South Range High School",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4101402/occurrences/9518192"
-  },
-  {
     "uid": "schedule-request-3857770-occurrence-8952178",
     "title": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
     "summary": "3857770 - Basketball (Girls JV) vs Cardinal Mooney High School",
@@ -3562,17 +3551,6 @@
     "end": "2027-01-07 5:00 PM",
     "location": "3199 Dobbins Rd. Poland, Ohio 44514",
     "link": "https://polandschools.gofmx.com/scheduling/requests/4087864/occurrences/9484084"
-  },
-  {
-    "uid": "schedule-request-4087865-occurrence-9484086",
-    "title": "4087865 - Set Strike @ PSHS Auditorium",
-    "summary": "4087865 - Set Strike @ PSHS Auditorium",
-    "type": "Other",
-    "color": "#828282",
-    "start": "2026-11-24 6:00 PM",
-    "end": "2026-11-24 8:00 PM",
-    "location": "3199 Dobbins Rd. Poland, Ohio 44514",
-    "link": "https://polandschools.gofmx.com/scheduling/requests/4087865/occurrences/9484086"
   },
   {
     "uid": "schedule-request-4087866-occurrence-9484087",
