@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-11-27T04:43:08.753Z",
+    "added": [
+      {
+        "uid": "schedule-request-4114636-occurrence-9558821",
+        "title": "4114636 - Youth Cheer @ Boys BBall Game @ TBD",
+        "type": "Other",
+        "start": "2027-01-22 7:00 PM",
+        "end": "2027-01-22 8:00 PM"
+      },
+      {
+        "uid": "schedule-request-4114637-occurrence-9558822",
+        "title": "4114637 - Bake Sale @ Boys BBall Game @ TBD",
+        "type": "Other",
+        "start": "2027-01-22 5:15 PM",
+        "end": "2027-01-22 8:00 PM"
+      }
+    ],
+    "removed": [],
+    "edited": [
+      {
+        "uid": "schedule-request-4103056-occurrence-9522863",
+        "title": "4103056 - Youth Cheer Clinic @ PSHS FieldHouse",
+        "type": "Other",
+        "start": "2027-01-21 5:30 PM",
+        "end": "2027-01-21 7:30 PM",
+        "changes": {
+          "start": {
+            "from": "2027-01-21 6:00 PM",
+            "to": "2027-01-21 5:30 PM"
+          },
+          "end": {
+            "from": "2027-01-21 8:00 PM",
+            "to": "2027-01-21 7:30 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-26T13:28:35.868Z",
     "added": [],
     "removed": [
@@ -11425,20 +11464,6 @@
         "type": "Other",
         "start": "2026-09-08 6:00 PM",
         "end": "2026-09-08 7:00 PM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-09-08T22:18:07.768Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857864-occurrence-8952272",
-        "title": "3857864 - Volleyball (Girls 7) vs Campbell Middle School",
-        "type": "Athletics - Home",
-        "start": "2026-09-08 5:00 PM",
-        "end": "2026-09-08 6:00 PM"
       }
     ],
     "edited": []
