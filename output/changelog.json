@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-11-28T05:56:45.664Z",
+    "added": [],
+    "removed": [
+      {
+        "uid": "schedule-request-3888167-occurrence-9035146",
+        "title": "3888167 - CLOSED - Thanksgiving Recess",
+        "type": "CLOSED",
+        "start": "2026-11-27 12:00 AM",
+        "end": "2026-11-27 6:59 PM"
+      }
+    ],
+    "edited": []
+  },
+  {
     "timestamp": "2026-11-27T14:36:50.102Z",
     "added": [],
     "removed": [
@@ -11408,20 +11422,6 @@
         "type": "PTO Meeting",
         "start": "2026-09-09 9:30 AM",
         "end": "2026-09-09 10:30 AM"
-      }
-    ],
-    "edited": []
-  },
-  {
-    "timestamp": "2026-09-09T05:48:45.393Z",
-    "added": [],
-    "removed": [
-      {
-        "uid": "schedule-request-3857858-occurrence-8952266",
-        "title": "3857858 - Volleyball (Girls V) vs Boardman High School",
-        "type": "Athletics - Home",
-        "start": "2026-09-08 7:00 PM",
-        "end": "2026-09-08 9:00 PM"
       }
     ],
     "edited": []
